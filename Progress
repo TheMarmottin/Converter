@@ -1,0 +1,116 @@
+Progress so far
+
+This list only contains items that were missing or incorrect in the conversion
+
+------------------------------------------------CULTURES
+SWMH Culture -> Eu4 culture (only already existant ones, for now)
+
+####Germanic
+Sehsisk -> Saxon
+Englisc -> Angelcynn
+Duriagis -> Saxon
+Frankisk -> Frenkisc
+
+####Celtic
+Gall Goidel -> Irish
+Kernowek -> Welsh
+Cumbric -> Scottish (currently replacing scottish culture, wat)
+
+####Italian
+Langobardisch -> Neapolitan
+Mediano -> Umbrian
+Corsican -> Sardinian
+Lombardo -> Lombardian
+Arpitan -> Piedmontese
+
+####Slavic
+Bosanski -> Serbian
+Karantanski -> Croatian
+Moravsky -> Slovak
+Dalmata -> Croatian
+
+####Baltic
+Livonian -> Estonian
+
+####Fino-Ugric + Uralic
+Vepsläne -> Karelian
+Mejralainen -> Uralic (bugged)
+
+####Carpathian
+Rûman -> Romanian
+Székely -> Transylvanian
+
+####Maghrebi
+Siqilli -> Tunisian
+Znàga -> Tunisian
+Aznàta -> Berber
+Imesmuden -> Berber
+Guanchiret (canarias) -> Berber
+
+####East African
+Kubti -> Nubian
+Bedawiye -> Nubian
+Daju -> Nubian
+Beta Ysrael -> Amhara
+Afar -> Tigray
+
+####Arab
+Hijazi -> Bedouin
+Yamani -> Yemeni
+Suryaye -> Syrian
+
+####Iranian
+Daylami -> Mazandarani
+Adhari -> Azerbaijani
+Khotanese > Afghan
+Tajik -> Afghan
+
+####Caucasus
+Udi -> Dagestani
+Kasogi -> Circassian
+
+####Altaic
+Türkmen -> Turkmeni
+
+----------------------------------------------------RELIGIONS
+
+SWMH Religion -> EU4 Religion
+
+Ismaili -> Shiite
+Zaydi -> Shiite
+Qarmatian -> Shiite
+Apostolic -> Coptic
+Pagan (east african) -> Fetishist
+
+
+-----------------------------------------------------PROVINCES
+Here comes the fun part. These are provinces in eu4 assigned to titles in ck2 vanilla that does not exist in SWMH, thus going default 1444.
+Province ID, Province name -> Title in SWMH
+
+2473, Sousse -> c_medjerda
+2206, Urmia -> c_oromieh
+2207, Maragheh -> c_maragheh
+2209, Ilam -> c_tigris
+2212, Zonjan -> c_kharraqan
+412, Khuzestan -> c_ahwaz
+2217, Yasuj -> c_arrajan
+430, Dashtistan -> c_mandistan
+2219, Bandar Langeh -> c_larestan
+2220, Bam -> c_kerman
+435, Zaranj -> c_sistan
+436, Birjand -> d_qohistan, c_qohistan
+2216, Semnan -> c_ kumis
+427, Qumis -> c_biyar
+
++ at least 20 more provinces i have not done yet
+
++ also tons of adjustments to limit border, culture and religious weirdness to do
+
+
+
+
+
+----------------------------------------------------BUGS
+- Qipçaq culture being converted to Oghuz culture if Oghuz is also assigned to Cuman
+- Scottish culture becomes Cumbri if Cumbri is assigned to convert to scottish
+- Mejralainen culture not converting if assigned to Uralic culture
