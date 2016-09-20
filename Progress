@@ -87,20 +87,38 @@ Pagan (east african) -> Fetishist
 Here comes the fun part. These are provinces in eu4 assigned to titles in ck2 vanilla that does not exist in SWMH, thus going default 1444.
 Province ID, Province name -> Title in SWMH
 
-2473, Sousse -> c_medjerda
+412, Khuzestan -> c_ahwaz
+427, Qumis -> c_biyar
+430, Dashtistan -> c_mandistan
+435, Zaranj -> c_sistan
+436, Birjand -> d_qohistan, c_qohistan
+437, Kopet Dag -> c_uzboy
+438, Karakum -> c_uzboy
+441, Khiva -> c_khat
+446, Herat 6> c_badghis
+447, Kandahar -> c_rudbar
+449, Ghor -> c_ghor
+453, Qarshi -> c_nakheb
+454, Samarkand -> c_samarqand
+1973, Urgach -> c_khat
 2206, Urmia -> c_oromieh
 2207, Maragheh -> c_maragheh
 2209, Ilam -> c_tigris
 2212, Zonjan -> c_kharraqan
-412, Khuzestan -> c_ahwaz
+2216, Semnan -> c_ kumis
 2217, Yasuj -> c_arrajan
-430, Dashtistan -> c_mandistan
 2219, Bandar Langeh -> c_larestan
 2220, Bam -> c_kerman
-435, Zaranj -> c_sistan
-436, Birjand -> d_qohistan, c_qohistan
-2216, Semnan -> c_ kumis
-427, Qumis -> c_biyar
+2224, Ferah, c_farah
+2225, Bamyar -> c_zamindavar
+2227, Kunduz -> c_khutal
+2228, Maymana -> c_rivharan
+2229, Bust -> c_sistan
+2350, Konjikala -> c_uzboy
+2362, Gurganj -> c_khat
+2473, Sousse -> c_medjerda
+
+
 
 + at least 20 more provinces i have not done yet
 
