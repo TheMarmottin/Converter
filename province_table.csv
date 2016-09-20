@@ -134,7 +134,7 @@ c_sussex;235;235 - Kent;Sussex - Kent
 
 # Norway
 
-c_faereyar;1979;1979 -Faroes;Faereyar - Färöarna
+c_faereyar;1979;1979 -Faroes;Faereyar - FÃ¤rÃ¶arna
 
 c_shetland;1978;1978 - Shetlands;Shetland - The Shetlands
 
@@ -157,51 +157,51 @@ c_naumadal;20;20-Trondelag;Naumadal - Trondelag
 
 c_trondelag;2752;2752 - Sogn;County Trondelag - Sogn
 
-c_halogaland;21;21-Halogaland;Halogaland - Hålogaland
-c_nordland;21;21-Halogaland;Nordland - Hålogaland
+c_halogaland;21;21-Halogaland;Halogaland - HÃ¥logaland
+c_nordland;21;21-Halogaland;Nordland - HÃ¥logaland
 
 c_finnmark;315;315 - Finnmark;Finnmark - Finnmark
 
-d_jamtland;10;10-Jamtland;Duchy Jämtland - Jämtland
-c_jamtland;10;10-Jamtland;County Jämtland - Jämtland
-c_herjedalen;10;10-Jamtland;Herjedalen - Jämtland
+d_jamtland;10;10-Jamtland;Duchy JÃ¤mtland - JÃ¤mtland
+c_jamtland;10;10-Jamtland;County JÃ¤mtland - JÃ¤mtland
+c_herjedalen;10;10-Jamtland;Herjedalen - JÃ¤mtland
 
-c_viken;16;16-Bohuslan;Viken - Bohuslän
+c_viken;16;16-Bohuslan;Viken - BohuslÃ¤n
 
 # Sweden & Finland
 
-c_vastergotland;7;7-Vastergotland;Västergötland - Västergötland
+c_vastergotland;7;7-Vastergotland;VÃ¤stergÃ¶tland - VÃ¤stergÃ¶tland
 
-d_smaland;3;3-Smaland;Duchy Småland - Småland
-c_smaland;3;3-Smaland;County Småland - Småland
-c_more;3;3-Smaland;Möre - Småland
-c_oland;3;3-Smaland;Öland - Småland
+d_smaland;3;3-Smaland;Duchy SmÃ¥land - SmÃ¥land
+c_smaland;3;3-Smaland;County SmÃ¥land - SmÃ¥land
+c_more;3;3-Smaland;MÃ¶re - SmÃ¥land
+c_oland;3;3-Smaland;Ã–land - SmÃ¥land
 
-c_ostergotland;2;2-Ostergotland;Östergötland - Östergötland
-c_tjust;2;2-Ostergotland;Tjust - Östergötland
+c_ostergotland;2;2-Ostergotland;Ã–stergÃ¶tland - Ã–stergÃ¶tland
+c_tjust;2;2-Ostergotland;Tjust - Ã–stergÃ¶tland
 
-c_narke;1985;1985-Narke;Närke - Närke
+c_narke;1985;1985-Narke;NÃ¤rke - NÃ¤rke
 
 c_gotland;25;25-Gotland;Gotland - Gotland
 
-c_sodermanland;1;1-Uppland;Södermanland - Stockholm
+c_sodermanland;1;1-Uppland;SÃ¶dermanland - Stockholm
 c_uppland;1;1-Uppland;Uppland - Stockholm
 
-c_aland;1930;1930 - Aland;Åland - Åland
+c_aland;1930;1930 - Aland;Ã…land - Ã…land
 
-c_varmland;5;5-Varmland;Värmland - Värmland
-c_dal;5;5-Varmland;Dal - Värmland
+c_varmland;5;5-Varmland;VÃ¤rmland - VÃ¤rmland
+c_dal;5;5-Varmland;Dal - VÃ¤rmland
 
-c_vastmanland;4;4-Bergslagen;Västmanland - Bergslagen
+c_vastmanland;4;4-Bergslagen;VÃ¤stmanland - Bergslagen
 
 c_dalarna;8;8-Dalaskogen;Dalarna - Dalaskogen
 
-c_halsingland;9;9-Halsingland;Hälsingland - Hälsingland
-c_gastrikland;9;9-Halsingland;Gästrikland - Hälsingland
-c_medelpad;9;9-Halsingland;Medelpad - Hälsingland
+c_halsingland;9;9-Halsingland;HÃ¤lsingland - HÃ¤lsingland
+c_gastrikland;9;9-Halsingland;GÃ¤strikland - HÃ¤lsingland
+c_medelpad;9;9-Halsingland;Medelpad - HÃ¤lsingland
 
-c_vasterbotten;11;11-Vasterbotten;Västerbotten - Västerbotten
-c_angermanland;11;11-Vasterbotten;Ångermanland - Västerbotten
+c_vasterbotten;11;11-Vasterbotten;VÃ¤sterbotten - VÃ¤sterbotten
+c_angermanland;11;11-Vasterbotten;Ã…ngermanland - VÃ¤sterbotten
 
 c_lappland;18;18-Lappland;Lappland - Lappland
 c_lappland;4114;4114-Jokkmokk;Lappland - Jokkmokk
@@ -220,8 +220,8 @@ c_kexholm;30;30 - Viborg;Kexholm - Viborg
 c_kexholm;32;32 - Keksholm;Kexholm - Kexholm
 c_kexholm;4124;4124 - Karelia;Kexholm - Karelia
 
-c_osterbotten;19;19-Osterbotten;Österbotten - Österbotten
-c_kemi;19;19-Osterbotten;Kemi - Österbotten
+c_osterbotten;19;19-Osterbotten;Ã–sterbotten - Ã–sterbotten
+c_kemi;19;19-Osterbotten;Kemi - Ã–sterbotten
 c_kemi;4113;4113-Rovaniemi;Kemi - Rovaniemi
 
 c_kola;1777;1777-Kola;Kola - Kola
@@ -241,7 +241,7 @@ c_reval;36;36 - Estland;Reval - Reval
 
 # Denmark
 
-c_skane;6;6-Skane;Skåne - Skåne
+c_skane;6;6-Skane;SkÃ¥ne - SkÃ¥ne
 
 c_halland;26;26-Halland;Halland - Halland
 
@@ -618,7 +618,7 @@ c_istria;130;130 - Istria;Istria - Istria
 
 c_krain;129;129 - Krain;Krain - Krain
 
-c_aquileia;1769;1769 - Gorz;Aquileia - Görz
+c_aquileia;1769;1769 - Gorz;Aquileia - GÃ¶rz
 
 # Switzerland
 
@@ -692,15 +692,15 @@ c_trier;80;80 - Trier;Trier - Trier
 c_trier;1761;1761 - Alzey;Trier - Worms
 c_trier;1760;1760 - Koblenz;Trier - Koblenz
 
-c_koln;85;85 - Koln;Köln - Köln
-c_koln;84;84 - Berg;Köln - Berg
+c_koln;85;85 - Koln;KÃ¶ln - KÃ¶ln
+c_koln;84;84 - Berg;KÃ¶ln - Berg
 
 c_nassau;83;83 - Nassau;Nassau - Nassau
 c_nassau;1876;1876 - Frankfurt;Nassau - Frankfurt
 
-c_gottingen;82;82 - Lippe;Göttingen - Westfalen
-c_gottingen;81;81 - Hessen;Göttingen - Hessen
-c_gottingen;1762;1762 - Kassel;Göttingen - Kassel
+c_gottingen;82;82 - Lippe;GÃ¶ttingen - Westfalen
+c_gottingen;81;81 - Hessen;GÃ¶ttingen - Hessen
+c_gottingen;1762;1762 - Kassel;GÃ¶ttingen - Kassel
 
 c_munster;86;86 - Munster;Munster - Munster
 
@@ -1543,27 +1543,27 @@ c_deir;2310;2310 - Tikrit;Deir - Tikrit
 
 c_kabul;451;451 - Kabul;Kabul - Kabul
 
-c_bamiyan;2225;2225 - Bamyan;Bamiyan - Bamyan
+c_zamindavar;2225;2225 - Bamyan;Bamiyan - Bamyan
 
-c_kunduz;2227;2227 - Kunduz;Kunduz - Kunduz
+c_khutal;2227;2227 - Kunduz;Kunduz - Kunduz
 
 c_balkh;450;450 - Balkh;Balkh - Balkh
 
-c_maymana;2228;2228 - Maymana;Maymana - Maymana
+c_rivsharan;2228;2228 - Maymana;Maymana - Maymana
 
 c_ghazna;448;448 - Gazni;Ghazna - Gazni
 
-c_bost;447;447 - Kandahar;Bost - Kandahar
+c_rudbar;447;447 - Kandahar;Bost - Kandahar
 
-c_zaranj;2229;2229 - Bust;Bost - Bust
+c_sistan;2229;2229 - Bust;Bost - Bust
 
-c_farrah;2224;2224 - Ferah;Farrah - Ferah
+c_farah;2224;2224 - Ferah;Farrah - Ferah
 
-c_herat;446;446 - Herat;Herat - Herat
+c_badghis;446;446 - Herat;Herat - Herat
 
 c_sistan;435;435 - Zaranj;Zahedan - Zaranj
 
-c_mandesh;449;449 - Ghor;Mandesh - Ghor
+c_ghor;449;449 - Ghor;Mandesh - Ghor
 
 d_sistan;434;434 - Kohistan;Duchy Sistan - Kohistan
 c_sistan;434;434 - Kohistan;Sistan - Kohistan
@@ -1624,8 +1624,8 @@ c_qohistan;2235;2235 - Sabzevar;Qohistan - Sabzevar
 d_qohistan;436;436 - Khurasan;Duchy Birjand - Khorasan
 c_qohistan;436;436 - Khurasan;Birjand - Khorasan
 
-c_konjikala;437;437 - Atak;Konjikala - Kopet Dag
-c_konjikala;2350;2350 - Konjikala;Konjikala - Konjikala
+c_uzboy;437;437 - Atak;Konjikala - Kopet Dag
+c_uzboy;2350;2350 - Konjikala;Konjikala - Konjikala
 
 c_tus;2221;2221 - Mashhad;Tus - Mashhad
 
@@ -1660,21 +1660,21 @@ c_kharraqan;2212;2212 - Zanjan;Gilan - Zanjan
 
 c_dihistan;2349;2349 - Kizil-Su;Dihistan - Kizil-Su
 
-c_kara-kum;438;438 - Kara Kum;Kara Kum - Karakum
+c_uzboy;438;438 - Kara Kum;Kara Kum - Karakum
 
 c_usturt;443;443 - Ust Yurt;Usturt - Ust Yurt
 
-c_khiva;441;441 - Khiva;Khiva - Khiva
-c_khiva;1973;1973 - Urgench;Khiva - Urgench
-c_khiva;2362;2362 - Gurganj;Khiva - Gurganj
+c_khat;441;441 - Khiva;Khiva - Khiva
+c_khat;1973;1973 - Urgench;Khiva - Urgench
+c_khat;2362;2362 - Gurganj;Khiva - Gurganj
 
 c_urgench;440;440 - Qaraqalpak;Urgench - Qaraqalpak
 c_urgench;2370;2370 - Kungirot;Urgench - Kungirot
 
 c_bukhara;442;442 - Bukhara;Bukhara - Bukhara
 
-c_samarkand;453;453 - Qarshi;Samarkand - Qarshi
-c_samarkand;454;454 - Samarkand;Samarkand - Samarkand
+c_nakhsheb;453;453 - Qarshi;Samarkand - Qarshi
+c_samarqand;454;454 - Samarkand;Samarkand - Samarkand
 
 c_oshrusana;2363;2363 - Atakent;Oshrushana - Atakent
 c_oshrusana;1967;1967 - Khujand;Oshrushana - Khujand
@@ -1900,7 +1900,7 @@ c_zemigalians;38;38 - Riga;Zemigalians - Riga
 
 c_zemigalians;1935;1935 - Semigallia;Zemigalians - Semigallia
 
-c_osel;35;35 - Osel;Osel - Ösel
+c_osel;35;35 - Osel;Osel - Ã–sel
 
 c_livs;37;37 - Livland;Livs - Livland
 
