@@ -87,6 +87,10 @@ Pagan (east african) -> Fetishist
 Here comes the fun part. These are provinces in eu4 assigned to titles in ck2 vanilla that does not exist in SWMH, thus going default 1444.
 Province ID, Province name -> Title in SWMH
 
+182, Vermandois -> c_vermandois
+186, Champagne -> c_reims
+317, Bursa -> c_prusa
+372, Tyrone -> c_tyrone
 412, Khuzestan -> c_ahwaz
 427, Qumis -> c_biyar
 430, Dashtistan -> c_mandistan
@@ -100,6 +104,9 @@ Province ID, Province name -> Title in SWMH
 449, Ghor -> c_ghor
 453, Qarshi -> c_nakheb
 454, Samarkand -> c_samarqand
+577, Quetta -> c_wana
+1831, Travunia -> c_travunija
+1853, Kozani -> c_ochrid
 1973, Urgach -> c_khat
 2206, Urmia -> c_oromieh
 2207, Maragheh -> c_maragheh
@@ -111,13 +118,17 @@ Province ID, Province name -> Title in SWMH
 2220, Bam -> c_kerman
 2224, Ferah, c_farah
 2225, Bamyar -> c_zamindavar
-2227, Kunduz -> c_khutal
+2227, Kunduz -> c_kabul
 2228, Maymana -> c_rivharan
 2229, Bust -> c_sistan
+2230, Chagai -> c_rudbar
+2231, Bela -> c_dabul
+2232, Kharan -> c_mashkel
+2233, Chabahar -> c_makran, d_makran
 2350, Konjikala -> c_uzboy
 2362, Gurganj -> c_khat
 2473, Sousse -> c_medjerda
-
+3001, Skopje -> c_skopje
 
 
 + at least 20 more provinces i have not done yet
