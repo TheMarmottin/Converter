@@ -10,10 +10,8 @@ c_austisland;371;371 - Akureyri;Austisland - Akureyri
 
 d_ulster;372;372 - Ulster;Duchy Ulster - Ulster
 d_ulster;4121;4121 - Ulaidh;Duchy Ulster - Ulaidh
-c_ulster;372;372 - Ulster;County Ulster - Ulster
-c_ulster;4121;4121 - Ulaidh;County Ulster - Ulaidh
-c_oriel;372;372 - Ulster;Oriel - Ulster
 c_tyrone;372;372 - Ulster;Tyrone - Ulster
+c_ulster;4121;4121 - Ulaidh;County Ulster - Ulaidh
 c_tyrconnell;372;372 - Ulster;Tyrconnell - Ulster
 
 d_connacht;376;376 - Connaught;Duchy Connacht - Connaught
@@ -352,9 +350,9 @@ c_orleans;184;184 - Orleanais;County Orleans - Orleanais
 c_blois;184;184 - Orleanais;Blois - Orleanais
 c_vendome;184;184 - Orleanais;Vendome - Orleanais
 
-c_reims;182;182 - Vermandois;Reims - Vermandois
+c_vermandois;182;182 - Vermandois;Reims - Vermandois
 
-c_troyes;186;186 - Champagne;Troyes - Champagne
+c_reims;186;186 - Champagne;Troyes - Champagne
 
 c_sens;185;185 - Othe;Sens - Nemours
 
@@ -849,7 +847,7 @@ c_zagreb;131;131 - Zagorje15;Zagreb - Croatia
 c_varadzin;152;152 - Belovar;Varadzin - Belovar
 
 c_ragusa;137;137 - Ragusa;Ragusa - Ragusa
-c_ragusa;1831;1831 - Travunia;Ragusa - Travunia
+c_travunija;1831;1831 - Travunia;Ragusa - Travunia
 
 c_zeta;138;138 - Zeta;Zeta - Zeta
 
@@ -899,11 +897,11 @@ c_chios;2348;2348 - Chios;Chios - Chios
 
 c_thessalia;147;147 - Salonica;Thessalia - Larissa
 
-c_thessalonike;1853;1853- Kozani;Thessalonike - Kozani
+c_ochrid;1853;1853- Kozani;Thessalonike - Kozani
 
 c_chalkidike;148;148 - Macedonia;Chalkidike - Macedonia
 
-c_strymon;3001;3001 - Skopje;Strymon - Skopje
+c_skopje;3001;3001 - Skopje;Strymon - Skopje
 
 c_naissus;3000;3000 - Nis;Naissus - Nis
 
@@ -931,7 +929,6 @@ c_byzantion;151;151 - Thrace;Byzantion - Thrace
 c_nikomedeia;316;316 - Bithynia;Nikomedeia - Izmit
 c_nikaea;316;316 - Bithynia;Nikea - Izmit
 
-c_kyzikos;317;317 - Bursa;Kyzikos - Hudavendigar
 c_prusa;317;317 - Bursa;Prusa - Hudavendigar
 
 c_abydos;2296;2296 - Biga;Abydos - Biga
@@ -1545,7 +1542,7 @@ c_kabul;451;451 - Kabul;Kabul - Kabul
 
 c_zamindavar;2225;2225 - Bamyan;Bamiyan - Bamyan
 
-c_khutal;2227;2227 - Kunduz;Kunduz - Kunduz
+c_kabul;2227;2227 - Kunduz;Kunduz - Kunduz
 
 c_balkh;450;450 - Balkh;Balkh - Balkh
 
@@ -1569,9 +1566,8 @@ d_sistan;434;434 - Kohistan;Duchy Sistan - Kohistan
 c_sistan;434;434 - Kohistan;Sistan - Kohistan
 c_saravan;434;434 - Kohistan;Saravan - Kohistan
 
-d_sistan;2233;2233 - Chabahar;Duchy Sistan - Chabahar
-c_jask;2233;2233 - Chabahar;Jask - Chabahar
-c_tis;2233;2233 - Chabahar;Tis - Chabahar
+d_makran;2233;2233 - Chabahar;Duchy Sistan - Chabahar
+c_makran;2233;2233 - Chabahar;Jask - Chabahar
 
 c_merv;445;445 - Marv;Merv - Marv
 c_merv;444;444 - Charjuy;Merv - Charjuy
@@ -1664,9 +1660,9 @@ c_uzboy;438;438 - Kara Kum;Kara Kum - Karakum
 
 c_usturt;443;443 - Ust Yurt;Usturt - Ust Yurt
 
-c_khat;441;441 - Khiva;Khiva - Khiva
-c_khat;1973;1973 - Urgench;Khiva - Urgench
-c_khat;2362;2362 - Gurganj;Khiva - Gurganj
+c_kath;441;441 - Khiva;Khiva - Khiva
+c_kath;1973;1973 - Urgench;Khiva - Urgench
+c_kath;2362;2362 - Gurganj;Khiva - Gurganj
 
 c_urgench;440;440 - Qaraqalpak;Urgench - Qaraqalpak
 c_urgench;2370;2370 - Kungirot;Urgench - Kungirot
@@ -2186,18 +2182,18 @@ c_siwistan;505;505 - Upper Sind;Siwistan - Upper Sind
 
 c_makran;575;575 - Gwadar;Makran - Gwadar
 
-c_chagai;2230;2230 - Chagai;Chagai - Chagai
-c_chagai;2232;2232 - Kharan;Chagai - Kharan
+c_rudbar;2230;2230 - Chagai;Chagai - Chagai
+c_mashkel;2232;2232 - Kharan;Chagai - Kharan
 
 c_sibi;2068;2068 - Siwistan;Sibi - Siwistan
 
-c_kalat;577;577 - Kalat;Kalat - Quetta
+c_wana;577;577 - Kalat;Kalat - Quetta
 
 d_baluchistan;576;576 - Kalat;Duchy Baluchistan - Kalat
 c_kandail;576;576 - Kalat;Kandail - Kalat
 c_quzdar;576;576 - Kalat;Quzdar - Kalat
 
-c_armail;2231;2231 - Bela;Armail - Bela
+c_debul;2231;2231 - Bela;Armail - Bela
 
 c_kafirkot;2079;2079 - Derajat;Kafirkot - Derajat
 
