@@ -87,9 +87,12 @@ Pagan (east african) -> Fetishist
 Here comes the fun part. These are provinces in eu4 assigned to titles in ck2 vanilla that does not exist in SWMH, thus going default 1444.
 Province ID, Province name -> Title in SWMH
 
+18, Lappland -> c_angermanland
 182, Vermandois -> c_vermandois
 186, Champagne -> c_reims
+313, Soroka -> c_trans-portage
 317, Bursa -> c_prusa
+331, Erzurum -> c_theodosiopolis
 372, Tyrone -> c_tyrone
 412, Khuzestan -> c_ahwaz
 427, Qumis -> c_biyar
@@ -99,14 +102,23 @@ Province ID, Province name -> Title in SWMH
 437, Kopet Dag -> c_uzboy
 438, Karakum -> c_uzboy
 441, Khiva -> c_khat
+443, Ustyurt -> c_karasu
 446, Herat 6> c_badghis
 447, Kandahar -> c_rudbar
 449, Ghor -> c_ghor
 453, Qarshi -> c_nakheb
 454, Samarkand -> c_samarqand
+456, Turkestan -> c_sarisu
+457, Tashkent -> c_sash
+458, Kokand -> c_khojand
+465, Nogay -> c_guryev
+470, Bayuly -> c_yaik
+471, Alimuly -> c_irgiz
 577, Quetta -> c_wana
 1831, Travunia -> c_travunija
 1853, Kozani -> c_ochrid
+1967, Khujand -> c_ustrushana
+1971, Tsaritsyn -> c_sarkel
 1973, Urgach -> c_khat
 2206, Urmia -> c_oromieh
 2207, Maragheh -> c_maragheh
@@ -126,9 +138,13 @@ Province ID, Province name -> Title in SWMH
 2232, Kharan -> c_mashkel
 2233, Chabahar -> c_makran, d_makran
 2350, Konjikala -> c_uzboy
+2351, Shekty -> c_irgiz
+2356, Shymkent -> c_otrar
 2362, Gurganj -> c_khat
+2370, Kungirot -> c_ustyurt
 2473, Sousse -> c_medjerda
 3001, Skopje -> c_skopje
+4114, Jokkmokk -> c_angermanland
 
 
 + at least 20 more provinces i have not done yet
