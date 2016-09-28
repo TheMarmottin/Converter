@@ -148,15 +148,14 @@ Province ID, Province name -> Title in SWMH
 4114, Jokkmokk -> c_angermanland
 
 
-+ at least 20 more provinces i have not done yet
 
-+ also tons of adjustments to limit border, culture and religious weirdness to do
+-------------------------------------------------------------- COUNTRIES
 
-
-
+So that the converter does not create a new nation (& new tag) when the country already exists in eu4
 
 
 ----------------------------------------------------BUGS
 - Qipçaq culture being converted to Oghuz culture if Oghuz is also assigned to Cuman
 - Scottish culture becomes Cumbri if Cumbri is assigned to convert to scottish
 - Mejralainen culture not converting if assigned to Uralic culture
+- Two Chagatai appearing
