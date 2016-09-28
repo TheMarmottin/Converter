@@ -201,8 +201,8 @@ c_medelpad;9;9-Halsingland;Medelpad - Hälsingland
 c_vasterbotten;11;11-Vasterbotten;Västerbotten - Västerbotten
 c_angermanland;11;11-Vasterbotten;Ångermanland - Västerbotten
 
-c_lappland;18;18-Lappland;Lappland - Lappland
-c_lappland;4114;4114-Jokkmokk;Lappland - Jokkmokk
+c_angermanland;18;18-Lappland;Lappland - Lappland
+c_angermanland;4114;4114-Jokkmokk;Lappland - Jokkmokk
 
 c_finland;27;27-Finland;Finland - Finland
 
@@ -990,8 +990,8 @@ c_mesopotamia;418;418 - Van;Mesopotamia - Kurdistan
 
 c_taron;418;418 - Van;Taron - Kurdistan
 
-c_karin;2305;331;331 - Erserum;Karin - Erzurum
-c_ani;331;331 - Erserum;Ani - Erzurum
+d_mesopotamia;331;331 - Erserum;Duchy Mesopotamia - Erzurum
+c_theodosiopolis;2305;331;331 - Erserum;Theodosiopolis - Erzurum
 
 c_vaspurakan;2307;2307 - Van;Vaspurakan - Van # 2307
 
@@ -1658,14 +1658,14 @@ c_dihistan;2349;2349 - Kizil-Su;Dihistan - Kizil-Su
 
 c_uzboy;438;438 - Kara Kum;Kara Kum - Karakum
 
-c_usturt;443;443 - Ust Yurt;Usturt - Ust Yurt
+c_karasu;443;443 - Ust Yurt;Karasu - Ust Yurt
 
 c_kath;441;441 - Khiva;Khiva - Khiva
 c_kath;1973;1973 - Urgench;Khiva - Urgench
 c_kath;2362;2362 - Gurganj;Khiva - Gurganj
 
 c_urgench;440;440 - Qaraqalpak;Urgench - Qaraqalpak
-c_urgench;2370;2370 - Kungirot;Urgench - Kungirot
+c_ustyurt;2370;2370 - Kungirot;Urgench - Kungirot
 
 c_bukhara;442;442 - Bukhara;Bukhara - Bukhara
 
@@ -1673,12 +1673,12 @@ c_nakhsheb;453;453 - Qarshi;Samarkand - Qarshi
 c_samarqand;454;454 - Samarkand;Samarkand - Samarkand
 
 c_oshrusana;2363;2363 - Atakent;Oshrushana - Atakent
-c_oshrusana;1967;1967 - Khujand;Oshrushana - Khujand
+c_ustrushana;1967;1967 - Khujand;Ustrushana - Khujand
 
 c_khuttal;1968;1968 - Kulob;Khuttal - Kulob
 c_khuttal;452;452 - Badakhshan;Khuttal - Badakshan
 
-c_fergana;458;458 - Kokand;Fergana - Kokand
+c_khojand;458;458 - Kokand;Khojand - Kokand
 c_fergana;460;460 - Uzkend;Fergana - Uzkend
 c_fergana;2127;2127 - Yashilkul;Fergana - Yashilkul
 
@@ -1693,12 +1693,12 @@ c_khiva;441;441 - Khiva;Khiva - Khiva
 
 c_urgench;1973;1973 - Urgench;Urgench - Urgench
 
-c_chach;457;457 - Tashkent;Chach - Tashkent
-c_chach;2356;2356 - Shymkent;Chach - Shymkent
+c_sash;457;457 - Tashkent;Chach - Tashkent
+c_otrar;2356;2356 - Shymkent;Otrar - Shymkent
 c_chach;2364;2364 - Talas;Chach - Talas
 
 c_otrar;1969;1969 - Sozak;Otrar - Sozak
-c_otrar;456;456 - Turkestan;Otrar - Turkestan
+c_sarisu;456;456 - Turkestan;Otrar - Turkestan
 
 c_syr_darya;2352;2352 - Alty-Kuduk;Syr Darya - Alty-Kuduk
 c_syr_darya;2358;2358 - Altyn;Syr Darya - Altyn
@@ -1717,9 +1717,9 @@ c_mangyshlak;439;439 - Mangyshlak;Mangyshlak - Mangyshlak
 
 # Cumania & Perm
 
-c_aral;471;471 - Alimuly;Aral - Alimuly
+c_irgiz;471;471 - Alimuly;Irgiz - Alimuly
 
-c_turkestan;2351;2351 - Shekty;Turkestan - Shekty
+c_irgiz;2351;2351 - Shekty;Irgiz - Shekty
 
 c_kirghiz;480;480 - Pegaya Orda;Kirghiz - Pegaya Orda
 
@@ -1728,7 +1728,7 @@ c_ket;2433;2433 - Vah;Ket - Vah
 c_urzhar;2118;2118 - Urzhar;Urzhar - Urzhar
 c_urzhar;2119;2119 - Chuguchak;Urzhar - Chuguchak
 
-c_kangly;465;465 - Nogay;Kangly - Nogay
+c_guryev;465;465 - Nogay;Kangly - Nogay
 
 c_tobol;1076;1076 - Kurgan;Tyumen - Kurgan
 c_tobol;2441;2441 - Iglino;Tobol - Iglino
@@ -1770,7 +1770,7 @@ c_balkhash;2355;2355 - Narym;Balkhash - Narym
 c_aqtobe;472;472 - Zhetyru;Aqtobe - Zhetyru
 c_aqtobe;2366;2366 - Utva;Aqtobe - Utva
 
-c_inder;470;470 - Bayuly;Inder - Bayuly
+c_yaik;470;470 - Bayuly;Inder - Bayuly
 
 c_yaik;2420;2420 - Agyidel;Yaik - Agyidel
 c_yaik;1966;1966 - Chelyaba;Yaik - Chelyaba
@@ -2018,7 +2018,7 @@ c_romny;1958;1958 - Kargopol;Romny - Kargopol
 c_north_dvina;1955;1955 - Kholmogory;North Dvina - Kholmogory
 c_trans-portage;1955;1955 - Kholmogory;Trans-Portage - Kholmogory
 
-c_samoyeds;313;313 - Archangelsk;Samoyeds - Arkhangelsk
+c_trans-portage;313;313 - Archangelsk;Samoyeds - Arkhangelsk
 c_bjarmia;313;313 - Archangelsk;Bjarmie - Arkhangelsk
 
 c_beloozero;2749;2749 - Tikhvin;Beloozero - Tikhvin
@@ -2122,7 +2122,7 @@ c_alania;463;463 - Circassia;Alania - Circassia
 
 c_manych;468;468 - Khazaria;Manych - Manych
 
-c_don_portage;1971;1971 - Tsaritsyn;Don Portage - Tsaritsyn
+c_sarkel;1971;1971 - Tsaritsyn;Sarkel - Tsaritsyn
 
 c_sarpa;2414;2414 - Azaraba;Sarpa - Azaraba
 
