@@ -154,6 +154,11 @@ Province ID, Province name -> Title in SWMH
 So that the converter does not create a new nation (& new tag) when the country already exists in eu4
 
 
+-------------------------------------------------------------- IDEAS
+
+Maybe tweak the auto generation of ideas, so half the world doesn't get standard National Ideas or french ones
+
+
 ----------------------------------------------------BUGS
 - Qipçaq culture being converted to Oghuz culture if Oghuz is also assigned to Cuman
 - Scottish culture becomes Cumbri if Cumbri is assigned to convert to scottish
