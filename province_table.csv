@@ -869,8 +869,10 @@ c_rama;3002;3002 - Visoki;Rama - Visoki
 
 # Byzantine Empire
 
+d_dyrrachion;143;143 - Albania;Duchy Dyrrachion - Albania
 c_dyrrachion;143;143 - Albania;Dyrrachion - Albania
-c_ochrid;143;143 - Albania;Ochrid - Albania
+c_arbanon;143;143 - Albania;Arbanon - Albania
+c_valona;143;143 - Valona;Ochrid - Albania
 
 c_epeiros;144;144 - Janina;Epeiros - Janina
 c_arta;144;144 - Janina;Arta - Janina
@@ -991,7 +993,7 @@ c_mesopotamia;418;418 - Van;Mesopotamia - Kurdistan
 c_taron;418;418 - Van;Taron - Kurdistan
 
 d_mesopotamia;331;331 - Erserum;Duchy Mesopotamia - Erzurum
-c_theodosiopolis;2305;331;331 - Erserum;Theodosiopolis - Erzurum
+c_theodosiopolis;331;331 - Erserum;Theodosiopolis - Erzurum
 
 c_vaspurakan;2307;2307 - Van;Vaspurakan - Van # 2307
 
@@ -1664,7 +1666,7 @@ c_kath;441;441 - Khiva;Khiva - Khiva
 c_kath;1973;1973 - Urgench;Khiva - Urgench
 c_kath;2362;2362 - Gurganj;Khiva - Gurganj
 
-c_urgench;440;440 - Qaraqalpak;Urgench - Qaraqalpak
+c_kerder;440;440 - Qaraqalpak;Kerder - Qaraqalpak
 c_ustyurt;2370;2370 - Kungirot;Urgench - Kungirot
 
 c_bukhara;442;442 - Bukhara;Bukhara - Bukhara
@@ -1672,41 +1674,41 @@ c_bukhara;442;442 - Bukhara;Bukhara - Bukhara
 c_nakhsheb;453;453 - Qarshi;Samarkand - Qarshi
 c_samarqand;454;454 - Samarkand;Samarkand - Samarkand
 
-c_oshrusana;2363;2363 - Atakent;Oshrushana - Atakent
+c_sighnaq;2363;2363 - Atakent;Oshrushana - Atakent
 c_ustrushana;1967;1967 - Khujand;Ustrushana - Khujand
 
 c_khuttal;1968;1968 - Kulob;Khuttal - Kulob
 c_khuttal;452;452 - Badakhshan;Khuttal - Badakshan
 
 c_khojand;458;458 - Kokand;Khojand - Kokand
-c_fergana;460;460 - Uzkend;Fergana - Uzkend
-c_fergana;2127;2127 - Yashilkul;Fergana - Yashilkul
+c_khaylam;460;460 - Uzkend;Fergana - Uzkend
+c_ferghana;2127;2127 - Yashilkul;Fergana - Yashilkul
 
 
 #Turkestan
 
-c_dashhowuz;455;455 - Kyrzyl-Kum;Dashhowuz - Kyzylkum
+c_sighnaq;455;455 - Kyrzyl-Kum;Dashhowuz - Kyzylkum
 
-c_kyzylkum;1970;1970 - Syghnak;Kyzylkum - Syghnak
+c_jand;1970;1970 - Syghnak;Kyzylkum - Syghnak
 
 c_khiva;441;441 - Khiva;Khiva - Khiva
 
 c_urgench;1973;1973 - Urgench;Urgench - Urgench
 
-c_sash;457;457 - Tashkent;Chach - Tashkent
+c_shash;457;457 - Tashkent;Chach - Tashkent
 c_otrar;2356;2356 - Shymkent;Otrar - Shymkent
-c_chach;2364;2364 - Talas;Chach - Talas
+c_talas;2364;2364 - Talas;Chach - Talas
 
 c_otrar;1969;1969 - Sozak;Otrar - Sozak
 c_sarisu;456;456 - Turkestan;Otrar - Turkestan
 
-c_syr_darya;2352;2352 - Alty-Kuduk;Syr Darya - Alty-Kuduk
-c_syr_darya;2358;2358 - Altyn;Syr Darya - Altyn
+c_jand;2352;2352 - Alty-Kuduk;Syr Darya - Alty-Kuduk
+c_sarisu;2358;2358 - Altyn;Syr Darya - Altyn
 
-c_karluk;459;459 - Taraz;Karluk - Taraz
+c_balasaghnun;459;459 - Taraz;Karluk - Taraz
 
-c_chuy;2126;2126 - Chuy;Chuy - Chuy
-c_chuy;2125;2125 - Kochkor;Chuy - Kochkor
+c_balasaghnun;2126;2126 - Chuy;Chuy - Chuy
+c_barskhan;2125;2125 - Kochkor;Chuy - Kochkor
 
 c_ili;2120;2120 - Ili;Ili - Ili
 
@@ -1723,15 +1725,15 @@ c_irgiz;2351;2351 - Shekty;Irgiz - Shekty
 
 c_kirghiz;480;480 - Pegaya Orda;Kirghiz - Pegaya Orda
 
-c_ket;2433;2433 - Vah;Ket - Vah
+c_sibir;2433;2433 - Vah;Ket - Vah
 
 c_urzhar;2118;2118 - Urzhar;Urzhar - Urzhar
 c_urzhar;2119;2119 - Chuguchak;Urzhar - Chuguchak
 
 c_guryev;465;465 - Nogay;Kangly - Nogay
 
-c_tobol;1076;1076 - Kurgan;Tyumen - Kurgan
-c_tobol;2441;2441 - Iglino;Tobol - Iglino
+c_sibir;1076;1076 - Kurgan;Tyumen - Kurgan
+c_sibir;2441;2441 - Iglino;Tobol - Iglino
 
 c_tyumen;1075;1075 - Tyumen;Tyumen - Tyumen
 
@@ -1739,29 +1741,29 @@ c_sibir;1071;1071 - Irtesh;Tura - Irtesh
 
 c_khantia;1074;1074 - Sibir;Sibir - Sibir
 
-c_ishim;2357;2357 - Aksary;Ishim - Aksary
-c_ishim;2369;2369 - Lower Ishim;Ishim - Lower Ishim
+c_sibir;2357;2357 - Aksary;Ishim - Aksary
+c_sibir;2369;2369 - Lower Ishim;Ishim - Lower Ishim
 
-c_narim;2429;2429 - Agan;Narim - Agan
-c_narim;2428;2428 - Yugan;Khantia - Yugan
+c_sibir;2429;2429 - Agan;Narim - Agan
+c_sibir;2428;2428 - Yugan;Khantia - Yugan
 
 c_mansia;1078;1078 - Middle Urals;Mansia - Tura
 c_mansia;2427;2427 - Ostyaki;Sibir - Ostyaki
 
 c_yamalia;1080;1080 - North Urals;Yamalia - Pelym
 
-c_kipchak;476;476 - Kypshak;Kipchak - Kypshak
-c_kipchak;2359;2359 - Baganaly;Kipchak - Baganaly
+c_turgay;476;476 - Kypshak;Kipchak - Kypshak
+c_turgay;2359;2359 - Baganaly;Kipchak - Baganaly
 
-c_kazakh;477;477 - Nadym;Kazakh - Nadym
-c_kazakh;2361;2361 - Dzhaman-Kuduk;Kazakh - Dzhaman-Kuduk
+c_balkhash;477;477 - Nadym;Kazakh - Nadym
+c_sarisu;2361;2361 - Dzhaman-Kuduk;Kazakh - Dzhaman-Kuduk
 
 c_turgay;2353;2353 - Tortkara;Turgay - Tortkara
 
-c_kimak;2354;2354 - Shegendyk;Kimak - Shegendyk
-c_kimak;479;479 - Kerey;Kimak - Kerey
+c_sibir;2354;2354 - Shegendyk;Kimak - Shegendyk
+c_sibir;479;479 - Kerey;Kimak - Kerey
 
-c_tura;478;478 - Argyn;Tura - Argyn
+c_balkhash;478;478 - Argyn;Tura - Argyn
 c_tura;2434;2434 - Barnaul;Tura - Barnaul
 
 c_balkhash;2360;2360 - Tobykty;Balkhash - Tobykty
@@ -2710,14 +2712,13 @@ c_aksu;2124;2124 - Yarkand;Aksu - Yarkand
 
 c_khotan;710;710 - Hotan;Khotan - Hotan
 
-c_aksu;712;712 - Aksu;Aksu - Aksu
+c_aqsu;712;712 - Aksu;Aksu - Aksu
 
 c_kucha;2121;2121 - Kuqa;Kucha - Kuqa
 
-c_cherchen;711;711 - Qarqan;Cherchen - Qarqan
-c_charkliq;711;711 - Qarqan;Charkliq - Qarqan
+c_khotan;711;711 - Qarqan;Khotan - Qarqan
 
-c_karashar;2192;2192 - Korla;Karashar - Korla
+c_qarashahr;2192;2192 - Korla;Karashar - Korla
 
 c_loulan;2123;2123 - Qakilik;Loulan - Qakilik
 
