@@ -89,6 +89,7 @@ Here comes the fun part. These are provinces in eu4 assigned to titles in ck2 va
 Province ID, Province name -> Title in SWMH
 
 18, Lappland -> c_angermanland
+143, Albania -> d_dyrrachion, c_dyrrachion, c_arbanon, c_valona
 182, Vermandois -> c_vermandois
 186, Champagne -> c_reims
 313, Soroka -> c_trans-portage
@@ -102,6 +103,7 @@ Province ID, Province name -> Title in SWMH
 436, Birjand -> d_qohistan, c_qohistan
 437, Kopet Dag -> c_uzboy
 438, Karakum -> c_uzboy
+440, Qaraqalpak -> c_kerder
 441, Khiva -> c_khat
 443, Ustyurt -> c_karasu
 446, Herat 6> c_badghis
@@ -109,18 +111,33 @@ Province ID, Province name -> Title in SWMH
 449, Ghor -> c_ghor
 453, Qarshi -> c_nakheb
 454, Samarkand -> c_samarqand
+455, Kyzylkum -> c_sighnaq
 456, Turkestan -> c_sarisu
 457, Tashkent -> c_sash
 458, Kokand -> c_khojand
+459, Taraz -> c_balasaghnun
+460, Uzkend -> c_khaylam
 465, Nogay -> c_guryev
 470, Bayuly -> c_yaik
 471, Alimuly -> c_irgiz
+476, Kypshak -> c_turgay
+478, Argyn -> c_balkhash
+479, Kerey -> c_sibir
+477, Nadym -> c_balkhash
 577, Quetta -> c_wana
+711, Qarqan -> c_khotan
+712, Aksu -> c_aqsu
+1076, Kurgan -> c_sibir
 1831, Travunia -> c_travunija
 1853, Kozani -> c_ochrid
 1967, Khujand -> c_ustrushana
+1970, Sughnak -> c_jand
 1971, Tsaritsyn -> c_sarkel
 1973, Urgach -> c_khat
+2125, Kochkor -> c_barskhan
+2126, Chuy -> c_balasaghnun
+2127, Yashilkul -> c_ferghana
+2192, Korla -> c_qarashahr
 2206, Urmia -> c_oromieh
 2207, Maragheh -> c_maragheh
 2209, Ilam -> c_tigris
@@ -140,9 +157,22 @@ Province ID, Province name -> Title in SWMH
 2233, Chabahar -> c_makran, d_makran
 2350, Konjikala -> c_uzboy
 2351, Shekty -> c_irgiz
+2352, Alty-Kuduk -> c_jand
+2354, Shegendyk -> c_sibir
 2356, Shymkent -> c_otrar
+2357, Aksary -> c_sibir
+2358, Altyn -> c_sarisu
+2359, Baganaly -> c_turgay
+2361, Dzhaman-Kuduk -> c_sarisu
 2362, Gurganj -> c_khat
+2363, Atakent -> c_sighnaq
+2364, Talas -> c_talas
+2369, Lower Ishim -> c_sibir
 2370, Kungirot -> c_ustyurt
+2428, Yugan -> c_sibir
+2429, Agan -> c_sibir
+2433, Vah -> c_sibir
+2441, Iglino -> c_sibir
 2473, Sousse -> c_medjerda
 3001, Skopje -> c_skopje
 4114, Jokkmokk -> c_angermanland
@@ -152,7 +182,10 @@ Province ID, Province name -> Title in SWMH
 -------------------------------------------------------------- COUNTRIES
 
 So that the converter does not create a new nation (& new tag) when the country already exists in eu4
+Title id SWMH -> tag EU4, EU4 country
 
+e_bulgaria -> BUL, Bulgaria
+k_novgorod -> NOV, Novgorod
 
 -------------------------------------------------------------- IDEAS
 
