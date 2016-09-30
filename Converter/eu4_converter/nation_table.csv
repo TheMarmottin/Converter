@@ -17,6 +17,7 @@ c_gotland;GOT;Gotland;Gotland County
 # Balkans
 
 e_byzantium;BYZ;ByzantineEmpire;Byzantium Empire
+e_bulgaria;BUL;Bulgaria;Bulgaria Empire
 k_bulgaria;BUL;Bulgaria;Bulgaria Kingdom
 k_croatia;CRO;Croatia;Croatia Kingdom
 d_croatia;CRO;Croatia;Croatia Duchy
@@ -233,6 +234,7 @@ k_georgia;GEO;Georgia;Georgia Kingdom
 e_golden_horde;GOL;GoldenHorde;Golden Horde Empire
 d_moskva;MOS;Muscowy;Muscowy Duchy
 c_moskva;MOS;Muscowy;Muscowy County
+k_novgorod;NOV;Novgorod;Novgorod Kingdom
 d_novgorod;NOV;Novgorod;Novgorod Duchy
 c_novgorod;NOV;Novgorod;Novgorod County
 c_pskov;PSK;Pskov;Pskov County

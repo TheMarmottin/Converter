@@ -19,6 +19,7 @@ west_african_pagan_reformed;west_african_pagan_reformed;1;Reformed West African
 hellenic_pagan;hellenic_pagan;1;Hellenic
 zun_pagan;zoroastrian;0;Zunist
 zun_pagan_reformed;zun_pagan_reformed;1;Zunist
+pagan;shamanism;0;West African
 
 # Zoroastrianism
 
@@ -41,6 +42,7 @@ monothelite;orthodox;0;Orthodox
 iconoclast;orthodox;0;Orthodox
 miaphysite;coptic;0;Coptic
 messalian;coptic;0;Coptic
+apostolic;coptic;0;Coptic
 
 # Islam
 
@@ -51,6 +53,9 @@ ibadi;ibadi;0;ibadi
 shiite;shiite;0;Shiite
 druze;shiite;0;Shiite
 hurufi;shiite;0;Shiite
+ismaili;shiite;0;Shiite
+zaydi;shiite;0;Shiite
+qarmatian;shiite;0;Shiite
 
 # Judaism
 jewish;jewish;0;Jewish

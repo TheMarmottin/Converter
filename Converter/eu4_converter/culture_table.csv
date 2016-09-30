@@ -7,11 +7,15 @@ swedish;swedish;0;Swedish
 norwegian;norwegian;0;Norwegian
 danish;danish;0;Danish
 old_saxon;old_saxon;1;Saxon
+gothic;swedish;0;Swedish
 
 # Central Germanic
 
+low_german;hannoverian;0;Westphalian
 german;german;1;German
 suebi;suebi;1;Suebi
+low_saxon;saxon;0;Saxon
+thuringian;saxon;0;Saxon
 
 # West Germanic
 
@@ -20,14 +24,22 @@ english;english;0;English
 saxon;anglo_saxon;1;Anglo-Saxon
 dutch;dutch;0;Dutch
 frisian;frisian;1;Frisian
+anglonorse;anglo_saxon;1;Anglo-Saxon
+low_frankish;frankish;1;Frankish
 
 # Latin
 
+
 frankish;cosmopolitan_french;0;French
 norman;normand;0;Norman
-italian;italian;1;Italian
 occitan;occitain;0;Occitan
 roman;roman;1;Roman
+italian;lombard;0;Lombard
+langobardisch;neapolitan;0;Neapolitan
+central_italian;umbrian,0;Umbrian
+corsican;sardinian;0;Sardinian
+southern_italian;neapolitan;0;Neapolitan
+arpitan;piedmontese;0;Piedmontese
 
 # Iberian
 
@@ -43,14 +55,19 @@ armenian;armenian;0;Armenian
 greek;greek;0;Greek
 alan;alan;1;Alan
 georgian;georgian;0;Georgian
+udi;dagestani;0;Dagestani
+kasogi;circassian;0;Circassian
 
 # Celtic
 
 irish;irish;0;Irish
+cumbric;scottish;0,Cumbric
 scottish;scottish;0;Scottish
 pictish;pictish;1;Pictish
 welsh;welsh;0;Welsh
 breton;breton;0;Breton
+norsegaelic;irish;0;Irish
+cornish;welsh;0;Welsh
 
 # Finno-Ugric
 
@@ -61,17 +78,20 @@ komi;komi;1;Komi
 samoyed;samoyed;0;Samoyed
 mordvin;mordvin;1;Mordvin
 khanty;khanty;1;Khanty
+mari;komi;0;Komi
 
 # Baltic
 
 lettigallish;latvian;0;Latvian
 lithuanian;lithuanian;0;Lithuanian
 prussian;old_prussian;1;Old Prussian
+livonian;estonian;0;Estonian
 
 # Altaic
 
 turkish;turkish;0;Turkish
 pecheneg;pecheneg;1;Pecheneg
+oghuz;cuman;1;Cuman
 cuman;cuman;1;Cuman
 khazar;khazar;1;Khazar
 bolghar;bolghar;1;Bolghar
@@ -83,6 +103,7 @@ uyghur;uyghur;0;Uyghur
 khitan;khitan;1;Khitan
 sogdian;sogdian;1;sogdian
 tocharian;tocharian;1;Tocharian
+turkmen;turkmeni;0;Turkmeni
 
 # Arabic
 
@@ -91,6 +112,15 @@ maghreb_arabic;berber;0;Berber
 levantine_arabic;al_suryah_arabic;0;Levantine
 egyptian_arabic;al_misr_arabic;0;Egyptian
 andalusian_arabic;andalucian;0;Andalusian Arabic
+sicilian_arabic;tunisian;0;Tunisian
+zanata;berber;0;Berber
+masmuda;berber;0;Berber
+sanhaja;tunisian;0;Tunisian
+hijazi;bedouin_arabic;0;Bedouin Arabic
+yemeni;yemeni_culture;0;Yemeni
+assyrian;al_suryah_arabic;0;Levantine
+canarian;berber;0;Berber
+tagelmust;berber;0;Berber
 
 # East Slavic
 
@@ -98,12 +128,14 @@ russian;russian;0;Russian
 ilmenian;ilmenian;1;Ilmenian
 volhynian;volhynian;1;Volhynian
 severian;severian;1;Severian
+vepsian;karelian;0;Karelian
 
 # West Slavic
 
 pommeranian;pommeranian;0;Pommeranian
 bohemian;czech;0;Bohemian
 polish;polish;0;Polish
+moravian;slovak;0;Slovak
 
 # South Slavic
 
@@ -111,10 +143,14 @@ croatian;croatian;0;Croatian
 serbian;serbian;0;Serbian
 romanian;romanian;0;Romanian
 bulgarian;bulgarian;0;Bulgarian
+bosnian;serbian;0;Serbian
+karantanci;croatian;0;Croatian
+dalmatian;croatian;0;Croatian
 
 # Magyar
 
 hungarian;hungarian;0;Hungarian
+szekely;transylvanian;0;Transylvanian
 
 # Iranian
 
@@ -122,13 +158,22 @@ persian;persian;0;Persian
 kurdish;kurdish;0;Kurdish
 baloch;baluchi;0;Baloch
 afghan;afghani;0;Afghan
+daylamite;mazandarani;0;Mazandarani
+adhari;azerbaijani;0;Azerbaijani
+khotanese;afghani;0;Afghan
+tajik;afghani;0;Afghan
+khwarezmi;khwarezmi;1;Khwarezmian
 
 # East African
 
 nubian;nubian;0;Nubian
 ethiopian;amhara;0;Ethiopian
 somali;somali;0;Somali
-
+coptic;nubian;0;Nubian
+beja;nubian;0;Nubian
+daju;nubian;0;Nubian
+falashim;amhara;0;Amhara
+afar;tigray;0;Tigray
 
 # West African
 
