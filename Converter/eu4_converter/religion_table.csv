@@ -5,7 +5,7 @@
 norse_pagan;animism;0;Norse
 norse_pagan_reformed;norse_pagan_reformed;0;Reformed Norse
 tengri_pagan;tengri_pagan_reformed;0;Tengri
-tengri_pagan_reformed;tengri_pagan_reformed;1;Reformed Tengri
+tengri_pagan_reformed;tengri_pagan_reformed;0;Reformed Tengri
 baltic_pagan;animism;0;Romuva
 baltic_pagan_reformed;baltic_pagan_reformed;1;Reformed Romuva
 finnish_pagan;animism;0;Suomenusko
@@ -19,13 +19,13 @@ west_african_pagan_reformed;west_african_pagan_reformed;1;Reformed West African
 hellenic_pagan;hellenic_pagan;1;Hellenic
 zun_pagan;zoroastrian;0;Zunist
 zun_pagan_reformed;zun_pagan_reformed;1;Zunist
-pagan;shamanism;0;West African
+pagan;shamanism;0;Pagan
 
 # Zoroastrianism
 
-zoroastrian;zoroastrian;1;Zoroastrian
-mazdaki;zoroastrian;1;Zoroastrian
-manichean;zoroastrian;1;Zoroastrian
+zoroastrian;zoroastrian;0;Zoroastrian
+mazdaki;zoroastrian;0;Zoroastrian
+#manichean;zoroastrian;0;Zoroastrian
 
 # Christianity
 
@@ -35,28 +35,24 @@ fraticelli;catholic;0;Catholic
 waldensian;catholic;0;Catholic
 lollard;catholic;0;Catholic
 orthodox;orthodox;0;Orthodox
-monophysite;orthodox;0;Orthodox
 bogomilist;orthodox;0;Orthodox
-nestorian;coptic;0;Coptic
 monothelite;orthodox;0;Orthodox
 iconoclast;orthodox;0;Orthodox
 miaphysite;coptic;0;Coptic
-messalian;coptic;0;Coptic
-apostolic;coptic;0;Coptic
+monophysite;coptic;0;Coptic
+nestorian;orthodox;0;Orthodox
+messalian;orthodox;0;Orthodox
 
 # Islam
 
 sunni;sunni;0;Sunni
 zikri;sunni;0;Sunni
-yazidi;sunni;0;Sunni
-ibadi;ibadi;0;ibadi
+#yazidi;sunni;0;Sunni
 shiite;shiite;0;Shiite
-druze;shiite;0;Shiite
+#druze;shiite;0;Shiite
 hurufi;shiite;0;Shiite
-ismaili;shiite;0;Shiite
-zaydi;shiite;0;Shiite
-qarmatian;shiite;0;Shiite 
-mahdiyya;sunni;0;Sunni
+ibadi;ibadi;0;Ibadi
+kharijite;ibadi;0;Ibadi
 
 # Judaism
 jewish;jewish;0;Jewish
@@ -67,3 +63,25 @@ karaite;jewish;0;Jewish
 buddhist;buddhism;0;Buddhist
 hindu;hinduism;0;Hindu
 jain;jain;1;Jain
+
+# SWMH
+maronite;maronite;1;Maronite
+apostolic;apostolic;1;Apostolic
+paulician;apostolic;1;Apostolic
+tondrakian;apostolic;1;Apostolic
+mahdiyya;sunni;0;Sunni
+nabawiyya;sunni;0;Sunni
+haruri;ibadi;0;Ibadi
+waqifi;shiite;0;Shiite
+zaydi;zaydi;1;Zaydi
+ismaili;shiite;0;Shiite
+druze;druze;1;Druze
+qarmatian;shiite;0;Shiite
+zurvanist;zoroastrian;0;Zoroastrian
+manichean;manichean;1;Manichean
+mandaean;manichean;1;Manichean
+yazidi;yazidi;1;Yazidi
+
+# EMF
+adoptionist;catholic;0;Catholic
+arian;catholic;0;Catholic
