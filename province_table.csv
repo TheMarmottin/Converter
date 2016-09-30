@@ -992,8 +992,9 @@ c_mesopotamia;418;418 - Van;Mesopotamia - Kurdistan
 
 c_taron;418;418 - Van;Taron - Kurdistan
 
-d_mesopotamia;331;331 - Erserum;Duchy Mesopotamia - Erzurum
-c_theodosiopolis;331;331 - Erserum;Theodosiopolis - Erzurum
+d_mesopotamia;331;331 - Erzurum;Duchy Mesopotamia - Erzurum
+c_theodosiopolis;331;331 - Erzurum;Theodosiopolis - Erzurum
+c_sper;331;331 - Erzurum;Sper - Erzurum
 
 c_vaspurakan;2307;2307 - Van;Vaspurakan - Van # 2307
 
@@ -1028,9 +1029,9 @@ c_edessa;377;377 - Aleppo;Edessa - Aleppo
 c_tell_bashir;377;377 - Aleppo;Tell Bashir - Aleppo
 c_aintab;377;377 - Aleppo;Aintab - Aleppo
 
-c_alexandretta;2313;2313 - Antioch;Alexandretta - Antioch
+d_antioch;2313;2313 - Antioch;Duchy Antioch - Antioch
 c_antiocheia;2313;2313 - Antioch;Antiocheia - Antioch
-c_archa;2313;2313 - Antioch;Archa - Antioch
+c_saone;2313;2313 - Antioch;Saone - Antioch
 
 c_tripoli;378;378 - Beirut;Tripoli - Tarabulus
 c_tortosa;378;378 - Beirut;Tortosa - Tarabulus
@@ -1660,7 +1661,7 @@ c_dihistan;2349;2349 - Kizil-Su;Dihistan - Kizil-Su
 
 c_uzboy;438;438 - Kara Kum;Kara Kum - Karakum
 
-c_karasu;443;443 - Ust Yurt;Karasu - Ust Yurt
+c_ustyurt;443;443 - Ust Yurt;Ustyurt - Ust Yurt
 
 c_kath;441;441 - Khiva;Khiva - Khiva
 c_kath;1973;1973 - Urgench;Khiva - Urgench
