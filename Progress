@@ -28,6 +28,7 @@ Bosanski -> Serbian
 Karantanski -> Croatian
 Moravsky -> Slovak
 Dalmata -> Croatian
+Arbëreshë -> Albanian
 
 ####Baltic
 Livonian -> Estonian
@@ -82,6 +83,7 @@ Zaydi -> Shiite
 Qarmatian -> Shiite
 Apostolic -> Coptic
 Pagan (east african) -> Fetishist
+Mahdiyya -> Sunni
 
 
 -----------------------------------------------------PROVINCES
@@ -90,6 +92,7 @@ Province ID, Province name -> Title in SWMH
 
 18, Lappland -> c_angermanland
 143, Albania -> d_dyrrachion, c_dyrrachion, c_arbanon, c_valona
+179, Berry -> d_berry, c_bourges, c_sancerre
 182, Vermandois -> c_vermandois
 186, Champagne -> c_reims
 313, Soroka -> c_trans-portage
@@ -128,8 +131,11 @@ Province ID, Province name -> Title in SWMH
 711, Qarqan -> c_khotan
 712, Aksu -> c_aqsu
 1076, Kurgan -> c_sibir
+1742, Limburg -> c_limburg
+1744, Antorf -> c_breda
 1831, Travunia -> c_travunija
 1853, Kozani -> c_ochrid
+1878, Aachen -> c_aachen
 1967, Khujand -> c_ustrushana
 1970, Sughnak -> c_jand
 1971, Tsaritsyn -> c_sarkel
