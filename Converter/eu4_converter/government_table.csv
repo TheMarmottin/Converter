@@ -1,7 +1,7 @@
 # CK2GOVERNMENT;EU4GOVERNMENT;NUMVASSALS;
 # This file is only used if conclave is active, if match is not found it relies on old system
 
-k_papal_states;papal_government;0;
+k_papal_state;papal_government;0;
 k_orthodox;theocratic_government;0;
 d_sunni;theocratic_government;0;
 d_shiite;theocratic_government;0;
@@ -106,3 +106,25 @@ gov_electorial_absolute_monarchy;feudal_monarchy;2;
 gov_electorial_absolute_autocracy_tengri;absolute_monarchy;2;
 gov_electorial_absolute_autocracy_norse;absolute_monarchy;2;
 gov_electorial_absolute_autocracy;absolute_monarchy;2;
+d_livonian_brothers_of_the_sword;monastic_order_government;0;
+d_ismaili;theocratic_government;0;
+d_mahdiyya;theocratic_government;0;
+d_manichean;theocratic_government;0;
+d_maronite;theocratic_government;0;
+d_nabawiyya;theocratic_government;0;
+d_zaydi;theocratic_government;0;
+d_apostolic;theocratic_government;0;
+d_paulician;theocratic_government;0;
+d_arsiyah;monastic_order_government;0;
+d_saqaliba;monastic_order_government;0;
+d_army_light;monastic_order_government;0;
+d_army_lucifer;monastic_order_government;0;
+d_cathar;theocratic_government;0;
+d_druze;theocratic_government;0;
+d_knights_saint_mark;monastic_order_government;0;
+d_lollard;theocratic_government;0;
+d_mazdaki;theocratic_government;0;
+d_messalian;theocratic_government;0;
+d_waldensian;theocratic_government;0;
+d_bogomilist;theocratic_government;0;
+d_saint_blaise;monastic_order_government;0;
