@@ -28,7 +28,7 @@ k_byzantium;GRE;Greece;Greece Kingdom
 k_serbia;SER;Serbia;Serbia Kingdom
 k_hungary;HUN;Hungary;Hungary Kingdom
 k_ottoman;TUR;Ottomans;Ottoman Kingdom
-d_ottoman;TUR;Ottomans;Ottoman Duchy
+d_osmanli;TUR;Ottomans;Ottoman Duchy
 d_achaia;ACH;Principality of Achaia;Achaia Duchy
 d_athens;ATH;Duchy of Athens;Athens Duchy
 c_atheniai;ATH;Duchy of Athens;Athens County
