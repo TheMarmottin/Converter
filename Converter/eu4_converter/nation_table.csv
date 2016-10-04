@@ -391,9 +391,12 @@ k_bengal;BNG;Bengal;Bengal Kingdom
 k_orissa;ORI;Orissa;Orissa Kingdom
 k_lanka;CEY;Ceylon;Lanka Kingdom
 k_gujarat;GUJ;Gujarat;Gujarat Kingdom
+d_gurjara_mandala;GUJ;Gujarat;Gujarat Duchy
 k_malwa;MLW;Malwa;Malwa Kingdom
 k_sindh;SND;Sind;Sindh Kingdom
+e_rajastan;DLH;Delhi;Delhi Empire
 k_delhi;DLH;Delhi;Delhi Kingdom
+c_delhi;DLH;Delhi;Delhi County
 k_gondwana;GDW;Gondwana;Gondwana Kingdom
 d_jangladesh;JAN;Jangladesh;Jangladesh Kingdom
 e_india;HIN;Hindustan;Hindustan Empire
@@ -415,6 +418,14 @@ d_jharkand;NGP;Jharkand;Jharkand Duchy
 c_jharkand;NGP;Jharkand;Jharkand County
 c_maldives;DGL;Maldives;Maldives County
 k_andhra;YOR;Andhra;Andhra Kingdom
+c_burhanpur;KHD;Khandesh;Khandesh County
+d_jejakabhukti;BND;Bundelkhand;Bundelkhand Duchy
+c_katehar;RMP;Rohilkandh;Rohilkandh County
+c_ludrava;JSL;Jaisalmer;Jaisalmer County
+d_maru;MAW;Marwar;Marwar Duchy
+d_medapata;MER;Mewar;Mewar Duchy
+c_medapata;MER;Mewar;Mewar County
+c_nagauda;NGA;Nagaur;Nagaur County
 
 # Additional
 
