@@ -298,15 +298,22 @@ c_fes;FEZ;Fez;Fez County
 d_tripolitania;TRP;Tripoli;Tripoli Duchy
 c_tripolitana;TRP;Tripoli;Tripoli County
 d_alger;ALG;Algiers;Algiers Duchy
+k_maghreb;MOR;Morocco;Morocco Kingdom
 d_marrakech;MOR;Morocco;Morocco Duchy
 k_egypt;EGY;Egypt;Egypt Kingdom
+k_africa;TUN;Tunisia;Tunis Kingdom
 d_tunis;TUN;Tunisia;Tunis Duchy
 c_tunis;TUN;Tunisia;Tunis County
 c_al_djazair;ALG;Algiers;Algiers County
 d_kabylia;KBA;Kabylia;Kabylia Duchy
+d_mzab;MZB;Mzab;Mzab Duchy
 c_mzab;MZB;Mzab;Mzab County
 d_tlemcen;TLC;Tlemcen;Tlemcen Duchy
 c_tlemcen;TLC;Tlemcen;Tlemcen County
+k_fezzan;FZA;Fezzan;Fezzan Kingdom
+d_fezzan;FZA;Fezzan;Fezzan Duchy
+c_tharasset;SOS;Sus;Sus County
+c_sous;TFL;Tafilalt;Tafilalt County
 d_mazandaran;TAB;Tabarestan;Tabarestan Duchy
 c_tabaristan;TAB;Tabarestan;Tabarestan County
 k_germiyan;GRM;Germiyan;Germiyan Kingdom
@@ -344,14 +351,31 @@ e_abyssinia;ETH;Ethiopia;Ethiopia Empire
 k_abyssinia;ETH;Ethiopia;Ethiopia Kingdom
 d_semien;BTI;Semien;Semien Duchy
 c_semien;BTI;Semien;Semien County
+k_alodia;ALO;Alodia;Alodia Kingdom
 d_alodia;ALO;Alodia;Alodia Duchy
+c_alwa;ALO;Alodia;Alodia County
 c_alodia;ALO;Alodia;Alodia County
+k_makuria;MAK;Makuria;Makuria Kingdom
 c_makuria;MAK;Makuria;Makuria County
+k_songhay;SON;Songhai;Songhay Kingdom
 d_songhay;SON;Songhai;Songhay Duchy
 d_afar;AFA;Afar;Afar Duchy
 c_harer;HAR;Harar;Harar County
 d_timbuktu;TMB;Timbuktu;Timbuktu Duchy
 c_timbuktu;TMB;Timbuktu;Timbuktu County
+d_wolof;JOL;Jolof;Jolof Duchy
+c_djolof;JOL;Jolof;Jolof County
+k_adal;ADA;Adal;Adal Kingdom
+k_hausaland;HAU;Hausa;Hausa Kingdom
+c_djenne;JNN;Jenne;Jenne County
+d_kano;KAN;Kano;Kano Duchy
+c_kano;KAN;Kano;Kano County
+c_katsina;KTS;Katsina;Katsina County
+d_mossi;MSI;Mossi;Mossi Duchy
+d_air;AIR;Air;Air Duchy
+d_darfur;DAR;Darfur;Darfur Duchy
+k_kanem;KBO;KanemBornu;Kanem Bornu Kingdom
+c_masin;ZAF;Zafunu;Zafunu (Macina) County
 
 # Mongols
 
@@ -394,7 +418,7 @@ k_andhra;YOR;Andhra;Andhra Kingdom
 
 # Additional
 
-c_lubeck;HSA;Lubeck;Lubeck Country
+c_lubeck;HSA;Lubeck;Lubeck County
 c_bar;BAR;Bar;Bar County
 d_smolensk;SMO;Smolensk;Smolensk Duchy
 c_smolensk;SMO;Smolensk;Smolensk County
