@@ -12,6 +12,7 @@ c_finland;FIN;Finland;Finland County
 d_kola;SMI;Sami;Kola Sami Duchy
 d_esthonia;EST;Estonia;Estonia Duchy
 d_karelia;KRL;Karelia;Karelia Duchy
+c_karelia;KRL;Karelia;Karelia County
 d_holstein;SHL;Holstein;Holstein Duchy
 c_holstein;SHL;Holstein;Holstein County
 d_gotland;GOT;Gotland;Gotland Duchy
@@ -168,11 +169,13 @@ c_brandenburg;BRA;Brandenburg;Brandenburg County
 d_bremen;BRE;Bremen;Bremen Duchy
 c_bremen;BRE;Bremen;Bremen County
 d_brunswick;BRU;Brunswick;Brunswick Duchy
+e_germany;GER;Germany;Germany Empire
 k_germany;GER;Germany;Germany Kingdom
 k_austria;HAB;Austria;Austria Kingdom
 d_osterreich;HAB;Austria;Austria Duchy
 c_hamburg;HAM;Hamburg;Hamburg County
 e_hre;HLR;HolyRomanEmpire;Holy Roman Empire
+e_hre_french;HLR;HolyRomanEmpire;Holy Roman Empire
 k_upper_lorraine;LOR;Lorraine;Lorraine Kingdom
 d_upper_lorraine;LOR;Lorraine;Lorraine Duchy
 c_lorraine;LOR;Lorraine;Lorraine County
@@ -362,6 +365,7 @@ d_medina;HED;Hedjaz;Hedjaz Duchy
 c_hijaz;HED;Hedjaz;Hedjaz County
 d_amman;ALH;Haasa;Haasa Duchy
 c_al_hasa;ALH;Haasa;Haasa County
+e_arabia;ARB;Arabia;Arabia Empire
 k_arabia;ARB;Arabia;Arabia Kingdom
 d_nefoud;NAJ;Najd;Najd Duchy
 k_yemen;ADE;Yemen;Yemen Kingdom
@@ -549,6 +553,7 @@ c_nizhny_novgorod;NZH;NizhnyNovgorod;Nizhny Novgorod County
 k_jerusalem;KOJ;Jerusalem;Jerusalem Kingdom
 d_jerusalem;KOJ;Jerusalem;Jerusalem Duchy
 c_jerusalem;KOJ;Jerusalem;Jerusalem County
+e_poland;PLC;TheCommonwealth;Commonwealth
 d_jomsvikings;JOM;Jomsvikings;Jomsvikings Special Case
 d_hashshashin;HAH;Hashshashin;Hashshashin Special Case
 e_roman_empire;ROM;RomanEmpire;Roman Empire Special Case
