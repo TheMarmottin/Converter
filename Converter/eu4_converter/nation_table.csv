@@ -78,10 +78,16 @@ c_northumberland;NOL;Northumberland;Northumberland County
 d_connacht;CNN;Connacht;Connacht Duchy
 d_meath;MTH;Meath;Meath Duchy
 d_leinster;LEI;Leinster;Leinster Duchy
+d_thomond;MNS;IRE_Munster;Munster Duchy
 d_munster;MNS;IRE_Munster;Munster Duchy
 c_tyrone;TYR;Tyrone;Tyrone County
+d_oneill;TYR;Tyrone;Tyrone Duchy
 c_connacht;CNN;Connacht;Connacht County
 c_leinster;LEI;Leinster;Leinster County
+c_desmond;DMS;Desmond;Desmond County
+c_kildare;KID;Kildare;Kildare County
+d_ulster;ULS;Ulster;Ulster Duchy
+c_ulster;ULS;Ulster;Ulster County
 
 # Eastern Europe
 
@@ -127,19 +133,25 @@ d_champagne;CHP;Champagne;Champagne Duchy
 d_corsica;COR;Corsica;Corsica Duchy
 c_corsica;COR;Corsica;Corsica County
 d_dauphine;DAU;Dauphine;Dauphine Duchy
+d_foix;FOI;Foix;Foix Duchy
 c_foix;FOI;Foix;Foix County
+d_nevers;NEV;Nevers;Nevers Duchy
 c_nevers;NEV;Nevers;Nevers County
 d_normandy;NRM;Normandy;Normandy Duchy
 d_orleans;ORL;Orleans;Orleans Duchy
 c_orleans;ORL;Orleans;Orleans County
 d_provence;PRO;Provence;Provence Duchy
 c_provence;PRO;Provence;Provence County
+k_toulouse;TOU;Toulouse;Toulouse Kingdom
 d_toulouse;TOU;Toulouse;Toulouse Duchy
 c_toulouse;TOU;Toulouse;Toulouse County
 d_berry;BER;Berry;Berry Duchy
 c_venaissin;AVI;Avignon;Venaissin County
 d_bourbon;BOU;Bourbonnais;Bourbonnais Duchy
 c_bourbon;BOU;Bourbonnais;Bourbonnais County
+d_alencon;ALE;Alencon;Alencon Duchy
+c_alencon;ALE;Alencon;Alencon County
+d_gascogne;GUY;Gascony;Gascony Duchy
 
 # HRE
 
@@ -147,6 +159,7 @@ c_anhalt;ANH;Anhalt;Anhalt County
 d_baden;BAD;Baden;Baden Duchy
 c_baden;BAD;Baden;Baden County
 k_bavaria;BAV;Bavaria;Bavaria Kingdom
+k_emf_bavaria;BAV;Bavaria;Bavaria Kingdom
 d_bavaria;BAV;Bavaria;Bavaria Duchy
 k_bohemia;BOH;Bohemia;Bohemia Kingdom
 d_bohemia;BOH;Bohemia;Bohemia Duchy
@@ -160,6 +173,8 @@ k_austria;HAB;Austria;Austria Kingdom
 d_osterreich;HAB;Austria;Austria Duchy
 c_hamburg;HAM;Hamburg;Hamburg County
 e_hre;HLR;HolyRomanEmpire;Holy Roman Empire
+k_upper_lorraine;LOR;Lorraine;Lorraine Kingdom
+d_upper_lorraine;LOR;Lorraine;Lorraine Duchy
 c_lorraine;LOR;Lorraine;Lorraine County
 c_luneburg;LUN;Luneburg;Luneburg County
 d_mainz;MAI;Mainz;Mainz Duchy
@@ -224,6 +239,7 @@ k_navarra;NAV;Navarra;Navarra Kingdom
 d_navarra;NAV;Navarra;Navarra Duchy
 c_navarra;NAV;Navarra;Navarra County
 k_portugal;POR;Portugal;Portugal Kingdom
+d_porto;POR;Portugal;Portugal Duchy
 k_andalusia;ADU;Andalusia;Andalusia Kingdom
 e_spain;SPA;Spain;Spain Empire
 k_spanish_galicia;GAL;Galicia;Galicia Kingdom
@@ -231,6 +247,8 @@ d_galicia;GAL;Galicia;Galicia Duchy
 k_leon;LON;Leon;Leon Kingdom
 d_leon;LON;Leon;Leon Duchy
 c_leon;LON;Leon;Leon County
+k_catalunya;CAT;Catalunya;Catalunya Kingdom
+d_barcelona;CAT;Catalunya;Catalunya Duchy
 
 # Italy
 
@@ -282,16 +300,23 @@ c_firenze;LAN;Florence;Florence County
 
 d_brabant;BRB;Brabant;Brabant Duchy
 c_brabant;BRB;Brabant;Brabant County
+k_flanders;FLA;Flanders;Flanders Kingdom
 d_flanders;FLA;Flanders;Flanders Duchy
 d_gelre;GEL;Gelre;Gelre Duchy
 c_gelre;GEL;Gelre;Gelre County
+d_hainaut;HAI;Hainaut;Hainut Duchy
 c_hainaut;HAI;Hainaut;Hainut County
 d_holland;HOL;Holland;Holland Duchy
 c_holland;HOL;Holland;Holland County
+d_liege;LIE;Liege;Liege Duchy
 c_liege;LIE;Liege;Liege County
 d_luxembourg;LUX;Luxembourg;Luxembourg Duchy
 c_luxembourg;LUX;Luxembourg;Luxembourg County
+k_frisia;FRI;Friesland;Friesland Kingdom
+d_frisia;FRI;Friesland;Friesland County
 c_friesland;FRI;Friesland;Friesland County
+d_utrecht;UTR;Utrecht;Utrecht Duchy
+c_sticht;UTR;Utrecht;Utrecht County
 
 # Russia
 
@@ -515,6 +540,7 @@ c_nagauda;NGA;Nagaur;Nagaur County
 
 d_lubeck;HSA;Hansa;Lubeck Duchy
 c_lubeck;HSA;Hansa;Lubeck County
+d_barleduc;BAR;Bar;Bar Duchy
 c_bar;BAR;Bar;Bar County
 d_smolensk;SMO;Smolensk;Smolensk Duchy
 c_smolensk;SMO;Smolensk;Smolensk County
@@ -530,8 +556,6 @@ k_israel;ISR;Israel;Kingdom of Israel Special Case
 d_knights_templar;TEM;KnightsTemplar;Knights Templar Special Case
 
 ;GUY;Guyenne;Guyenne exists in EU4, not CK2
-;ALE;Alencon;Alencon exists in EU4, not CK2
-;UTR;Utrecht;Utrecht exists in EU4, not CK2
 ;NOG;Nogai;Nogai exists in EU4, not CK2
 ;AST;Astrakhan;Astrakhan exists in EU4, not CK2
 ;MUG;Mughal;Mughal exists in EU4, not CK2
