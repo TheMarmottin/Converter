@@ -1307,7 +1307,7 @@ c_ifni;348;348 - Sus;Ifni - Sus
 c_ifni;2470;2470 - Haha;Ifni - Haha
 c_ifni;1110;1110 - Agadir;Ifni - Agadir
 c_ifni;347;347 - Ifni;Ifni - Ifni
-c_tharasset;347 - Ifni;Tharasset - Ifni
+c_tharasset;347;347 - Ifni;Tharasset - Ifni
 
 c_marrakech;344;344 - Marrakech;Marrakech - Marrakech
 c_marrakech;2467;2467 - Meknes;Marrakech - Meknes
@@ -2157,7 +2157,7 @@ c_mordva;302;302 - Tambow;Mordva - Tambov
 c_burtasy;303;303 - Saratow;Lower Volga - Saratov
 c_burtasy;2415;2415 - Etkara;Lower Volga - Etkara
 
-c_mountain_cheremisa;1304;304 - Pensa;Mountain Cheremisa - Penza
+c_mountain_cheremisa;304;304 - Pensa;Mountain Cheremisa - Penza
 
 c_chuvash;2423;2423 - Alatyr;Chuvash - Alatyr
 
@@ -2311,7 +2311,7 @@ c_thana;517;517 - Surat;Thana - Surat
 
 
 d_nasikya;2034;2034 - Pune;Duchy Nasikya - Pune
-c_nasikya;2034;517 - Pune;Nasikya - Pune
+c_nasikya;2034;2034 - Pune;Nasikya - Pune
 c_kondana;2034;2034 - Pune;Kondana - Pune
 
 c_nandurbar;2036;2036 - Baglana;Nandurbar - Baglana
@@ -2606,7 +2606,7 @@ c_dwarasamudra;541;541 - Vijayanagar;Dwarasamudra - Vijayanagara
 c_alampur;541;541 - Vijayanagar;Alampur - Vijayanagara
 c_banavasi;541;541 - Vijayanagar;Banavasi - Vijayanagara
 
-c_dwarasamudra;2023;2032 - Melenadu;Dwarasamudra - Melenadu
+c_dwarasamudra;2032;2032 - Melenadu;Dwarasamudra - Melenadu
 
 d_gangavadi;2031;2031 - Morasandu;Duchy Gangavadi - Morasandu
 c_manyapura;2031;2031 - Morasandu;Manyapura - Morasandu
