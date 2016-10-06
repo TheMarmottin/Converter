@@ -12,8 +12,10 @@ c_ayodhya;523;523 - Oudh;Ayodhya - Lucknow
 
 d_vodamayutja;2061;2061 - Katehar;Duchy Vodamayutja - Katehar
 c_katehar;2061;2061 - Katehar;Katehar - Katehar
+c_katehar;2061;2061 - Katehar;Duplicate to increase weight
 c_vodamayutja;2061;2061 - Katehar;Vodamayutja - Katehar
 c_sambhal;2061;2061 - Katehar;Sambhal - Katehar
+c_naimisa;2061;2061 - Katehar;Namisa - Katehar
 
 d_saryupara;2094;2094 - Bahreich;Duchy Saryupara - Bahreich
 c_ayodhya;2094;2094 - Bahreich;Ayodhya - Bahreich
@@ -26,36 +28,39 @@ c_sravasti;2094;2094 - Bahreich;Sravasti - Bahreich
 ### Lower Doab
 
 c_prayaga;556;556 - Lower Doab;Prayaga - Lower Doab
+c_prayaga;556;556 - Lower Doab;Duplicate to increase weight
 c_asni;556;556 - Lower Doab;Asni - Lower Doab
+c_asni;556;556 - Lower Doab;Duplicate to increase weight
 c_gurgi;556;556 - Lower Doab;Gurgi - Lower Doab
 c_mahoba;556;556 - Lower Doab;Mahoba - Lower Doab
 c_bharauli;556;556 - Lower Doab;Bharauli - Lower Doab
 
-c_mahoba;559;559 - Bundelkhand;Mahoba - Bundelkhand
 c_kalanjara;559;559 - Bundelkhand;Kalanjara - Bundelkhand
-c_gwalior;559;559 - Bundelkhand;Gwalior - Bundelkhand
-c_chanderi;559;559 - Bundelkhand;Chanderi - Bundelkhand
+c_kalanjara;559;559 - Bundelkhand;Duplicate to increase weight
+c_mahoba;559;559 - Bundelkhand;Mahoba - Bundelkhand
 
 c_kalpi;2059;2059 - Kalpi;Kalpi - Kalpi
+c_kalpi;2059;2059 - Kalpi;Duplicate to increase weight
 c_mahoba;2059;2059 - Kalpi;Mahoba - Kalpi
 c_gwalior;2059;2059 - Kalpi;Gwalior - Kalpi
 c_kanyakubja;2059;2059 - Kalpi;Kanyakubja - Kalpi
 
 c_gurgi;2097;2097 - Bagelkhand;Gurgi - Baghelkhand
-c_kalanjara;2097;2097 - Bagelkhand;Kalanjara - Baghelkhand
 
 ### Central Doab
 
 c_kol;524;524 - Central Doab;Kol - Central Doab
+c_kol;524;524 - Central Doab;Duplicate to increase weight
 c_kol;524;524 - Central Doab;Duplicate to increase weight
 c_mathura;524;524 - Central Doab;Mathura - Central Doab
 c_delhi;522;522 - Delhi;Delhi - Central Doab
 
 c_gwalior;525;525 - Gird;Gwalior - Gird
 c_gwalior;525;525 - Gird;Duplicate to increase weight
+c_gwalior;525;525 - Gird;Duplicate to increase weight
 c_mathura;525;525 - Gird;Mathura - Gird
-c_mahoba;525;525 - Gird;Mahoba - Gird
 c_sripatha;525;525 - Gird;Sripatha - Gird
+c_candhoba;525;525 - Gird;Candhoba - Gird
 
 c_kanyakubja;2063;2063 - Etawah;Kanyakubja - Etawah
 
@@ -76,11 +81,12 @@ c_tribandapura;2062;2062 - Panipat;Tribandapura - Panipat
 ### Sirhind
 
 c_hisar;510;510 - Sirhind;Hisar - Sirhind
+c_hisar;510;510 - Sirhind;Duplicate to increase weight
+c_sthanisvara;510;510 - Sirhind;Sthanisvara - Sirhind
 
 c_sarasvati;2065;2065 - Bhattiana;Sarasvati - Bhattiana
 c_sarasvati;2065;2065 - Bhattiana;Duplicate to increase weight
 c_tribandapura;2065;2065 - Bhattiana;Tribandapura - Bhattiana
-c_dipalpur;2065;2065 - Bhattiana;Dialpur - Bhattiana
 
 c_trigarta;2075;2075 - Doaba;Trigarta - Doaba
 c_trigarta;2075;2075 - Doaba;Duplicate to increase weight
@@ -93,9 +99,11 @@ c_lahur;507;507 - Lahore;Lahur - Lahore
 c_lahur;507;507 - Lahore;Duplicate to increase weight
 c_shorkot;507;507 - Lahore;Shorkot - Lahore
 c_bhera;507;507 - Lahore;Bhera - Lahore
+c_dipalpur;507;507 - Lahore;Dialpur - Lahore
 
 c_lahur;2076;2076 - Sialkot;Lahur - Sialkot
 c_bhera;2076;2076 - Sialkot;Bhera - Sialkot
+c_gurjaratra;2076;2076 - Sialkot;Gurjarata - Sialkot
 
 c_nandana;2077;2077 - Margalla;Nandana - Margalla
 c_nandana;2077;2077 - Margalla;Duplicate to increase weight
@@ -107,12 +115,10 @@ c_purushapura;2077;2077 - Margalla;Purushapura - Margalla
 c_multan;506;506 - Multan;Multan - Multan
 c_multan;506;506 - Multan;Duplicate to increase weight
 c_dipalpur;506;506 - Multan;Dialpur - Multan
-c_karur;506;506 - Multan;Karur - Multan
+c_shorkot;506;506 - Multan;Shorkot - Multan
 
 c_karor;2078;2078 - Sind Sagar;Karor - Sind Sagar
-c_karor;2078;2078 - Sind Sagar;Duplicate to increase weight
 c_nandana;2078;2078 - Sind Sagar;Nandana - Sind Sagar
-c_bhera;2078;2078 - Sind Sagar;Bhera - Sind Sagar
 
 c_rajanpur;2079;2079 - Derajat;Rajanpur - Derajat
 c_kafirkot;2079;2079 - Derajat;Kafirkot - Derajat
@@ -125,6 +131,7 @@ c_karur;2086;2086 - Cholistan;Karur - Cholistan
 ### Kashmir
 
 c_kasmira;508;508 - Kashmir;Kasmira - Kashmir
+c_kasmira;508;508 - Kashmir;Duplicate to increase weight
 c_sakala;508;508 - Kashmir;Sakala - Kashmir
 c_gurjaratra;508;508 - Kashmir;Gurjarata - Kashmir
 c_nandana;508;508 - Kashmir;Nandana - Kashmir
@@ -132,892 +139,181 @@ c_nandana;508;508 - Kashmir;Nandana - Kashmir
 c_vakhan;2073;2073 - Baltistan;Vakhân - Baltistan
 
 #### Ladakh (off-map)
-
 ## Western India
 ### Marwar
 
-####;512;512 - Jangladesh;Jangladesh
+d_jangladesh;512;512 - Jangladesh;Duchy Jangladesh - Jangladesh
+c_reni;512;512 - Jangladesh;Reni - Jangladesh
+c_reni;512;512 - Jangladesh;Duplicate to increase weight
+c_vikramapura;512;512 - Jangladesh;Vikramapura - Jangladesh
+c_vikramapura;512;512 - Jangladesh;Duplicate to increase weight
+c_nagauda;512;512 - Jangladesh;Nagauda - Jangladesh
+c_karur;512;512 - Jangladesh;Karur - Jangladesh
 
-####;513;513 - Jaisalmer;Jaisalmer
+c_ludrava;513;513 - Jaisalmer;Ludrava - Jaisalmer
+c_ludrava;513;513 - Jaisalmer;Duplicate to increase weight
+c_vikramapura;513;513 - Jaisalmer;Vikramapura - Jaisalmer
 
-####;514;514 - Marwar;Marwar
+d_maru;514;514 - Marwar;Duchy Maru - Marwar
+c_mandavyapura;514;514 - Marwar;Mandavyapura - Marwar
+c_ludrava;514;514 - Marwar;Ludrava - Marwar
+c_satyapura;514;514 - Marwar;Satyapura - Marwar
+c_medantaka;514;514 - Marwar;Medantaka - Marwar
+c_vikramapura;514;514 - Marwar;Vikramapura - Marwar
 
-####;2066;2066 - Nagaur;Nagaur
+c_nagauda;2066;2066 - Nagaur;Nagauda - Nagaur
+c_nagauda;2066;2066 - Nagaur;Duplicate to increase weight
+c_ajayameru;2066;2066 - Nagaur;Ajayameru - Nagaur
+c_vikramapura;2066;2066 - Nagaur;Vikramapura - Nagaur
+c_medantaka;2066;2066 - Nagaur;Medantaka - Nagaur
 
-####;2067;2067 - Gorwar;Gorwar
+c_godwad;2067;2067 - Gorwar;Godwad - Gorwar
+c_mandavyapura;2067;2067 - Gorwar;Mandavyapura - Gorwar
+c_satyapura;2067;2067 - Gorwar;Satyapura - Gorwar
 
 ### Mewar
 
-####;518;518 - Chittor;Chittor
+c_chitrakut;518;518 - Chittor;Chitrakut - Chittor
+c_chitrakut;518;518 - Chittor;Duplicate to increase weight
+c_chitrakut;518;518 - Chittor;Duplicate to increase weight
+c_godwad;518;518 - Chittor;Godwad - Chittor
+c_ajayameru;518;518 - Chittor;Ajayameru  - Chittor
+c_mandavyapura;518;518 - Chittor;Mandavyapura  - Chittor
+c_ranthambore;518;518 - Chittor;Ranthambore  - Chittor
 
-####;528;528 - Hadoti;Hadoti
+c_kota;528;528 - Hadoti;Kota - Hadoti
+c_candhoba;528;528 - Hadoti;Candhoba - Hadoti
+c_ranthambore;528;528 - Hadoti;Ranthambore - Hadoti
+c_sarangpur;528;528 - Hadoti;Sarangpur - Hadoti
+c_ujjayini;528;528 - Hadoti;Ujjayini - Hadoti
 
-####;2058;2058 - Mewar;Mewar
+d_medapata;2058;2058 - Mewar;Duchy Medapata - Mewar
+c_medapata;2058;2058 - Mewar;Medapata - Mewar
+c_medapata;2058;2058 - Mewar;Duplicate to increase weight
+c_godwad;2058;2058 - Mewar;Godwad - Mewar
 
-####;2087;2087 - Ajmer;Ajmer
+d_ajmer;2087;2087 - Ajmer;Duchy Ajmer - Ajmer
+c_ajayameru;2087;2087 - Ajmer;Ajayameru - Ajmer
+c_ajayameru;2087;2087 - Ajmer;Duplicate to increase weight
+c_ranthambore;2087;2087 - Ajmer;Ranthambore - Ajmer
 
 ### Jaipur
 
-####;519;519 - Dhundar;Dhundar
+c_sripatha;519;519 - Dhundar;Sripatha - Dhundar
+c_sripatha;519;519 - Dhundar;Duplicate to increase weight
+c_vairata;519;519 - Dhundar;Vairata - Dhundar
+c_mathura;519;519 - Dhundar;Mathura - Dhundar
 
-####;520;520 - Mewat;Mewat
+c_mathura;520;520 - Mewat;Mathura - Mewat
+c_tribandapura;520;520 - Mewat;Tribandapura - Mewat
+c_vairata;520;520 - Mewat;Vairata - Mewat
 
-####;2064;2064 - Shekhawati;Shekhawati
+c_vairata;2064;2064 - Shekhawati;Vairata - Shekhawati
 
 ### Malwa
 
-####;526;526 - Mandu;Mandu
+c_mandapika;526;526 - Mandu;Mandapika - Mandu
+c_asirgarh;526;526 - Mandu;Asirgarh - Mandu
+c_dhara;526;526 - Mandu;Dhara - Mandu
+c_ujjayini;526;526 - Mandu;Ujjayini - Mandu
 
-####;740;740 - Chanderi;Chanderi
+c_chanderi;740;740 - Chanderi;Chanderi - Chanderi
+c_vidisa;740;740 - Chanderi;Vidisa - Chanderi
+c_damoh;740;740 - Chanderi;Damoh - Chanderi
+c_candhoba;740;740 - Chanderi;Candhoba - Chanderi
 
-####;2057;2057 - Bhelsa;Bhilsa
+#### Bhilsa (off-map)
 
-####;2093;2093 - Mandsaur;Mandsaur
+c_dasapura;2093;2093 - Mandsaur;Dasapura - Mandsaur
+c_sarangpur;2093;2093 - Mandsaur;Sarangpur - Mandsaur
+c_ujjayini;2093;2093 - Mandsaur;Ujjayini - Mandsaur
+c_dhara;2093;2093 - Mandsaur;Dhara - Mandsaur
 
 ### Gujarat
 
-####;2053;2053 - Patan;Patan
+c_sarasvata_mandala;2053;2053 - Patan;Sarasvata Mandala - Patan
+c_sarasvata_mandala;2053;2053 - Patan;Duplicate to increase weight
+c_satyapura;2053;2053 - Patan;Satyapura - Patan
 
-####;2054;2054 - Ahmadabad;Ahmadabad
+c_khetaka;2054;2054 - Ahmadabad;Khetaka - Ahmadabad
+c_khetaka;2054;2054 - Ahmadabad;Duplicate to increase weight
+c_sarasvata_mandala;2054;2054 - Ahmadabad;Sarasvata Mandala - Ahmadabad
 
-####;2056;2056 - Rewa Kantha;Rewakantha
+c_mohadavas;2056;2056 - Rewa Kantha;Mohadavasaka - Rewakantha
+c_dadhipadra;2056;2056 - Rewa Kantha;Dadhipadra - Rewakantha
 
 ### Saurashtra
 
-####;503;503 - Kutch;Kutch
+c_kutch;503;503 - Kutch;Kutch - Kutch
 
-####;515;515 - Girnar;Girnar
+c_bhumilka;515;515 - Girnar;Bhumilka - Girnar
+c_somnath;515;515 - Girnar;Somnath - Girnar
 
-####;521;521 - Kathiawar;Kathiawar
+c_vardhamana;521;521 - Kathiawar;Vardhamana - Kathiawar
+c_vardhamana;521;521 - Kathiawar;Duplicate to increase weight
+c_sarasvata_mandala;521;521 - Kathiawar;Sarasvata Mandala - Kathiawar
 
-####;2051;2051 - Bhavnagar;Bhavnagar
+c_valabhi;2051;2051 - Bhavnagar;Valabhi - Bhavnagar
+c_somnath;2051;2051 - Bhavnagar;Somnath - Bhavnagar
 
-####;2052;2052 - Navanagar;Navanagar
+c_dvaraka;2052;2052 - Navanagar;Dvaraka - Navanagar
+c_dhamalpur;2052;2052 - Navanagar;Dhamalpur - Navanagar
 
 ### Tapti
 
-####;516;516 - Baroda;Baroda
+c_navasarika;516;516 - Baroda;Navasarika - Baroda
+c_vadodara;516;516 - Baroda;Vadodara - Baroda
 
-####;517;517 - Surat;Surat
+c_navasarika;517;517 - Surat;Navasarika - Surat
 
-####;2036;2036 - Baglana;Baglana
-
+#### Baglana (off-map)
 ### Sindh
 
-####;504;504 - Thatta;Thatta
+c_debul;504;504 - Thatta;Debul - Thatta
 
-####;505;505 - Sehwan;Sehwan
+c_siwistan;505;505 - Sehwan;Siwistan - Sehwan
+c_ranikot;505;505 - Sehwan;Siwistan - Sehwan
+c_aror;505;505 - Sehwan;Aror - Sehwan
+c_kandail;505;505 - Sehwan;Kandail - Sehwan
 
-####;2072;2072 - Bhakkar;Bhakkar
+d_bhakkar;2072;2072 - Bhakkar;Duchy Bhakkar - Bhakkar
+c_bhakkar;2072;2072 - Bhakkar;Bhakkar - Bhakkar
+c_vijnot;2072;2072 - Bhakkar;Vijnot - Bhakkar
+c_kandail;2072;2072 - Bhakkar;Kandail - Bhakkar
+c_aror;2072;2072 - Bhakkar;Aror - Bhakkar
 
-####;2088;2088 - Umarkot;Umarkot
+c_mansura;2088;2088 - Umarkot;Mansura - Umarkot
+c_mansura;2088;2088 - Umarkot;Duplicate to increase weight
+c_sonda;2088;2088 - Umarkot;Sonda - Umarkot
+c_sonda;2088;2088 - Umarkot;Duplicate to increase weight
+c_ludrava;2088;2088 - Umarkot;Ludrava - Umarkot
 
 ### Konkan
 
-####;529;529 - North Konkan;North Konkan
+c_daman;529;529 - North Konkan;Daman - North Konkan
 
-####;530;530 - South Konkan;South Konkan
-
-####;2089;2089 - Chaul;Chaul
-
+#### South Konkan (off-map)
+#### Chaul (off-map)
 ## Deccan
 ### Maharashtra
 
-####;527;527 - Khandesh;Khandesh
-
-####;545;545 - Marathwada;Marathwada
-
-####;548;548 - West Berar;West Berar
-
-### Gondwana
-
-####;550;550 - Mahakoshal;Mahakoshal
-
-####;551;551 - Mandla;Mandla
-
-####;546;546 - East Berar;East Berar
-
-####;547;547 - Bastar;Bastar
-
-####;2050;2050 - Chanda;Chanda
-
-####;2082;2082 - Raipur;Raipur
-
-####;2092;2092 - Mahadeo;Mahadeo
-
-### Telingana
-
-####;542;542 - Golconda;Golconda
-
-####;2028;2028 - Mahur;Mahur
-
-####;2037;2037 - Warangal;Warangal
-
-### Maidan
-
-####;532;532 - Raichur Doab;Raichur Doab
-
-####;569;569 - Bijapur;Bijapur
-
-####;1948;1948 - Bidar;Bidar
-
-####;2033;2033 - Savanaur;Savanur
-
-####;2035;2035 - Gulbarga;Gulbarga
-
-### Desh
-
-####;544;544 - Ahmadnagar;Ahmadnagar
-
-####;1946;1946 - Desh;Desh
-
-####;2034;2034 - Pune;Pune
-
-### Rayalaseema
-
-####;541;541 - Vijayanagar;Vijayanagar
-
-####;1949;1949 - Rayalaseema;Rayalaseema
-
-####;2090;2090 - Kurnool;Kurnool
-
-### Mysore
-
-####;533;533 - Mysore;Mysore
-
-####;2031;2031 - Morasanadu;Morasanadu
-
-####;2032;2032 - Malenadu;Malenadu
-
-### Kanara
-
-####;531;531 - North Kanara;North Kanara
-
-####;2029;2029 - South Kanara;South Kanara
-
-####;2030;2030 - Goa;Goa
-
-### Kerala
-
-####;534;534 - Malabar;Malabar
-
-####;535;535 - Kochin;Kochin
-
-####;537;537 - Venad;Venad
-
-## Coromandel
-### Andhra
-
-####;543;543 - Velanadu;Velanadu
-
-####;549;549 - Kalingandhra;Kalingandhra
-
-####;2080;2080 - Srikakulam;Srikakulam
-
-####;2084;2084 - Konaseema;Konaseema
-
-### Coromandel
-
-####;539;539 - Tondainadu;Tondainadu
-
-####;540;540 - Coromandel;Coromandel
-
-####;2083;2083 - Kosta;Kosta
-
-### Madura
-
-####;536;536 - Madurai;Madurai
-
-####;2026;2026 - Tanjore;Tanjore
-
-####;2101;2101 - Tirunelveli;Tirunelveli
-
-### Lanka
-
-####;572;572 - Kotte;Kotte
-
-####;2099;2099 - Kandy;Kandy
-
-####;2100;2100 - Vanni;Vanni
-
-### Carnatic
-
-####;538;538 - Kongu;Kongu
-
-####;1947;1947 - Gingee;Gingee
-
-####;2027;2027 - Arcot;Arcot
-
-####;2085;2085 - Tiruchirapalli;Tiruchirappalli
-
-# East Indies
-## Burma
-### Kachin
-
-####;582;582 - Mong Yang;Mong Yang
-
-####;2395;2395 - Hkamti Long;Hkamti Long
-
-####;2396;2396 - Mong Kawng;Mong Kawng
-
-####;2397;2397 - Tamanthi;Tamanthi
-
-### Upper Burma
-
-####;580;580 - Kale;Kale
-
-####;581;581 - Sagaing;Sagaing
-
-####;584;584 - Ava;Ava
-
-####;2398;2398 - Thaungdut;Thaungdut
-
-####;2399;2399 - Pagan;Pagan
-
-### Lower Burma
-
-####;579;579 - Mrauk U;Mrauk U
-
-####;585;585 - Taungoo;Taungoo
-
-####;586;586 - Pegu;Pegu
-
-####;590;590 - Moulmein;Moulmein
-
-####;1815;1815 - Pathein;Pathein
-
-####;2402;2402 - Sandoway;Sandoway
-
-####;2403;2403 - Martaban;Martaban
-
-### Shan Hills
-
-####;583;583 - Hsenwi;Hsenwi
-
-####;587;587 - Kengtung;Kengtung
-
-####;588;588 - Mong Nai;Mong Nai
-
-####;589;589 - Chiang Mai;Chiang Mai
-
-####;2400;2400 - Hsipaw;Hsipaw
-
-####;2401;2401 - Mong Pai;Mong Pai
-
-### Northern Thailand
-
-####;601;601 - Sukhothai;Sukhothai
-
-####;602;602 - Chiang Rai;Chiang Rai
-
-####;1817;1817 - Nan;Nan
-
-## Malaya
-### North Sumatra
-
-####;617;617 - Lamuri;Lamuri
-
-####;618;618 - Deli;Deli
-
-####;619;619 - Batak;Batak
-
-####;2673;2673 - Pasai;Pasai
-
-####;2674;2674 - Peureulak;Peureulak
-
-####;2684;2684 - Nias;Nias
-
-####;2685;2685 - Gayo;Gayo
-
-### Central Sumatra
-
-####;620;620 - Siak;Siak
-
-####;659;659 - Lingga;Lingga
-
-####;2675;2675 - Rokan;Rokan
-
-####;2676;2676 - Indragiri;Indragiri
-
-####;2677;2677 - Jambi;Jambi
-
-####;2680;2680 - Muko-Muko;Muko-Muko
-
-####;2681;2681 - Pagarruyung;Pagarruyung
-
-####;2682;2682 - Pariaman;Pariaman
-
-####;2683;2683 - Mentawai;Mentawai
-
-### South Sumatra
-
-####;621;621 - Bengkulu;Bengkulu
-
-####;622;622 - Palembang;Palembang
-
-####;623;623 - Tulangbewang;Tulangbewang
-
-####;2678;2678 - Bangka;Bangka
-
-####;2679;2679 - Belitung;Belitung
-
-### Indian Ocean Islands
-
-####;574;574 - The Andamans;The Andamans
-
-####;1101;1101 - Diego Garcia;Diego Garcia
-
-####;1998;1998 - Christmas Island;Christmas Island
-
-####;1999;1999 - Cocos Island;Cocos Island
-
-####;1248;1248 - Maldives;Maldives
-
-### Tenasserim
-
-####;591;591 - Tavoy;Tavoy
-
-####;592;592 - Ratchaburi;Ratchaburi
-
-####;593;593 - Nakhon Si Thammarat;Nakhon Si Thammarat
-
-####;2387;2387 - Phetchaburi;Phetchaburi
-
-####;2390;2390 -  Chaiya;Chaiya
-
-####;2391;2391 -  Thalang;Thalang
-
-####;2394;2394 - Kedah;Kedah
-
-####;2404;2404 - Mergui;Mergui/Marit/Myeik
-
-### Malaya
-
-####;594;594 - Pattani;Pattani
-
-####;595;595 - Perak;Perak
-
-####;596;596 - Malacca;Malacca
-
-####;597;597 - Johor;Johor
-
-####;598;598 - Pahang;Pahang
-
-####;599;599 - Kelantan;Kelantan
-
-####;2392;2392 - Selangor;Selangor
-
-####;2393;2393 - Terengganu;Terengganu
-
-####;2686;2686 - Bintan;Bintan
-
-## Moluccas
-### Moluccas
-
-####;645;645 - Buru;Buru
-
-####;646;646 - Ambon;Ambon
-
-####;647;647 - Ceram;Ceram
-
-####;648;648 - Halmahera;Halmahera
-
-####;649;649 - Ternate;Ternate
-
-####;650;650 - Tidore;Tidore
-
-####;2696;2696 - Yamdena;Yamdena
-
-####;2717;2717 - Sula;Sula
-
-####;2725;2725 - Aru;Aru
-
-### Sulawesi
-
-####;641;641 - Makassar;Makassar
-
-####;642;642 - Kendari;Kendari
-
-####;643;643 - Poso;Poso
-
-####;644;644 - Manado;Manado
-
-####;2713;2713 - Gorontalo;Gorontalo
-
-####;2714;2714 - Palu;Palu
-
-####;2715;2715 - Palopo;Palopo
-
-####;2716;2716 - Buton;Buton
-
-### Luzon
-
-####;656;656 - Manila;Manila
-
-####;657;657 - Ilocos;Ilocos
-
-####;658;658 - Cagayan;Cagayan
-
-####;2697;2697 - Tondo;Tondo
-
-####;2698;2698 - Pangasinan;Pangasinan
-
-####;2699;2699 - Bikol;Bikol
-
-####;655;655 - Palawan;Palawan
-
-### Great Moluccas
-
-####;652;652 - Maguindanao;Maguindanao
-
-####;653;653 - Lanao;Lanao
-
-####;2701;2701 - Tagloc;Tagloc
-
-####;2702;2702 - Butuan;Butuan
-
-####;654;654 - Visayas;Visayas
-
-####;2700;2700 - Panay;Panay
-
-### Papua
-
-####;1237;1237 - Hanuabada;Hanuabada
-
-####;1245;1245 - Manokwari;Manokwari
-
-####;2718;2718 - Fak-Fak;Fak-Fak
-
-####;2719;2719 - Madang;Madang
-
-####;2720;2720 - Lae;Lae
-
-####;2721;2721 - Kerema;Kerema
-
-####;2722;2722 - Daru;Daru
-
-####;2723;2723 - Yos Sudarso;Yos Sudarso
-
-####;2724;2724 - Asmat;Asmat
-
-## Indonesia
-### Kutai
-
-####;638;638 - Kutai;Kutai
-
-####;2709;2709 - Tarakan;Tarakan
-
-####;2710;2710 - Berau;Berau
-
-####;2711;2711 - Bulungan;Bulungan
-
-####;2712;2712 - Samarinda;Samarinda
-
-### Brunei
-
-####;636;636 - Brunei;Brunei
-
-####;637;637 - Jesselton;Jesselton
-
-####;651;651 - Sulu;Sulu
-
-####;2703;2703 - Lehad Datu;Lehad Datu
-
-####;2704;2704 - Sibu;Sibu
-
-####;2705;2705 - Kuching;Kuching
-
-### Kalimantan
-
-####;639;639 - Banjar;Banjar
-
-####;640;640 - Pontianak;Pontianak
-
-####;2706;2706 - Katapang;Katapang
-
-####;2707;2707 - Barito;Barito
-
-####;2708;2708 - Sampit;Sampit
-
-### East Java
-
-####;627;627 - Blambangan;Blambangan
-
-####;628;628 - Surabaya;Surabaya
-
-####;2691;2691 - Kediri;Kediri
-
-####;2692;2692 - Madura;Madura
-
-### Central Java
-
-####;626;626 - Karta;Karta
-
-####;629;629 - Demak;Demak
-
-####;2689;2689 - Kendal;Kendal
-
-####;2690;2690 - Pajang;Pajang
-
-### West Java
-
-####;624;624 - Banten;Banten
-
-####;630;630 - Kalapa;Kalapa
-
-####;2687;2687 - Pakuan;Pakuan
-
-####;2688;2688 - Cirebon;Cirebon
-
-####;625;625 - Ciamis;Kawali
-
-### Lesser Sunda Islands
-
-####;631;631 - Bali;Bali
-
-####;632;632 - Sumbawa;Sumbawa
-
-####;633;633 - Flores;Flores
-
-####;634;634 - Sumba;Sumba
-
-####;635;635 -West Timor;West Timor
-
-####;2693;2693 - Lombok;Lombok
-
-####;2695;2695 - East Timor;East Timor
-
-## Indochina
-### Vietnam
-
-####;610;610 - Thanh Hoa;Thanh Hoa
-
-####;613;613 - Dong Kinh;Dong Kinh
-
-####;616;616 - Cao Bang;Cao Bang
-
-####;1016;1016 - Ha Tinh;Ha Tinh
-
-####;2372;2372 - Hai Phong;Hai Phong
-
-####;2373;2373 - Hue;Hue
-
-### South Laos
-
-####;608;608 - Champassak;Champasak
-
-####;611;611 - Sikhottabong;Sikhottabong
-
-####;614;614 - Vientiane;Vientiane
-
-####;2382;2382 - Savanh Nakhone;Savanh Nakhone
-
-### North Laos
-
-####;615;615 - Luang Prabang;Luang Prabang
-
-####;1844;1844 - Xiankhouang;Xiankhouang
-
-####;2371;2371 - Song La;Song La
-
-####;2381;2381 - Luang Namtha;Luang Namtha
-
-### Central Thailand
-
-####;600;600 - Ayutthaya;Ayutthaya
-
-####;603;603 - Nakhon Thung Yai;Nakhon Thung Yai
-
-####;2388;2388 - Phitsanulok;Phitsanulok
-
-####;2389;2389 - Phra Bang;Phra Bang
-
-### Cambodia
-
-####;604;604 - Oudong;Oudong
-
-####;609;609 - Angkor;Angkor
-
-####;1823;1823 - Stung Treng;Stung Treng
-
-####;2378;2378 - Kratie;Kratie
-
-####;2379;2379 - Battambang;Battambang
-
-### Mekong
-
-####;605;605 - Prey Nokor;Prey Nokor
-
-####;2376;2376 - Prek Russey;Prek Russey
-
-####;2377;2377 - Teuk Khmao;Teuk Khmao
-
-####;2380;2380 - Phnom Penh;Phnom Penh
-
-### Champa
-
-####;606;606 - Panduranga;Panduranga
-
-####;607;607 - Vijaya;Vijaya
-
-####;1022;1022 - Indrapura;Indrapura
-
-####;2374;2374 - Kauthara;Kauthara
-
-####;2375;2375 - Tay Nguyen;Tay Nguyen
-
-### Khorat
-
-####;612;612 - Khorat;Khorat
-
-####;2383;2383 - Khukhanor Surin;Khukhanor Surin
-
-####;2384;2384 - Nong Khai;Nong Khai
-
-####;2385;2385 - Nongbua Lamphu;Nongbua Lamphu
-
-####;2386;2386 - Chaiyaphum;Chaiyaphum
-
-# China
-## North China
-### Hebei
-
-####;695;695 - Hejian;Hejian
-
-####;696;696 - Baoding;Baoding
-
-####;703;703 - Chengde;Chengde
-
-####;1816;1816 - Beijing;Beijing
-
-####;2136;2136 - Xuanhua;Xuanhua
-
-####;2137;2137 - Daming;Daming
-
-### Shandong
-
-####;690;690 - Qingzhou;Qingzhou
-
-####;691;691 - Jinan;Jinan
-
-####;2138;2138 - Wuding;Wuding
-
-####;2139;2139 - Laizhou;Laizhou
-
-####;2140;2140 - Yanzhou;Yanzhou
-
-### Henan
-
-####;687;687 - Nanyang;Nanyang
-
-####;688;688 - Kaifeng;Kaifeng
-
-####;692;692 - Huaiqing;Huaiqing
-
-####;1836;1836 - Luoyang;Luoyang
-
-####;2175;2175 - Runing;Runing
-
-####;2176;2176 - Shangqiu;Shangqiu
-
-### Shanxi
-
-####;693;693 - Taiyuan;Taiyuan
-
-####;694;694 - Pingyang;Pingyang
-
-####;697;697 - Datong;Datong
-
-####;2177;2177 - Ningwu;Ningwu
-
-####;2178;2178 - Lu'an;Lu'an
-
-### Gansu
-
-####;698;698 - Ningxia;Ningxia
-
-####;699;699 - Lanzhou;Lanzhou
-
-####;707;707 - Yumen;Yumen
-
-####;708;708 - Gansu;Zhangye
-
-####;2181;2181 - Pingliang;Pingliang
-
-####;2182;2182 - Liangzhou;Liangzhou
-
-####;2183;2183 - Taozhou;Taozhou
-
-####;2184;2184 - Xining;Xining
-
-### Shaanxi
-
-####;689;689 - Hanzhong;Hanzhong
-
-####;700;700 - Xi'an;Xi'an
-
-####;2179;2179 - Yan'an;Yan'an
-
-####;2180;2180 - Tianshui;Tianshui
-
-## Xinan
-### Sichuan
-
-####;675;675 - Umung;Umung
-
-####;679;679 - Chengdu;Chengdu
-
-####;680;680 - Chongqing;Chongqing
-
-####;2168;2168 - Bozhou;Bozhou
-
-####;2169;2169 - Langzhong;Langzhong
-
-####;2170;2170 - Songqu;Songqu
-
-####;2748;2748 - Jianchang;Jianchang
-
-### Yun-Gui
-
-####;660;660 - Sibsongbanna;Sibsongbanna
-
-####;661;661 - Dali;Dali
-
-####;662;662 - Yunnan;Yunnan
-
-####;663;663 - Guangnan;Guangnan
-
-####;673;673 - Zhenyuan;Zhenyuan
-
-####;674;674 - Guiyang;Guiyang
-
-####;2165;2165 - Pu'er;Pu'er
-
-####;2166;2166 - Dehong;Dehong
-
-####;2167;2167 - Lijiang;Lijiang
-
-### Guangxi
-
-####;664;664 - Lingyun;Lingyun
-
-####;1840;1840 - Guilin;Guilin
-
-####;2162;2162 - Wuchow;Ngchow
-
-####;2163;2163 - Liuzhou;Liuzhou
-
-####;2164;2164 - Namnig;Namning
-
-## South China
-### Guangdong
-
-####;665;665 - Shiuhing;Shiuhing
-
-####;666;666 - Kiungchow;Kingchow
-
-####;667;667 - Canton;Canton
-
-####;668;668 - Macau;Macau
-
-####;2156;2156 - Chaochow;Chaochow
-
-####;2157;2157 - Waichow;Waichow
-
-####;2158;2158 - Shiukwan;Shiukwan
-
-####;2159;2159 - Leichow;Leichow
-
-####;2160;2160 - Ngaichow;Ngaichow
-
-####;2161;2161 - Limchow;Limchow
-
-### Fujian
-
-####;669;669 - Fuzhou;Fuzhou
-
-####;1829;1829 - Quanzhou;Quanzhou
-
-####;2152;2152 - Jianning;Jianning
-
-####;2153;2153 -Tingzhou;Tingzhou
-
-### Jiangxi
-
-####;670;670 - Ganzhou;Ganzhou
-
-####;683;683 - Nanchang;Nanchang
-
-####;1833;1833 - Ji'an;Ji'an
-
-####;2151;2151 - Poyang;Poyang
-
-### Huguang
-
-####;671;671 - Changsha;Changsha
-
-####;672;672 - Wulin;Wuling
-
-####;681;681 - Yichang;Yichang
-
-####;682;682 - Wuchang;Wuchang
-
-####;2171;2171 - Xiangyang;Xiangyang
-
-####;2172;2172 - Jingzhou;Jingzhou
-
-####;2173;2173 - Yuanling;Yuanling
-
-####;2174;2174 - Hengyang;Hengyang
-
-### Zhejiang
-
-####;684;684 - Hangzhou;Hangzhou
-
-####;1824;1824 - Wenzhou;Wenzhou
-
-####;2148;2148 - Shaoxin;Shaoxin
-
-####;2149;2149 - Ningbo;Ningbo
-
-####;2150;2150 - Jinhua;Jinhua
-
-### Anhui
-
-####;686;686 - Anqing;Anqing
-
-####;1838;1838 - Hefei;Hefei
-
-####;2143;2143 - Fengyang;Fengyang
-
-####;2144;2144 - Fuyang;Fuyang
-
-####;2146;2146 - Ningguo;Ningguo
-
-####;2147;2147 - Huizhou;Huizhou
-
-### Jiangsu
-
-####;685;685 - Yangzhou;Yangzhou
-
-####;1821;1821 - Nanjing;Nanjing
-
-####;1822;1822 - Suzhou;Suzhou
-
-####;2141;2141 - Xuzhou;Xuzhou
-
-####;2142;2142 - Huai'an;Huai'an
-
-####;2145;2145 - Zhenjiang;Zhenjiang
-
-### Taiwan
-
-####;738;738 - Sakam;Sakam
-
-####;2154;2154 - Kelang;Kelang
-
-####;2155;2155 - Middag;Middag
-
+c_burhanpur;527;527 - Khandesh;Burhanpur - Khandesh
+c_thalner;527;527 - Khandesh;Thalner - Khandesh
+c_asirgarh;527;527 - Khandesh;Asirgarh - Khandesh
+
+#### Marathwada (off-map)
+#### West Berar (off-map)
+### Gondwana (off-map)
+### Telingana (off-map)
+### Maidan (off-map)
+### Desh (off-map)
+### Rayalaseema (off-map)
+### Mysore (off-map)
+### Kanara (off-map)
+### Kerala (off-map)
+## Coromandel (off-map)
+# East Indies (off-map)
+# China (off-map)
 # Europe
 ## France
 ### Brittany
