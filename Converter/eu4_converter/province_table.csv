@@ -1,108 +1,137 @@
 # CK2TITLE;EU4ID;Filename;Comment
 
 # India
+## Bengal (off-map)
 ## Hindustan
-### Bihar
-
-;558;558 - Patna;Patna
-
-;2044;2044 - Bhagalpur;Bhagalpur
-
-;2047;2047 - Tirhut;Tirhut
-
+### Bihar (off-map)
 ### Oudh
 
-;523;523 - Oudh;Lucknow
+c_lakhnau;523;523 - Oudh;Lakhnau - Lucknow
+c_bharauli;523;523 - Oudh;Bharauli - Lucknow
+c_ayodhya;523;523 - Oudh;Ayodhya - Lucknow
 
-;2061;2061 - Katehar;Katehar
+d_vodamayutja;2061;2061 - Katehar;Duchy Vodamayutja - Katehar
+c_katehar;2061;2061 - Katehar;Katehar - Katehar
+c_vodamayutja;2061;2061 - Katehar;Vodamayutja - Katehar
+c_sambhal;2061;2061 - Katehar;Sambhal - Katehar
 
-;2094;2094 - Bahreich;Bahreich
+d_saryupara;2094;2094 - Bahreich;Duchy Saryupara - Bahreich
+c_ayodhya;2094;2094 - Bahreich;Ayodhya - Bahreich
+c_naimisa;2094;2094 - Bahreich;Namisa - Bahreich
+c_sravasti;2094;2094 - Bahreich;Sravasti - Bahreich
 
-### Purvanchal
-
-;555;555 - Jaunpur;Jaunpur
-
-;2055;2055 - Gorakhpur;Gorakhpur
-
-;2095;2095 - Varanasi;Varanasi
-
-### Nepal
-
-;554;554 - Baisi Rajya;Baisi Rajya
-
-;557;557 - Katmandu;Katmandu
-
-;2070;2070 - Chaubisi Rajya;Chaubisi Rajya
-
-;2071;2071 - Limbuwan;Limbuwan
-
-### Himalayan Hills
-
-;509;509 - Kangra;Kangra
-
-;511;511 - Garhwal;Garhwal
-
-;2069;2069 - Kumaon;Kumaon
-
+### Purvanchal (off-map)
+### Nepal (off-map)
+### Himalayan Hills (off-map)
 ### Lower Doab
 
-;556;556 - Lower Doab;Lower Doab
+c_prayaga;556;556 - Lower Doab;Prayaga - Lower Doab
+c_asni;556;556 - Lower Doab;Asni - Lower Doab
+c_gurgi;556;556 - Lower Doab;Gurgi - Lower Doab
+c_mahoba;556;556 - Lower Doab;Mahoba - Lower Doab
+c_bharauli;556;556 - Lower Doab;Bharauli - Lower Doab
 
-;559;559 - Bundelkhand;Bundelkhand
+c_mahoba;559;559 - Bundelkhand;Mahoba - Bundelkhand
+c_kalanjara;559;559 - Bundelkhand;Kalanjara - Bundelkhand
+c_gwalior;559;559 - Bundelkhand;Gwalior - Bundelkhand
+c_chanderi;559;559 - Bundelkhand;Chanderi - Bundelkhand
 
-;2059;2059 - Kalpi;Kalpi
+c_kalpi;2059;2059 - Kalpi;Kalpi - Kalpi
+c_mahoba;2059;2059 - Kalpi;Mahoba - Kalpi
+c_gwalior;2059;2059 - Kalpi;Gwalior - Kalpi
+c_kanyakubja;2059;2059 - Kalpi;Kanyakubja - Kalpi
 
-;2097;2097 - Bagelkhand;Baghelkhand
+c_gurgi;2097;2097 - Bagelkhand;Gurgi - Baghelkhand
+c_kalanjara;2097;2097 - Bagelkhand;Kalanjara - Baghelkhand
 
 ### Central Doab
 
-;524;524 - Central Doab;Central Doab
+c_kol;524;524 - Central Doab;Kol - Central Doab
+c_kol;524;524 - Central Doab;Duplicate to increase weight
+c_mathura;524;524 - Central Doab;Mathura - Central Doab
+c_delhi;522;522 - Delhi;Delhi - Central Doab
 
-;525;525 - Gird;Gird
+c_gwalior;525;525 - Gird;Gwalior - Gird
+c_gwalior;525;525 - Gird;Duplicate to increase weight
+c_mathura;525;525 - Gird;Mathura - Gird
+c_mahoba;525;525 - Gird;Mahoba - Gird
+c_sripatha;525;525 - Gird;Sripatha - Gird
 
-;2063;2063 - Etawah;Etawah
+c_kanyakubja;2063;2063 - Etawah;Kanyakubja - Etawah
 
 ### Upper Doab
 
-;522;522 - Delhi;Delhi
+c_delhi;522;522 - Delhi;Delhi - Delhi
+c_delhi;522;522 - Delhi;Duplicate to increase weight
+c_sambhal;522;522 - Delhi;Sambhal - Delhi
 
-;2060;2060 - Upper Doab;Upper Doab
+c_hastinapura;2060;2060 - Upper Doab;Hastinapura - Upper Doab
+c_sthanisvara;2060;2060 - Upper Doab;Sthanisvara - Upper Doab
+c_katehar;2060;2060 - Upper Doab;Katehar - Upper Doab
 
-;2062;2062 - Panipat;Panipat
+c_sthanisvara;2062;2062 - Panipat;Sthanisvara - Panipat
+c_delhi;2062;2062 - Panipat;Delhi - Panipat
+c_tribandapura;2062;2062 - Panipat;Tribandapura - Panipat
 
 ### Sirhind
 
-;510;510 - Sirhind;Sirhind
+c_hisar;510;510 - Sirhind;Hisar - Sirhind
 
-;2065;2065 - Bhattiana;Bhattiana
+c_sarasvati;2065;2065 - Bhattiana;Sarasvati - Bhattiana
+c_sarasvati;2065;2065 - Bhattiana;Duplicate to increase weight
+c_tribandapura;2065;2065 - Bhattiana;Tribandapura - Bhattiana
+c_dipalpur;2065;2065 - Bhattiana;Dialpur - Bhattiana
 
-;2075;2075 - Doaba;Doaba
+c_trigarta;2075;2075 - Doaba;Trigarta - Doaba
+c_trigarta;2075;2075 - Doaba;Duplicate to increase weight
+c_lahur;2075;2075 - Doaba;Lahur - Doaba
+c_sthanisvara;2075;2075 - Doaba;Sthanisvara - Doaba
 
 ### Lahore
 
-;507;507 - Lahore;Lahore
+c_lahur;507;507 - Lahore;Lahur - Lahore
+c_lahur;507;507 - Lahore;Duplicate to increase weight
+c_shorkot;507;507 - Lahore;Shorkot - Lahore
+c_bhera;507;507 - Lahore;Bhera - Lahore
 
-;2076;2076 - Sialkot;Sialkot
+c_lahur;2076;2076 - Sialkot;Lahur - Sialkot
+c_bhera;2076;2076 - Sialkot;Bhera - Sialkot
 
-;2077;2077 - Margalla;Margalla
+c_nandana;2077;2077 - Margalla;Nandana - Margalla
+c_nandana;2077;2077 - Margalla;Duplicate to increase weight
+c_udabhanda;2077;2077 - Margalla;Udabhanda - Margalla
+c_purushapura;2077;2077 - Margalla;Purushapura - Margalla
 
 ### Multan
 
-;506;506 - Multan;Multan
+c_multan;506;506 - Multan;Multan - Multan
+c_multan;506;506 - Multan;Duplicate to increase weight
+c_dipalpur;506;506 - Multan;Dialpur - Multan
+c_karur;506;506 - Multan;Karur - Multan
 
-;2078;2078 - Sind Sagar;Sind Sagar
+c_karor;2078;2078 - Sind Sagar;Karor - Sind Sagar
+c_karor;2078;2078 - Sind Sagar;Duplicate to increase weight
+c_nandana;2078;2078 - Sind Sagar;Nandana - Sind Sagar
+c_bhera;2078;2078 - Sind Sagar;Bhera - Sind Sagar
 
-;2079;2079 - Derajat;Derajat
+c_rajanpur;2079;2079 - Derajat;Rajanpur - Derajat
+c_kafirkot;2079;2079 - Derajat;Kafirkot - Derajat
+c_multan;2079;2079 - Derajat;Multan - Derajat
+c_wana;2079;2079 - Derajat;Bori - Derajat
 
-;2086;2086 - Cholistan;Cholistan
+c_uch;2086;2086 - Cholistan;Uch - Cholistan
+c_karur;2086;2086 - Cholistan;Karur - Cholistan
 
 ### Kashmir
 
-;508;508 - Kashmir;Kashmir
+c_kasmira;508;508 - Kashmir;Kasmira - Kashmir
+c_sakala;508;508 - Kashmir;Sakala - Kashmir
+c_gurjaratra;508;508 - Kashmir;Gurjarata - Kashmir
+c_nandana;508;508 - Kashmir;Nandana - Kashmir
 
-;2073;2073 - Baltistan;Baltistan
+c_vakhan;2073;2073 - Baltistan;Vakhân - Baltistan
 
-;2074;2074 - Ladakh;Ladakh
+#### Ladakh (off-map)
 
 ## Western India
 ### Marwar
