@@ -222,16 +222,15 @@ c_osterbotten;19;19-Osterbotten;Österbotten - Österbotten
 c_kemi;19;19-Osterbotten;Kemi - Österbotten
 c_kemi;4113;4113-Rovaniemi;Kemi - Rovaniemi
 
-c_kola;1777;1777-Kola;Kola - Kola
+c_kandalax;1777;1777-Kola;Kandalax - Kola
 
 c_karelen;1776;1776-Karelia;Karelen - Karelia
 c_kandalax;1776;1776-Karelia;Kandalax - Karelia
 
-c_onega;309;309 - Olonets;Onega - Olonets
-c_zaozerye;309;309 - Olonets;Zaozerye - Olonets
+c_kola;309;309 - Olonets;Kola - Olonets
 
 c_vodi;33;33-Neva;Vodi - Neva
-c_vodi;34;34-Ingermanland;Vodi - Ingermanland
+c_koporje;34;34-Ingermanland;Koporje - Ingermanland
 
 c_narva;1842;1842 - Narva;Narva - Narva
 
@@ -273,6 +272,9 @@ c_nantes;172;172 - Vendee;Nantes - Vendee
 
 c_avranches;168;168 - Normandie;Avranches - Normandie
 c_evreux;168;168 - Normandie;Evreux - Normandie
+c_bayeux;168;168 - Normandie;Bayeux - Normandie
+c_coustance;168;168 - Normandie;Coustance - Normandie
+c_mortain;168;168 - Normandie;Mortain - Normandie
 
 c_arques;167;167 - Caux;Arques - Caux
 c_eu;167;167 - Caux;Eu - Caux
@@ -341,7 +343,7 @@ c_maine;177;177 - Maine;Maine - Maine
 
 c_anjou;178;178 - Anjou;Anjou - Anjou
 
-c_chartres;1879;1879 - Alencon;Chartres - Alencon
+c_alencon;1879;1879 - Alencon;Alencon - Alencon
 
 c_ile_de_france;183;183 - Ile-de-France;Ile de France - Ile-de-France
 
@@ -520,9 +522,8 @@ c_consenza;2984;2984 - Costenza;Cosenza - Cosenza
 
 c_lecce;122;122 - Apulia;Lecce - Salento
 
-d_salerno;1934;1934 - Lucania;Duchy Salerno - Lucania
-c_taranto;1934;1934 - Lucania;Taranto - Lucania
-c_amalfi;1934;1934 - Lucania;Amalfi - Lucania
+c_gravina;1934;1934 - Lucania;Gravina - Lucania
+c_marsico;1934;1934 - Lucania;Marsico - Lucania
 
 c_salerno;2983;2983 - Salerno;Salerno - Salerno
 d_apulia;122;122 - Apulia;Duchy Apulia - Apulia
@@ -574,7 +575,11 @@ c_modena;106;106 - Modena;Modena - Modena
 c_parma;105;105 - Parma;Parma - Parma
 
 c_genoa;101;101 - Liguria;Genoa - Liguria
-c_genoa;2992;2992 - Albenga;Genoa - Liguria
+
+d_savona;2992;2992 - Albenga;Duchy Savona - Liguria
+c_savona;2992;2992 - Albenga;Savona - Liguria
+c_finale;2992;2992 - Albenga;Finale - Liguria
+c_ventimiglia;2992;2992 - Albenga;Ventimiglia - Liguria
 
 c_nice;102;102 - Nice;Nice - Nice
 
@@ -634,7 +639,7 @@ c_schwyz;1869;1869 - Zurich;Schwyz - Zurich
 
 c_st_gallen;1870;1870 - St Gallen;St Gallen - St Gallen
 
-c_grisons;166;166 - Schwyz;Grisons - Schwyz
+c_schwyz;166;166 - Schwyz;Schwyz - Schwyz
 
 # Low Countries
 
@@ -681,13 +686,13 @@ c_breisgau;72;72 - Breisgau;Breisgau - Breisgau
 c_baden;74;74 - Baden;Baden - Baden
 
 c_pfalz;77;77 - Pfalz;Pfalz - Pfalz
+c_pfalz;1761;1761 - Alzey;Pfalz - Worms
 
 c_mainz;78;78 - Mainz;Mainz - Mainz
 
 c_nordgau;75;75 - Elsass;Nordgau - Elsass
 
-c_trier;80;80 - Trier;Trier - Trier
-c_trier;1761;1761 - Alzey;Trier - Worms
+c_trier;80;80 - Trier;Trier - Trier77
 c_trier;1760;1760 - Koblenz;Trier - Koblenz
 
 c_koln;85;85 - Koln;Köln - Köln
@@ -756,6 +761,9 @@ c_thuringen;63;63 - Erfurt;Thuringen - Thuringen
 c_weimar;63;63 - Erfurt;Weimar - Thuringen
 
 c_furstenberg;69;69 - Konstanz;Furstenberg - Konstanz
+c_schwaben;69;69 - Konstanz;Schwaben - Konstanz
+c_waldburg;69;69 - Konstanz;Waldburg - Konstanz
+c_hohenzollern;69;69 - Konstanz;Hohenzollern - Konstanz
 
 c_wurttemberg;70;70 - Wurttemberg;Wurttemberg - Wurttemberg
 
@@ -784,7 +792,6 @@ c_oberbayern;65;65 - Munchen;Oberbayern - Munchen
 c_oberbayern;1868;1868 - Augsburg;Oberbayern - Augsburg
 
 c_tirol;73;73 - Tirol;Tirol - Tirol
-c_schwaben;73;73 - Tirol;Schwaben - Tirol
 
 c_chur;1873;1873 - Chur;Chur - Chur
 
@@ -794,7 +801,8 @@ c_salzburg;76;76 - Salzburg;Salzburg - Salzburg
 
 c_passau;133;133 - Linz;Passau - Linz
 
-c_znojmo;1770;1770 - Ostmarch;Znojmo - Ostmarch
+c_osterreich;1770;1770 - Ostmarch;Osterreich - Ostmarch
+c_kuenring;1770;1770 - Ostmarch;Kuenring - Ostmarch
 
 c_osterreich;134;134 - Wien;Osterreich - Wien
 c_osterreich;1863;1863 - Graz;Osterreich - Wien
@@ -1102,13 +1110,10 @@ c_kurdistan;411;411 - Mosul;Kurdistan - Mosul
 
 c_sinjar;2309;2309 - Sinjar;Sinjar - Sinjar
 
-d_syria;2314;2314 - Rahba;Duchy Syria - Rahba
-c_syria;2314;2314 - Rahba;County Syria - Rahba
 c_al_bichri;2314;2314 - Rahba;Al Bichri - Rahba
 
-c_druz;405;405 - Tadmor;Druz - Tadmor
-c_suwaida;405;405 - Tadmor;Suwaida - Tadmor
-c_tadmor;405;405 - Tadmor;Tadmor - Tadmor
+c_palmyra;405;405 - Tadmor;Druz - Tadmor
+c_salamiyah;405;405 - Tadmor;Salamiyah - Tadmor
 
 c_karbala;406;406 - Karbala;Karbala - Karbala
 c_al_habbariyah;406;406 - Karbala;Al Habbariyah - Karbala
@@ -2024,10 +2029,10 @@ c_trans-portage;1955;1955 - Kholmogory;Trans-Portage - Kholmogory
 c_trans-portage;313;313 - Archangelsk;Samoyeds - Arkhangelsk
 c_bjarmia;313;313 - Archangelsk;Bjarmie - Arkhangelsk
 
-c_beloozero;2749;2749 - Tikhvin;Beloozero - Tikhvin
-c_beloozero;4117;4117 - Bezhetsk;Beloozero - Bezhetsk
+c_ustyuzhna;2749;2749 - Tikhvin;Ustyuzhna - Tikhvin
+c_mologa;4117;4117 - Bezhetsk;Mologa - Bezhetsk
 
-c_vologda;312;312 - Vologda;Vologda - Beloozero
+c_beloozero;312;312 - Vologda;Beloozero - Beloozero
 
 c_chud;314;314 - Ustyug;Chud - Vologda
 
