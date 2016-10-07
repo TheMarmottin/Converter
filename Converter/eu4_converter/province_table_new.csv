@@ -792,12 +792,12 @@ c_viseu;1851;1851 - Ribatejo;Viseu - Coimbra
 
 ### Macaronesia
 
-####;366;366 - The Canarias;The Canarias
+d_canarias;366;366 - The Canarias;Duchy Canarias - The Canarias
+c_tenerife;366;366 - The Canarias;Tenerife - The Canarias
+c_canarias;366;366 - The Canarias;Gran Canaria - The Canarias
 
-####;367;367 - The Azores;The Azores
-
-####;368;368 - Madeira;Madeira
-
+#### The Azores (off-map)
+#### Madeira (off-map)
 ## Italy
 ### Venetia
 
