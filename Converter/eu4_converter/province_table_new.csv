@@ -572,111 +572,223 @@ c_comminges;176;176 - Bearn;Comminges - Béarn
 ## Iberia
 ### Aragon
 
-####;210;210 - Navarra;Navarra
+d_navarra;210;210 - Navarra;Duchy Navarra - Navarra
+c_navarra;210;210 - Navarra;Navarra - Navarra
+c_navarra;210;210 - Navarra;Duplicate to increase weight
+c_navarra;210;210 - Navarra;Duplicate to increase weight
+c_tudela;210;210 - Navarra;Tudela - Navarra
+c_guipuzcoa;210;210 - Navarra;Guipúzcoa - Navarra
 
-####;211;211 - Pirineo;Pirineo
+d_aragon;211;211 - Pirineo;Duchy Aragón - Pirineo
+c_alto_aragon;211;211 - Pirineo;Alto Aragón - Pirineo
+c_sobrarbe;211;211 - Pirineo;Sobrarbe - Pirineo
+c_ribagorza;211;211 - Pirineo;Ribagorza - Pirineo
+c_huesca;211;211 - Pirineo;Huesca - Pirineo
 
-####;214;214 - Aragon;Zaragoza
+d_zaragoza;214;214 - Aragon;Duchy - Zaragoza - Zaragoza
+c_zaragoza;214;214 - Aragon;Zaragoza - Zaragoza
+c_zaragoza;214;214 - Aragon;Duplicate to increase weight
+c_calatayud;214;214 - Aragon;Calatayud - Zaragoza
+c_huesca;214;214 - Aragon;Huesca - Zaragoza
 
-####;2990;2990 - Teruel;Teruel/Tirwal
+d_teruel;2990;2990 - Teruel;Duchy Teruel - Teruel
+c_teruel;2990;2990 - Teruel;Teruel - Teruel
+c_teruel;2990;2990 - Teruel;Duplicate to increase weight
+c_albarracin;2990;2990 - Teruel;Albarracín - Teruel
 
 ### Catalonia
 
-####;197;197 - Roussillon;Roussillon
+c_rosello;197;197 - Roussillon;Rosello - Roussillon
 
-####;212;212 - Girona;Girona
+c_girona;212;212 - Girona;Girona - Girona
+c_empuries;212;212 - Girona;Empuries - Girona
 
-####;213;213 - Barcelona;Barcelona
+c_barcelona;213;213 - Barcelona;Barcelona - Barcelona
+c_barcelona;213;213 - Barcelona;Duplicate to increase weight
+c_barcelona;213;213 - Barcelona;Duplicate to increase weight
+c_girona;213;213 - Barcelona;Girona - Barcelona
+c_tarragona;213;213 - Barcelona;Tortosa - Barcelona
 
-####;333;333 - The Baleares;The Baleares
+d_mallorca;333;333 - The Baleares;Duchy Mallorca - The Baleares
+c_mallorca;333;333 - The Baleares;Mallorca - The Baleares
+c_mallorca;333;333 - The Baleares;Duplicate to increase weight
+c_menorca;333;333 - The Baleares;Menorca - The Baleares
+c_eivissa;333;333 - The Baleares;Eivissa - The Baleares
 
-####;2987;2987 - Urgell;Urgell
+c_urgell;2987;2987 - Urgell;Urgell - Urgell
+c_urgell;2987;2987 - Urgell;Duplicate to increase weight
+c_lleida;2987;2987 - Urgell;Lleida - Urgell
 
 ### Valencia
 
-####;220;220 - Valencia;València
+d_valencia;220;220 - Valencia;Duchy Valencia - València
+c_valencia;220;220 - Valencia;Valencia - València
+c_castellon;220;220 - Valencia;Castellon - València
 
-####;1750;1750 - Alicante;Alicante
+c_denia;1750;1750 - Alicante;Denia - Alicante
+c_denia;1750;1750 - Alicante;Duplicate to increase weight
+c_murcia;1750;1750 - Alicante;Murcia - Alicante
 
-####;2988;2988 - Tarragona;Tarragona
+d_catalunya_nova;2988;2988 - Tarragona;Duchy Catalunya Nova - Tarragona
+c_tarragona;2988;2988 - Tarragona;Tortosa - Tarragona
+c_tarragona;2988;2988 - Tarragona;Duplicate to increase weight
+c_caspe;2988;2988 - Tarragona;Caspe - Tarragona
+c_lleida;2988;2988 - Tarragona;Lleida - Tarragona
 
 ### Lower Andalucia
 
-####;224;224 - Andalucia;Sevilla
+d_sevilla;224;224 - Andalucia;Duchy Sevilla - Sevilla
+c_sevilla;224;224 - Andalucia;Sevilla - Sevilla
+c_sevilla;224;224 - Andalucia;Duplicate to increase weight
+c_sevilla;224;224 - Andalucia;Duplicate to increase weight
+c_niebla;224;224 - Andalucia;Niebla - Sevilla
+c_niebla;224;224 - Andalucia;Duplicate to increase weight
+c_cadiz;224;224 - Andalucia;Carmona - Sevilla
 
-####;225;225 - Cordoba;Córdoba
+c_cordoba;225;225 - Cordoba;Cordoba - Córdoba
 
-####;226;226 - Gibraltar;Gibraltar
+c_algeciras;226;226 - Gibraltar;Algeciras - Gibraltar
 
-####;1749;1749 - Cadiz;Cadiz
+c_algeciras;1749;1749 - Cadiz;Algeciras - Cadiz
+c_algeciras;1749;1749 - Cadiz;Duplicate to increase weight
+c_sevilla;1749;1749 - Cadiz;Sevilla - Cadiz
 
 ### Upper Andalucia
 
-####;222;222 - Almeria;Almería
+c_almeria;222;222 - Almeria;Almeria - Almería
+c_almeria;222;222 - Almeria;Duplicate to increase weight
+c_granada;222;222 - Almeria;Granada - Almería
 
-####;223;223 - Granada;Granada
+d_granada;223;223 - Granada;Duchy Granada - Granada
+c_granada;223;223 - Granada;Granada - Granada
+c_malaga;223;223 - Granada;Malaga - Granada
 
-####;1748;1748 - La Mancha;Jaén
+c_jaen;1748;1748 - La Mancha;Jaén - Jaén
 
 ### Castille
 
-####;215;215 - Castilla La Vieja;Castilla La Vieja
+d_segovia;215;215 - Castilla La Vieja;Duchy Segovia - Castilla La Vieja
+c_valladolid;215;215 - Castilla La Vieja;Valladolid - Castilla La Vieja
+c_medina_del_campo;215;215 - Castilla La Vieja;Medina del Campo - Castilla La Vieja
+c_segovia;215;215 - Castilla La Vieja;Segovia - Castilla La Vieja
+c_avila;215;215 - Castilla La Vieja;Ávila - Castilla La Vieja
 
-####;217;217 - Madrid;Madrid
+c_guadalajara;217;217 - Madrid;Guadalajara - Madrid
+c_guadalajara;217;217 - Madrid;Duplicate to increase weight
+c_guadalajara;217;217 - Madrid;Duplicate to increase weight
+c_caceres;217;217 - Madrid;Talavera - Madrid
+c_toledo;217;217 - Madrid;Toledo - Madrid
 
-####;1746;1746 - Burgos;Burgos
+c_burgos;1746;1746 - Burgos;Burgos - Burgos
+c_burgos;1746;1746 - Burgos;Duplicate to increase weight
+c_palencia;1746;1746 - Burgos;Palencia - Burgos
+c_palencia;1746;1746 - Burgos;Duplicate to increase weight
+c_valladolid;1746;1746 - Burgos;Burgos - Burgos
 
-####;2755;2755 - Soria;Soria/Madinat Salim
+c_soria;2755;2755 - Soria;Soria - Soria
+c_soria;2755;2755 - Soria;Duplicate to increase weight
+c_molina;2755;2755 - Soria;Molina - Soria
 
-####;2989;2989 - Rioja;Rioja
+d_najera;2989;2989 - Rioja;Duchy Nájera - Rioja
+c_najera;2989;2989 - Rioja;Nájera - Rioja
+c_logrono;2989;2989 - Rioja;Logroño - Rioja
+c_soria;2989;2989 - Rioja;Soria - Rioja
+c_burgos;2989;2989 - Rioja;Burgos - Rioja
 
 ### Toledo
 
-####;219;219 - Toledo;Toledo
+c_toledo;219;219 - Toledo;Toledo - Toledo
+c_toledo;219;219 - Toledo;Duplicate to increase weight
+c_toledo;219;219 - Toledo;Duplicate to increase weight
+c_la_mancha;219;219 - Toledo;Alarcón - Toledo
+c_la_mancha;219;219 - Toledo;Duplicate to increase weight
+c_caceres;219;219 - Toledo;Talavera - Toledo
+c_calatrava;219;219 - Toledo;Calatrava - Toledo
 
-####;221;221 - Murcia;Murcia
+c_murcia;221;221 - Murcia;Murcia - Murcia
+c_murcia;221;221 - Murcia;Duplicate to increase weight
+c_almansa;221;221 - Murcia;Villena - Murcia
 
-####;2751;2751 - Cuenca;Cuenca
+c_cuenca;2751;2751 - Cuenca;Cuenca - Cuenca
+c_cuenca;2751;2751 - Cuenca;Duplicate to increase weight
+c_almansa;2751;2751 - Cuenca;Villena - Cuenca
 
-####;2754;2754 - La Mancha;La Mancha
+d_la_mancha;2754;2754 - La Mancha;Duchy La Mancha - La Mancha
+c_calatrava;2754;2754 - La Mancha;Calatrava - La Mancha
+c_calatrava;2754;2754 - La Mancha;Duplicate to increase weight
+c_alcaraz;2754;2754 - La Mancha;Alcaraz - La Mancha
 
 ### Asturias
 
-####;206;206 - Galicia;Galicia
+d_galicia;206;206 - Galicia;Duchy Galicia - Galicia
+c_coruna;206;206 - Galicia;Trastámara - Galicia
+c_santiago;206;206 - Galicia;Santiago - Galicia
+c_lugo;206;206 - Galicia;Lugo - Galicia
+c_lemos;206;206 - Galicia;Lemos - Galicia
 
-####;207;207 - Asturias;Asturias
+c_asturias_de_oviedo;207;207 - Asturias;Asturias de Oviedo - Asturias
 
-####;209;209 - Vizcaya;Vizcaya
+c_viscaya;209;209 - Vizcaya;Viscaya - Vizcaya
+c_viscaya;209;209 - Vizcaya;Duplicate to increase weight
+c_alava;209;209 - Vizcaya;Álava - Vizcaya
+c_guipuzcoa;209;209 - Vizcaya;Guipúzcoa - Vizcaya
 
-####;1745;1745 - Cantabria;Cantabria
+c_asturias_de_santillana;1745;1745 - Cantabria;Asturias de Santillana - Cantabria
+c_asturias_de_santillana;1745;1745 - Cantabria;Asturias de Santillana - Cantabria
+c_palencia;1745;1745 - Cantabria;Palencia - Cantabria
 
 ### Leon
 
-####;208;208 - Leon;León
+d_leon;208;208 - Leon;Duchy León - León
+c_leon;208;208 - Leon;León - León
+c_leon;208;208 - Leon;Duplicate to increase weight
+c_astorga;208;208 - Leon;Astorga - León
+c_zamora;208;208 - Leon;Zamora - León
+c_toro;208;208 - Leon;Toro - León
 
-####;216;216 - Salamanca;Salamanca
+d_salamanca;216;216 - Salamanca;Duchy Salamanca - Salamanca
+c_salamanca;216;216 - Salamanca;Salamanca - Salamanca
+c_salamanca;216;216 - Salamanca;Duplicate to increase weight
+c_salamanca;216;216 - Salamanca;Duplicate to increase weight
+c_ciudad_rodrigo;216;216 - Salamanca;Ciudad Rodrigo - Salamanca
 
-####;218;218 - Badajoz;Badajoz
+c_badajoz;218;218 - Badajoz;Badajoz - Badajoz
+c_aracena;218;218 - Badajoz;Mérida - Badajoz
 
-####;1747;1747 - Caceres;Caceres
+c_plasencia;1747;1747 - Caceres;Plasencia - Caceres
+c_alcantara;1747;1747 - Caceres;Alcantara - Caceres
 
 ### Alentejo
 
-####;227;227 - Lisboa;Lisboa
+c_lisboa;227;227 - Lisboa;Lisboa - Lisboa
+c_lisboa;227;227 - Lisboa;Duplicate to increase weight
+c_setubal;227;227 - Lisboa;Setúbal - Lisboa
+c_leiria;227;227 - Lisboa;Leiria - Lisboa
+c_thomar;227;227 - Lisboa;Tomar - Lisboa
 
-####;229;229 - Alentejo;Alentejo
+d_beja;229;229 - Alentejo;Duchy Alentejo - Alentejo
+c_evora;229;229 - Alentejo;Évora - Alentejo
+c_beja;229;229 - Alentejo;Beja - Alentejo
+c_mertola;229;229 - Alentejo;Mértola - Alentejo
+c_alcacer_do_sal;229;229 - Alentejo;Alcácer do Sal - Alentejo
 
-####;230;230 - Algarve;Algarve
+d_algarve;230;230 - Algarve;Duchy Algarve - Algarve
+c_silves;230;230 - Algarve;Silves - Algarve
+c_faro;230;230 - Algarve;Faro - Algarve
 
 ### Beiras
 
-####;231;231 - Porto;Porto
+c_porto;231;231 - Porto;Oporto - Porto
+c_braga;231;231 - Porto;Braga - Porto
 
-####;232;232 - Braganca;Bragança
+c_braganza;232;232 - Braganca;Bragança - Bragança
 
-####;228;228 - Beira;Beira
+d_beira;228;228 - Beira;Duchy Beira - Beira
+c_trancoso;228;228 - Beira;Trancoso - Beira
+c_castelo_branco;228;228 - Beira;Castelo Branco - Beira
 
-####;1851;1851 - Ribatejo;Coimbra
+c_coimbra;1851;1851 - Ribatejo;Coimbra - Coimbra
+c_viseu;1851;1851 - Ribatejo;Viseu - Coimbra
 
 ### Macaronesia
 
