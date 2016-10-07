@@ -319,6 +319,7 @@ c_venaissin;202;202 - Avignon;Venaissin - Avignon
 c_dauphine_viennois;204;204 - Dauphine;Dauphine Viennois - Dauphine
 c_viviers;204;204 - Dauphine;Viviers - Dauphine
 
+d_lyon;203;203 - Lyonnais;Lyon - Lyonnais
 c_lyon;203;203 - Lyonnais;Lyon - Lyonnais
 c_forez;203;203 - Lyonnais;Forez - Lyonnais
 
@@ -354,6 +355,11 @@ c_vendome;184;184 - Orleanais;Vendome - Orleanais
 
 c_vermandois;182;182 - Vermandois;Reims - Vermandois
 
+d_reims;186;186 - Champagne;Duchy Reims - Champagne
+d_champagne;186;186 - Champagne;Duchy Champagne - Champagne
+c_brie;186;186 - Champagne;Meaux - Champagne
+c_vertus;186;186 - Champagne;Vertus - Champagne
+c_reims;186;186 - Champagne;Reims - Champagne
 c_reims;186;186 - Champagne;Troyes - Champagne
 
 c_sens;185;185 - Othe;Sens - Nemours
@@ -368,13 +374,15 @@ c_charolais;1877;1877 - Charolais;Duplicate to increase weight
 c_macon;1877;1877 - Charolais;Macon - Charolais
 c_chalons;1877;1877 - Charolais;Chalons - Charolais
 
-c_amiens;1743;1743 - Cambray;Amiens - Cambray
+c_cambrai;1743;1743 - Cambray;Cambrai - Cambray
 
 c_vermandois;181;181 - Valenciennes;Vermandois - Valenciennes
 
-c_boulogne;89;89 - Picardie;Boulogne - Picardie
+c_ponthieu;89;89 - Picardie;Ponthieu - Picardie
+c_saintpol;89;89 - Picardie;Ponthieu - Picardie
 
 c_guines;87;87 - Calais;Guines - Calais
+c_boulogne;87;87 - Calais;Boulogne - Calais
 
 c_artois;88;88 - Artois;Artois - Artois
 
@@ -703,7 +711,7 @@ c_trier;1760;1760 - Koblenz;Trier - Koblenz
 
 c_koln;85;85 - Koln;Köln - Köln
 
-c_Berg;84;84 - Berg;Berg - Berg
+c_berg;84;84 - Berg;Berg - Berg
 
 c_nassau;83;83 - Nassau;Nassau - Nassau
 c_nassau;1876;1876 - Frankfurt;Nassau - Frankfurt
@@ -716,8 +724,8 @@ c_munster;86;86 - Munster;Munster - Munster
 
 c_osnabruck;56;56 - Osnabruck;Osnabruck - Osnabruck
 
-c_munster;2973;2973 - Meppen;Munster - Meppen
-c_osnabruck;2973;2973 - Meppen;Osnabruck - Meppen
+c_bentheim;2973;2973 - Meppen;Bentheim - Meppen
+c_tecklenburg;2973;2973 - Meppen;Tecklenburg - Meppen
 
 c_ostfriesland;1931;1931 - East Frisia;Ostfriesland - East Frisia
 
@@ -741,7 +749,10 @@ c_lubeck;1857;1857 - Lauenburg;Lubeck - Lauenburg
 
 c_altmark;2964;2964 - Altmark;Altmark - Altmark
 
-c_anhalt;52;52 - Magdeburg;Anhalt - Magdeburg
+d_magdeburg;52;52 - Magdeburg;Duchy Magdeburg - Magdeburg
+c_magdeburg;52;52 - Magdeburg;Magdeburg - Magdeburg
+c_blankenburg;52;52 - Magdeburg;Blankenburg - Magdeburg
+
 c_anhalt;58;58 - Anhalt;Anhalt - Anhalt
 
 d_mecklemburg;46;46 - Mecklenburg;Mecklemburg - Mecklenburg
@@ -755,7 +766,8 @@ c_wolgast;2994;2994 - Greifswald;Wolgast - Greifswald
 
 c_rugen;47;47 - Vorpommern;Rugen - Vorpommern
 
-c_plauen;62;62 - Leipzig;Plauen - Leipzig
+c_merseburg;62;62 - Leipzig;Merseburg - Leipzig
+c_brehna;62;62 - Leipzig;Brehna - Leipzig
 
 c_meissen;59;59 - Meissen;Meissen - Meissen
 
@@ -890,7 +902,7 @@ c_rama;3002;3002 - Visoki;Rama - Visoki
 d_dyrrachion;143;143 - Albania;Duchy Dyrrachion - Albania
 c_dyrrachion;143;143 - Albania;Dyrrachion - Albania
 c_arbanon;143;143 - Albania;Arbanon - Albania
-c_valona;143;143 - Valona;Ochrid - Albania
+c_valona;143;143 - Albania;Ochrid - Albania
 
 c_epeiros;144;144 - Janina;Epeiros - Janina
 c_arta;144;144 - Janina;Arta - Janina
@@ -1171,31 +1183,23 @@ c_aswan;1231;1231 - Aswan;Aswan - Aswan
 d_aswan;2321;2321 - Queseer;Duchy Aswan - Queseer
 c_aswan;2321;2321 - Queseer;Aswan - Queseer
 
-d_nobatia;1234;1234 - Nubia;Duchy Nobatia - Qasr Ibrim
-c_dotawo;1234;1234 - Nubia;Dotawo - Qasr Ibrim
-c_nobatia;1234;1234 - Nubia;Nobatia - Qasr Ibrim
+c_qasribrim;1234;1234 - Nubia;Qasr Ibrim - Qasr Ibrim
 
-d_nobatia;1232;1232 - Suakin;Duchy Nobatia - Suakin
 c_suakin;1232;1232 - Suakin;Suakin - Suakin
 
 c_aydhab;2324;2324 - Halaib;Aydhab - Halaib
 
-d_nubia;1228;1228 - Dongola;Duchy Makuria - Dongola
+c_dongola;1228;1228 - Dongola;Dongola - Dongola
 c_makuria;1228;1228 - Dongola;Makuria - Dongola
-c_napata;1228;1228 - Dongola;Napata - Dongola
 
-d_nubia;2322;2322 - Wadi Halfa;Duchy Makuria - Wadi Halfa
-c_makuria;2322;2322 - Wadi Halfa;Makuria - Wadi Halfa
-c_napata;2322;2322 - Wadi Halfa;Napata - Wadi Halfa
+c_nubia;2322;2322 - Wadi Halfa;Nubia - Wadi Halfa
+c_semna;2322;2322 - Wadi Halfa;Semna - Wadi Halfa
 
 c_makuria;2798;2798 - Soba;Makuria - Soba
 
-d_nubia;2323;2323 - Sahra an Nubyah;Duchy Makuria - Sahra an Nubyah
-c_nubia;2323;2323 - Sahra an Nubyah;Nubia - Sahra an Nubyah
+c_maikele_bahr;2323;2323 - Sahra an Nubyah;Maikele Bahr - Sahra an Nubyah
 
-d_nubia;1229;1229 - Berber;Duchy Nubia - Berber
-c_atbara;1229;1229 - Berber;Atbara - Berber
-c_hayya;1229;1229 - Berber;Haya - Berber
+c_maikele_bahr;1229;1229 - Berber;Maikele Bahr - Berber
 
 d_nubia;2787;2787 - Hamasien;Duchy Nubia - Hamasien
 c_hayya;2787;2787 - Hamasien;Haya - Hamasien
