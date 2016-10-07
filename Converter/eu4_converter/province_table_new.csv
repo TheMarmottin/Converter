@@ -914,91 +914,215 @@ c_canarias;366;366 - The Canarias;Gran Canaria - The Canarias
 ## Britain
 ### Mercia
 
-####;237;237 - Oxfordshire;Oxfordshire
+c_oxford;237;237 - Oxfordshire;Oxford - Oxfordshire
+c_berks;237;237 - Oxfordshire;Bearroc - Oxfordshire
+c_bucks;237;237 - Oxfordshire;Buckingham - Oxfordshire
+c_bedford;237;237 - Oxfordshire;Bedford - Oxfordshire
 
-####;239;239 - Gloucestershire;Gloucestershire
+c_gloucester;239;239 - Gloucestershire;Gloucester - Gloucestershire
 
-####;240;240 - Marches;Marches
+c_warwick;240;240 - Marches;Warwick - Marches
+c_stafford;240;240 - Marches;Stafford - Marches
+c_shrewsbury;240;240 - Marches;Shrewsbury - Marches
+c_worcester;240;240 - Marches;Worcester - Marches
+c_hereford;240;240 - Marches;Worcester - Marches
 
-####;243;243 - Lincoln;Lincolnshire
+c_lincoln;243;243 - Lincoln;Lincoln - Lincolnshire
 
-####;1861;1861 - Derby;Derbyshire
+c_derby;1861;1861 - Derby;Derby - Derbyshire
+c_leicester;1861;1861 - Derby;Leicester - Derbyshire
+c_nottingham;1861;1861 - Derby;Nottingham - Derbyshire
+c_northampton;1861;1861 - Derby;Northampton - Derbyshire
+c_rutland;1861;1861 - Derby;Rutland - Derbyshire
 
 ### Wessex
 
-####;234;234 - Hampshire;Hampshire
+c_winchester;234;234 - Hampshire;Winchester - Hampshire
+c_wiltshire;234;234 - Hampshire;Wiltshire - Hampshire
 
-####;235;235 - Kent;Kent
+d_canterbury;235;235 - Kent;Duchy Kent - Kent
+c_kent;235;235 - Kent;Kent - Kent
+c_sussex;235;235 - Kent;Sussex - Kent
 
-####;4130;4130 - Somerset;Somerset
+c_somerset;4130;4130 - Somerset;Somerset - Somerset
+c_dorset;4130;4130 - Somerset;Dorset - Somerset
 
 ### East Anglia
 
-####;236;236 - London;London
+c_middlesex;236;236 - London;Middlesex - London
+c_surrey;236;236 - London;Surrey - London
+c_hertford;236;236 - London;Hertford - London
 
-####;238;238 - Essex;Essex
+c_essex;238;238 - Essex;Essex - Essex
+c_essex;238;238 - Essex;Duplicate to increase weight
+c_cambridge;238;238 - Essex;Cambridge - Essex
+c_huntingdon;238;238 - Essex;Huntingdon - Essex
+c_ely;238;238 - Essex;Isle of Ely - Essex
+c_suffolk;238;238 - Essex;Suffolk - Essex
 
-####;1860;1860 - Norfolk;Norfolk
+c_norfolk;1860;1860 - Norfolk;Norfolk - Norfolk
+c_norfolk;1860;1860 - Norfolk;Duplicate to increase weight
+c_suffolk;1860;1860 - Norfolk;Suffolk - Norfolk
 
 ### Northumbria
 
-####;244;244 - Lancashire;Lancashire
+d_lancaster;244;244 - Lancashire;Duchy Lancaster - Lancashire
+c_lancaster;244;244 - Lancashire;Lancaster - Lancashire
+c_chester;244;244 - Lancashire;Chester - Lancashire
 
-####;245;245 - Yorkshire;Yorkshire
+d_york;245;245 - Yorkshire;Duchy York - Yorkshire
+c_york;245;245 - Yorkshire;West York Ridding - Yorkshire
+c_richmond;245;245 - Yorkshire;Richmond - Yorkshire
+c_york_moors;245;245 - Yorkshire;The North Riding - Yorkshire
+c_york_wolds;245;245 - Yorkshire;The East Riding - Yorkshire
 
-####;246;246 - Northumberland;Northumberland
+d_northumberland;246;246 - Northumberland;Duchy Northumberland - Northumberland
+c_northumberland;246;246 - Northumberland;Northumberland - Northumberland
+c_durham;246;246 - Northumberland;Durham - Northumberland
 
-####;247;247 - Cumbria;Cumbria
+c_cumberland;247;247 - Cumbria;Cumberland - Cumbria
+c_cumberland;247;247 - Cumbria;Duplicate to increase weight
+c_westmorland;247;247 - Cumbria;Westmorland - Cumbria
+c_isle_of_man;247;247 - Cumbria;Isle of Man - Cumbria
 
 ### Wales
 
-####;233;233 - Cornwall;Cornwall
+d_cornwall;233;233 - Cornwall;Duchy Cornwall - Cornwall
+c_cornwall;233;233 - Cornwall;Cornwall - Cornwall
+c_devon;233;233 - Cornwall;Devon - Cornwall
 
-####;241;241 - Glamorgan;Glamorganshire
+d_morgannwg;241;241 - Glamorgan;Duchy Glamorgan - Glamorganshire
+c_glamorgan;241;241 - Glamorgan;Glywysing - Glamorganshire
+c_gwent;241;241 - Glamorgan;Gwent - Glamorganshire
+c_gwyr;241;241 - Glamorgan;Gwyr - Glamorganshire
+d_deheubarth;241;241 - Glamorgan;Duchy Deheubarth - Glamorganshire
+c_brycheiniog;241;241 - Glamorgan;Brycheiniog - Glamorganshire
+c_ystrad_tywi;241;241 - Glamorgan;Ystrad Tywi - Glamorganshire
+c_dyfed;241;241 - Glamorgan;Dyfed - Glamorganshire
+c_ceredigion;241;241 - Glamorgan;Ceredigion - Glamorganshire
 
-####;242;242 - Gwynedd;Gwynedd
+d_gwynedd;242;242 - Gwynedd;Duchy Gwynedd - Gwynedd
+c_gwynedd;242;242 - Gwynedd;Gwynedd - Gwynedd
+c_anglesey;242;242 - Gwynedd;Ynys Môn - Gwynedd
+c_powys;242;242 - Gwynedd;Maelor - Gwynedd
+c_perfeddwlad;242;242 - Gwynedd;Perfeddwlad - Gwynedd
+d_powys;242;242 - Gwynedd;Duchy Powis - Gwynedd
+c_powys_wenwynwyn;242;242 - Gwynedd;Powys Wenwynwyn - Gwynedd
+c_buellt;242;242 - Gwynedd;Buellt - Gwynedd
+c_rhwng;242;242 - Gwynedd;Rhwng Gwy A Hafren - Gwynedd
 
 ### Lowlands
 
-####;248;248 - Lothian;Lothian
+d_lothian;248;248 - Lothian;Duchy Lothian - Lothian
+c_lothian;248;248 - Lothian;Lothian - Lothian
+c_dunbar;248;248 - Lothian;Dunbar - Lothian
+c_tweedale;248;248 - Lothian;Tweedale - Lothian
+c_teviotdale;248;248 - Lothian;Teviotdale - Lothian
 
-####;249;249 - Ayrshire;Ayrshire
+d_strathclyde;249;249 - Ayrshire;Duchy Strathclyde - Ayrshire
+c_clydesdale;249;249 - Ayrshire;Clydesdale - Ayrshire
+c_dunphris;249;249 - Ayrshire;Srath Anann - Ayrshire
+c_rinnfriu;249;249 - Ayrshire;Rinn Friu - Ayrshire
+d_galloway;249;249 - Ayrshire;Duchy Galloway - Ayrshire
+c_galloway;249;249 - Ayrshire;Galloway - Ayrshire
+c_carrick;249;249 - Ayrshire;Carrick - Ayrshire
+c_bod;249;249 - Ayrshire;Bod - Ayrshire
 
-####;250;250 - Fife;Fife
+d_albany;250;250 - Fife;Duchy Albany - Fife
+c_fife;250;250 - Fife;Fife - Fife
+c_gowrie;250;250 - Fife;Gowrie - Fife
+c_strathearn;250;250 - Fife;Strathearn - Fife
+c_atholl;250;250 - Fife;Atholl - Fife
 
 ### Highlands
 
-####;252;252 - Inverness;Inverness
+c_inbhirnis;252;252 - Inverness;Inbhir Nis - Inverness
+d_hebrides;252;252 - Inverness;Duchy Inner Hebrides - Inverness
+c_argyll;252;252 - Inverness;Argyll - Inverness
+c_innse_gall;252;252 - Inverness;Suðreyar - Inverness
+c_strathearn;252;252 - Inverness;Strathearn - Inverness
+c_dunbreatainn;252;252 - Inverness;Dun Breatainn - Inverness
+c_muile;252;252 - Inverness;Muile - Inverness
+c_ile;252;252 - Inverness;Ile - Inverness
+c_kintyre;252;252 - Inverness;Kintyre - Inverness
+c_bod;252;252 - Inverness;Bod - Inverness
 
-####;253;253 - Western Isles;Western Isles
+d_western_isles;253;253 - Western Isles;Duchy Outer Hebrides - Western Isles
+c_uibhist;253;253 - Western Isles;Uibhist - Western Isles
+c_uibhist;253;253 - Western Isles;Duplicate to increase weight
+c_leodhas;253;253 - Western Isles;Leodhas - Western Isles
+c_leodhas;253;253 - Western Isles;Duplicate to increase weight
+c_innse_gall;253;253 - Western Isles;Suðreyar - Western Isles
 
-####;369;369 - Orkney;Orkney
+c_orkney;369;369 - Orkney;Orkneyar - Orkney
 
-####;4110;4110 - Sutherland;Sutherland
+d_sutherland;4110;4110 - Sutherland;Duchy Sutherland - Sutherland
+c_ross;4110;4110 - Sutherland;Ross - Sutherland
+c_ross;4110;4110 - Sutherland;Duplicate to increase weight
+c_sutherland;4110;4110 - Sutherland;Cataibh - Sutherland
+c_sutherland;4110;4110 - Sutherland;Duplicate to increase weight
+c_caithness;4110;4110 - Sutherland;Katanes - Sutherland
 
-####;251;251 - Aberdeen;Aberdeenshire
+d_aberdeen;251;251 - Aberdeen;Duchy Aberdeen - Aberdeenshire
+c_obardheathain;251;251 - Aberdeen;Obar Dheathain - Aberdeenshire
+c_obardheathain;251;251 - Aberdeen;Duplicate to increase weight
+c_moray;251;251 - Aberdeen;Moray - Aberdeenshire
+c_buchan;251;251 - Aberdeen;Buchan - Aberdeenshire
+c_cinnchardainn;251;251 - Aberdeen;Cinn Chardainn - Aberdeenshire
 
 ### Eastern Ireland
 
-####;372;372 - Tyrone;Tyrone
+c_tyrone;372;372 - Tyrone;Tyrone - Tyrone
+c_tyrone;372;372 - Tyrone;Duplicate to increase weight
+c_tyrconnell;372;372 - Tyrone;Tyrconnell - Tyrone
+c_tyrconnell;372;372 - Tyrone;Duplicate to increase weight
+c_oriel;372;372 - Tyrone;Oriel - Tyrone
 
-####;373;373 - Meath;Pale
+c_dublin;373;373 - Meath;Dublin - Pale
+c_brega;373;373 - Meath;Brega - Pale
+c_brega;373;373 - Meath;Duplicate to increase weight
+c_oriel;373;373 - Meath;Oriel - Pale
+c_oriel;373;373 - Meath;Duplicate to increase weight
+c_ulster;373;373 - Meath;Antrim - Pale
 
-####;374;374 - Leinster;Leinster
+d_leinster;374;374 - Leinster;Duchy Leinster - Leinster
+c_leinster;374;374 - Leinster;Wexford - Leinster
+c_wicklow;374;374 - Leinster;Chill Mhantain - Leinster
+c_kildare;374;374 - Leinster;Kildare - Leinster
+c_ossory;374;374 - Leinster;Ossory - Leinster
 
-####;4120;4120 - Kildare;Kildare/King's County
+c_kildare;4120;4120 - Kildare;Kildare - Kildare
+c_ossory;4120;4120 - Kildare;Ossory - Kildare
+c_offaly;4120;4120 - Kildare;Uibh Fhaili - Kildare
+c_tethbae;4120;4120 - Kildare;Tethbae - Kildare
+c_cavan;4120;4120 - Kildare;Chabhain - Kildare
 
-####;4121;4121 - Ulster;Ulster/Ulaidh
+c_ulster;4121;4121 - Ulster;Antrim - Ulster
 
 ### Western Ireland
 
-####;375;375 - Munster;Limerick
+c_desmond;375;375 - Munster;Kerry - Limerick
+c_desmond;375;375 - Munster;Duplicate to increase weight
+c_limerick;375;375 - Munster;Luimnigh - Limerick
+c_thomond;375;375 - Munster;Clare - Limerick
+c_thomond;375;375 - Munster;Duplicate to increase weight
+c_hy_many;375;375 - Munster;Hy Many - Limerick
+c_connacht;375;375 - Munster;Mayo - Limerick
 
-####;376;376 - Connaught;Connaught
+c_connacht;376;376 - Connaught;Mayo - Connaught
 
-####;4118;4118 - Desmond;Cork
+c_cork;4118;4118 - Desmond;Corcaigh - Cork
+c_cork;4118;4118 - Desmond;Duplicate to increase weight
+c_ormond;4118;4118 - Desmond;Waterford - Cork
+c_tipperary;4118;4118 - Desmond;Thiobraid Arann - Cork
 
-####;4119;4119 - Sligo;Sligo
+c_moylurg;4119;4119 - Sligo;Moylurg - Sligo
+c_moylurg;4119;4119 - Sligo;Duplicate to increase weight
+c_moylurg;4119;4119 - Sligo;Duplicate to increase weight
+c_breifne;4119;4119 - Sligo;Leitrim - Sligo
+c_hy_many;4119;4119 - Sligo;Hy Many - Sligo
+c_cavan;4119;4119 - Sligo;Chabhain - Sligo
+c_tyrconnell;4119;4119 - Sligo;Tyrconnell - Sligo
 
 ## South Germany
 ### Tirol
