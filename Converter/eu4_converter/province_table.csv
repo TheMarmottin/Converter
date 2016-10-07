@@ -318,121 +318,256 @@ c_asirgarh;527;527 - Khandesh;Asirgarh - Khandesh
 ## France
 ### Brittany
 
-####;169;169 - Armor;Armor
+c_rennes;169;169 - Armor;Roazhon - Armor
+c_porhoet;169;169 - Armor;Porhoët - Armor
+c_penthievre;169;169 - Armor;Turnagoued - Armor
+c_tregor;169;169 - Armor;Trégor - Armor
 
-####;170;170 - Finistere;Finistère
+c_french_leon;170;170 - Finistere;Leon - Finistère
+c_cornouaille;170;170 - Finistere;Gernev - Finistère
 
-####;171;171 - Morbihan;Morbihan
+c_vannes;171;171 - Morbihan;Gwened - Morbihan
+c_vannes;171;171 - Morbihan;Duplicate to increase weight
+c_porhoet;171;171 - Morbihan;Porhoët - Morbihan
 
-####;172;172 - Vendee;Nantes
+c_nantes;172;172 - Vendee;Naoned - Nantes
 
 ### Normandy
 
-####;167;167 - Caux;Caux
+c_arques;167;167 - Caux;Rouen - Caux
+c_evreux;167;167 - Caux;Évreux - Caux
+c_vexin;167;167 - Caux;Vexin - Caux
 
-####;168;168 - Normandie;Normandie
+d_normandy;168;168 - Normandie;Duchy Normandy - Normandie
+c_evreux;168;168 - Normandie;Évreux - Normandie
+c_bayeux;168;168 - Normandie;Bayeux - Normandie
+c_coustance;168;168 - Normandie;Cherbourg - Normandie
+c_avranches;168;168 - Normandie;Avranches - Normandie
+c_mortain;168;168 - Normandie;Mortain - Normandie
 
-####;1879;1879 - Alencon;Alencon
+d_alencon;1879;1879 - Alencon;Duchy Alençon - Alencon
+c_alencon;1879;1879 - Alencon;Alençon - Alencon
+c_perche;1879;1879 - Alencon;Perche - Alencon
+c_maine;1879;1879 - Alencon;Maine - Alencon
 
 ### Provence
 
-####;201;201 - Provence;Provence
+c_provence;201;201 - Provence;Provence - Provence
+c_provence;201;201 - Provence;Duplicate to increase weight
+c_arles;201;201 - Provence;Arle - Provence
 
-####;202;202 - Avignon;Avignon
+c_venaissin;202;202 - Avignon;Venaissin - Avignon
 
-####;2991;2991 - Draguignan;Draguignan
+c_forcalquier;2991;2991 - Draguignan;Auta Provença - Draguignan
+c_gapencais;2991;2991 - Draguignan;Gapençais - Draguignan
+c_provence;2991;2991 - Draguignan;Provence - Draguignan
 
 ### Guyenne
 
-####;174;174 - Gascogne;Gascogne
+c_bordeaux;174;174 - Gascogne;Bordeaux - Gascogne
+c_bordeaux;174;174 - Gascogne;Duplicate to increase weight
+c_albret;174;174 - Gascogne;Labrit - Gascogne
+c_agen;174;174 - Gascogne;Agen - Gascogne
 
-####;180;180 - Poitou;Poitou
+d_poitou;180;180 - Poitou;Duchy Poitou - Poitou
+c_poitiers;180;180 - Poitou;Poitiers - Poitou
+c_lusignan;180;180 - Poitou;Lusignan - Poitou
+c_lusignan;180;180 - Poitou;Duplicate to increase weight
+c_angouleme;180;180 - Poitou;Angoulême - Poitou
+c_la_marche;180;180 - Poitou;La Marche - Poitou
 
-####;194;194 - Bergerac;Bergerac
+c_perigord;194;194 - Bergerac;Périgord - Bergerac
+c_perigord;194;194 - Bergerac;Duplicate to increase weight
+c_angouleme;194;194 - Bergerac;Angoulême - Bergerac
 
-####;4111;4111 - Saintonge;Saintonge
+c_saintonge;4111;4111 - Saintonge;Saintonge - Saintonge
+c_aunis;4111;4111 - Saintonge;Aunis - Saintonge
+c_thouars;4111;4111 - Saintonge;Thouars - Saintonge
+c_angouleme;4111;4111 - Saintonge;Angoulême - Saintonge
 
-####;4112;4112 - Cahors;Cahors
+c_quercy;4112;4112 - Cahors;Quercy - Cahors
+c_quercy;4112;4112 - Cahors;Duplicate to increase weight
+c_agen;4112;4112 - Cahors;Agen - Cahors
 
 ### Languedoc
 
-####;196;196 - Toulouse;Toulouse
+d_toulouse;196;196 - Toulouse;Duchy Tolosa - Toulouse
+c_toulouse;196;196 - Toulouse;Tolosa - Toulouse
+c_toulouse;196;196 - Toulouse;Duplicate to increase weight
+c_albi;196;196 - Toulouse;Albi - Toulouse
+c_comminges;196;196 - Toulouse;Comminges - Toulouse
+c_foix;196;196 - Toulouse;Fois - Toulouse
+c_carcassonne;196;196 - Toulouse;Carcassona - Toulouse
 
-####;200;200 - Languedoc;Languedoc
+c_montpellier;200;200 - Languedoc;Melguèlh - Languedoc
+c_nimes;200;200 - Languedoc;Nimes - Languedoc
+c_viviers;200;200 - Languedoc;Vivarés - Languedoc
+c_gevaudan;200;200 - Languedoc;Gavaudan - Languedoc
+c_velay;200;200 - Languedoc;Velay - Languedoc
 
-####;2753;2753 - Narbonne;Narbonne
+c_narbonne;2753;2753 - Narbonne;Narbona - Narbonne
+c_beziers;2753;2753 - Narbonne;Béziers - Narbonne
 
 ### Massif Central
 
-####;190;190 - Bourbon;Bourbon
+c_bourbon;190;190 - Bourbon;Bourbon - Bourbon
 
-####;195;195 - Limousin;Limousin
+d_limousin;195;195 - Limousin;Duchy Lemosin - Limousin
+c_limousin;195;195 - Limousin;Limousin - Limousin
+c_la_marche;195;195 - Limousin;La Marche - Limousin
+c_ventadour;195;195 - Limousin;Ventadour - Limousin
 
-####;198;198 - Rouergue;Rouergue
+c_rouergue;198;198 - Rouergue;Roergue - Rouergue
+c_rouergue;198;198 - Rouergue;Duplicate to increase weight
+c_milau;198;198 - Rouergue;Milau - Rouergue
 
-####;199;199 - Auvergne;Auvergne
+d_auvergne;199;199 - Auvergne;Duchy Auvèrnhe - Auvergne
+c_auvergne;199;199 - Auvergne;Auvèrnhe - Auvergne
+c_carlades;199;199 - Auvergne;Carlat - Auvergne
+c_dauphinedeauvergne;199;199 - Auvergne;Dauphin d'auvergne - Auvergne
 
 ### Savoy
 
-####;203;203 - Lyonnais;Lyonnais
+c_lyon;203;203 - Lyonnais;Lyon - Lyonnais
+c_forez;203;203 - Lyonnais;Forez - Lyonnais
+c_forez;203;203 - Lyonnais;Duplicate to increase weight
+c_velay;203;203 - Lyonnais;Velay - Lyonnais
+c_dauphine_viennois;203;203 - Lyonnais;Viennois - Lyonnais
 
-####;204;204 - Dauphine;Dauphiné
+d_dauphine;204;204 - Dauphine;Duchy Dauphiné - Dauphiné
+c_dauphine_viennois;204;204 - Dauphine;Viennois - Dauphiné
+c_valentinois;204;204 - Dauphine;Valentinois - Dauphiné
+c_graisivaudan;204;204 - Dauphine;Graisivaudan - Dauphiné
+c_gapencais;204;204 - Dauphine;Gapençais - Dauphiné
 
-####;205;205 - Savoie;Savoie
+d_savoie;205;205 - Savoie;Duchy Savoy - Savoie
+c_savoie;205;205 - Savoie;Savoia - Savoie
+c_bugey;205;205 - Savoie;Bresse - Savoie
+c_geneve;205;205 - Savoie;Genève - Savoie
 
 ### Lorraine
 
-####;187;187 - Barrois;Barrois
+d_barleduc;187;187 - Barrois;Duchy Bar - Barrois
+c_bar;187;187 - Barrois;Bar - Barrois
+c_verdun;187;187 - Barrois;Verdun - Barrois
+c_pontamousson;187;187 - Barrois;Pont-á-Mousson - Barrois
+c_saintois;187;187 - Barrois;Vaudémont - Barrois
 
-####;188;188 - Metz;Metz
+c_metz;188;188 - Metz;Metz - Metz
+c_metz;188;188 - Metz;Duplicate to increase weight
+c_saarbrucken;188;188 - Metz;Saarbrücken - Metz
+c_lorraine;188;188 - Metz;Blâmont - Metz
 
-####;189;189 - Lothringen;Lothringen
+d_upper_lorraine;189;189 - Lothringen;Duchy Lothringen - Lothringen
+c_lorraine;189;189 - Lothringen;Blâmont - Lothringen
+c_saintois;189;189 - Lothringen;Vaudémont - Lothringen
 
 ### Picardy
 
-####;88;88 - Artois;Artois
+d_artois;88;88 - Artois;Duchy Artois - Artois
+c_artois;88;88 - Artois;Artois - Artois
+c_artois;88;88 - Artois;Duplicate to increase weight
+c_saintpol;88;88 - Artois;Saint- Pol - Artois
 
-####;89;89 - Picardie;Picardie
+c_ponthieu;89;89 - Picardie;Ponthieu - Picardie
+c_eu;89;89 - Picardie;Eu - Picardie
+c_amiens;89;89 - Picardie;Amiens - Picardie
+c_boulogne;89;89 - Picardie;Boulogne - Picardie
 
-####;182;182 - Vermandois;Vermandois
+c_vermandois;182;182 - Vermandois;Vermandois - Vermandois
+c_valois;182;182 - Vermandois;Valois - Vermandois
+c_beauvais;182;182 - Vermandois;Beauvais - Vermandois
+c_amiens;182;182 - Vermandois;Amiens - Vermandois
 
-####;1743;1743 - Cambray;Cambray
+c_cambrai;1743;1743 - Cambray;Cambrai - Cambray
 
 ### Seine
 
-####;183;183 - Ile-de-France;Paris
+c_ile_de_france;183;183 - Ile-de-France;Paris - Paris
+c_ile_de_france;183;183 - Ile-de-France;Duplicate to increase weight
+c_ile_de_france;183;183 - Ile-de-France;Duplicate to increase weight
+c_ile_de_france;183;183 - Ile-de-France;Duplicate to increase weight
+c_dreux;183;183 - Ile-de-France;Dreux - Paris
+c_chartres;183;183 - Ile-de-France;Chartres - Paris
+c_southvexin;183;183 - Ile-de-France;Vexin Français - Paris
 
-####;185;185 - Othe;Nemours
+c_sens;185;185 - Othe;Sens - Nemours
+c_tonnerre;185;185 - Othe;Tonnerre - Nemours
+c_champagne;185;185 - Othe;Troyes - Nemours
+c_langres;185;185 - Othe;Langres - Nemours
+c_gatinas;185;185 - Othe;Gâtinais - Nemours
+c_auxerre;185;185 - Othe;Auxerre - Nemours
 
-####;186;186 - Champagne;Champagne
+d_champagne;186;186 - Champagne;Duchy Champagne - Champagne
+c_champagne;186;186 - Champagne;Troyes - Champagne
+c_brie;186;186 - Champagne;Meaux - Champagne
+c_reims;186;186 - Champagne;Reims - Champagne
+c_vertus;186;186 - Champagne;Vertus - Champagne
 
 ### Loire
 
-####;177;177 - Maine;Maine
+c_maine;177;177 - Maine;Maine - Maine
+c_maine;177;177 - Maine;Duplicate to increase weight
+c_anjou;177;177 - Maine;Anjou - Maine
 
-####;178;178 - Anjou;Anjou
+d_anjou;178;178 - Anjou;Duchy Anjou - Anjou
+c_anjou;178;178 - Anjou;Anjou - Anjou
+c_anjou;178;178 - Anjou;Duplicate to increase weight
+c_thouars;178;178 - Anjou;Thouars - Anjou
+c_poitiers;178;178 - Anjou;Poitiers - Anjou
 
-####;179;179 - Berry;Berry
+d_berry;179;179 - Berry;Duchy Berry - Berry
+c_bourges;179;179 - Berry;Bourges - Berry
+c_bourges;179;179 - Berry;Duplicate to increase weight
+c_sancerre;179;179 - Berry;Sancerre - Berry
 
-####;184;184 - Orleanais;Orleanais
+c_orleans;184;184 - Orleanais;Orléans - Orleanais
+c_blois;184;184 - Orleanais;Blois - Orleanais
+c_tourraine;184;184 - Orleanais;Tours - Orleanais
+c_vendome;184;184 - Orleanais;Vendôme - Orleanais
+c_chateaudun;184;184 - Orleanais;Chateaudun - Orleanais
 
 ### Burgundy
 
-####;191;191 - Nevers;Nevers
+d_nevers;191;191 - Nevers;Duchy Nevers - Nevers
+c_nevers;191;191 - Nevers;Nevers - Nevers
+c_nevers;191;191 - Nevers;Duplicate to increase weight
+c_auxerre;191;191 - Nevers;Auxerre - Nevers
+c_auxois;191;191 - Nevers;Auxois - Nevers
 
-####;192;192 - Bourgogne;Bourgogne
+d_burgundy;192;192 - Bourgogne;Duchy Bourgogne - Bourgogne
+c_dijon;192;192 - Bourgogne;Dijon - Bourgogne
+c_auxois;192;192 - Bourgogne;Auxois - Bourgogne
+c_amous;192;192 - Bourgogne;Amous - Bourgogne
+c_langres;192;192 - Bourgogne;Langres - Bourgogne
 
-####;193;193 - Franche-Comte;Franche-Comté
+d_upper_burgundy;193;193 - Franche-Comte;Duchy Haute Bourgogne - Franche-Comté
+c_varais;193;193 - Franche-Comte;Varais - Franche-Comté
+c_portois;193;193 - Franche-Comte;Portois - Franche-Comté
+c_montbeliard;193;193 - Franche-Comte;Montbéliard - Franche-Comté
+c_besancon;193;193 - Franche-Comte;Besancon - Franche-Comté
+c_neuchatel;193;193 - Franche-Comte;Neuchatel - Franche-Comté
 
-####;1877;1877 - Charolais;Charolais
+c_charolais;1877;1877 - Charolais;Charolais - Charolais
+c_charolais;1877;1877 - Charolais;Duplicate to increase weight
+c_chalons;1877;1877 - Charolais;Chalons - Charolais
+c_macon;1877;1877 - Charolais;Mâcon - Charolais
+c_bugey;1877;1877 - Charolais;Bresse - Charolais
 
 ### Pyrenees
 
-####;173;173 - Labourd;Labourd
+c_labourd;173;173 - Labourd;Dax - Labourd
+c_labourd;173;173 - Labourd;Duplicate to increase weight
+c_albret;173;173 - Labourd;Labrit - Labourd
+c_marsan;173;173 - Labourd;Marsan - Labourd
 
-####;175;175 - Armagnac;Armagnac
+c_armagnac;175;175 - Armagnac;Armagnac - Armagnac
+c_armagnac;175;175 - Armagnac;Duplicate to increase weight
+c_agen;175;175 - Armagnac;Agen - Armagnac
 
-####;176;176 - Bearn;Béarn
+c_bearn;176;176 - Bearn;Béarn - Béarn
+c_bigorre;176;176 - Bearn;Bigorre - Béarn
+c_comminges;176;176 - Bearn;Comminges - Béarn
 
 ## Iberia
 ### Aragon
