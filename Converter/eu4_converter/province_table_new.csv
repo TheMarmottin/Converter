@@ -1707,53 +1707,88 @@ c_saarbrucken;1761;1761 - Pfalz;Saarbrücken - Pfalz
 ## Low Countries
 ### Wallonia
 
-####;91;91 - Hainaut;Hainaut
+d_hainaut;91;91 - Hainaut;Duchy Hainaut - Hainaut
+c_hainaut;91;91 - Hainaut;Mons - Hainaut
+c_valenciennes;91;91 - Hainaut;Valenciennes - Hainaut
 
-####;181;181 - Rethel;Rethel
+d_rethel;181;181 - Rethel;Duchy Rethel - Rethel
+c_rethel;181;181 - Rethel;Réthel - Rethel
+c_rethel;181;181 - Rethel;Duplicate to increase weight
+c_porcien;181;181 - Rethel;Porcien - Rethel
+c_chiny;181;181 - Rethel;Chiny - Rethel
 
-####;1866;1866 - Namur;Namur
+c_namur;1866;1866 - Namur;Namur - Namur
+c_namur;1866;1866 - Namur;Duplicate to increase weight
+c_liege;1866;1866 - Namur;Liege - Namur
 
 ### Flanders
 
-####;87;87 - Calais;Calais
+c_guines;87;87 - Calais;Guines - Calais
+c_boulogne;87;87 - Calais;Boulogne - Calais
 
-####;90;90 - Vlaanderen;Vlaanderen
+d_flanders;90;90 - Vlaanderen;Duchy Flanders - Vlaanderen
+c_brugge;90;90 - Vlaanderen;Brugge - Vlaanderen
+c_yperen;90;90 - Vlaanderen;Yperen - Vlaanderen
+c_lille;90;90 - Vlaanderen;Rijsel - Vlaanderen
+c_tournai;90;90 - Vlaanderen;Doornik - Vlaanderen
 
-####;1865;1865 - Ghent;Ghent
+c_gent;1865;1865 - Ghent;Gent - Ghent
+c_gent;1865;1865 - Ghent;Duplicate to increase weight
+c_brugge;1865;1865 - Ghent;Brugge - Ghent
 
 ### Brabant
 
-####;92;92 - Brabant;Brabant
+d_brabant;92;92 - Brabant;Duchy Brabant - Brabant
+c_brabant;92;92 - Brabant;Leuven - Brabant
+c_brussel;92;92 - Brabant;Brussel - Brabant
 
-####;95;95 - Breda;Breda
+c_breda;95;95 - Breda;Antwerp - Breda
 
-####;1744;1744 - Antwerpen;Antwerpen
+c_breda;1744;1744 - Antwerpen;Antwerp - Antwerpen
+c_brabant;1744;1744 - Antwerpen;Leuven - Antwerpen
+c_brussel;1744;1744 - Antwerpen;Brussel - Antwerpen
 
 ### Netherlands
 
-####;96;96 - Zeeland;Zeeland
+c_zeeland;96;96 - Zeeland;Zeeland - Zeeland
 
-####;97;97 - Holland;Holland
+c_holland;97;97 - Holland;Holland - Holland
+c_holland;97;97 - Holland;Duplicate to increase weight
+c_frisia;97;97 - Holland;Friesland - Holland
 
-####;98;98 - Utrecht;Utrecht
+c_sticht;98;98 - Utrecht;Utrecht
 
 ### Frisia
 
-####;99;99 - Gelre;Gelre
+d_gelre;99;99 - Gelre;Duchy Gelre - Gelre
+c_gelre;99;99 - Gelre;Gelre - Gelre
+c_zutphen;99;99 - Gelre;Zutphen - Gelre
+c_zutphen;99;99 - Gelre;Duplicate to increase weight
+c_arnhem;99;99 - Gelre;Veluwe - Gelre
+c_arnhem;99;99 - Gelre;Duplicate to increase weight
+c_oversticht;99;99 - Gelre;Oversticht - Gelre
+c_oversticht;99;99 - Gelre;Duplicate to increase weight
 
-####;100;100 - Friesland;Friesland
+c_frisia;100;100 - Friesland;Friesland - Friesland
 
-####;1931;1931 - East Frisia;East Frisia
+c_ostfriesland;1931;1931 - East Frisia;Ostfriesland - East Frisia
 
 ### Liege
 
-####;93;93 - Liege;Liège
+c_liege;93;93 - Liege;Liege - Liège
+c_liege;93;93 - Liege;Duplicate to increase weight
+c_laroche;93;93 - Liege;La Roche - Liège
 
-####;94;94 - Luxemburg;Luxemburg
+d_luxembourg;94;94 - Luxemburg;Duchy Luxembourg - Luxemburg
+c_luxembourg;94;94 - Luxemburg;Luxembourg - Luxemburg
+c_arlon;94;94 - Luxemburg;Arlon - Luxemburg
+c_chiny;94;94 - Luxemburg;Chiny - Luxemburg
+c_laroche;94;94 - Luxemburg;La Roche - Luxemburg
+c_vianden;94;94 - Luxemburg;Vianden - Luxemburg
 
-####;1742;1742 - Limburg;Limburg
+c_limburg;1742;1742 - Limburg;Limburg
 
-####;2974;2974 - Loon;Loon
+c_loon;2974;2974 - Loon;Loon - Loon
 
 # Africa
 ## Niger
