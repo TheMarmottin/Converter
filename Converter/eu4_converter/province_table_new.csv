@@ -1235,113 +1235,208 @@ c_tyrconnell;4119;4119 - Sligo;Tyrconnell - Sligo
 ## South Germany
 ### Tirol
 
-####;73;73 - Tirol;Tirol
+c_tirol;73;73 - Tirol;Tirol - Tirol
 
-####;110;110 - Trent;Trent
+c_trent;110;110 - Trent;Trent - Trent
 
-####;1768;1768 - Lienz;Lienz
+c_tirol;1768;1768 - Lienz;Tirol - Lienz
+c_karnten;1768;1768 - Lienz;Kärnten - Lienz
+c_aquileia;1768;1768 - Lienz;Aquileia - Lienz
 
 ### Austria Proper
 
-####;133;133 - Linz;Linz
+c_innsbruck;133;133 - Linz;Traungau - Linz
+c_innsbruck;133;133 - Linz;Duplicate to increase weight
+c_salzburg;133;133 - Linz;Salzburg - Linz
+c_salzburg;133;133 - Linz;Duplicate to increase weight
+c_passau;133;133 - Linz;Ortenburg - Linz
 
-####;134;134 - Wien;Wien
+c_osterreich;134;134 - Wien;Österreich - Wien
+c_osterreich;134;134 - Wien;Duplicate to increase weight
+c_pitten;134;134 - Wien;Pitten - Wien
 
-####;1770;1770 - Ostmarch;Ostmarch
+c_kuenring;1770;1770 - Ostmarch;Kuenring - Ostmarch
+c_osterreich;1770;1770 - Ostmarch;Österreich - Ostmarch
+d_osterreich;1770;1770 - Ostmarch;Duchy Österreich - Ostmarch
 
 ### Inner Austria
 
-####;128;128 - Karnten;Kärnten
+c_karnten;128;128 - Karnten;Kärnten - Kärnten
+c_karnten;128;128 - Karnten;Duplicate to increase weight
+c_aquileia;128;128 - Karnten;Aquileia - Kärnten
 
-####;132;132 - Steiermark;Steiermark
+c_steiermark;132;132 - Steiermark;Steiermark - Steiermark
+c_steiermark;132;132 - Steiermark;Duplicate to increase weight
+c_karnten;132;132 - Steiermark;Kärnten - Steiermark
 
-####;1863;1863 - Graz;Graz
+c_steiermark;1863;1863 - Graz;Steiermark - Graz
 
 ### Carniola
 
-####;129;129 - Krain;Krain
+c_krain;129;129 - Krain;Carniola - Krain
+c_krain;129;129 - Krain;Duplicate to increase weight
+c_celje;129;129 - Krain;Celje - Krain
 
-####;130;130 - Istria;Istria
+d_istria;130;130 - Istria;Duchy Istra - Istria
+c_istria;130;130 - Istria;Merania - Istria
+c_trieste;130;130 - Istria;Duino - Istria
 
-####;1769;1769 - Gorz;Görz
+c_gorz;1769;1769 - Gorz;Görz - Görz
+c_gorz;1769;1769 - Gorz;Duplicate to increase weight
+c_aquileia;1769;1769 - Gorz;Aquileia - Görz
 
 ### Switzerland
 
-####;166;166 - Schwyz;Waldstätte
+c_schwyz;166;166 - Schwyz;Schwyz - Waldstätte
+c_schwyz;166;166 - Schwyz;Duplicate to increase weight
+c_chur;166;166 - Schwyz;Chur - Waldstätte
 
-####;1869;1869 - Zurich;Zürich
+c_st_gallen;1869;1869 - Zurich;Thurgau - Zürich
+c_aargau;1869;1869 - Zurich;Aargau - Zürich
 
-####;1870;1870 - St Gallen;St Gallen
+c_st_gallen;1870;1870 - St Gallen;Thurgau - St Gallen
 
-####;1873;1873 - Chur;Graubünden
+c_chur;1873;1873 - Chur;Chur - Graubünden
 
 ### Lower Bavaria
 
-####;64;64 - Landshut;Landshut
+c_niederbayern;64;64 - Landshut;Niederbayern - Landshut
+c_oberbayern;64;64 - Landshut;Oberbayern - Landshut
+c_oberbayern;64;64 - Landshut;Duplicate to increase weight
+c_passau;64;64 - Landshut;Ortenburg - Landshut
 
-####;1757;1757 - Oberpfalz;Oberpfalz
+c_leuchenberg;1757;1757 - Oberpfalz;Leuchtenberg - Oberpfalz
+c_nurnberg;1757;1757 - Oberpfalz;Nürnberg - Oberpfalz
+c_plauen;1757;1757 - Oberpfalz;Bayreuth - Oberpfalz
 
-####;2956;2956 - Straubing;Straubing
+c_niederbayern;2956;2956 - Straubing;Niederbayern - Straubing
+c_niederbayern;2956;2956 - Straubing;Duplicate to increase weight
+c_passau;2956;2956 - Straubing;Ortenburg - Straubing
 
-####;2957;2957 - Regensburg;Regensburg
+c_niederbayern;2957;2957 - Regensburg;Niederbayern - Regensburg
+c_ansbach;2957;2957 - Regensburg;Ansbach - Regensburg
 
 ### Upper Bavaria
 
-####;65;65 - Munchen;München
+c_oberbayern;65;65 - Munchen;Oberbayern - München
+c_oberbayern;65;65 - Munchen;Duplicate to increase weight
+c_oberbayern;65;65 - Munchen;Duplicate to increase weight
+c_kempten;65;65 - Munchen;Kempten - München
+c_augsburg;65;65 - Munchen;Augsburg - München
 
-####;76;76 - Salzburg;Salzburg
+c_salzburg;76;76 - Salzburg;Salzburg - Salzburg
 
-####;2955;2955 - Ingolstadt;Ingolstadt
+c_niederbayern;2955;2955 - Ingolstadt;Niederbayern - Ingolstadt
+c_augsburg;2955;2955 - Ingolstadt;Augsburg - Ingolstadt
+c_augsburg;2955;2955 - Ingolstadt;Duplicate to increase weight
+c_oettingen;2955;2955 - Ingolstadt;Öettingen - Ingolstadt
+c_oettingen;2955;2955 - Ingolstadt;Duplicate to increase weight
 
 ### Franconia
 
-####;66;66 - Bamberg;Bamberg
+c_bamberg;66;66 - Bamberg;Bamberg - Bamberg
+c_bamberg;66;66 - Bamberg;Duplicate to increase weight
+c_plauen;66;66 - Bamberg;Bayreuth - Bamberg
 
-####;67;67 - Nurnberg;Nürnberg
+c_nurnberg;67;67 - Nurnberg;Nürnberg - Nürnberg
 
-####;79;79 - Wurzburg;Würzburg
+c_wurzburg;79;79 - Wurzburg;Würzburg - Würzburg
+c_wurzburg;79;79 - Wurzburg;Duplicate to increase weight
+c_wurzburg;79;79 - Wurzburg;Duplicate to increase weight
+c_wurzburg;79;79 - Wurzburg;Duplicate to increase weight
+c_henneberg;79;79 - Wurzburg;Henneberg - Würzburg
+c_hessen;79;79 - Wurzburg;Hessen - Würzburg
+c_frankfurt;79;79 - Wurzburg;Hanau - Würzburg
 
 ### Lower Swabia
 
-####;70;70 - Wurttemberg;Württemberg
+c_wurttemberg;70;70 - Wurttemberg;Württemberg - Württemberg
+c_wurttemberg;70;70 - Wurttemberg;Duplicate to increase weight
+c_wurttemberg;70;70 - Wurttemberg;Duplicate to increase weight
+c_hohenzollern;70;70 - Wurttemberg;Zollern - Württemberg
+c_furstenberg;70;70 - Wurttemberg;Fürstenberg - Württemberg
+c_helfenstein;70;70 - Wurttemberg;Helfenstein - Württemberg
 
-####;71;71 - Ansbach;Ansbach
+c_ansbach;71;71 - Ansbach;Ansbach - Ansbach
+c_comburg;71;71 - Ansbach;Comburg-Röthenburg - Ansbach
+c_comburg;71;71 - Ansbach;Duplicate to increase weight
+c_hohenloe;71;71 - Ansbach;Hohenloe - Ansbach
+c_hohenloe;71;71 - Ansbach;Duplicate to increase weight
+c_teck;71;71 - Ansbach;Teck - Ansbach
+c_wurzburg;71;71 - Ansbach;Würzburg - Ansbach
 
-####;1872;1872 - Ulm;Ulm
+c_ulm;1872;1872 - Ulm;Ulm - Ulm
+c_teck;1872;1872 - Ulm;Teck - Ulm
+c_teck;1872;1872 - Ulm;Duplicate to increase weight
+c_oettingen;1872;1872 - Ulm;Öettingen - Ulm
 
 ### Upper Swabia
 
-####;68;68 - Memmingen;Memmingen
+c_ulm;68;68 - Memmingen;Ulm - Memmingen
+c_ulm;68;68 - Memmingen;Duplicate to increase weight
+c_schwaben;68;68 - Memmingen;Montfort - Memmingen
 
-####;69;69 - Oberschwaben;Oberschwaben
+c_schwaben;69;69 - Oberschwaben;Montfort - Oberschwaben
+c_schwaben;69;69 - Oberschwaben;Duplicate to increase weight
+c_schwaben;69;69 - Oberschwaben;Duplicate to increase weight
+c_waldburg;69;69 - Oberschwaben;Waldburg - Oberschwaben
+c_helfenstein;69;69 - Oberschwaben;Helfenstein - Oberschwaben
+c_hohenzollern;69;69 - Oberschwaben;Zollern - Oberschwaben
+c_breisgau;69;69 - Oberschwaben;Zollern - Oberschwaben
 
-####;1868;1868 - Augsburg;Augsburg
+c_augsburg;1868;1868 - Augsburg;Augsburg - Augsburg
+c_kempten;1868;1868 - Augsburg;Kempten - Augsburg
+c_kempten;1868;1868 - Augsburg;Duplicate to increase weight
 
 ### Upper Rhineland
 
-####;72;72 - Breisgau;Breisgau
+c_breisgau;72;72 - Breisgau;Breisgau - Breisgau
+c_breisgau;72;72 - Breisgau;Duplicate to increase weight
+c_furstenberg;72;72 - Breisgau;Fürstenberg - Breisgau
 
-####;74;74 - Baden;Baden
+c_baden;74;74 - Baden;Baden - Baden
 
-####;75;75 - Elsass;Elsass
+c_nordgau;75;75 - Elsass;Nordgau - Elsass
 
-####;1880;1880 - Sundgau;Sundgau
+c_sundgau;1880;1880 - Sundgau;Sundgau - Sundgau
 
 ### Romandie
 
-####;165;165 - Bern;Bern
+c_bern;165;165 - Bern;Zähringen - Bern
+c_bern;165;165 - Bern;Duplicate to increase weight
+c_basel;165;165 - Bern;Basel - Bern
 
-####;1867;1867 - Freiburg;Vaud
+c_cheese;1867;1867 - Freiburg;Gruyére - Vaud
+c_cheese;1867;1867 - Freiburg;Duplicate to increase weight
+c_geneve;1867;1867 - Freiburg;Genève - Vaud
 
-####;1871;1871 - Wallis;Wallis
+c_valais;1871;1871 - Wallis;Valais - Wallis
+c_valais;1871;1871 - Wallis;Duplicate to increase weight
+c_chablais;1871;1871 - Wallis;Chablais - Wallis
 
 ### Palatinate
 
-####;77;77 - Heidelberg;Heidelberg
+c_pfalz;77;77 - Heidelberg;Pfalz - Heidelberg
+c_pfalz;77;77 - Heidelberg;Duplicate to increase weight
+c_lauffen;77;77 - Heidelberg;Lauffen - Heidelberg
+c_lauffen;77;77 - Heidelberg;Duplicate to increase weight
+c_eberstein;77;77 - Heidelberg;Eberstein - Heidelberg
+c_baden;77;77 - Heidelberg;Baden - Heidelberg
 
-####;78;78 - Mainz;Mainz
+c_mainz;78;78 - Mainz;Mainz - Mainz
+c_mainz;78;78 - Mainz;Duplicate to increase weight
+c_lauffen;78;78 - Mainz;Lauffen - Mainz
+c_leiningen;78;78 - Mainz;Wertheim - Mainz
+c_leiningen;78;78 - Mainz;Duplicate to increase weight
 
-####;1761;1761 - Pfalz;Pfalz
+d_pfalz;1761;1761 - Pfalz;Duchy Pfalzgrafschaft bei Rhein - Pfalz
+c_pfalz;1761;1761 - Pfalz;Pfalz - Pfalz
+c_pfalz;1761;1761 - Pfalz;Duplicate to increase weight
+c_zweibrucken;1761;1761 - Pfalz;Zweibrücken - Pfalz
+c_zweibrucken;1761;1761 - Pfalz;Duplicate to increase weight
+c_sponheim;1761;1761 - Pfalz;Sponheim - Pfalz
+c_sponheim;1761;1761 - Pfalz;Duplicate to increase weight
+c_saarbrucken;1761;1761 - Pfalz;Saarbrücken - Pfalz
 
 ## North Germany
 ### Erzgebirge
