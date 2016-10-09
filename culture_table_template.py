@@ -14,6 +14,42 @@ def main():
     swmh = ck2parser.rootpath / 'SWMH-BETA/SWMH'
     parser = ck2parser.SimpleParser(swmh)
 
+    # # print SWMH_cultures
+    # ck2localize = ck2parser.get_localisation([swmh])
+    # with open('SWMH_cultures.txt', 'w', encoding='cp1252') as f:
+    #    for _, tree in parser.parse_files('common/cultures/*'):
+    #        for n, v in tree:
+    #            print('{}({})'.format(n.val, ck2localize.get(n.val, '')),
+    #                  file=f)
+    #            for n2, v2 in v:
+    #                if n2.val != 'graphical_cultures':
+    #                    print('\t{}({})'.format(n2.val,
+    #                                            ck2localize.get(n2.val, '')),
+    #                          file=f)
+    # # print EU4_cultures
+    # eu4localize = {}
+    # for folder in [eu4root, pathlib.Path('copy')]:
+    #     for path in (folder / 'localisation').glob('*_l_english.yml'):
+    #         with path.open(encoding='utf-8-sig') as f:
+    #             for line in f:
+    #                 match = re.fullmatch(r'\s*([^#\s:]+):\d?\s*"(.*)"[^"]*',
+    #                                      line)
+    #                 if match:
+    #                     eu4localize[match.group(1)] = match.group(2)
+    # not_cultures = ['dynasty_names', 'graphical_culture',
+    #                 'second_graphical_culture', 'male_names', 'female_names']
+    # with open('EU4_cultures.txt', 'w', encoding='cp1252') as f:
+    #     for path in (eu4root / 'common/cultures').iterdir():
+    #         for n, v in parser.parse_file(path):
+    #             print('{}({})'.format(n.val, eu4localize.get(n.val, '')),
+    #                   file=f)
+    #             for n2, v2 in v:
+    #                 if n2.val not in not_cultures:
+    #                     print('\t{}({})'.format(n2.val,
+    #                                             eu4localize.get(n2.val, '')),
+    #                           file=f)
+    # raise SystemExit()
+
     ck2cultures = ck2parser.get_cultures(parser, groups=False)
     parser.moddirs = []
 
