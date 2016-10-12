@@ -94,12 +94,16 @@ def main():
     unmapped_cultures = list(ck2cultures)
     with open('culture_table.csv', encoding='cp1252') as f:
         for line in f:
-            match = re.fullmatch(r'([^#;]*);([^#;]*);([^#;]*);([^#;]*)\n',
+            match = re.fullmatch(r'([^#;]*);([^#;]*);([^#;]*);([^;]*)\n',
                                  line)
             if match:
                 ck2, eu4, custom, name = match.groups()
                 if custom == '0':
-                    name = eu4localize[eu4]
+                    if '#' in name:
+                        name = (eu4localize[eu4] + ' # ' +
+                                name.split('#', maxsplit=1)[1].strip())
+                    else:
+                        name = eu4localize[eu4]
                 culture_table.append([ck2, eu4, custom, name])
                 unmapped_cultures.remove(ck2)
 
