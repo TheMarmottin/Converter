@@ -4,6 +4,7 @@
 
 pommeranian;pommeranian;0;Pomeranian
 low_german;hannoverian;0;Westphalian
+old_saxon;hannoverian;0;Westphalian
 low_saxon;saxon;0;Saxon
 thuringian;saxon;0;Saxon
 dutch;dutch;0;Dutch
@@ -11,7 +12,6 @@ german;german;1;German
 old_frankish;frankish;1;Frankish
 low_frankish;frankish;1;Frankish
 suebi;suebi;1;Suebi
-old_saxon;old_saxon;1;Saxon
 frisian;frisian;1;Frisian
 
 # Nordic
@@ -46,7 +46,7 @@ corsican;sardinian;0;Sardinian
 southern_italian;neapolitan;0;Neapolitan
 langobardisch;neapolitan;0;Neapolitan
 arpitan;piedmontese;0;Piedmontese
-roman;roman;1;Roman
+roman;roman;0;Roman
 
 # Iberian
 
@@ -96,11 +96,11 @@ hungarian;hungarian;0;Hungarian
 
 # East Slavic
 
-russian;russian;0;Muscovite
 vepsian;karelian;0;Karelian
 ilmenian;ilmenian;1;Ilmenian
 volhynian;volhynian;1;Volhynian
 severian;severian;1;Severian
+russian;russian_culture;1;Russian
 
 # Baltic
 
@@ -211,6 +211,10 @@ beja;nubian;0;Nubian
 coptic;nubian;0;Nubian
 nubian;nubian;0;Nubian
 
+# Lost Cultures
+
+horse;equine;1;Equine
+
 # Israelite
 
 ashkenazi;ashkenazi;1;Ashkenazi
@@ -263,4 +267,3 @@ karluk;karluk;1;Karluk
 #ligurian;;;;
 #venetian;;;;
 #brahui;;;;
-#horse;;;;

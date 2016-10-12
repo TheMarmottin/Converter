@@ -7,16 +7,17 @@ k_sweden;SWE;Sweden;Sweden Kingdom
 k_denmark;DAN;Denmark;Denmark Kingdom
 k_norway;NOR;Norway;Norway Kingdom
 k_finland;FIN;Finland;Finland Kingdom
+k_sapmi;SMI;Sami;Sápmi Kingdom
+d_sapmi;SMI;Sami;Sápmi Duchy
+c_lappland;SMI;Sami;Sápmi County
+d_kola;SMI;Sami;Kola Sami Duchy
 d_finland;FIN;Finland;Finland Duchy
 c_finland;FIN;Finland;Finland County
-d_kola;SMI;Sami;Kola Sami Duchy
-d_esthonia;EST;Estonia;Estonia Duchy
-d_karelia;KRL;Karelia;Karelia Duchy
-c_karelia;KRL;Karelia;Karelia County
 d_holstein;SHL;Holstein;Holstein Duchy
 c_holstein;SHL;Holstein;Holstein County
 d_gotland;GOT;Gotland;Gotland Duchy
 c_gotland;GOT;Gotland;Gotland County
+d_karelia;KRL;Karelia;Karelia Duchy
 k_iceland;ICE;Iceland;Iceland Kingdom
 d_iceland;ICE;Iceland;Iceland Duchy
 
@@ -53,16 +54,19 @@ c_naxos;NAX;Naxos;Naxos County
 k_ragusa;RAG;Ragusa;Ragusa Kingdom
 d_ragusa;RAG;Ragusa;Ragusa Duchy
 c_ragusa;RAG;Ragusa;Ragusa County
+c_albania;ALB;Albania;Albania County
 d_dyrrachion;ALB;Albania;Albania Duchy
 c_arbanon;ALB;Albania;Albania County
 d_cephalonia;CEP;Corfu;Corfu Duchy
+c_cephalonia;CEP;Corfu;Corfu County
 c_corfu;CEP;Corfu;Corfu County
+d_slovakia;SLO;Slovakia;Slovakia Duchy
+d_nyitra;SLO;Slovakia;Slovakia Duchy
+c_nitra;SLO;Slovakia;Slovakia County
 d_dioclea;MON;Montenegro;Montenegro Duchy
 c_zeta;MON;Montenegro;Montenegro County
 k_achaea;MOE;Morea;Morea Kingdom
 c_monemvasia;MOE;Morea;Morea County
-d_nyitra;SLO;Slovakia;Slovakia (Nitra) Duchy
-c_nitra;SLO;Slovakia;Slovakia (Nitra) County
 
 
 # British Isles
@@ -85,16 +89,14 @@ c_tyrone;TYR;Tyrone;Tyrone County
 d_oneill;TYR;Tyrone;Tyrone Duchy
 c_connacht;CNN;Connacht;Connacht County
 c_leinster;LEI;Leinster;Leinster County
+d_meath;MTH;Meath;Meath Duchy
 c_desmond;DMS;Desmond;Desmond County
 c_kildare;KID;Kildare;Kildare County
-d_ulster;ULS;Ulster;Ulster Duchy
-c_ulster;ULS;Ulster;Ulster County
+d_moray;HSC;Highlands;Highlands Duchy
 
 # Eastern Europe
 
 k_lithuania;LIT;Lithuania;Lithuania Kingdom
-k_terra;LVA;Livonia;Livonia Kingdom
-d_livonia;LVA;Livonia;Livonia Duchy
 d_courland;KUR;Kurland;Kurland Duchy
 k_poland;POL;Poland;Poland Kingdom
 d_krakow;KRA;Krakow;Krakow Duchy
@@ -116,7 +118,9 @@ k_moldau;MOL;Moldavia;Moldau Kingdom
 d_moldau;MOL;Moldavia;Moldau Duchy
 d_lithuanians;LIT;Lithuania;Lithuania Duchy
 c_kurs;KUR;Kurland;Kurland County
-k_galicia;VOL;Volyn;Volyn (Galicia-Volhynia) Kingdom
+d_esthonia;EST;Estonia;Estonia Duchy
+k_terra;LVA;Livonia;Livonia Kingdom
+d_livonia;LVA;Livonia;Livonia Duchy
 
 # France
 
@@ -150,6 +154,7 @@ d_berry;BER;Berry;Berry Duchy
 c_venaissin;AVI;Avignon;Venaissin County
 d_bourbon;BOU;Bourbonnais;Bourbonnais Duchy
 c_bourbon;BOU;Bourbonnais;Bourbonnais County
+c_boulogne;PIC;Picardy;Picardy County
 d_alencon;ALE;Alencon;Alencon Duchy
 c_alencon;ALE;Alencon;Alencon County
 d_gascogne;GUY;Gascony;Gascony Duchy
@@ -198,7 +203,6 @@ d_salzburg;SLZ;Salzburg;Salzburg Duchy
 c_salzburg;SLZ;Salzburg;Salzburg County
 d_thuringia;THU;Thuringia;Thuringia Duchy
 c_thuringen;THU;Thuringia;Thuringia County
-c_nassau;NSA;Nassau;Nassau County
 d_tyrol;TIR;Tirol;Tirol Duchy
 c_tirol;TIR;Tirol;Tirol County
 d_trier;TRI;Trier;Trier Duchy
@@ -214,6 +218,12 @@ d_berg;KLE;Kleves;Kleve Duchy
 c_kleve;KLE;Kleves;Kleve County
 c_ostfriesland;EFR;EastFrisia;Ostfriesland County
 d_swiss;SWI;Schweiz;Switzerland
+c_nassau;NSA;Nassau;Nassau County
+d_augsburg;AUG;Augsburg;Augsburg Duchy
+c_augsburg;AUG;Augsburg;Augsburg County
+c_kempten;AUG;Augsburg;Augsburg County
+c_celle;HAN;Hannover;Hannover County
+c_nurnberg;NUM;Nuremberg;Nuremberg County
 c_aachen;AAC;Aachen;Aachen County
 d_hessen;HES;Hessen;Hessen Duchy
 c_hessen;HES;Hessen;Hessen County
@@ -222,9 +232,6 @@ c_magdeburg;MAG;Magdeburg;Magdeburg County
 d_lauenburg;LAU;Lauenburg;Lauenburg Duchy
 c_lauenburg;LAU;Lauenburg;Lauenburg County
 c_ansbach;ANS;Ansbach;Ansbach County
-d_augsburg;AUG;Augsburg;Augsburg Duchy
-c_augsburg;AUG;Augsburg;Augsburg County
-c_nurnberg;NUM;Nuremberg;Nuremberg County
 d_styria;STY;Styria;Styria Duchy
 c_steiermark;STY;Styria;Styria County
 d_pfalz;PAL;Palatinate;Palatinate Duchy
@@ -243,15 +250,16 @@ d_navarra;NAV;Navarra;Navarra Duchy
 c_navarra;NAV;Navarra;Navarra County
 k_portugal;POR;Portugal;Portugal Kingdom
 d_porto;POR;Portugal;Portugal Duchy
-k_andalusia;ADU;Andalusia;Andalusia Kingdom
 e_spain;SPA;Spain;Spain Empire
 k_spanish_galicia;GAL;Galicia;Galicia Kingdom
 d_galicia;GAL;Galicia;Galicia Duchy
 k_leon;LON;Leon;Leon Kingdom
 d_leon;LON;Leon;Leon Duchy
 c_leon;LON;Leon;Leon County
+k_andalusia;ADU;Andalusia;Andalusia Kingdom
 k_catalunya;CAT;Catalunya;Catalunya Kingdom
 d_barcelona;CAT;Catalunya;Catalunya Duchy
+c_barcelona;CAT;Catalunya;Catalunya County
 
 # Italy
 
@@ -265,8 +273,6 @@ e_italy;ITA;Italy;Italy Empire
 k_italy;ITA;Italy;Italy Kingdom
 d_mantua;MAN;Mantua;Mantua Duchy
 c_mantua;MAN;Mantua;Mantua County
-d_monferrato;MFA;Montferrat;Monferrato Duchy
-c_monferrato;MFA;Montferrat;Monferrato County
 d_modena;MOD;Modena;Modena Duchy
 c_modena;MOD;Modena;Modena County
 k_naples;NAP;Naples;Naples Kingdom
@@ -281,12 +287,9 @@ d_savoie;SAV;Savoy;Savoy Duchy
 k_sicily;SIC;Sicily;Sicily Kingdom
 k_trinacria;SIC;Sicily;Sicily Kingdom
 d_sicily;SIC;Sicily;Sicily Duchy
-c_malta;JAI;Malta;Malta County
 d_siena;SIE;Siena;Siena County
 c_siena;SIE;Siena;Siena County
 d_toscana;TUS;Tuscany;Tuscany Duchy
-d_lucca;LUC;Lucca;Lucca Duchy
-c_lucca;LUC;Lucca;Lucca County
 d_urbino;URB;Urbino;Urbino Duchy
 c_urbino;URB;Urbino;Urbino County
 k_venice;VEN;Venice;Venice Kingdom
@@ -296,8 +299,13 @@ c_genoa;GEN;Genoa;Genoa County
 c_savoie;SAV;Savoy;Savoy County
 d_lombardia;MLO;Milan;Milan Duchy
 d_milano;MLO;Milan;Milan
-c_lombardia;MLO;Milan;Milan County
+d_monferrato;MFA;Montferrat;Monferrato Duchy
+c_monferrato;MFA;Montferrat;Monferrato County
+d_lucca;LUC;Lucca;Lucca Duchy
+c_lucca;LUC;Lucca;Lucca County
+c_malta;JAI;Malta;Malta County
 c_firenze;LAN;Florence;Florence County
+c_lombardia;MLO;Milan;Milan County
 
 # Low Countries
 
@@ -351,11 +359,18 @@ c_polotsk;PLT;Polotsk;Polotsk County
 k_perm;PRM;Perm;Perm Kingdom
 d_perm;PRM;Perm;Perm Duchy
 c_perm;PRM;Perm;Perm County
+d_zaporizhia;ZAZ;Zaporozhie;Zaporozhie Duchy
+c_lukomorie;ZAZ;Zaporozhie;Zaporozhie County
+c_theodoro;FEO;Theodoro;Theodoro County
+c_theodosia;FEO;Theodoro;Theodoro County
+d_bashkirs;BSH;Bashkiria;Bashkiria Duchy
+c_bashkirs;BSH;Bashkiria;Bashkiria County
+k_galicia;VOL;Volyn;Volyn (Galicia-Volhynia) Kingdom
+d_volhynia;VOL;Volyn;Volyn Duchy
+c_mozhaysk;OKA;Oka;Oka County
 d_zichia;CIR;Circassia;Circassia Duchy
 c_kasogs;CIR;Circassia;Circassia County
 c_lekia;GAZ;Gazikumukh;Gazikumukh County
-c_theodoro;FEO;Theodoro;Theodoro County
-d_zaporizhia;ZAZ;Zaporozhie;Zaporozhie Duchy
 
 # Arabia
 
@@ -367,8 +382,12 @@ d_amman;ALH;Haasa;Haasa Duchy
 c_al_hasa;ALH;Haasa;Haasa County
 e_arabia;ARB;Arabia;Arabia Empire
 k_arabia;ARB;Arabia;Arabia Kingdom
+d_hormuz;ORM;Ormuz;Hormuz Duchy
+c_hormuz;ORM;Ormuz;Hormuz County
 d_nefoud;NAJ;Najd;Najd Duchy
+c_hajr;NAJ;Najd;Najd County
 k_yemen;ADE;Yemen;Yemen Kingdom
+d_sanaa;ADE;Yemen;Yemen Duchy
 
 # Asia Minor
 
@@ -435,8 +454,7 @@ c_sibir;SIB;Sibir;Sibir County
 c_kazakh;KZH;Kazakh;Kazakh County
 c_bukhara;BUK;Bukhara;Bukhara County
 c_qazan;KAZ;Kazan;Qazan County
-d_bashkirs;BSH;Bashkiria;Bashkiria Duchy
-c_bashkirs;BSH;Bashkiria;Bashkiria County
+e_chagatai;CHG;ChagataiKhanate;Chagatai Khanate
 
 # Persia
 
@@ -446,13 +464,12 @@ c_khorasan;KHO;Khorasan;Khorasan County
 e_persia;PER;Persia;Persia Empire
 k_persia;PER;Persia;Persia Kingdom
 d_fars;PER;Persia;Persia Duchy
-d_hormuz;ORM;Ormuz;Hormuz Duchy
-c_hormuz;ORM;Ormuz;Hormuz County
 e_timurids;TIM;Timurid;Timurid Empire
 
 # Americas
 
 e_mexikha;AZT;Aztec;Aztec Empire
+
 
 # Africa
 
@@ -462,11 +479,10 @@ d_mali;MAL;Mali;Mali Duchy
 c_mali;MAL;Mali;Mali County
 e_abyssinia;ETH;Ethiopia;Ethiopia Empire
 k_abyssinia;ETH;Ethiopia;Ethiopia Kingdom
-d_semien;BTI;Semien;Semien Duchy
-c_semien;BTI;Semien;Semien County
 k_alodia;ALO;Alodia;Alodia Kingdom
 d_alodia;ALO;Alodia;Alodia Duchy
 c_alwa;ALO;Alodia;Alodia County
+d_sennar;ALO;Alodia;Alodia Duchy
 c_alodia;ALO;Alodia;Alodia County
 k_makuria;MAK;Makuria;Makuria Kingdom
 c_makuria;MAK;Makuria;Makuria County
@@ -476,6 +492,8 @@ d_afar;AFA;Afar;Afar Duchy
 c_harer;HAR;Harar;Harar County
 d_timbuktu;TMB;Timbuktu;Timbuktu Duchy
 c_timbuktu;TMB;Timbuktu;Timbuktu County
+d_semien;BTI;Semien;Semien Duchy
+c_semien;BTI;Semien;Semien County
 d_wolof;JOL;Jolof;Jolof Duchy
 c_djolof;JOL;Jolof;Jolof County
 k_adal;ADA;Adal;Adal Kingdom
@@ -493,18 +511,14 @@ c_masin;ZAF;Zafunu;Zafunu (Macina) County
 # Mongols
 
 e_mongol_empire;KHA;MongolKhanate;Mongol Khanate
-e_chagatai;CHG;ChagataiKhanate;Chagatai Khanate
-c_yarkand;KAS;Yarkand;Yarkand County
 
 # India
 
-k_baluchistan;BAL;Baluchistan;Baluchistan Kingdom
-d_baloch;BAL;Baluchistan;Baluchistan Duchy
-c_baluchistan;BAL;Baluchistan;Baluchistan County
 e_bengal;BNG;Bengal;Bengal Empire
 k_bengal;BNG;Bengal;Bengal Kingdom
 k_orissa;ORI;Orissa;Orissa Kingdom
 k_lanka;CEY;Ceylon;Lanka Kingdom
+d_lanka;CEY;Ceylon;Lanka Duchy
 k_gujarat;GUJ;Gujarat;Gujarat Kingdom
 d_gurjara_mandala;GUJ;Gujarat;Gujarat Duchy
 k_malwa;MLW;Malwa;Malwa Kingdom
@@ -515,6 +529,10 @@ k_gondwana;GDW;Gondwana;Gondwana Kingdom
 d_jangladesh;JAN;Jangladesh;Jangladesh Kingdom
 e_india;HIN;Hindustan;Hindustan Empire
 k_afghanistan;AFG;Afghanistan;Afghanistan Kingdom
+k_baluchistan;BAL;Baluchistan;Baluchistan Kingdom
+d_baloch;BAL;Baluchistan;Baluchistan Duchy
+d_baluchistan;BAL;Baluchistan;Baluchistan Duchy
+c_baluchistan;BAL;Baluchistan;Baluchistan County
 c_delhi;DLH;Delhi;Delhi County
 k_punjab;PUN;Punjab;Punjab Kingdom
 k_karnata;KRK;Carnatic;Karnata Kingdom
@@ -559,12 +577,12 @@ d_hashshashin;HAH;Hashshashin;Hashshashin Special Case
 e_roman_empire;ROM;RomanEmpire;Roman Empire Special Case
 k_israel;ISR;Israel;Kingdom of Israel Special Case
 d_knights_templar;TEM;KnightsTemplar;Knights Templar Special Case
+c_yarkand;KAS;Yarkand;Yarkand County
 
-;GUY;Guyenne;Guyenne exists in EU4, not CK2
+;GUY;Gascony;Gascony exists in EU4, not CK2
 ;NOG;Nogai;Nogai exists in EU4, not CK2
 ;AST;Astrakhan;Astrakhan exists in EU4, not CK2
 ;MUG;Mughal;Mughal exists in EU4, not CK2
-;PIC;Picardy;Picardy exists in EU4, not CK2
 ;MEM;Memmingen;Memmingen exists in EU4, not CK2
 ;VER;Verden;Verden exists in EU4, not CK2
 ;RVA;Ravensburg;Ravensburg exists in EU4, not CK2
