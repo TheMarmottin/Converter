@@ -13,6 +13,9 @@ old_frankish;frankish;1;Frankish
 low_frankish;frankish;1;Frankish
 suebi;suebi;1;Suebi
 frisian;frisian;1;Frisian
+franconian;franconian;0;Franconian
+swabian;swabian;0;Swabian
+bavarian;bavarian;0;Bavarian
 
 # Nordic
 
@@ -23,6 +26,7 @@ norwegian;norwegian;0;Norwegian
 finnish;finnish;0;Finnish
 lappish;sapmi;0;Sami
 norse;norse;1;Norse
+icelandic;norwegian;0;Norwegian
 
 # British
 
@@ -32,12 +36,14 @@ welsh;welsh;0;Welsh
 scottish;scottish;0;Scottish
 saxon;anglo_saxon;1;Anglo-Saxon
 anglonorse;anglo_saxon;1;Anglo-Saxon
+cumbric;welsh;0;Welsh
 
 # Celtic
 
 irish;irish;0;Irish
 norsegaelic;irish;0;Irish
 pictish;pictish;1;Pictish
+
 
 # Latin
 
@@ -47,6 +53,14 @@ southern_italian;neapolitan;0;Neapolitan
 langobardisch;neapolitan;0;Neapolitan
 arpitan;piedmontese;0;Piedmontese
 roman;roman;0;Roman
+lombard;lombard;0;Lombard
+sardinian;sardinian;0;Sardinian
+sicilian;sicilian;0;Sicilian
+central_italian;romagnan;0;Romagnan
+neapolitan;neapolitan;0;Neapolitan
+tuscan;tuscan;0;Tuscan
+ligurian;ligurian;0;Ligurian
+venetian;venetian;0;Venetian
 
 # Iberian
 
@@ -56,6 +70,9 @@ andalusian_arabic;andalucian;0;Andalusian
 portuguese;portugese;0;Portuguese
 basque;basque;0;Basque
 visigothic;visigothic;1;Visigothic
+aragonese;aragonese;0;Aragonese
+galician;galician;0;Galician
+leonese;leonese;0;Leonese
 
 # French
 
@@ -101,6 +118,7 @@ ilmenian;ilmenian;1;Ilmenian
 volhynian;volhynian;1;Volhynian
 severian;severian;1;Severian
 russian;russian_culture;1;Russian
+karelian;karelian;0;Karelian
 
 # Baltic
 
@@ -113,6 +131,8 @@ prussian;old_prussian;1;Old Prussian
 # Byzantine
 
 greek;greek;0;Greek
+sicilian_greek;greek;0;Greek
+east_gothic;goths;0;Gothic
 
 # Caucasian
 
@@ -121,6 +141,7 @@ kasogi;circassian;0;Circassian
 udi;dagestani;0;Dagestani
 armenian;armenian;0;Armenian
 alan;alan;1;Alan
+caucasian_avar;dagestani;0;Dagestani
 
 # Levantine
 
@@ -141,6 +162,8 @@ tagelmust;berber;0;Berber
 masmuda;berber;0;Berber
 zanata;berber;0;Berber
 canarian;berber;0;Berber
+berber;berber;0;Berber
+tuareg;tuareg;0;Tuareg
 
 # Iranian
 
@@ -155,6 +178,9 @@ daylamite;mazandarani;0;Mazandarani
 sogdian;sogdian;1;sogdian
 tocharian;tocharian;1;Tocharian
 khwarezmi;khwarezmi;1;Khwarezmian
+khorasani;khorasani;0;Khorazani
+pahlavi;persian;0;Persian #could be made into own culture if needed, culture tag would be something reminiscent of the Sassanids
+qufs;baluchi;0;Baluchi
 
 # Altaic
 
@@ -163,6 +189,8 @@ turkmen;turkmeni;0;Turkmeni
 uyghur;uyghur;0;Uyghur
 kirghiz;kirgiz;0;Kyrgyz
 khitan;khitan;1;Khitan
+bashkir;bashkir;0;Bashkir
+khalaj;turkmeni;0;Turkmeni
 
 # Central American
 
@@ -192,10 +220,16 @@ rajput;rajput;0;Rajput
 kannada;kannada;0;Kannada
 tamil;tamil;0;Tamil
 telugu;telegu;0;Telugu
+brahui;kannada;0;Kannada #might be worth creating a separate culture for since "Kannada" in this case is a placeholder for a subset of Northern Dravidian
 
 # Mande
 
 manden;mali;0;Mali
+kanuri;kanuri;0;Kanuri
+hausa;hausa;0;Hausa
+soninke;soninke;0;Soninke
+songhai;songhai;0;Songhai
+wolof;fulani;0;Fulani
 
 # Cushitic
 
@@ -210,6 +244,7 @@ daju;nubian;0;Nubian
 beja;nubian;0;Nubian
 coptic;nubian;0;Nubian
 nubian;nubian;0;Nubian
+zaghawa;nubian;0;Nubian
 
 # Lost Cultures
 
@@ -232,38 +267,6 @@ karluk;karluk;1;Karluk
 
 # (unmapped)
 
-#icelandic;;;;
-#lombard;;;;
-#franconian;;;;
-#swabian;;;;
-#bavarian;;;;
-#crusader_culture;;;;
-#aragonese;;;;
-#galician;;;;
-#leonese;;;;
-#east_gothic;;;;
-#caucasian_avar;;;;
-#sicilian_greek;;;;
-#cumbric;;;;
-#karelian;;;;
-#bashkir;;;;
-#pahlavi;;;;
-#khalaj;;;;
-#khorasani;;;;
-#qufs;;;;
-#zaghawa;;;;
-#soninke;;;;
-#wolof;;;;
-#songhai;;;;
-#kanuri;;;;
-#hausa;;;;
-#berber;;;;
-#tuareg;;;;
-#sardinian;;;;
-#sicilian;;;;
-#central_italian;;;;
-#neapolitan;;;;
-#tuscan;;;;
-#ligurian;;;;
-#venetian;;;;
-#brahui;;;;
+#crusader_culture;;;; #no idea how this even forms in CK2 
+
+
