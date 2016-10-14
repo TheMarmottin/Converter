@@ -53,7 +53,7 @@ c_kol;524;524 - Central Doab;Kol - Central Doab
 c_kol;524;524 - Central Doab;Duplicate to increase weight
 c_kol;524;524 - Central Doab;Duplicate to increase weight
 c_mathura;524;524 - Central Doab;Mathura - Central Doab
-c_delhi;522;522 - Delhi;Delhi - Central Doab
+c_delhi;524;524 - Delhi;Delhi - Central Doab
 
 c_gwalior;525;525 - Gird;Gwalior - Gird
 c_gwalior;525;525 - Gird;Duplicate to increase weight
@@ -239,7 +239,7 @@ c_khetaka;2054;2054 - Ahmadabad;Khetaka - Ahmadabad
 c_khetaka;2054;2054 - Ahmadabad;Duplicate to increase weight
 c_sarasvata_mandala;2054;2054 - Ahmadabad;Sarasvata Mandala - Ahmadabad
 
-c_mohadavas;2056;2056 - Rewa Kantha;Mohadavasaka - Rewakantha
+c_mohadavasaka;2056;2056 - Rewa Kantha;Mohadavasaka - Rewakantha
 c_dadhipadra;2056;2056 - Rewa Kantha;Dadhipadra - Rewakantha
 
 ### Saurashtra
