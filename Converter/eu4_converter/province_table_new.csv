@@ -53,7 +53,7 @@ c_kol;524;524 - Central Doab;Kol - Central Doab
 c_kol;524;524 - Central Doab;Duplicate to increase weight
 c_kol;524;524 - Central Doab;Duplicate to increase weight
 c_mathura;524;524 - Central Doab;Mathura - Central Doab
-c_delhi;524;524 - Delhi;Delhi - Central Doab
+c_delhi;524;524 - Central Doab;Delhi - Central Doab
 
 c_gwalior;525;525 - Gird;Gwalior - Gird
 c_gwalior;525;525 - Gird;Duplicate to increase weight
@@ -177,9 +177,9 @@ c_chitrakut;518;518 - Chittor;Chitrakut - Chittor
 c_chitrakut;518;518 - Chittor;Duplicate to increase weight
 c_chitrakut;518;518 - Chittor;Duplicate to increase weight
 c_godwad;518;518 - Chittor;Godwad - Chittor
-c_ajayameru;518;518 - Chittor;Ajayameru  - Chittor
-c_mandavyapura;518;518 - Chittor;Mandavyapura  - Chittor
-c_ranthambore;518;518 - Chittor;Ranthambore  - Chittor
+c_ajayameru;518;518 - Chittor;Ajayameru - Chittor
+c_mandavyapura;518;518 - Chittor;Mandavyapura - Chittor
+c_ranthambore;518;518 - Chittor;Ranthambore - Chittor
 
 c_kota;528;528 - Hadoti;Kota - Hadoti
 c_candhoba;528;528 - Hadoti;Candhoba - Hadoti
@@ -272,7 +272,7 @@ c_navasarika;517;517 - Surat;Navasarika - Surat
 c_debul;504;504 - Thatta;Debul - Thatta
 
 c_siwistan;505;505 - Sehwan;Siwistan - Sehwan
-c_ranikot;505;505 - Sehwan;Siwistan - Sehwan
+c_ranikot;505;505 - Sehwan;Ranikot - Sehwan
 c_aror;505;505 - Sehwan;Aror - Sehwan
 c_kandail;505;505 - Sehwan;Kandail - Sehwan
 
@@ -584,7 +584,7 @@ c_sobrarbe;211;211 - Pirineo;Sobrarbe - Pirineo
 c_ribagorza;211;211 - Pirineo;Ribagorza - Pirineo
 c_huesca;211;211 - Pirineo;Huesca - Pirineo
 
-d_zaragoza;214;214 - Aragon;Duchy - Zaragoza - Zaragoza
+d_zaragoza;214;214 - Aragon;Duchy Zaragoza - Zaragoza
 c_zaragoza;214;214 - Aragon;Zaragoza - Zaragoza
 c_zaragoza;214;214 - Aragon;Duplicate to increase weight
 c_calatayud;214;214 - Aragon;Calatayud - Zaragoza
@@ -682,7 +682,7 @@ c_burgos;1746;1746 - Burgos;Burgos - Burgos
 c_burgos;1746;1746 - Burgos;Duplicate to increase weight
 c_palencia;1746;1746 - Burgos;Palencia - Burgos
 c_palencia;1746;1746 - Burgos;Duplicate to increase weight
-c_valladolid;1746;1746 - Burgos;Burgos - Burgos
+c_valladolid;1746;1746 - Burgos;Valladolid - Burgos
 
 c_soria;2755;2755 - Soria;Soria - Soria
 c_soria;2755;2755 - Soria;Duplicate to increase weight
@@ -733,7 +733,7 @@ c_alava;209;209 - Vizcaya;Álava - Vizcaya
 c_guipuzcoa;209;209 - Vizcaya;Guipúzcoa - Vizcaya
 
 c_asturias_de_santillana;1745;1745 - Cantabria;Asturias de Santillana - Cantabria
-c_asturias_de_santillana;1745;1745 - Cantabria;Asturias de Santillana - Cantabria
+c_asturias_de_santillana;1745;1745 - Cantabria;Duplicate to increase weight
 c_palencia;1745;1745 - Cantabria;Palencia - Cantabria
 
 ### Leon
@@ -853,7 +853,7 @@ c_monferrato;2981;2981 - Montferrat;Monferrato - Montferrat
 
 c_pisa;115;115 - Pisa;Pisa - Pisa
 
-c_firenze;116;116 - Firenze;Firenze - Firenze
+c_firenze;116;116 - Firenze;Florence - Firenze
 c_guidi;116;116 - Firenze;Guidi - Firenze
 
 c_siena;117;117 - Siena;Siena - Siena
@@ -866,7 +866,7 @@ c_volterra;117;117 - Siena;Volterra - Siena
 
 c_arezzo;2978;2978 - Arezzo;Arezzo - Arezzo
 c_arezzo;2978;2978 - Arezzo;Duplicate to increase weight
-c_firenze;2978;2978 - Arezzo;Firenze - Arezzo
+c_firenze;2978;2978 - Arezzo;Florence - Arezzo
 c_guidi;2978;2978 - Arezzo;Guidi - Arezzo
 
 d_lucca;2980;2980 - Lucca;Duchy Lucca - Lucca
@@ -878,7 +878,7 @@ c_malaspina;2980;2980 - Lucca;Malaspina - Lucca
 
 c_genoa;101;101 - Genoa;Genova - Genoa
 
-c_nice;102;102 - Nice;Nice
+c_nice;102;102 - Nice;Nissa - Nice
 
 d_savona;2992;2992 - Albenga;Duchy Savona - Albenga
 c_savona;2992;2992 - Albenga;Savona - Albenga
@@ -909,7 +909,7 @@ c_messina;124;124 - Messina;Duplicate to increase weight
 c_messina;124;124 - Messina;Duplicate to increase weight
 c_enna;124;124 - Messina;Castru Jani - Messina
 c_palermo;124;124 - Messina;Palermu - Messina
-c_siracusa;124;124 - Messina;Sarausa - Messinae
+c_siracusa;124;124 - Messina;Sarausa - Messina
 
 c_palermo;125;125 - Palermo;Palermu - Palermo
 c_trapani;125;125 - Palermo;Tràpani - Palermo
@@ -1032,7 +1032,7 @@ c_warwick;240;240 - Marches;Warwick - Marches
 c_stafford;240;240 - Marches;Stafford - Marches
 c_shrewsbury;240;240 - Marches;Shrewsbury - Marches
 c_worcester;240;240 - Marches;Worcester - Marches
-c_hereford;240;240 - Marches;Worcester - Marches
+c_hereford;240;240 - Marches;Hereford - Marches
 
 c_lincoln;243;243 - Lincoln;Lincoln - Lincolnshire
 
@@ -1078,7 +1078,7 @@ c_lancaster;244;244 - Lancashire;Lancaster - Lancashire
 c_chester;244;244 - Lancashire;Chester - Lancashire
 
 d_york;245;245 - Yorkshire;Duchy York - Yorkshire
-c_york;245;245 - Yorkshire;West York Ridding - Yorkshire
+c_york;245;245 - Yorkshire;The West Riding - Yorkshire
 c_richmond;245;245 - Yorkshire;Richmond - Yorkshire
 c_york_moors;245;245 - Yorkshire;The North Riding - Yorkshire
 c_york_wolds;245;245 - Yorkshire;The East Riding - Yorkshire
@@ -1220,7 +1220,7 @@ c_connacht;375;375 - Munster;Mayo - Limerick
 
 c_connacht;376;376 - Connaught;Mayo - Connaught
 
-d_munster;4118;4118 - Desmond;Duchy Desmond - Cork
+d_munster;4118;4118 - Desmond;Duchy Munster - Cork
 c_cork;4118;4118 - Desmond;Corcaigh - Cork
 c_cork;4118;4118 - Desmond;Duplicate to increase weight
 c_ormond;4118;4118 - Desmond;Waterford - Cork
@@ -1384,7 +1384,7 @@ c_schwaben;69;69 - Oberschwaben;Duplicate to increase weight
 c_waldburg;69;69 - Oberschwaben;Waldburg - Oberschwaben
 c_helfenstein;69;69 - Oberschwaben;Helfenstein - Oberschwaben
 c_hohenzollern;69;69 - Oberschwaben;Zollern - Oberschwaben
-c_breisgau;69;69 - Oberschwaben;Zollern - Oberschwaben
+c_breisgau;69;69 - Oberschwaben;Breisgau - Oberschwaben
 
 c_augsburg;1868;1868 - Augsburg;Augsburg - Augsburg
 c_kempten;1868;1868 - Augsburg;Kempten - Augsburg
@@ -1439,55 +1439,55 @@ c_sponheim;1761;1761 - Pfalz;Sponheim - Pfalz
 ## North Germany
 ### Erzgebirge
 
-####;267;267 - Plsen;Plzen
+####;267;267 - Plsen;Plzen/Pilsen
 
-####;1771;1771 - Erz;Erz
+####;1771;1771 - Erz;Erz/Rudohori
 
-####;2967;2967 - Eger;Eger
+####;2967;2967 - Eger;Eger/Cheb
 
 ### South Saxony
 
-####;59;59 - Wittenberg;Wittenberg
+####;59;59 - Wittenberg;Wittenberg/Wittenberk/Wittemberg
 
-####;60;60 - Lausitz;Oberlausitz
+####;60;60 - Lausitz;Oberlausitz/Alta Lusacia/Horní Luzice/Haute-Lusace
 
-####;61;61 - Dresden;Dresden
+####;61;61 - Dresden;Dresden/Sajonia/Drázdany/Saxe/Sachsen
 
 ### Northern Saxony
 
-####;52;52 - Magdeburg;Magdeburg
+####;52;52 - Magdeburg;Magdeburg/Devín
 
 ####;58;58 - Anhalt;Anhalt
 
-####;2964;2964 - Altmark;Altmark
+####;2964;2964 - Altmark;Altmark/Stara Marka
 
 ### Thuringia
 
-####;62;62 - Leipzig;Leipzig
+####;62;62 - Leipzig;Leipzig/Lipsia/Lipsko
 
-####;63;63 - Erfurt;Thüringen
+####;63;63 - Erfurt;Thüringen/Turingia/Durynsko/Thuringe
 
-####;2965;2965 - Vogtland;Vogtland
+####;2965;2965 - Vogtland;Vogtland/Fojtsko
 
 ### Neumark
 
-####;49;49 - Neumark;Neumark
+####;49;49 - Neumark;Neumark/Nová Marka/Lubusz
 
-####;1763;1763 - Niederlausitz;Niederlausitz
+####;1763;1763 - Niederlausitz;Niederlausitz/Baja Lusacia/Dolni Luzice/Basse-Lusace
 
-####;2969;2969 - Sternberg;Sternberg
+####;2969;2969 - Sternberg;Sternberg/Sternberk
 
 ### Mittelmark
 
-####;50;50 - Berlin;Berlin
+####;50;50 - Berlin;Berlin/Brandeburgo/Brandebourg
 
 ####;51;51 - Ruppin;Ruppin
 
-####;1759;1759 - Potsdam;Potsdam
+####;1759;1759 - Potsdam;Potsdam/Postupim
 
 ### Vorpommern
 
-####;47;47 - Stralsund;Stralsund
+####;47;47 - Stralsund;Stralsund/Pomerania Occidental/Poméranie antérieure
 
 ####;2993;2993 - Uckermark;Uckermark
 
@@ -1495,45 +1495,45 @@ c_sponheim;1761;1761 - Pfalz;Sponheim - Pfalz
 
 ### Bohemia
 
-####;265;265 - Moravia;Moravia
+####;265;265 - Moravia;Moravia/Moravska/Morava/Mähren
 
-####;266;266 - Prague;Prague
+####;266;266 - Prague;Prague/Prag/Praha/Prága
 
-####;2968;2968 - Budejovice;Budejovice
+####;2968;2968 - Budejovice;Budejovice/Budweis
 
-####;2970;2970 - Hradecko;Hradecko
+####;2970;2970 - Hradecko;Hradecko/Königgrätz
 
 ### Hinterpommern
 
-####;48;48 - Kolberg;Kolberg
+####;48;48 - Kolberg;Kolberg/Pomerania Oriental/Kolobreh/Poméranie ultérieure/Kolobrzeg
 
-####;1858;1858 - Stettin;Stettin
+####;1858;1858 - Stettin;Stettin/Stetin/Szczecin
 
-####;2995;2995 - Stolp;Stolp
+####;2995;2995 - Stolp;Stolp/Slupsk
 
 ### North Rhine
 
-####;84;84 - Berg;Berg
+####;84;84 - Berg;Berg/Dusseldorpium
 
-####;85;85 - Koln;Köln
+####;85;85 - Koln;Köln/Colonia/Kolín/Keulen/Cologne/Colonia Agrippina
 
-####;2975;2975 - Kleves;Kleves
+####;2975;2975 - Kleves;Kleves/Klévsko/Kleef/Cleve/Clivia
 
 ### Lower Rhineland
 
-####;80;80 - Trier;Trier
+####;80;80 - Trier;Trier/Tréveris/Trevír/Trèves/Augusta Treveronum
 
-####;1760;1760 - Koblenz;Koblenz
+####;1760;1760 - Koblenz;Koblenz/Coblenza/Koblenc/Coblence/Confluentes
 
-####;1878;1878 - Aachen;Aachen
+####;1878;1878 - Aachen;Aachen/Aquisgrán/Cachy/Aken/Aix-la-Chapelle/Aquisgranum
 
 ### Westphalia
 
-####;56;56 - Osnabruck;Osnabrück
+####;56;56 - Osnabruck;Osnabrück/Osnabrugge
 
-####;82;82 - Lippe;Westfalen
+####;82;82 - Lippe;Westfalen/Vestfalia/Vestfalsko/Westphalie/Vestphalia
 
-####;86;86 - Munster;Münster
+####;86;86 - Munster;Münster/Muñiste/Munster/Monasterium
 
 ####;2972;2972 - Paderborn;Paderborn
 
@@ -1541,21 +1541,21 @@ c_sponheim;1761;1761 - Pfalz;Sponheim - Pfalz
 
 ### Hesse
 
-####;81;81 - Hessen;Hessen
+####;81;81 - Hessen;Hessen/Hesse/Hesensko/Hassia
 
-####;83;83 - Nassau;Nassau
+####;83;83 - Nassau;Nassau/Nasavsko/Nassovia
 
-####;1762;1762 - Kassel;Kassel
+####;1762;1762 - Kassel;Kassel/Cassel
 
-####;1876;1876 - Frankfurt;Frankfurt
+####;1876;1876 - Frankfurt;Frankfurt/Fráncfort/Frankfort/Francfort
 
 ### Lower Saxony
 
-####;53;53 - Luneburg;Lüneburg
+####;53;53 - Luneburg;Lüneburg/Luneburgo/Lunebourg
 
-####;57;57 - Brunswick;Brunswick
+####;57;57 - Brunswick;Brunswick/Brunsvik/Braunschweig
 
-####;1758;1758 - Hannover;Hannover
+####;1758;1758 - Hannover;Hannover/Hanóver/Hannovre
 
 ####;2971;2971 - Hoya;Hoya
 
@@ -1563,34 +1563,34 @@ c_sponheim;1761;1761 - Pfalz;Sponheim - Pfalz
 
 ####;54;54 - Stade;Stade
 
-####;55;55 - Oldenburg;Oldenburg
+####;55;55 - Oldenburg;Oldenburg/Oldemburgo/Oldenburk/Oldenbourg
 
-####;1874;1874 - Bremen;Bremen
+####;1874;1874 - Bremen;Bremen/Brema/Bremy/Brême
 
 ### Holstein
 
-####;44;44 - Hamburg;Hamburg
+####;44;44 - Hamburg;Hamburg/Hamburgo/Hamburk/Hamborg/Hambourg
 
-####;1775;1775 - Holstein;Holstein
+####;1775;1775 - Holstein;Holstein/Holstynsko/Holsteen
 
-####;1857;1857 - Lauenburg;Lauenburg
+####;1857;1857 - Lauenburg;Lauenburg/Lauenburgo/Lauenburk
 
 ### Mecklenburg
 
-####;45;45 - Lubeck;Lübeck
+####;45;45 - Lubeck;Lübeck/Lubek/Lybek
 
-####;46;46 - Rostock;Rostock
+####;46;46 - Rostock;Rostock/Mecklemburgo/Roztoky/Mecklembourg
 
 ####;2996;2996 - Wismar;Wismar
 
 ## Scandinavia
 ### Svealand
 
-####;1;1-Uppland;Stockholm
+####;1;1-Uppland;Stockholm/Stokholm
 
 ####;4;4-Bergslagen;Bergslagen
 
-####;5;5-Varmland;Värmland
+####;5;5-Varmland;Värmland/Værmeland/Wermland
 
 ####;8;8-Dalaskogen;Dalaskogen
 
@@ -1598,9 +1598,9 @@ c_sponheim;1761;1761 - Pfalz;Sponheim - Pfalz
 
 ### Norrland
 
-####;9;9-Halsingland;Hälsingland
+####;9;9-Halsingland;Hälsingland/Hælsingleland
 
-####;10;10-Jamtland;Jämtland
+####;10;10-Jamtland;Jämtland/Jæmtland/Jemtland
 
 ####;18;18-Lappland;Lappland
 
@@ -1608,35 +1608,35 @@ c_sponheim;1761;1761 - Pfalz;Sponheim - Pfalz
 
 ### Götaland
 
-####;2;2-Ostergotland;Östergötland
+####;2;2-Ostergotland;Östergötland/Øster-Gøtland
 
-####;3;3-Smaland;Småland
+####;3;3-Smaland;Småland/Smaaland
 
-####;7;7-Vastergotland;Västergötland
+####;7;7-Vastergotland;Västergötland/Vester-Gøtland
 
 ####;25;25-Gotland;Gotland
 
 ### Skåneland
 
-####;6;6-Skane;Skåne
+####;6;6-Skane;Skåne/Skaane/Schonen
 
 ####;26;26-Halland;Halland
 
-####;1982;1982-Blekinge;Blekinge
+####;1982;1982-Blekinge;Blekinge/Bleking
 
 ### Jutland
 
-####;13;13-Slesvig;Slesvig
+####;13;13-Slesvig;Slesvig/Slesvicko/Schleswig
 
-####;15;15-Jylland;Midtjylland
+####;15;15-Jylland;Midtjylland/Mitteljütland/Mittjylland
 
 ####;1984;1984-Nordjylland;Nordjylland
 
 ### Denmark
 
-####;12;12-Sjaelland;Sjælland
+####;12;12-Sjaelland;Sjælland/Seeland/Själland
 
-####;14;14-Fyn;Fyn
+####;14;14-Fyn;Fyn/Fünen
 
 ####;1981;1981-Bornholm;Bornholm
 
@@ -1644,31 +1644,31 @@ c_sponheim;1761;1761 - Pfalz;Sponheim - Pfalz
 
 ### Finland
 
-####;27;27-Finland;Åbo
+####;27;27-Finland;Åbo/Aabo/Abo
 
-####;28;28 - Nyland;Nyland
+####;28;28 - Nyland;Nyland/Uusimaa/Helsingfors
 
-####;29;29 -Tavastland;Tavastland
+####;29;29 -Tavastland;Tavastland/Tawastland/Tammerfors
 
-####;31;31-Savolaks;Savolax
+####;31;31-Savolaks;Savolax/Sankt Michel
 
-####;1930;1930 - Aland;Åland
+####;1930;1930 - Aland;Åland/Aaland
 
-####;4123;4123 - Birkaland;Pirkanmaa/Birkaland
+####;4123;4123 - Birkaland;Pirkanmaa/Birkeland/Birkaland
 
 ### Northern Norway
 
 ####;20;20-Trondelag;Trøndelag
 
-####;21;21-Halogaland;Hålogaland
+####;21;21-Halogaland;Hålogaland/Nordlandene
 
-####;315;315 - Finnmark;Finnmark
+####;315;315 - Finnmark;Finnmark/Finmarken/Pechenga
 
 ### Eastern Norway
 
-####;16;16-Bohuslan;Bohuslän
+####;16;16-Bohuslan;Bohuslän/Bahuslehn/Båhuslen
 
-####;17;17-Akershus;Akershus
+####;17;17-Akershus;Akershus/Aggershuus
 
 ####;22;22-Eisdiva;Eidsiva
 
@@ -1676,15 +1676,15 @@ c_sponheim;1761;1761 - Pfalz;Sponheim - Pfalz
 
 ####;23;23-Bergenshus;Bergenshus
 
-####;24;24-Agder;Agder
+####;24;24-Agder;Agder/Christiansand
 
 ####;2752;2752 - Sogn;Sogn
 
 ### Bothnia
 
-####;11;11-Vasterbotten;Västerbotten
+####;11;11-Vasterbotten;Västerbotten/Vesterboten
 
-####;19;19-Osterbotten;Österbotten
+####;19;19-Osterbotten;Österbotten/Østerbotn/Nikolaistadt
 
 ####;4113;4113 - Rovaniemi;Rovaniemi
 
@@ -1698,9 +1698,9 @@ c_sponheim;1761;1761 - Pfalz;Sponheim - Pfalz
 
 ####;1105;1105 - Vestbygden;Vestbygden
 
-####;1978;1978 - Shetlands;Shetland
+####;1978;1978 - Shetlands;Shetland/Shetlandy/Hjaltland
 
-####;1979;1979 -Faroes;Färöarna/Færøyene
+####;1979;1979 -Faroes;Färöarna/Faerske ostrovy/Færøerne/Færøyene
 
 ## Low Countries
 ### Wallonia
@@ -1754,7 +1754,7 @@ c_holland;97;97 - Holland;Holland - Holland
 c_holland;97;97 - Holland;Duplicate to increase weight
 c_frisia;97;97 - Holland;Friesland - Holland
 
-c_sticht;98;98 - Utrecht;Utrecht
+c_sticht;98;98 - Utrecht;Sticht - Utrecht
 
 ### Frisia
 
@@ -1786,7 +1786,7 @@ c_chiny;94;94 - Luxemburg;Chiny - Luxemburg
 c_laroche;94;94 - Luxemburg;La Roche - Luxemburg
 c_vianden;94;94 - Luxemburg;Vianden - Luxemburg
 
-c_limburg;1742;1742 - Limburg;Limburg
+c_limburg;1742;1742 - Limburg;Limburg - Limburg
 
 c_loon;2974;2974 - Loon;Loon - Loon
 
@@ -1923,7 +1923,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 ## Guinea
 ### Cap Verde
 
-####;1096;1096 - Cape Verde;Cape Verde
+####;1096;1096 - Cape Verde;Cape Verde/Kapverdy/Cap-Vert
 
 ####;1111;1111 - Arguin;Arguin
 
@@ -1939,7 +1939,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;1118;1118 - Sierra Leone;Sierra Leone
 
-####;1119;1119 - Grain Coast;Grain Coast
+####;1119;1119 - Grain Coast;Grain Coast/Peprové pobrezí
 
 ####;2241;2241 - Beafada;Beafada
 
@@ -1955,11 +1955,11 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;1163;1163 - Calabar;Calabar
 
-####;1164;1164 - Cameroon;Cameroon
+####;1164;1164 - Cameroon;Cameroon/Kamerun
 
 ####;1165;1165 - Gabon;Gabon
 
-####;1306;1306 - Sao Tomel;Sao Tome
+####;1306;1306 - Sao Tomel;Sao Tome/Svatý Tomás
 
 ####;2290;2290 - Ijebu;Ijebu
 
@@ -1975,13 +1975,13 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### West African Coast
 
-####;1126;1126 - Ivory Coast;Ivory Coast
+####;1126;1126 - Ivory Coast;Ivory Coast/Pobrezí Slonoviny
 
-####;1139;1139 - Gold Coast;Gold Coast
+####;1139;1139 - Gold Coast;Gold Coast/Zlaté pobrezí/Christiansborg/Fort Elmina/Fort Dorothea
 
-####;1141;1141 - Whydah;Whydah
+####;1141;1141 - Whydah;Whydah/Prindsensteen
 
-####;2258;2258 - Cape Coast;Cape Coast
+####;2258;2258 - Cape Coast;Cape Coast/Cap Coast/Fort Hollandia/Groß Friedrichsburg
 
 ## Central Africa
 ### Buha
@@ -2320,7 +2320,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Mogadishu
 
-####;1205;1205 - Mogadishu;Mogadishu
+####;1205;1205 - Mogadishu;Mogadishu/Mogadisu/Mokadischu
 
 ####;2775;2775 - Merca;Merca
 
@@ -2385,15 +2385,15 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;1199;1199 - Bagamoyo;Bagamoyo
 
-####;1201;1201 - Zanzibar;Zanzibar
+####;1201;1201 - Zanzibar;Zanzibar/Zansjibar
 
 ### Mozambique
 
 ####;788;788 - Angoche;Angoche
 
-####;1195;1195 - Mozambique;Mozambique
+####;1195;1195 - Mozambique;Mozambique/Mosambik
 
-####;4020;4020 - Comoros;Comoros
+####;4020;4020 - Comoros;Comoros/Komory
 
 ####;4049;4049 - Ibo;Ibo
 
@@ -2443,7 +2443,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;1100;1100 - Mahe;Mahe
 
-####;1102;1102 - Mauritius;Mauritius
+####;1102;1102 - Mauritius;Mauritius/Mauricius
 
 ####;1103;1103 - Bourbon;Île Bourbon
 
@@ -2528,13 +2528,13 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Angola
 
-####;1167;1167 - Luanda;Luanda
+####;1167;1167 - Luanda;Luanda/Fort Aardenburgh
 
 ####;1171;1171 - Ndongo;Ndongo
 
 ####;1172;1172 - Benguela;Benguela
 
-####;1174;1174 - Angra Pequana;Angra Pequena
+####;1174;1174 - Walvis Bay;Ezorongondo/Walvis Bay/Walfischbucht
 
 ### Matamba
 
@@ -2585,7 +2585,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;833;833 - GraaffReinet;Graaff-Reinet
 
-####;1177;1177 - Cape;Cape
+####;1177;1177 - Cape;Cape/Mys/Got Haabs Forbierg/Kaap
 
 ####;1179;1179 - Little Karoo;Swellendam
 
@@ -2611,7 +2611,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;789;789 - Mtetwa;Mtetwa
 
-####;1182;1182 - Delagoa Bay;Matsolo
+####;1182;1182 - Delagoa Bay;Matsolo/Fort Lydsaamheid
 
 ####;1183;1183 - Inhambane;Inhambane
 
@@ -2632,43 +2632,43 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Tunisia
 
-####;341;341 - Tunis;Tunis
+####;341;341 - Tunis;Tunis/Tunes/Tunus
 
-####;353;353 - Gabes;Tataouine
+####;353;353 - Gabes;Tataouine/Tacape
 
-####;2453;2453 - Sfax;Sfax
+####;2453;2453 - Sfax;Sfax/Thaenae
 
-####;2454;2454 - Kairouan;Kef
+####;2454;2454 - Kairouan;Kef/Sicca Veneria
 
-####;2455;2455 - Bizerte;Bizerte
+####;2455;2455 - Bizerte;Bizerte/Hippo Diarrhytus
 
-####;2473;2473 - Souss;Sousse
+####;2473;2473 - Souss;Sousse/Susa/Hadrumetum
 
-####;2954;2954 - Djerba;Djerba
+####;2954;2954 - Djerba;Djerba/Dzerba/Meninx
 
 ### Kabylia
 
-####;339;339 - Bejaia;Kabylia
+####;339;339 - Bejaia;Kabylia/Saldae/Kabiliye
 
-####;340;340 - Constantine;Constantine
+####;340;340 - Constantine;Constantine/Constantina/Cirta/Konstantin/Qusantinah
 
-####;351;351 - Biskra;Aures
+####;351;351 - Biskra;Aures/Vescera
 
-####;1882;1882 - Bone;Annaba
+####;1882;1882 - Bone;Annaba/Hippo Regius
 
 ####;2458;2458 - Kabylia;Hodna
 
 ### Algiers
 
-####;336;336 - Tlemcen;Tlemcen
+####;336;336 - Tlemcen;Tlemcen/Tala Imsan/Pomaria/Tilimsan
 
-####;337;337 - Oran;Oran
+####;337;337 - Oran;Oran/Wehran/Vahran
 
-####;338;338 - Al-Djazair;Mitidja
+####;338;338 - Al-Djazair;Mitidja/Algeria/Cezayir/Mitija
 
-####;2459;2459 - Titteri;Titteri
+####;2459;2459 - Titteri;Titteri/Media
 
-####;2461;2461 - Dahra;Dahra
+####;2461;2461 - Dahra;Dahra/Murustaga
 
 ####;2462;2462 - Ouarsenis;Ouarsenis
 
@@ -2678,9 +2678,9 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;350;350 - Aures;Laghouat
 
-####;352;352 - Gafsa;Gafsa
+####;352;352 - Gafsa;Gafsa/Justiniania/Capsa/Kafsa/Qafsah
 
-####;2450;2450 - Ghadames;Ghadames
+####;2450;2450 - Ghadames;Ghadames/Cydamus
 
 ####;2456;2456 - Touggourt;Touggourt
 
@@ -2708,7 +2708,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Marrekesh
 
-####;344;344 - Marrakech;Marrakech
+####;344;344 - Marrakech;Marrakech/Marrakés
 
 ####;345;345 - Safi;Abda
 
@@ -2720,7 +2720,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Fez
 
-####;335;335 - Mellila;Melilla
+####;335;335 - Mellila;Melilla/Rusadir
 
 ####;343;343 - Fez;Fez
 
@@ -2732,66 +2732,66 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### North Morocco
 
-####;334;334 - Tangiers;Tangiers
+####;334;334 - Tangiers;Tangiers/Tanger/Tingis/Tanca
 
-####;342;342 - Toubkhal;Gharb
+####;342;342 - Toubkhal;Gharb/Rabatum
 
-####;1751;1751 - Ceuta;Ceuta
+####;1751;1751 - Ceuta;Ceuta/Sebtah/Septa
 
 ### Tripolitania
 
-####;355;355 - Sirt;Sirt
+####;355;355 - Sirt;Sirt/Syrtis
 
-####;2451;2451 - Thubaqt;Thubaqt
+####;2451;2451 - Thubaqt;Thubaqt/Thubactis
 
-####;354;354 - Tripolitania;Tripoli
+####;354;354 - Tripolitania;Tripoli/Trables/Tripolis/Trablusgarp
 
 ####;2452;2452 - Zuwarah;Zuwarah
 
 ## Egypt
 ### Libyan Desert
 
-####;1233;1233 - Kharga;Kharga
+####;1233;1233 - Kharga;Kharga/Megale
 
 ####;2318;2318 - Al Wahat;Al Wahat
 
-####;2325;2325 - Tarrana;Tarrana
+####;2325;2325 - Tarrana;Tarrana/Paraetonium
 
 ### Gharbia
 
-####;358;358 - Alexandria;Alexandria
+####;358;358 - Alexandria;Alexandria/Alexandrie/Aleksandreia/Iskenderiye/Iskandariyya
 
-####;362;362 - Rosetta;Rosetta
+####;362;362 - Rosetta;Rosetta/Rashid
 
-####;2316;2316 - Al Gharbia;Al Gharbia
+####;2316;2316 - Al Gharbia;Al Gharbia/Gharbeyya
 
 ### Sharqiya
 
-####;363;363 - Damietta;Damietta
+####;363;363 - Damietta;Damietta/Tamiathis/Dumyat
 
-####;365;365 - Sinai;Sinai
+####;365;365 - Sinai;Sinai/Sinaj/Sina
 
-####;2315;2315 - Suez;Suez
+####;2315;2315 - Suez;Suez/Suesia/as-Suways
 
 ### Central Egypt
 
-####;359;359 - Faiyum;Faiyum
+####;359;359 - Faiyum;Faiyum/Arsinoë/Fayoum
 
-####;361;361 - Cairo;Cairo
+####;361;361 - Cairo;Cairo/Káhira/Cairus/Kahire/Qahirah
 
-####;2317;2317 - Minya;Minya
+####;2317;2317 - Minya;Minya/Antinopolis
 
-####;2319;2319 - Asyut;Asyut
+####;2319;2319 - Asyut;Asyut/Lytkopolis/Lycopolis
 
-####;2320;2320 - Ras Gharib;Ras Gharib
+####;2320;2320 - Ras Gharib;Ras Gharib/Mons Porphirites/Ras Gareb
 
 ### Upper Egypt
 
-####;360;360 - Qena;Qena
+####;360;360 - Qena;Qena/Kaine/Maximianopolis/Circe/Qina
 
-####;1231;1231 - Aswan;Aswan
+####;1231;1231 - Aswan;Aswan/Syene
 
-####;2321;2321 - Queseer;Queseer
+####;2321;2321 - Queseer;Queseer/Leucos Limen/Qusayr
 
 ### Lower Nubia
 
@@ -2809,11 +2809,11 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Cyrenaica
 
-####;356;356 - Benghazi;Benghazi
+####;356;356 - Benghazi;Benghazi/Berenice/Bingazi/Bangazi
 
-####;357;357 - Darnah;Darnah
+####;357;357 - Darnah;Darnah/Derna/Darnis
 
-####;2326;2326 - Bardiyah;Bardiyah
+####;2326;2326 - Bardiyah;Bardiyah/Bardia/Petra Megale/Petras Maior/Bardiya
 
 # South America
 ## Brazil
@@ -2901,7 +2901,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Rio de Janeiro
 
-####;762;762 - Sao Tome;Sao Tome
+####;762;762 - Sao Tome;Sao Tome/Svatý Tomás
 
 ####;763;763 - Rio de Janeiro;Rio de Janeiro
 
@@ -3084,11 +3084,11 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### South Atlantic Islands
 
-####;1095;1095 - Falklands;Falklands
+####;1095;1095 - Falklands;Falklands/Falklandy
 
-####;1098;1098 - St. Helena;St. Helena
+####;1098;1098 - St. Helena;St. Helena/Svatá Helena
 
-####;2025;2025 - South Georgia;South Georgia
+####;2025;2025 - South Georgia;South Georgia/Jizní Georgie
 
 ### Southern Chile
 
@@ -3137,7 +3137,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;741;741 - Cumana;Cumana
 
-####;830;830 - Maracaibo;Maracaibo
+####;830;830 - Maracaibo;Maracaibo/Neu-Nürnberg
 
 ####;831;831 - Caracas;Caracas
 
@@ -3203,7 +3203,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;835;835 - Panama;Panama
 
-####;836;836 - Chorotega;Chorotega
+####;836;836 - Chorotega;Chorotega/Cartago
 
 ####;2663;2663 - Nicoya;Nicoya
 
@@ -3294,7 +3294,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;821;821 - Quijos;Quijos
 
-####;2002;2002 - Galapagos Islands;Galápagos Islands
+####;2002;2002 - Galapagos Islands;Galápagos Islands/Galapágy
 
 ####;2820;2820 - Esmeraldas;Esmeraldas
 
@@ -3381,19 +3381,19 @@ c_loon;2974;2974 - Loon;Loon - Loon
 ## Hudson Bay
 ### James Bay
 
-####;998;998 - Ungava;Qikirmiut
+####;998;998 - Ungava;Qikirmiut/Fort Richmond/Grande-Baleine
 
-####;999;999 - Nunavik;Cisasipi
+####;999;999 - Nunavik;Cisasipi/Eastmain/La Grande
 
-####;1000;1000 - Cree;Cree
+####;1000;1000 - Cree;Cree/Fort Rupert/Fort Saint-Jacques
 
 ####;1002;1002 - Abitbi;Abitibi
 
-####;1003;1003 - Moose Cree;Mosoni
+####;1003;1003 - Moose Cree;Mosoni/Moose Factory/Fort Saint-Louis
 
-####;1004;1004 - Attawapiskat;Attawapiskat
+####;1004;1004 - Attawapiskat;Attawapiskat/Fort Albany/Fort Sainte-Anne
 
-####;2588;2588 - Piscatang;Piscatang
+####;2588;2588 - Piscatang;Piscatang/Cloche/La Cloche
 
 ####;2589;2589 - Kesagami;Kesagami
 
@@ -3403,39 +3403,39 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Hudson Bay
 
-####;1005;1005 - Swampy Cree;Muskegon
+####;1005;1005 - Swampy Cree;Muskegon/York Factory/Fort Bourbon
 
-####;1006;1006 - Chipewyan;Chipewyan
+####;1006;1006 - Chipewyan;Chipewyan/Churchill/Rivière Danoise
 
-####;1009;1009 - Atikaki;Atikaki
+####;1009;1009 - Atikaki;Atikaki/Berens River
 
-####;2592;2592 - Omushkego;Omushkego
+####;2592;2592 - Omushkego;Omushkego/Severn/Nieusauane
 
 ####;2594;2594 - Quenebigon;Quennebigon
 
 ### Red River
 
-####;1008;1008 - Winnipeg;Winnipeg
+####;1008;1008 - Winnipeg;Winnipeg/Red River/Rivière Rouge
 
-####;1010;1010 - Manitoba;Manitoba
+####;1010;1010 - Manitoba;Manitoba/Dauphin
 
-####;2016;2016 - Bungi;Bungi
+####;2016;2016 - Bungi;Bungi/Great Forks/Grandes Fourches
 
 ####;2511;2511 - Itscheabine;Itscheabine
 
-####;2593;2593 - Wappus;Wappus
+####;2593;2593 - Wappus;Wappus/Lake of the Woods/Lac des Bois
 
 ### Saskatchewan
 
-####;1011;1011 - Woods Cree;Kinougeoulini
+####;1011;1011 - Woods Cree;Kinougeoulini/The Pas/Pasquia
 
-####;1813;1813 - Saskatchewan;Saskatchewan
+####;1813;1813 - Saskatchewan;Saskatchewan/La Corne
 
-####;2017;2017 - Nehiyawewin;Nehiyawewin
+####;2017;2017 - Nehiyawewin;Nehiyawewin/Edmonton
 
 ####;2596;2596 - Mahmikiwiniyak;Mahmikiwiniyak
 
-####;2597;2597 - Sipiwininiwak;Sipiwininiwak
+####;2597;2597 - Sipiwininiwak;Sipiwininiwak/South Branch
 
 ### Prairies
 
@@ -3443,7 +3443,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2005;2005 - Asinaan;Asinaan
 
-####;2018;2018 - Tsuutina;Tsuu Tina
+####;2018;2018 - Tsuutina;Tsuu Tina/Jasper
 
 ####;2598;2598 - Hebina;Hebina
 
@@ -3451,15 +3451,15 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Athabasca
 
-####;2595;2595 - Kesyehotinne;Kesyehotinne
+####;2595;2595 - Kesyehotinne;Kesyehotinne/Ile a la Crosse/Ile à la Crosse
 
-####;2599;2599 - Athabasca;Athabasca
+####;2599;2599 - Athabasca;Athabasca/Lac la Biche
 
-####;2600;2600 - Nihithawak;Nihithawak
+####;2600;2600 - Nihithawak;Nihithawak/Vermillion
 
-####;2601;2601 - Danezaa;Danezaa
+####;2601;2601 - Danezaa;Danezaa/Dunvegan
 
-####;2603;2603 - Sekani;Sekani
+####;2603;2603 - Sekani;Sekani/Fort St. John
 
 ## Cascadia
 ### Oregon
@@ -3474,9 +3474,9 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Columbia River
 
-####;873;873 - Chinook;Chinook
+####;873;873 - Chinook;Chinook/Astoria
 
-####;2003;2003 - Ktunaxa;Ktunaxa
+####;2003;2003 - Ktunaxa;Ktunaxa/Kootenai
 
 ####;2486;2486- Yakima;Yakima
 
@@ -3504,17 +3504,17 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;972;972 - Nootka;Nootka
 
-####;973;973 - Squamish;Squamish
+####;973;973 - Squamish;Squamish/Vancouver
 
 ####;2610;2610 - Heiltsuk;Heiltsuk
 
 ### Interior Plateau
 
-####;2604;2604 - Dakelh;Dakelh
+####;2604;2604 - Dakelh;Dakelh/Prince George
 
-####;2605;2605 - Secwepemc;Secwepemc
+####;2605;2605 - Secwepemc;Secwepemc/Shuswap
 
-####;2606;2606 - Tsilhoqotin;Tsilhoqotin
+####;2606;2606 - Tsilhoqotin;Tsilhoqotin/Fort Alexandria
 
 ####;2607;2607 - Okanagan;Okanagan
 
@@ -3530,7 +3530,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Alaska
 
-####;976;976 - Tlingit;Tlingit
+####;976;976 - Tlingit;Tlingit/Novoarchangelsk
 
 ####;977;977 - Yakutat;Yakutat
 
@@ -3547,25 +3547,25 @@ c_loon;2974;2974 - Loon;Loon - Loon
 ## California
 ### California
 
-####;868;868 - Chumash;Chumash
+####;868;868 - Chumash;Chumash/Los Angeles
 
 ####;871;871 - Pomo;Pomo
 
-####;869;869 - Salinan;Salinan
+####;869;869 - Salinan;Salinan/Monterrey
 
-####;2021;2021 - Miwok;Miwok
+####;2021;2021 - Miwok;Miwok/San Francisco
 
-####;2476;2476 - Kumeyaay;Kumeyaay
+####;2476;2476 - Kumeyaay;Kumeyaay/San Diego
 
 ####;2477;2477 - Yuki;Yuki
 
 ### Baja California
 
-####;865;865 - Cochimi;Cochimi
+####;865;865 - Cochimi;Cochimi/Baja California
 
-####;866;866 - Guaycura;Guaycura
+####;866;866 - Guaycura;Guaycura/Loreto
 
-####;2620;2620 - Nakipa;Nakipa
+####;2620;2620 - Nakipa;Nakipa/Ensenada
 
 ### Arizona
 
@@ -3573,7 +3573,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;876;876 - Yavapai;Yavapai
 
-####;877;877 - Pima;Pima
+####;877;877 - Pima;Pima/Tucson
 
 ####;879;879 - Apache;Apache
 
@@ -3591,9 +3591,9 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### New Mexico
 
-####;880;880 - Pueblo;Pueblo
+####;880;880 - Pueblo;Pueblo/Santa Fe
 
-####;881;881 - Piro;Piro
+####;881;881 - Piro;Piro/Socorro
 
 ####;2492;2492 - Chiricahua;Chiricahua
 
@@ -3618,11 +3618,11 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;892;892 - Wichita;Wichita
 
-####;898;898 - Kansas;Kansas
+####;898;898 - Kansas;Kansas/Cavagnal
 
-####;901;901 - Pawnee;Pawnee
+####;901;901 - Pawnee;Pawnee/Panis
 
-####;903;903 - Omaha;Omaha
+####;903;903 - Omaha;Omaha/Mahas
 
 ####;2508;2508 - Skiri;Skiri
 
@@ -3640,21 +3640,21 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Dakota
 
-####;904;904 - Nakota;Wahpeton
+####;904;904 - Nakota;Wahpeton/Fort Marin
 
-####;905;905 - Iowa;Iowa
+####;905;905 - Iowa;Iowa/Council Bluff
 
 ####;906;906 - Lakota;Yanktonai
 
-####;907;907 - Dakota;Yankton
+####;907;907 - Dakota;Yankton/Sioux Post
 
-####;908;908 - Minnesota;Sisseton
+####;908;908 - Minnesota;Sisseton/Minnesota
 
 ####;909;909 - Mandan;Mandan
 
-####;2007;2007 - Arikara;Arikara
+####;2007;2007 - Arikara;Arikara/Les Cedres
 
-####;2512;2512 - Wahpekute;Wahpekute
+####;2512;2512 - Wahpekute;Wahpekute/Traverse/Beauharnois
 
 ### Upper Missouri
 
@@ -3684,7 +3684,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;882;882 - Mescalero;Mescalero
 
-####;885;885 - Comanche;Teyas
+####;885;885 - Comanche;Teyas/Llano Estacado
 
 ####;886;886 - Waco;Waco
 
@@ -3697,124 +3697,124 @@ c_loon;2974;2974 - Loon;Loon - Loon
 ## Mississippi
 ### Lower Louisiana
 
-####;893;893 - Chitimacha;Chitimacha
+####;893;893 - Chitimacha;Chitimacha/New Orleans/Nouvelle Orléans
 
-####;894;894 - Caddo;Caddo
+####;894;894 - Caddo;Caddo/Ecore Fabre
 
-####;895;895 - Arkansas;Arkansas
+####;895;895 - Arkansas;Arkansas/Arcansea
 
-####;897;897 - Quapaw;Quapaw
+####;897;897 - Quapaw;Quapaw/Little Rock/Cadron/Petite Pierre
 
 ####;2014;2014 - Natchitoches;Natchitoches
 
-####;2516;2516 - Adai;Adai
+####;2516;2516 - Adai;Adai/Los Adaes/Adaïé
 
 ### West Florida
 
-####;921;921 - Bayougoula;Bayougoula
+####;921;921 - Bayougoula;Bayougoula/Baton Rouge
 
 ####;922;922 - Mobile;Mobile
 
 ####;923;923 - Pensacola;Pensacola
 
-####;2530;2530 - Biloxi;Biloxi
+####;2530;2530 - Biloxi;Biloxi/Bilocci
 
-####;2533;2533 - Chatot;Chatot
+####;2533;2533 - Chatot;Chatot/Sainte Rose
 
 ### Ozarks
 
-####;896;896 - Ozark;Yscani
+####;896;896 - Ozark;Yscani/Grand River
 
-####;899;899 - Osage;Pahatsi
+####;899;899 - Osage;Pahatsi/Ozarks/Monts aux Arcs
 
 ####;2509;2509 - Utsehta;Utsetha
 
-####;2515;2515 - Satuskhdin;Satuskhdin
+####;2515;2515 - Satuskhdin;Satuskhdin/Fort Smith/Fayetteville
 
 ### Upper Louisiana
 
-####;900;900 - Tamaroa;Tamaroa
+####;900;900 - Tamaroa;Tamaroa/St. Louis/San Luis/Saint Louis
 
-####;902;902 - Missouri;Missouri
+####;902;902 - Missouri;Missouri/Misuri/Fort Orléans
 
-####;2513;2513 - Moingwena;Moingwena
+####;2513;2513 - Moingwena;Moingwena/Fort Madison/La Harpe
 
-####;2514;2514 - Michigamea;Michigamea
+####;2514;2514 - Michigamea;Michigamea/Cape Girardeau/Nuevo Madrid/Sainte Geneviève
 
 ### Alabama
 
-####;924;924 - Alabama;Alabama
+####;924;924 - Alabama;Alabama/Alibamous
 
-####;925;925 - Tuskegee;Tuskegee
+####;925;925 - Tuskegee;Tuskegee/Fort Jackson
 
-####;2531;2531 - Napochi;Napochi
+####;2531;2531 - Napochi;Napochi/Huntsville
 
-####;2532;2532 - Tohome;Tohome
+####;2532;2532 - Tohome;Tohome/Tombecbé
 
 ### Kentucky
 
-####;934;934 - Shawnee;Yuchi
+####;934;934 - Shawnee;Yuchi/Nashborough
 
-####;940;940 - Kentucky;Kentucky
+####;940;940 - Kentucky;Kentucky/Louisville
 
-####;941;941 - Cumberland;Chisca
+####;941;941 - Cumberland;Chisca/Harrodstown
 
-####;2526;2526 - Shatteras;Shatteras
+####;2526;2526 - Shatteras;Shatteras/Lexington/Cachiqueto
 
 ### Appalachia
 
-####;931;931 - Chiaha;Coosa
+####;931;931 - Chiaha;Coosa/Peachtree
 
-####;935;935 - Cherokee;Cherokee
+####;935;935 - Cherokee;Cherokee/Watauga/Cheraquie
 
-####;936;936 - Cheraw;Cheraw
+####;936;936 - Cheraw;Cheraw/Overmountain
 
-####;951;951 - Kanawha;Kanawha
+####;951;951 - Kanawha;Kanawha/Sonhioto
 
-####;2527;2527 - Chickamauga;Chickamauga
+####;2527;2527 - Chickamauga;Chickamauga/Chattanooga
 
-####;2548;2548 - Tutelo;Tutelo
+####;2548;2548 - Tutelo;Tutelo/New River/Nouvelle-Rivière
 
-####;2551;2551 - Monongahela;Monongahela
+####;2551;2551 - Monongahela;Monongahela/Malanghelé
 
 ### Mississippi
 
-####;918;918 - Tennessee;Tennessee
+####;918;918 - Tennessee;Tennessee/Memphis/Barancas/Prudhomme
 
-####;919;919 - Chickasaw;Chickasaw
+####;919;919 - Chickasaw;Chickasaw/Cicacha
 
-####;920;920 - Choctaw;Choctaw
+####;920;920 - Choctaw;Choctaw/Tchattas
 
-####;939;939 - Pennyrile;Kaskinampo
+####;939;939 - Pennyrile;Kaskinampo/Paducah/Casquinambaux
 
-####;2528;2528 - Yazoo;Yazoo
+####;2528;2528 - Yazoo;Yazoo/Yazou
 
-####;2529;2529 - Natchez;Natchez
+####;2529;2529 - Natchez;Natchez/Los Nogales
 
 ## Southeast
 ### Chesapeake
 
 ####;950;950 - Powhatan;Chesapeake
 
-####;952;952 - Powhatan;Powhatan
+####;952;952 - Powhatan;Powhatan/James River/Pouhatang
 
-####;953;953 - Conoy;Conoy
+####;953;953 - Conoy;Conoy/Maryland
 
-####;2550;2550 - Doeg;Doeg
+####;2550;2550 - Doeg;Doeg/Rappahannock
 
-####;2554;2554 - Nanticoke;Nanticoke
+####;2554;2554 - Nanticoke;Nanticoke/Baltimore
 
 ### Great Valley
 
-####;949;949 - Monacan;Monacan
+####;949;949 - Monacan;Monacan/Blue Ridge
 
-####;2011;2011 - Shenandoah;Shenandoah
+####;2011;2011 - Shenandoah;Shenandoah/Acconachena
 
-####;2552;2552 - Manahoac;Manahoac
+####;2552;2552 - Manahoac;Manahoac/Pearsall
 
-####;2553;2553 - Potomac;Potomac
+####;2553;2553 - Potomac;Potomac/Patoumek
 
-####;2544;2544 - Yadkin;Yadkin
+####;2544;2544 - Yadkin;Yadkin/Charlotte
 
 ### Piedmont
 
@@ -3822,306 +3822,306 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;937;937 - Tuscarora;Tuscarora
 
-####;2541;2541 - Saluda;Saluda
+####;2541;2541 - Saluda;Saluda/Keowee
 
 ####;2545;2545 - Waxhaw;Waxhaw
 
-####;2549;2549 - Moratok;Moratok
+####;2549;2549 - Moratok;Moratok/Charlottesville
 
 ### Georgia
 
-####;929;929 - Muskogee;Guale
+####;929;929 - Muskogee;Guale/Savannah/Nouvelle-Seine
 
-####;930;930 - Yamasee;Muskogee
+####;930;930 - Yamasee;Muskogee/Gaines/Chattaux
 
 ####;2537;2537 - Hitchiti;Hitchiti
 
-####;2538;2538 - Yamasee;Yamasee
+####;2538;2538 - Yamasee;Yamasee/Fidius/Yamésez
 
-####;2539;2539 - Mocama;Mocama
+####;2539;2539 - Mocama;Mocama/Frederick/Saint Mathieu
 
-####;2540;2540 - Coweta;Coweta
+####;2540;2540 - Coweta;Coweta/Augusta/Caouitas
 
 ### Florida
 
-####;926;926 - Seminole;Ais
+####;926;926 - Seminole;Ais/Mayaca
 
-####;927;927 - Timucua;Timucua
+####;927;927 - Timucua;Timucua/San Agustin/La Caroline
 
-####;928;928 - Apalachee;Apalachee
+####;928;928 - Apalachee;Apalachee/Apalache
 
 ####;2534;2534 - Yustaga;Yustaga
 
-####;2535;2535 - Calusa;Calusa
+####;2535;2535 - Calusa;Calusa/Caloucha
 
-####;2536;2536 - Mayaimi;Mayaimi
+####;2536;2536 - Mayaimi;Mayaimi/Tegesta
 
 ### Carolinas
 
-####;932;932 - Santee;Santee
+####;932;932 - Santee;Santee/Charleston/Charlefort
 
-####;938;938 - Pamlico;Pamlico
+####;938;938 - Pamlico;Pamlico/Transfalgard
 
-####;2542;2542 - Cusabo;Cusabo
+####;2542;2542 - Cusabo;Cusabo/Beaufort/Santa Elena
 
-####;2543;2543 - Waccamaw;Waccamaw
+####;2543;2543 - Waccamaw;Waccamaw/Long Bay
 
-####;2546;2546 - Chicora;Chicora
+####;2546;2546 - Chicora;Chicora/Cape Fear
 
-####;2547;2547 - Roanoke;Roanoke
+####;2547;2547 - Roanoke;Roanoke/La Magdelaine
 
 ## Northeast
 ### Great Woods
 
-####;969;969 - Pocumtuk;Pocumtuk
+####;969;969 - Pocumtuk;Pocumtuk/Bennington
 
 ####;971;971 - Abnaki;Penobscott
 
-####;2563;2563 - Missiquoi;Missisquoi
+####;2563;2563 - Missiquoi;Missisquoi/Vermont
 
-####;2564;2564 - Sokoki;Sokoki
+####;2564;2564 - Sokoki;Sokoki/White Mountains/Socoquis
 
 ####;2565;2565 - Kennebec;Kennebec
 
-####;2566;2566 - Passamaquoddy;Passamaquoddy
+####;2566;2566 - Passamaquoddy;Passamaquoddy/Castine/Pentagouet
 
 ####;2567;2567 - Aroostook;Aroostook
 
 ### Massachusetts Bay
 
-####;968;968 - Massachusetts;Massachusetts
+####;968;968 - Massachusetts;Massachusetts/Baye Blanche
 
-####;970;970 - Pennacook;Merrimack
+####;970;970 - Pennacook;Merrimack/New Hampshire/Pointe Verte
 
-####;2013;2013 - Kennebec;Androscoggin
+####;2013;2013 - Kennebec;Androscoggin/Casco/Horsaines
 
-####;2561;2561 - Wampanoag;Wampanoag
+####;2561;2561 - Wampanoag;Wampanoag/Plymouth/Nieuw-Hollant/Cap Blanc
 
 ### Connecticut Valley
 
-####;966;966 - Nipmuc;Nipmuc
+####;966;966 - Nipmuc;Nipmuc/Berkshires
 
-####;967;967 - Narraganset;Narraganset
+####;967;967 - Narraganset;Narraganset/Rhode Island/Roode Eylant/Baye Notre-Dame
 
-####;2010;2010 - Connecticut;Connecticut
+####;2010;2010 - Connecticut;Connecticut/Versche Rivier/Coneticout
 
-####;2560;2560 - Quinnipiac;Quinnipiac
+####;2560;2560 - Quinnipiac;Quinnipiac/New Haven/Rodenberg
 
-####;2562;2562 - Pennacook;Pennacook
+####;2562;2562 - Pennacook;Pennacook/Keene
 
 ### Hudson Valley
 
-####;963;963 - Mahican;Mahican
+####;963;963 - Mahican;Mahican/Albany/Renssellaerswijck/Nouvelle Saintonge
 
-####;965;965 - Manhattan;Manhattan
+####;965;965 - Manhattan;Manhattan/Garnatah al-Jadida/New York/Nieuw-Amsterdam/Nouv. Angoulême/Yeni Istanbul
 
-####;2558;2558 - Espachomy;Espachomy
+####;2558;2558 - Espachomy;Espachomy/Catskills/Wiltwijck/Ésope
 
-####;2639;2639 - Raritan;Raritan
+####;2639;2639 - Raritan;Raritan/Pavonia/Ambois
 
 ### Delaware Valley
 
-####;956;956 - Lenape;Lenape
+####;956;956 - Lenape;Lenape/Philadelphia/Zuyd Rivier/Philadelphie/Nya Götheborg
 
-####;957;957 - Delaware;Delaware
+####;957;957 - Delaware;Delaware/Zwaanendael/Delorbée/Fort Kristina
 
-####;962;962 - Unami;Unami
+####;962;962 - Unami;Unami/Nieuw-Amstel/Cap de Mai/Nya Elfsborg
 
-####;2023;2023 - Munsee;Munsee
+####;2023;2023 - Munsee;Munsee/Wyoming Valley/Carantouanie/Scahentowanen
 
 ### Iroquoisia
 
-####;954;954 - Allegheny;Allegheny
+####;954;954 - Allegheny;Allegheny/Presqu'Isle
 
-####;958;958 - Seneca;Seneca
+####;958;958 - Seneca;Seneca/Buffalo/Sonnontouanie/Wenro
 
-####;959;959 - Cayuga;Cayuga
+####;959;959 - Cayuga;Cayuga/Rochester/Cherontons
 
-####;960;960 - Onondaga;Onondaga
+####;960;960 - Onondaga;Onondaga/Oswego/Onnontagué
 
-####;961;961 - Oneida;Oneida
+####;961;961 - Oneida;Oneida/Fort Stanwix/Onneyout
 
-####;964;964 - Mohawk;Mohawk
+####;964;964 - Mohawk;Mohawk/Schenectady/Schanatisda/Agniers
 
-####;2559;2559 - Adirondack;Adirondack
+####;2559;2559 - Adirondack;Adirondack/Ticonderoga/Carillon
 
 ### Susquehanna
 
-####;955;955 - Susquehanna;Susquehanna
+####;955;955 - Susquehanna;Susquehanna/Andastes
 
-####;2555;2555 - Honniasont;Honniasont
+####;2555;2555 - Honniasont;Honniasont/Pittsburgh/Fort Duquesne
 
 ####;2556;2556 - Juniata;Juniata
 
-####;2557;2557 - Atrakwaye;Atrakwaye
+####;2557;2557 - Atrakwaye;Atrakwaye/West Branch
 
 ## Great Lakes
 ### Ohio
 
 ####;943;943 - Miami;Miami
 
-####;946;946 - Wyandot;Wyandot
+####;946;946 - Wyandot;Wyandot/Sandusky/Sandoské
 
-####;947;947 - Erie;Erie
+####;947;947 - Erie;Erie/Cleveland/Chiningué/Kayahake
 
-####;948;948 - Ohio;Ohio
+####;948;948 - Ohio;Ohio/Belle Rivière
 
-####;2523;2523 - Piankeshaw;Piankeshaw
+####;2523;2523 - Piankeshaw;Piankeshaw/Vincennes
 
-####;2524;2524 - Wabash;Wabash
+####;2524;2524 - Wabash;Wabash/Indiana
 
-####;2525;2525 - Chillicothe;Chillicothe
+####;2525;2525 - Chillicothe;Chillicothe/Cincinnati/Rivière à la Roche
 
 ### Illinois
 
-####;914;914 - Winnebago;Winnebago
+####;914;914 - Winnebago;Winnebago/Green Bay/La Baye
 
-####;915;915 - Illinois;Illinois
+####;915;915 - Illinois;Illinois/Peoria/Pimitéoui
 
 ####;916;916 - Kaskaskia;Kaskaskia
 
 ####;917;917 - Cahokia;Cahokia
 
-####;942;942 - Wea;Wea
+####;942;942 - Wea;Wea/Ouiaténon
 
 ####;2519;2519 - Kilatika;Kilatika
 
-####;2520;2520 - Mengkonkia;Mengkonkia
+####;2520;2520 - Mengkonkia;Mengkonkia/Little Egypt/Massac
 
 ### Michigan
 
-####;944;944 - Potawatomi;Potawatomi
+####;944;944 - Potawatomi;Potawatomi/Detroit/Détroit
 
-####;945;945 - Michigan;Michigan
+####;945;945 - Michigan;Michigan/Mackinac/Michilimackinac
 
-####;2521;2521 - Okouara;Okouara
+####;2521;2521 - Okouara;Okouara/Saginaw/Saguinaw
 
-####;2522;2522 - Mascouten;Mascouten
+####;2522;2522 - Mascouten;Mascouten/Grand Rapids/Saint Joseph
 
 ### Lake Superior
 
-####;910;910 - Chippewa;Makoua
+####;910;910 - Chippewa;Makoua/Red Lake/Fond du Lac
 
-####;911;911 - Menominee;Menominee
+####;911;911 - Menominee;Menominee/Upper Peninsula/Saint Ignace
 
 ####;912;912 - Sauk;Sauk
 
-####;913;913 - Fox;Mesquakie
+####;913;913 - Fox;Mesquakie/Prairie du Chien
 
-####;2517;2517 - Mdewakanton;Mdewakanton
+####;2517;2517 - Mdewakanton;Mdewakanton/Mille Lacs/Milles Lacs
 
-####;2518;2518 - Noquet;Noquet
+####;2518;2518 - Noquet;Noquet/La Pointe
 
 ## Canada
 ### Upper Acadia
 
-####;983;983 - Epekwitk;Epekwitk
+####;983;983 - Epekwitk;Epekwitk/Prince Edward Isl./Ile Saint-Jean
 
-####;985;985 - Micmac;Mikmaq
+####;985;985 - Micmac;Mikmaq/Moncton/Miramichi
 
-####;2570;2570 - Wolystoq;Wolystoq
+####;2570;2570 - Wolystoq;Wolystoq/St. John/Saint Jean
 
 ####;2571;2571 - Madawaska;Madawaska
 
-####;2572;2572 - Siknikt;Siknikt
+####;2572;2572 - Siknikt;Siknikt/Campbelton/Miscou
 
 ### Lower Acadia
 
-####;982;982 - Unamakik;Unamakik
+####;982;982 - Unamakik;Unamakik/Cape Breton/Ile Royale
 
-####;984;984 - Acadia;Sipeknekatik
+####;984;984 - Acadia;Sipeknekatik/Fundy/Acadie
 
-####;2568;2568 - Kespukwitk;Kespukwitk
+####;2568;2568 - Kespukwitk;Kespukwitk/Cape Sable/Cap de Sable
 
-####;2569;2569 - Eskikewakik;Eskikewakik
+####;2569;2569 - Eskikewakik;Eskikewakik/Halifax/Chedabouctou
 
 ### Newfoundland
 
-####;980;980 - Beothuk;Beothuk
+####;980;980 - Beothuk;Beothuk/Avalon/Baye Sainte-Claire
 
-####;981;981 - Taqamkuk;Taqamkuk
+####;981;981 - Taqamkuk;Taqamkuk/Cape Ray/Belle Isle
 
-####;2573;2573 - Placentia;Placentia
+####;2573;2573 - Placentia;Placentia/Plaisance
 
 ### Labrador
 
-####;997;997 - Labrador;Chisedec
+####;997;997 - Labrador;Chisedec/Baie Rouge
 
-####;2574;2574 - Sikumiut;Sikumiut
+####;2574;2574 - Sikumiut;Sikumiut/Nain
 
-####;2575;2575 - Naskapi;Naskapi
+####;2575;2575 - Naskapi;Naskapi/Rigolet
 
 ### Cote Nord
 
 ####;995;995 - Atiamekw;Tadoussac
 
-####;996;996 - Innu;Innu
+####;996;996 - Innu;Innu/Mecatina/Mécatina
 
 ####;2576;2576 - Mingan;Mingan
 
-####;2577;2577 - Manicouagan;Manicouagan
+####;2577;2577 - Manicouagan;Manicouagan/Seven Islands/Sept Iles
 
 ####;2578;2578 - Anticosti;Anticosti
 
 ### Notre Dame Mountains
 
-####;986;986 - Kespek;Kespek
+####;986;986 - Kespek;Kespek/Gaspe/Gaspé
 
-####;2012;2012 - Arsigantegok;Arsigantegok
+####;2012;2012 - Arsigantegok;Arsigantegok/Memphremagog/Memphrémagog
 
-####;2582;2582 - Maliseet;Maliseet
+####;2582;2582 - Maliseet;Maliseet/Rimouski/Bas St-Laurent
 
-####;2583;2583 - Etchemins;Etchemins
+####;2583;2583 - Etchemins;Etchemins/Lévis
 
 ### Lower Canada
 
-####;990;990 - Kwedech;Maisouna
+####;990;990 - Kwedech;Maisouna/Three Rivers/Trois-Rivières
 
-####;993;993 - Hochelega;Hochelega
+####;993;993 - Hochelega;Hochelaga/Montreal/Montréal
 
-####;994;994 - Stadacona;Stadacona
+####;994;994 - Stadacona;Stadacona/Quebec/Kebek/Québec
 
-####;2584;2584 - Loup;Loup
+####;2584;2584 - Loup;Loup/Richelieu
 
 ### Upper Canada
 
 ####;987;987 - Niagara;Niagara
 
-####;989;989 - Ontario;Ontario
+####;989;989 - Ontario;Ontario/Cataraqui
 
-####;2585;2585 - Kichesipi;Kichesipi
+####;2585;2585 - Kichesipi;Kichesipi/Ottawa/L'Orignal
 
-####;2670;2670 - Tkaronto;Tkaronto
+####;2670;2670 - Tkaronto;Tkaronto/Toronto/Douville
 
 ### Laurentia
 
-####;992;992 - Algonquin;Algonquin
+####;992;992 - Algonquin;Algonquin/Hull/Gatineau
 
-####;2579;2579 - Piekougami;Piekougami
+####;2579;2579 - Piekougami;Piekougami/Métabéchouane
 
-####;2580;2580 - Atikamekw;Atikamekw
+####;2580;2580 - Atikamekw;Atikamekw/Wemotaci/Saint-Maurice
 
-####;2581;2581 - Timiskaming;Timiskaming
+####;2581;2581 - Timiskaming;Timiskaming/Témiscamingue
 
 ### Huronia
 
-####;988;988 - Huron;Huron
+####;988;988 - Huron;Huron/Simcoe/Huronie
 
-####;2586;2586 - Tionontate;Tionontate
+####;2586;2586 - Tionontate;Tionontate/Nottawasaga
 
-####;2587;2587 - Odawa;Odawa
+####;2587;2587 - Odawa;Odawa/Manitoulin
 
 ####;2671;2671 - Mississage;Missisage/Ronde
 
 ### Upper Ontario
 
-####;991;991 - Ottawa;Nipissing
+####;991;991 - Ottawa;Nipissing/Mataouane
 
-####;1001;1001 - Sault;Soto
+####;1001;1001 - Sault;Soto/Sault Ste. Marie/Saults Sainte-Marie
 
-####;1007;1007 - Ojibwa;Ojibwa
+####;1007;1007 - Ojibwa;Ojibwa/Thunder Bay/Kaministiquia
 
-####;2015;2015 - Nipigon;Nipigon
+####;2015;2015 - Nipigon;Nipigon/Népigon
 
 # Central America
 ## Central America
@@ -4139,15 +4139,15 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Honduras
 
-####;839;839 - Pipil;Pipil
+####;839;839 - Pipil;Pipil/San Salvador
 
-####;840;840 - Honduras;Honduras
+####;840;840 - Honduras;Honduras/Trujillo
 
-####;2637;2637 - Chortli;Chortli
+####;2637;2637 - Chortli;Chortli/Puerto Caballos
 
-####;2640;2640 - Lenca;Lenca
+####;2640;2640 - Lenca;Lenca/Tegucigalpa
 
-####;2662;2662 - Olancho;Olancho
+####;2662;2662 - Olancho;Olancho/Comayagua
 
 ### Nicaragua
 
@@ -4196,7 +4196,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2641;2641 - Tziccoac;Tziccoac
 
-####;2647;2647 - Cuetlaxtlan;Cuetlaxtlan
+####;2647;2647 - Cuetlaxtlan;Cuetlaxtlan/Veracruz
 
 ### Mexico
 
@@ -4206,11 +4206,11 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;853;853 - Huastec;Huastec
 
-####;2626;2626 - Tulucan;Tullucan
+####;2626;2626 - Tulucan;Tullucan/Toluca
 
-####;2628;2628 - Tepeacac;Tepeacac
+####;2628;2628 - Tepeacac;Tepeacac/Tepeaca
 
-####;2644;2644 - Cholula;Cholula
+####;2644;2644 - Cholula;Cholula/Puebla
 
 ### Michoacan
 
@@ -4218,7 +4218,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2622;2622 - Cuitzeo;Cuitzeo
 
-####;2623;2623 - Cutzamala;Cutzamala
+####;2623;2623 - Cutzamala;Cutzamala/Huetamo
 
 ####;2624;2624 - Patzcuaro;Patzcuaro
 
@@ -4246,29 +4246,29 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Texas
 
-####;883;883 - Lipan;Lipan
+####;883;883 - Lipan;Lipan/San Antonio
 
-####;884;884 - Karankawa;Karankawa
+####;884;884 - Karankawa;Karankawa/La Bahia/Baye Saint-Louis
 
-####;887;887 - Tonkawa;Tonkawa
+####;887;887 - Tonkawa;Tonkawa/Los Tejas/Toaux
 
-####;888;888 - Atakapa;Atakapa
+####;888;888 - Atakapa;Atakapa/Galvezton/Arkokisa
 
-####;2665;2665 - Ais;Eyeish
+####;2665;2665 - Ais;Eyeish/Los Ais/Bidaye
 
-####;2669;2669 - Hasinai;Hasinai
+####;2669;2669 - Hasinai;Hasinai/Le Dout/Assinaïs
 
 ### Rio Grande
 
-####;2498;2498 - Jumao;Jumano
+####;2498;2498 - Jumao;Jumano/El Paso/Choumans
 
-####;2499;2499 - Coahuilteco;Coahuilteco
+####;2499;2499 - Coahuilteco;Coahuilteco/Rio Grande/Caouachés
 
-####;2666;2666 - Tuintsunde;Tuintsundé
+####;2666;2666 - Tuintsunde;Tuintsundé/San Saba
 
-####;2667;2667 - Cacaxtes;Cacaxtes
+####;2667;2667 - Cacaxtes;Cacaxtes/Laredo
 
-####;2668;2668 - Borrado;Borrado
+####;2668;2668 - Borrado;Borrado/Rio Bravo
 
 ### Northeast Mexico
 
@@ -4276,33 +4276,33 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;861;861 - Coahuila;Coahuila
 
-####;2614;2614 - Cotoname;Cotoname
+####;2614;2614 - Cotoname;Cotoname/Nuevo Leon
 
-####;2619;2619 - Laguneros;Laguneros
+####;2619;2619 - Laguneros;Laguneros/Saltillo
 
 ### Durango
 
-####;860;860 - Tepehuan;Tepehuan
+####;860;860 - Tepehuan;Tepehuan/Durango
 
-####;863;863 - Suma;Suma
+####;863;863 - Suma;Suma/Paso del Norte
 
-####;864;864 - Concho;Concho
+####;864;864 - Concho;Concho/Chihuahua
 
-####;2618;2618 - Toboso;Toboso
+####;2618;2618 - Toboso;Toboso/Santa Barbara
 
 ### Sonora y Sinaloa
 
-####;855;855 - Huichol;Totorames
+####;855;855 - Huichol;Totorames/Mazatlan
 
 ####;859;859 - Sinaloa;Sinaloa
 
-####;862;862 - Yaqui;Yaqui
+####;862;862 - Yaqui;Yaqui/Sonora
 
-####;2616;2616 - Seri;Seri
+####;2616;2616 - Seri;Seri/Cucurpe
 
 ### Jalisco
 
-####;854;854 - Sayultecas;Sayultecas
+####;854;854 - Sayultecas;Sayultecas/Tepic
 
 ####;2617;2617 - Huichol;Huichol
 
@@ -4314,7 +4314,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;856;856 - Zacatecas;Zacatecas
 
-####;857;857 - Guachichil;Guachichil
+####;857;857 - Guachichil;Guachichil/San Luis Potosi
 
 ####;2615;2615 - Guamares;Guamares
 
@@ -4324,140 +4324,140 @@ c_loon;2974;2974 - Loon;Loon - Loon
 ## Anatolia
 ### Hüdavendigar
 
-####;316;316 - Kocaeli;Kocaeli
+####;316;316 - Kocaeli;Kocaeli/Troas
 
-####;317;317 - Hudavendigar;Hüdavendigar
+####;317;317 - Hudavendigar;Hüdavendigar/Mysia
 
-####;322;322 - Kutahya;Kütahya
+####;322;322 - Kutahya;Kütahya/Cotyaeum
 
-####;326;326 - Ankara;Ankara
+####;326;326 - Ankara;Ankara/Galatia
 
 ### Aydin
 
-####;318;318 - Sugla;Sugla
+####;318;318 - Sugla;Sugla/Smyrna/Aydin
 
-####;319;319 - Mentese;Mentese
+####;319;319 - Mentese;Mentese/Mylasa
 
-####;2297;2297 - Saruhan;Saruhan
+####;2297;2297 - Saruhan;Saruhan/Lydia
 
-####;2298;2298 - Tekke;Tekke
+####;2298;2298 - Tekke;Tekke/Attalea/Teke
 
 ### Karaman
 
-####;323;323 - Konya;Konya
+####;323;323 - Konya;Konya/Iconium
 
-####;324;324 - Karaman;Karaman
+####;324;324 - Karaman;Karaman/Lycaonia
 
-####;1848;1848 - Hamid;Hamid
+####;1848;1848 - Hamid;Hamid/Caria
 
 ### Aleppo
 
-####;321;321 - Cyprus;Cyprus
+####;321;321 - Cyprus;Cyprus/Cipar/Kypr/Kibris
 
-####;327;327 - Adana;Adana
+####;327;327 - Adana;Adana/Cilicia
 
-####;377;377 - Aleppo;Aleppo
+####;377;377 - Aleppo;Aleppo/Beroea
 
-####;2302;2302 - Icel;Içel
+####;2302;2302 - Icel;Içel/Pamphylia
 
-####;2313;2313 - Antioch;Antioch
+####;2313;2313 - Antioch;Antioch/Antiochie/Antâki/Antiocheia/Antakya/Antakiya
 
 ### Rum
 
-####;329;329 - Sivas;Sivas
+####;329;329 - Sivas;Sivas/Sebastea
 
-####;1846;1846 - Amasya;Amasya
+####;1846;1846 - Amasya;Amasya/Amasea
 
-####;2300;2300 - Bozok;Bozok
+####;2300;2300 - Bozok;Bozok/Cappadocia
 
-####;2304;2304 - Canik;Canik
+####;2304;2304 - Canik;Canik/Chaldia
 
 ### Kastamonu
 
-####;325;325 - Kastamonu;Kastamonu
+####;325;325 - Kastamonu;Kastamonu/Paphlagonia
 
-####;328;328 - Sinop;Sinop
+####;328;328 - Sinop;Sinop/Sinope
 
-####;2299;2299 - Bolu;Bolu
+####;2299;2299 - Bolu;Bolu/Bithynia
 
 ### Erzurum
 
-####;330;330 - Trebizond;Trebizond
+####;330;330 - Trebizond;Trebizond/Trapezus/Trabzon
 
-####;331;331 - Erzurum;Erzurum
+####;331;331 - Erzurum;Erzurum/Ærzerûm
 
-####;2305;2305 - Erzincan;Erzincan
+####;2305;2305 - Erzincan;Erzincan/Acilisene
 
 ### North Kurdistan
 
-####;418;418 - Diyarbakir;Diyarbakir
+####;418;418 - Diyarbakir;Diyarbakir/Diarbekr/Amida/Diyarbekir/Diyar al-Bakr
 
-####;2306;2306 - Mush;Mush
+####;2306;2306 - Mush;Mush/Taraunitis
 
-####;2307;2307 - Van;Van
+####;2307;2307 - Van;Van/Arsissa
 
 ### Dulkadir
 
-####;332;332 - Marash;Marash
+####;332;332 - Marash;Marash/Germanicia/Mar'ash
 
-####;2301;2301 - Kayseri;Kayseri
+####;2301;2301 - Kayseri;Kayseri/Caesarea
 
-####;2303;2303 - Malatya;Malatya/Urfa
+####;2303;2303 - Malatya;Malatya/Melitene/Urfa
 
 ### Eastern Aegean
 
-####;320;320 - Rhodes;Rhodes
+####;320;320 - Rhodes;Rhodes/Rod/Rhodos/Rhodus/Rodos
 
-####;2296;2296 - Biga;Biga
+####;2296;2296 - Biga;Biga/Abydus
 
-####;2348;2348 - Chios;Chios
+####;2348;2348 - Chios;Chios/Scio/Sakiz
 
 ## Mashriq
 ### Syria
 
-####;378;378 - Tripoli;Tarabulus
+####;378;378 - Tripoli;Tarabulus/Trábulos/Trablus/Tarabulus al-Sham
 
-####;382;382 - Damascus;Damascus
+####;382;382 - Damascus;Damascus/Damasek/Damâsk/Sham/Dimashq
 
-####;1855;1855 - Sidon;Sidon
+####;1855;1855 - Sidon;Sidon/Seide/Sayda
 
 ### Palestine
 
-####;364;364 - Gaza;Gaza
+####;364;364 - Gaza;Gaza/Gazze/Ghazzah
 
-####;379;379 - Jerusalem;Jerusalem
+####;379;379 - Jerusalem;Jerusalem/Jeruzalém/Hierosolyma/Kudus/al-Quds
 
-####;380;380 - Al Karak;Al Karak
+####;380;380 - Al Karak;Al Karak/Idumea/El Karak/Karak
 
-####;381;381 - Ajlun;Ajlun
+####;381;381 - Ajlun;Ajlun/Peraea/Dera
 
-####;1854;1854 - Nablus;Nablus
+####;1854;1854 - Nablus;Nablus/Flavia Neapolis/Naablus
 
 ### Rakka
 
-####;405;405 - Tadmor;Tadmor
+####;405;405 - Tadmor;Tadmor/Palmyra
 
-####;407;407 - Ar Raqqa;Ar Raqqa
+####;407;407 - Ar Raqqa;Ar Raqqa/Kallinikos/Callinicum/Rakka/Ar-Raqqah
 
-####;1849;1849 - Hama;Hama
+####;1849;1849 - Hama;Hama/Epiphania/Hamah
 
-####;2314;2314 - Rahba;Rahba
+####;2314;2314 - Rahba;Rahba/Circesium
 
 ### Al Jazira
 
-####;406;406 - As Sahiliyah;As Sahiliyah
+####;406;406 - As Sahiliyah;As Sahiliyah/Dura Europus
 
-####;2308;2308 - Cizre;Cizre
+####;2308;2308 - Cizre;Cizre/Gazarta/Jazirat Ibn Umar
 
-####;2310;2310 - Tikrit;Tikrit
+####;2310;2310 - Tikrit;Tikrit/Tagritum
 
-####;2309;2309 - Sinjar;Sinjar
+####;2309;2309 - Sinjar;Sinjar/Singara
 
 ### Iraq Arabi
 
-####;409;409 - Hillah;Hillah
+####;409;409 - Hillah;Hillah/Helle/Kerbela
 
-####;410;410 - Baghdad;Baghdad
+####;410;410 - Baghdad;Baghdad/Bagdád/Bagdatum/Bagdad
 
 ####;2209;2209 - Ilam;Ilam
 
@@ -4467,50 +4467,50 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Basra
 
-####;408;408 - Basra;Basra
+####;408;408 - Basra;Basra/Básra/Basrah
 
-####;412;412 - Khuzestan;Khuzestan
+####;412;412 - Khuzestan;Khuzestan/Susiana
 
 ####;2340;2340 - Grane;Grane
 
 ## Caucasia
 ### Circassia
 
-####;463;463 - Circassia;Circassia
+####;463;463 - Circassia;Circassia/Maikop/Çerkesya
 
-####;2201;2201 - Alania;Alania
+####;2201;2201 - Alania;Alania/Vladikavkaz
 
-####;2195;2195 - Adyghe;Adyghe
+####;2195;2195 - Adyghe;Adyghe/Novorissiysk
 
-####;2197;2197 - Kabardia;Kabardia
+####;2197;2197 - Kabardia;Kabardia/Pyatigorsk
 
 ### Georgia
 
-####;422;422 - Imereti;Imereti
+####;422;422 - Imereti;Imereti/Kutais
 
-####;423;423 - Kartli;Kartli
+####;423;423 - Kartli;Kartli/Tiflis
 
-####;462;462 - Mingrelia;Mingrelia
+####;462;462 - Mingrelia;Mingrelia/Megrelya
 
-####;1856;1856 - Abkhazia;Abkhazia
+####;1856;1856 - Abkhazia;Abkhazia/Abcházie/Abhazya
 
-####;2196;2196 - Guria;Guria
+####;2196;2196 - Guria;Guria/Batum/Çildir
 
-####;2203;2203 - Kahketi;Kahketi
+####;2203;2203 - Kahketi;Kahketi/Elisavetpol
 
-####;2204;2204 - Samtskhe;Samtskhe
+####;2204;2204 - Samtskhe;Samtskhe/Kars
 
 ### Shirvan
 
-####;420;420 - Ganja;Ganja
+####;420;420 - Ganja;Ganja/Karabag
 
-####;421;421 - Shirvan;Shirvan
+####;421;421 - Shirvan;Shirvan/Baku/Sirvan
 
-####;425;425 - Dagestan;Dagestan
+####;425;425 - Dagestan;Dagestan/Derbent/Dagistan
 
 ### Armenia
 
-####;419;419 - Yerevan;Yerevan
+####;419;419 - Yerevan;Yerevan/Jerevan/Erivan
 
 ####;2202;2202 - Melikates;Melikates
 
@@ -4518,9 +4518,9 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Dagestan
 
-####;2198;2198 - Khundzia;Khundzia
+####;2198;2198 - Khundzia;Khundzia/Grozny
 
-####;2199;2199 - Tarki;Tarki
+####;2199;2199 - Tarki;Tarki/Petrovsk
 
 ####;2208;2208 - Terek;Terek
 
@@ -4529,27 +4529,27 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;383;383 - Tabuk;Tabuk
 
-####;384;384 - Medina;Medina
+####;384;384 - Medina;Medina/Medîne/Medine/Madinah
 
-####;385;385 - Mecca;Mecca
+####;385;385 - Mecca;Mecca/Mékke/Mekke/Makkah
 
 ####;386;386 - Asir;Asir
 
 ####;2330;2330 - Ma'din Sulaym;Ma'din Sulaym
 
-####;2331;2331 - Jeddah;Jeddah
+####;2331;2331 - Jeddah;Jeddah/Dsjidda
 
 ####;2332;2332 - Truba;Truba
 
-####;2327;2327 - Maan;Maan
+####;2327;2327 - Maan;Maan/Ma'an
 
-####;2328;2328 - Tayma;Tayma
+####;2328;2328 - Tayma;Tayma/Taima
 
-####;2329;2329 - Yanbu;Yanbu
+####;2329;2329 - Yanbu;Yanbu/Jâmbo/Yanbu' al-Bahr
 
 ### Najd
 
-####;392;392 - Al-Arid;Al-Arid
+####;392;392 - Al-Arid;Al-Arid/Al'Arid
 
 ####;393;393 - Jabal Shammar;Jabal Shammar
 
@@ -4559,17 +4559,17 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2337;2337 - Unaizah;Unaizah
 
-####;2338;2338 - Hafar;Hafar
+####;2338;2338 - Hafar;Hafar/Hafar al-Batin
 
 ####;2339;2339 - Yabrin;Yabrin
 
 ### Bahrain
 
-####;394;394 - El Catif;Al-Qatif
+####;394;394 - El Catif;Al-Qatif/Lahsa
 
-####;395;395 - Qatar;Qatar
+####;395;395 - Qatar;Qatar/Katar
 
-####;396;396 - Bahrain;Bahrain
+####;396;396 - Bahrain;Bahrain/Bahrajn/Tylos/Bahreyn
 
 ####;397;397 - Bani Yas;Bani Yas
 
@@ -4577,7 +4577,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2333;2333 - Abd al-Qays;Abd al-Qays
 
-####;2347;2347 - Hofuf;Hofuf
+####;2347;2347 - Hofuf;Hofuf/Hufuf
 
 ### Oman
 
@@ -4585,33 +4585,33 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;399;399 - Suhar;Suhar
 
-####;400;400 - Muscat;Muscat
+####;400;400 - Muscat;Muscat/Maskat/Maskát/Masqat
 
 ####;403;403 - Nizwa;Nizwa
 
-####;2341;2341 - Sharqiyah;Sharqiyah
+####;2341;2341 - Sharqiyah;Sharqiyah/Ash Sharqiyah
 
 ####;2342;2342 - Wusta;Wusta
 
 ### Hadramut
 
-####;389;389 - Kinda;Kinda
+####;389;389 - Kinda;Kinda/Kindah
 
 ####;401;401 - Dhofar;Dhofar
 
-####;402;402 - Mahra;Mahra
+####;402;402 - Mahra;Mahra/Mahrah
 
-####;1099;1099 - Socotra;Socotra
+####;1099;1099 - Socotra;Socotra/Sokotra/Suqutra
 
-####;2343;2343 - Kathiri;Kathiri
+####;2343;2343 - Kathiri;Kathiri/Adrramyta
 
 ### Yemen
 
-####;388;388 - Aden;Aden
+####;388;388 - Aden;Aden/Adan
 
-####;387;387 - Mokha;Mokha
+####;387;387 - Mokha;Mokha/Mohka/Mukha
 
-####;390;390 - Sanaa;Sana'a
+####;390;390 - Sanaa;Sana'a/Saná
 
 ####;391;391 - Najran;Najran
 
@@ -4629,7 +4629,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;445;445 - Merv;Merv
 
-####;2350;2350 - Konjikala;Konjikala
+####;2350;2350 - Konjikala;Konjikala/Ashabad
 
 ### Balkh
 
@@ -4706,9 +4706,9 @@ c_loon;2974;2974 - Loon;Loon - Loon
 ## Persia
 ### South Kurdistan
 
-####;411;411 - Mosul;Mosul
+####;411;411 - Mosul;Mosul/Musul/Mawsil
 
-####;415;415 - Shahrizor;Shahrizor
+####;415;415 - Shahrizor;Shahrizor/Sehrizor
 
 ####;2211;2211 - Ardalan;Ardalan
 
@@ -4754,7 +4754,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Azerbaijan
 
-####;416;416 - Azerbaijan;Tabriz
+####;416;416 - Azerbaijan;Tabriz/Azerbaycan
 
 ####;424;424 - Ardabil;Ardabil
 
@@ -4780,6 +4780,6 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2234;2234 - Rafsanjan;Rafsanjan
 
-####;2999;2999 - Hormuz;Hormuz
+####;2999;2999 - Hormuz;Hormuz/Hürmüz
 
 # New World
