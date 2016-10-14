@@ -1428,8 +1428,8 @@ c_baden;77;77 - Heidelberg;Baden - Heidelberg
 c_mainz;78;78 - Mainz;Mainz - Mainz
 c_mainz;78;78 - Mainz;Duplicate to increase weight
 c_lauffen;78;78 - Mainz;Lauffen - Mainz
-c_frankfurt;78;78 - Mainz;Lauffen - Mainz
-c_konigssondergau;78;78 - Mainz;Lauffen - Mainz
+c_frankfurt;78;78 - Mainz;Hanau - Mainz
+c_konigssondergau;78;78 - Mainz;Königssondergau - Mainz
 c_leiningen;78;78 - Mainz;Wertheim - Mainz
 c_leiningen;78;78 - Mainz;Duplicate to increase weight
 
@@ -1441,274 +1441,274 @@ c_sponheim;1761;1761 - Pfalz;Sponheim - Pfalz
 ## North Germany
 ### Erzgebirge
 
-c_plzen;267;267 - Plsen;Plzen/Pilsen
-c_plzen;267;267 - Plsen;Plzen/Pilsen
-c_domazlice;267;267 - Plsen;Plzen/Pilsen
+c_plzen;267;267 - Plsen;Plzen - Plzen
+c_plzen;267;267 - Plsen;Duplicate to increase weight
+c_domazlice;267;267 - Plsen;Doudleby - Plzen
 
-c_litomerice;1771;1771 - Erz;Erz/Rudohori
-c_zatec;1771;1771 - Erz;Erz/Rudohori
+c_litomerice;1771;1771 - Erz;Litomerice - Erz
+c_zatec;1771;1771 - Erz;Zatec - Erz
 
-c_plauen;2967;2967 - Eger;Eger/Cheb
-c_plzen;2967;2967 - Eger;Eger/Cheb
-c_zatec;2967;2967 - Eger;Eger/Cheb
+c_plauen;2967;2967 - Eger;Bayreuth - Eger
+c_plzen;2967;2967 - Eger;Plzen - Eger
+c_zatec;2967;2967 - Eger;Zatec - Eger
 
 ### South Saxony
 
-c_wittenberg;59;59 - Wittenberg;Wittenberg/Wittenberk/Wittemberg
-c_wittenberg;59;59 - Wittenberg;Wittenberg/Wittenberk/Wittemberg
-c_brehna;59;59 - Wittenberg;Wittenberg/Wittenberk/Wittemberg
-c_brehna;59;59 - Wittenberg;Wittenberg/Wittenberk/Wittemberg
-c_zeitz;59;59 - Wittenberg;Wittenberg/Wittenberk/Wittemberg
+c_wittenberg;59;59 - Wittenberg;Wittenberg - Wittenberg
+c_wittenberg;59;59 - Wittenberg;Duplicate to increase weight
+c_brehna;59;59 - Wittenberg;Brehna - Wittenberg
+c_brehna;59;59 - Wittenberg;Duplicate to increase weight
+c_zeitz;59;59 - Wittenberg;Zeitz - Wittenberg
 
-c_lausitz;60;60 - Lausitz;Oberlausitz/Alta Lusacia/Horní Luzice/Haute-Lusace
-c_lausitz;60;60 - Lausitz;Oberlausitz/Alta Lusacia/Horní Luzice/Haute-Lusace
-c_meissen;60;60 - Lausitz;Oberlausitz/Alta Lusacia/Horní Luzice/Haute-Lusace
+c_lausitz;60;60 - Lausitz;Oberlausitz - Oberlausitz
+c_lausitz;60;60 - Lausitz;Duplicate to increase weight
+c_meissen;60;60 - Lausitz;Meissen - Oberlausitz
 
-c_meissen;61;61 - Dresden;Dresden/Sajonia/Drázdany/Saxe/Sachsen
+c_meissen;61;61 - Dresden;Meissen - Dresden
 
 ### Northern Saxony
 
-c_magdeburg;52;52 - Magdeburg;Magdeburg/Devín
-c_magdeburg;52;52 - Magdeburg;Magdeburg/Devín
-c_blankenburg;52;52 - Magdeburg;Magdeburg/Devín
+c_magdeburg;52;52 - Magdeburg;Magdeburg - Magdeburg
+c_magdeburg;52;52 - Magdeburg;Duplicate to increase weight
+c_blankenburg;52;52 - Magdeburg;Blankenburg - Magdeburg
 
-c_anhalt;58;58 - Anhalt;Anhalt
+c_anhalt;58;58 - Anhalt;Anhalt - Anhalt
 
-c_altmark;2964;2964 - Altmark;Altmark/Stara Marka
+c_altmark;2964;2964 - Altmark;Altmark - Altmark
 
 ### Thuringia
 
-c_merseburg;62;62 - Leipzig;Leipzig/Lipsia/Lipsko
-c_merseburg;62;62 - Leipzig;Leipzig/Lipsia/Lipsko
-c_zeitz;62;62 - Leipzig;Leipzig/Lipsia/Lipsko
-c_zeitz;62;62 - Leipzig;Leipzig/Lipsia/Lipsko
-c_thuringen;62;62 - Leipzig;Leipzig/Lipsia/Lipsko
-c_thuringen;62;62 - Leipzig;Leipzig/Lipsia/Lipsko
-c_weimar;62;62 - Leipzig;Leipzig/Lipsia/Lipsko
+c_merseburg;62;62 - Leipzig;Merseburg - Leipzig
+c_merseburg;62;62 - Leipzig;Duplicate to increase weight
+c_zeitz;62;62 - Leipzig;Zeitz - Leipzig
+c_zeitz;62;62 - Leipzig;Duplicate to increase weight
+c_thuringen;62;62 - Leipzig;Thüringen - Leipzig
+c_thuringen;62;62 - Leipzig;Duplicate to increase weight
+c_weimar;62;62 - Leipzig;Weimar - Leipzig
 
-d_thuringia;63;63 - Erfurt;Thüringen/Turingia/Durynsko/Thuringe
-c_thuringen;63;63 - Erfurt;Thüringen/Turingia/Durynsko/Thuringe
-c_thuringen;63;63 - Erfurt;Thüringen/Turingia/Durynsko/Thuringe
-c_schwartzburg;63;63 - Erfurt;Thüringen/Turingia/Durynsko/Thuringe
-c_schwartzburg;63;63 - Erfurt;Thüringen/Turingia/Durynsko/Thuringe
-c_henneberg;63;63 - Erfurt;Thüringen/Turingia/Durynsko/Thuringe
+d_thuringia;63;63 - Erfurt;Duchy Thüringen - Thüringen
+c_thuringen;63;63 - Erfurt;Thüringen - Thüringen
+c_thuringen;63;63 - Erfurt;Duplicate to increase weight
+c_schwartzburg;63;63 - Erfurt;Schwartzburg - Thüringen
+c_schwartzburg;63;63 - Erfurt;Duplicate to increase weight
+c_henneberg;63;63 - Erfurt;Henneberg - Thüringen
 
-c_voigtland;2965;2965 - Vogtland;Vogtland/Fojtsko
+c_voigtland;2965;2965 - Vogtland;Voigtland - Vogtland
 
 ### Neumark
 
-c_neumark;49;49 - Neumark;Neumark/Nová Marka/Lubusz
-c_neumark;49;49 - Neumark;Neumark/Nová Marka/Lubusz
-c_santok;49;49 - Neumark;Neumark/Nová Marka/Lubusz
-c_santok;49;49 - Neumark;Neumark/Nová Marka/Lubusz
-c_belgard;49;49 - Neumark;Neumark/Nová Marka/Lubusz
-c_stettin;49;49 - Neumark;Neumark/Nová Marka/Lubusz
+c_neumark;49;49 - Neumark;Neumark - Neumark
+c_neumark;49;49 - Neumark;Duplicate to increase weight
+c_santok;49;49 - Neumark;Santok - Neumark
+c_santok;49;49 - Neumark;Duplicate to increase weight
+c_belgard;49;49 - Neumark;Belgard - Neumark
+c_stettin;49;49 - Neumark;Stettin - Neumark
 
-c_niederlausitz;1763;1763 - Niederlausitz;Niederlausitz/Baja Lusacia/Dolni Luzice/Basse-Lusace
+c_niederlausitz;1763;1763 - Niederlausitz;Niederlausitz - Niederlausitz
 
-c_lubusz;2969;2969 - Sternberg;Sternberg/Sternberk
-c_lubusz;2969;2969 - Sternberg;Sternberg/Sternberk
-c_lubusz;2969;2969 - Sternberg;Sternberg/Sternberk
-c_santok;2969;2969 - Sternberg;Sternberg/Sternberk
-c_santok;2969;2969 - Sternberg;Sternberg/Sternberk
-c_brandenburg;2969;2969 - Sternberg;Sternberg/Sternberk
+c_lubusz;2969;2969 - Sternberg;Lubusz - Sternberg
+c_lubusz;2969;2969 - Sternberg;Duplicate to increase weight
+c_lubusz;2969;2969 - Sternberg;Duplicate to increase weight
+c_santok;2969;2969 - Sternberg;Santok - Sternberg
+c_santok;2969;2969 - Sternberg;Duplicate to increase weight
+c_brandenburg;2969;2969 - Sternberg;Brandenburg - Sternberg
 
 ### Mittelmark
 
-c_brandenburg;50;50 - Berlin;Berlin/Brandeburgo/Brandebourg
-c_brandenburg;50;50 - Berlin;Berlin/Brandeburgo/Brandebourg
-c_neumark;50;50 - Berlin;Berlin/Brandeburgo/Brandebourg
+c_brandenburg;50;50 - Berlin;Brandenburg - Berlin
+c_brandenburg;50;50 - Berlin;Duplicate to increase weight
+c_neumark;50;50 - Berlin;Neumark - Berlin
 
-c_prignitz;51;51 - Ruppin;Ruppin
-c_prignitz;51;51 - Ruppin;Ruppin
-c_brandenburg;51;51 - Ruppin;Ruppin
+c_prignitz;51;51 - Ruppin;Prignitz - Ruppin
+c_prignitz;51;51 - Ruppin;Duplicate to increase weight
+c_brandenburg;51;51 - Ruppin;Brandenburg - Ruppin
 
-c_brandenburg;1759;1759 - Potsdam;Potsdam/Postupim
-c_brandenburg;1759;1759 - Potsdam;Potsdam/Postupim
-c_wittenberg;1759;1759 - Potsdam;Potsdam/Postupim
+c_brandenburg;1759;1759 - Potsdam;Brandenburg - Potsdam
+c_brandenburg;1759;1759 - Potsdam;Duplicate to increase weight
+c_wittenberg;1759;1759 - Potsdam;Wittenberg - Potsdam
 
 ### Vorpommern
 
-d_rugen;47;47 - Stralsund;Stralsund/Pomerania Occidental/Poméranie antérieure
-c_rugen;47;47 - Stralsund;Stralsund/Pomerania Occidental/Poméranie antérieure
-c_barth;47;47 - Stralsund;Stralsund/Pomerania Occidental/Poméranie antérieure
-c_wolgast;47;47 - Stralsund;Stralsund/Pomerania Occidental/Poméranie antérieure
+d_rugen;47;47 - Stralsund;Duchy Rügen - Stralsund
+c_rugen;47;47 - Stralsund;Rügen - Stralsund
+c_barth;47;47 - Stralsund;Barth - Stralsund
+c_wolgast;47;47 - Stralsund;Gützkow - Stralsund
 
-c_werle;2993;2993 - Uckermark;Uckermark
-c_brandenburg;2993;2993 - Uckermark;Uckermark
+c_werle;2993;2993 - Uckermark;Werle - Uckermark
+c_brandenburg;2993;2993 - Uckermark;Brandenburg - Uckermark
 
-c_wolgast;2994;2994 - Greifswald;Greifswald
-c_wolgast;2994;2994 - Greifswald;Greifswald
-c_stettin;2994;2994 - Greifswald;Greifswald
+c_wolgast;2994;2994 - Greifswald;Gützkow - Greifswald
+c_wolgast;2994;2994 - Greifswald;Duplicate to increase weight
+c_stettin;2994;2994 - Greifswald;Stettin - Greifswald
 
 ### Bohemia
 
-d_moravia;265;265 - Moravia;Moravia/Moravska/Morava/Mähren
-c_brno;265;265 - Moravia;Moravia/Moravska/Morava/Mähren
-c_brno;265;265 - Moravia;Moravia/Moravska/Morava/Mähren
-c_olomouc;265;265 - Moravia;Moravia/Moravska/Morava/Mähren
-c_olomouc;265;265 - Moravia;Moravia/Moravska/Morava/Mähren
-c_znojmo;265;265 - Moravia;Moravia/Moravska/Morava/Mähren
-c_opava;265;265 - Moravia;Moravia/Moravska/Morava/Mähren
+d_moravia;265;265 - Moravia;Duchy Morawske - Moravia
+c_brno;265;265 - Moravia;Boruy - Moravia
+c_brno;265;265 - Moravia;Duplicate to increase weight
+c_olomouc;265;265 - Moravia;Olomouc - Moravia
+c_olomouc;265;265 - Moravia;Duplicate to increase weight
+c_znojmo;265;265 - Moravia;Znojmo - Moravia
+c_opava;265;265 - Moravia;Opava - Moravia
 
-c_praha;266;266 - Prague;Prague/Prag/Praha/Prága
-c_praha;266;266 - Prague;Prague/Prag/Praha/Prága
-c_domazlice;266;266 - Prague;Prague/Prag/Praha/Prága
+c_praha;266;266 - Prague;Praha - Prague
+c_praha;266;266 - Prague;Duplicate to increase weight
+c_domazlice;266;266 - Prague;Doudleby - Prague
 
-c_domazlice;2968;2968 - Budejovice;Budejovice/Budweis
+c_domazlice;2968;2968 - Budejovice;Doudleby - Budejovice
 
-c_hradec;2970;2970 - Hradecko;Hradecko/Königgrätz
-c_hradec;2970;2970 - Hradecko;Hradecko/Königgrätz
-c_hradec;2970;2970 - Hradecko;Hradecko/Königgrätz
-c_boleslav;2970;2970 - Hradecko;Hradecko/Königgrätz
-c_litomerice;2970;2970 - Hradecko;Hradecko/Königgrätz
+c_hradec;2970;2970 - Hradecko;Hradec - Hradecko
+c_hradec;2970;2970 - Hradecko;Duplicate to increase weight
+c_hradec;2970;2970 - Hradecko;Duplicate to increase weight
+c_boleslav;2970;2970 - Hradecko;Kladsko - Hradecko
+c_litomerice;2970;2970 - Hradecko;Litomerice - Hradecko
 
 ### Hinterpommern
 
-c_belgard;48;48 - Kolberg;Kolberg/Pomerania Oriental/Kolobreh/Poméranie ultérieure/Kolobrzeg
+c_belgard;48;48 - Kolberg;Belgard - Kolberg
 
-c_stettin;1858;1858 - Stettin;Stettin/Stetin/Szczecin
+c_stettin;1858;1858 - Stettin;Stettin - Stettin
 
-c_slupsk;2995;2995 - Stolp;Stolp/Slupsk
+c_slupsk;2995;2995 - Stolp;Schlawe-Stolp - Stolp
 
 ### North Rhine
 
-c_berg;84;84 - Berg;Berg/Dusseldorpium
-c_berg;84;84 - Berg;Berg/Dusseldorpium
-c_mark;84;84 - Berg;Berg/Dusseldorpium
+c_berg;84;84 - Berg;Berg - Berg
+c_berg;84;84 - Berg;Duplicate to increase weight
+c_mark;84;84 - Berg;Mark - Berg
 
-c_koln;85;85 - Koln;Köln/Colonia/Kolín/Keulen/Cologne/Colonia Agrippina
-c_koln;85;85 - Koln;Köln/Colonia/Kolín/Keulen/Cologne/Colonia Agrippina
-c_julich;85;85 - Koln;Köln/Colonia/Kolín/Keulen/Cologne/Colonia Agrippina
+c_koln;85;85 - Koln;Cologne - Köln
+c_koln;85;85 - Koln;Duplicate to increase weight
+c_julich;85;85 - Koln;Jülich - Köln
 
-c_kleve;2975;2975 - Kleves;Kleves/Klévsko/Kleef/Cleve/Clivia
-c_kleve;2975;2975 - Kleves;Kleves/Klévsko/Kleef/Cleve/Clivia
-c_gelre;2975;2975 - Kleves;Kleves/Klévsko/Kleef/Cleve/Clivia
-c_gelre;2975;2975 - Kleves;Kleves/Klévsko/Kleef/Cleve/Clivia
-c_julich;2975;2975 - Kleves;Kleves/Klévsko/Kleef/Cleve/Clivia
+c_kleve;2975;2975 - Kleves;Kleve - Kleves
+c_kleve;2975;2975 - Kleves;Duplicate to increase weight
+c_gelre;2975;2975 - Kleves;Gelre - Kleves
+c_gelre;2975;2975 - Kleves;Duplicate to increase weight
+c_julich;2975;2975 - Kleves;Jülich - Kleves
 
 ### Lower Rhineland
 
-c_trier;80;80 - Trier;Trier/Tréveris/Trevír/Trèves/Augusta Treveronum
-c_trier;80;80 - Trier;Trier/Tréveris/Trevír/Trèves/Augusta Treveronum
-c_sponheim;80;80 - Trier;Trier/Tréveris/Trevír/Trèves/Augusta Treveronum
+c_trier;80;80 - Trier;Trier - Trier
+c_trier;80;80 - Trier;Duplicate to increase weight
+c_sponheim;80;80 - Trier;Sponheim - Trier
 
-c_trier;1760;1760 - Koblenz;Koblenz/Coblenza/Koblenc/Coblence/Confluentes
-c_sponheim;1760;1760 - Koblenz;Koblenz/Coblenza/Koblenc/Coblence/Confluentes
-c_koln;1760;1760 - Koblenz;Koblenz/Coblenza/Koblenc/Coblence/Confluentes
+c_trier;1760;1760 - Koblenz;Trier - Koblenz
+c_sponheim;1760;1760 - Koblenz;Sponheim - Koblenz
+c_koln;1760;1760 - Koblenz;Cologne - Koblenz
 
-c_aachen;1878;1878 - Aachen;Aachen/Aquisgrán/Cachy/Aken/Aix-la-Chapelle/Aquisgranum
-c_aachen;1878;1878 - Aachen;Aachen/Aquisgrán/Cachy/Aken/Aix-la-Chapelle/Aquisgranum
-c_julich;1878;1878 - Aachen;Aachen/Aquisgrán/Cachy/Aken/Aix-la-Chapelle/Aquisgranum
-c_vianden;1878;1878 - Aachen;Aachen/Aquisgrán/Cachy/Aken/Aix-la-Chapelle/Aquisgranum
+c_aachen;1878;1878 - Aachen;Aachen - Aachen
+c_aachen;1878;1878 - Aachen;Duplicate to increase weight
+c_julich;1878;1878 - Aachen;Jülich - Aachen
+c_vianden;1878;1878 - Aachen;Vianden - Aachen
 
 ### Westphalia
 
-c_osnabruck;56;56 - Osnabruck;Osnabrück/Osnabrugge
-c_tecklenburg;56;56 - Osnabruck;Osnabrück/Osnabrugge
+c_osnabruck;56;56 - Osnabruck;Osnabrück - Osnabrück
+c_tecklenburg;56;56 - Osnabruck;Tecklenburg - Osnabrück
 
-c_nassau;82;82 - Lippe;Westfalen/Vestfalia/Vestfalsko/Westphalie/Vestphalia
-c_nassau;82;82 - Lippe;Westfalen/Vestfalia/Vestfalsko/Westphalie/Vestphalia
-c_berg;82;82 - Lippe;Westfalen/Vestfalia/Vestfalsko/Westphalie/Vestphalia
-c_mark;82;82 - Lippe;Westfalen/Vestfalia/Vestfalsko/Westphalie/Vestphalia
-c_hessen;82;82 - Lippe;Westfalen/Vestfalia/Vestfalsko/Westphalie/Vestphalia
+c_nassau;82;82 - Lippe;Nassau - Westfalen
+c_nassau;82;82 - Lippe;Duplicate to increase weight
+c_berg;82;82 - Lippe;Berg - Westfalen
+c_mark;82;82 - Lippe;Mark - Westfalen
+c_hessen;82;82 - Lippe;Hessen - Westfalen
 
-c_munster;86;86 - Munster;Münster/Muñiste/Munster/Monasterium
-c_munster;86;86 - Munster;Münster/Muñiste/Munster/Monasterium
-c_mark;86;86 - Munster;Münster/Muñiste/Munster/Monasterium
+c_munster;86;86 - Munster;Münster - Münster
+c_munster;86;86 - Munster;Duplicate to increase weight
+c_mark;86;86 - Munster;Mark - Münster
 
-c_celle;2972;2972 - Paderborn;Paderborn
-c_celle;2972;2972 - Paderborn;Paderborn
-c_hessen;2972;2972 - Paderborn;Paderborn
+c_celle;2972;2972 - Paderborn;Lippe - Paderborn
+c_celle;2972;2972 - Paderborn;Duplicate to increase weight
+c_hessen;2972;2972 - Paderborn;Hessen - Paderborn
 
-c_tecklenburg;2973;2973 - Meppen;Meppen
-c_bentheim;2973;2973 - Meppen;Meppen
-c_bentheim;2973;2973 - Meppen;Meppen
-c_kleve;2973;2973 - Meppen;Meppen
-c_kleve;2973;2973 - Meppen;Meppen
-c_munster;2973;2973 - Meppen;Meppen
+c_tecklenburg;2973;2973 - Meppen;Tecklenburg - Meppen
+c_bentheim;2973;2973 - Meppen;Bentheim - Meppen
+c_bentheim;2973;2973 - Meppen;Duplicate to increase weight
+c_kleve;2973;2973 - Meppen;Kleve - Meppen
+c_kleve;2973;2973 - Meppen;Duplicate to increase weight
+c_munster;2973;2973 - Meppen;Münster - Meppen
 
 ### Hesse
 
-c_nassau;81;81 - Hessen;Hessen/Hesse/Hesensko/Hassia
-c_nassau;81;81 - Hessen;Hessen/Hesse/Hesensko/Hassia
-c_frankfurt;81;81 - Hessen;Hessen/Hesse/Hesensko/Hassia
+c_nassau;81;81 - Hessen;Nassau - Hessen
+c_nassau;81;81 - Hessen;Duplicate to increase weight
+c_frankfurt;81;81 - Hessen;Hanau - Hessen
 
-c_nassau;83;83 - Nassau;Nassau/Nasavsko/Nassovia
-c_konigssondergau;83;83 - Nassau;Nassau/Nasavsko/Nassovia
-c_konigssondergau;83;83 - Nassau;Nassau/Nasavsko/Nassovia
+c_nassau;83;83 - Nassau;Nassau - Nassau
+c_konigssondergau;83;83 - Nassau;Königssondergau - Nassau
+c_konigssondergau;83;83 - Nassau;Duplicate to increase weight
 
-c_hessen;1762;1762 - Kassel;Kassel/Cassel
+c_hessen;1762;1762 - Kassel;Hessen - Kassel
 
-c_frankfurt;1876;1876 - Frankfurt;Frankfurt/Fráncfort/Frankfort/Francfort
+c_frankfurt;1876;1876 - Frankfurt;Hanau - Frankfurt
 
 ### Lower Saxony
 
-c_luneburg;53;53 - Luneburg;Lüneburg/Luneburgo/Lunebourg
-c_luneburg;53;53 - Luneburg;Lüneburg/Luneburgo/Lunebourg
-c_dannenberg;53;53 - Luneburg;Lüneburg/Luneburgo/Lunebourg
+c_luneburg;53;53 - Luneburg;Lüneburg - Lüneburg
+c_luneburg;53;53 - Luneburg;Duplicate to increase weight
+c_dannenberg;53;53 - Luneburg;Dannenberg - Lüneburg
 
-c_braunschweig;57;57 - Brunswick;Brunswick/Brunsvik/Braunschweig
-c_weimar;57;57 - Brunswick;Brunswick/Brunsvik/Braunschweig
-c_weimar;57;57 - Brunswick;Brunswick/Brunsvik/Braunschweig
-c_everstein;57;57 - Brunswick;Brunswick/Brunsvik/Braunschweig
-c_gottingen;57;57 - Brunswick;Brunswick/Brunsvik/Braunschweig
-c_blankenburg;57;57 - Brunswick;Brunswick/Brunsvik/Braunschweig
+c_braunschweig;57;57 - Brunswick;Braunschweig - Brunswick
+c_weimar;57;57 - Brunswick;Weimar - Brunswick
+c_weimar;57;57 - Brunswick;Duplicate to increase weight
+c_everstein;57;57 - Brunswick;Everstein - Brunswick
+c_gottingen;57;57 - Brunswick;Grone - Brunswick
+c_blankenburg;57;57 - Brunswick;Blankenburg - Brunswick
 
-c_braunschweig;1758;1758 - Hannover;Hannover/Hanóver/Hannovre
-c_braunschweig;1758;1758 - Hannover;Hannover/Hanóver/Hannovre
-c_braunschweig;1758;1758 - Hannover;Hannover/Hanóver/Hannovre
-c_luneburg;1758;1758 - Hannover;Hannover/Hanóver/Hannovre
-c_schaumburg;1758;1758 - Hannover;Hannover/Hanóver/Hannovre
+c_braunschweig;1758;1758 - Hannover;Braunschweig - Hannover
+c_braunschweig;1758;1758 - Hannover;Duplicate to increase weight
+c_braunschweig;1758;1758 - Hannover;Duplicate to increase weight
+c_luneburg;1758;1758 - Hannover;Lüneburg - Hannover
+c_schaumburg;1758;1758 - Hannover;Schaumburg - Hannover
 
-c_schaumburg;2971;2971 - Hoya;Hoya
-c_schaumburg;2971;2971 - Hoya;Hoya
-c_bremen;2971;2971 - Hoya;Hoya
+c_schaumburg;2971;2971 - Hoya;Schaumburg - Hoya
+c_schaumburg;2971;2971 - Hoya;Duplicate to increase weight
+c_bremen;2971;2971 - Hoya;Bremen - Hoya
 
 ### Weser
 
-c_bremen;54;54 - Stade;Stade
+c_bremen;54;54 - Stade;Bremen - Stade
 
-c_oldenburg;55;55 - Oldenburg;Oldenburg/Oldemburgo/Oldenburk/Oldenbourg
-c_oldenburg;55;55 - Oldenburg;Oldenburg/Oldemburgo/Oldenburk/Oldenbourg
-c_rustringen;55;55 - Oldenburg;Oldenburg/Oldemburgo/Oldenburk/Oldenbourg
+c_oldenburg;55;55 - Oldenburg;Oldenburg - Oldenburg
+c_oldenburg;55;55 - Oldenburg;Duplicate to increase weight
+c_rustringen;55;55 - Oldenburg;Rüstringen - Oldenburg
 
-c_bremen;1874;1874 - Bremen;Bremen/Brema/Bremy/Brême
+c_bremen;1874;1874 - Bremen;Bremen - Bremen
 
 ### Holstein
 
-c_hamburg;44;44 - Hamburg;Hamburg/Hamburgo/Hamburk/Hamborg/Hambourg
-c_hamburg;44;44 - Hamburg;Hamburg/Hamburgo/Hamburk/Hamborg/Hambourg
-c_holstein;44;44 - Hamburg;Hamburg/Hamburgo/Hamburk/Hamborg/Hambourg
+c_hamburg;44;44 - Hamburg;Stormarn - Hamburg
+c_hamburg;44;44 - Hamburg;Duplicate to increase weight
+c_holstein;44;44 - Hamburg;Eselsfleth - Hamburg
 
-d_holstein;1775;1775 - Holstein;Holstein/Holstynsko/Holsteen
-c_holstein;1775;1775 - Holstein;Holstein/Holstynsko/Holsteen
-c_holstein;1775;1775 - Holstein;Holstein/Holstynsko/Holsteen
-c_reinholdsburg;1775;1775 - Holstein;Holstein/Holstynsko/Holsteen
-c_reinholdsburg;1775;1775 - Holstein;Holstein/Holstynsko/Holsteen
-c_dithmarschen;1775;1775 - Holstein;Holstein/Holstynsko/Holsteen
-c_slesvig;1775;1775 - Holstein;Holstein/Holstynsko/Holsteen
-c_slesvig;1775;1775 - Holstein;Holstein/Holstynsko/Holsteen
-c_north_frisia;1775;1775 - Holstein;Holstein/Holstynsko/Holsteen
-c_hamburg;1775;1775 - Holstein;Holstein/Holstynsko/Holsteen
-c_wargrien;1775;1775 - Holstein;Holstein/Holstynsko/Holsteen
+d_holstein;1775;1775 - Holstein;Duchy Holstein - Holstein
+c_holstein;1775;1775 - Holstein;Eselsfleth - Holstein
+c_holstein;1775;1775 - Holstein;Duplicate to increase weight
+c_reinholdsburg;1775;1775 - Holstein;Rendsburg - Holstein
+c_reinholdsburg;1775;1775 - Holstein;Duplicate to increase weight
+c_dithmarschen;1775;1775 - Holstein;Dithmarschen - Holstein
+c_slesvig;1775;1775 - Holstein;Istathesysæl - Holstein
+c_slesvig;1775;1775 - Holstein;Duplicate to increase weight
+c_north_frisia;1775;1775 - Holstein;Utland - Holstein
+c_hamburg;1775;1775 - Holstein;Stormarn - Holstein
+c_wargrien;1775;1775 - Holstein;Wagrien - Holstein
 
-c_lauenburg;1857;1857 - Lauenburg;Lauenburg/Lauenburgo/Lauenburk
-c_lauenburg;1857;1857 - Lauenburg;Lauenburg/Lauenburgo/Lauenburk
-c_hamburg;1857;1857 - Lauenburg;Lauenburg/Lauenburgo/Lauenburk
+c_lauenburg;1857;1857 - Lauenburg;Lauenburg - Lauenburg
+c_lauenburg;1857;1857 - Lauenburg;Duplicate to increase weight
+c_hamburg;1857;1857 - Lauenburg;Stormarn - Lauenburg
 
 ### Mecklenburg
 
-c_lubeck;45;45 - Lubeck;Lübeck/Lubek/Lybek
+c_lubeck;45;45 - Lubeck;Lübeck - Lübeck
 
-c_rostock;46;46 - Rostock;Rostock/Mecklemburgo/Roztoky/Mecklembourg
-c_rostock;46;46 - Rostock;Rostock/Mecklemburgo/Roztoky/Mecklembourg
-c_werle;46;46 - Rostock;Rostock/Mecklemburgo/Roztoky/Mecklembourg
-c_werle;46;46 - Rostock;Rostock/Mecklemburgo/Roztoky/Mecklembourg
-c_schwerin;46;46 - Rostock;Rostock/Mecklemburgo/Roztoky/Mecklembourg
+c_rostock;46;46 - Rostock;Rostock - Rostock
+c_rostock;46;46 - Rostock;Duplicate to increase weight
+c_werle;46;46 - Rostock;Werle - Rostock
+c_werle;46;46 - Rostock;Duplicate to increase weight
+c_schwerin;46;46 - Rostock;Schwerin - Rostock
 
-c_mecklemburg;2996;2996 - Wismar;Wismar
-c_schwerin;2996;2996 - Wismar;Wismar
+c_mecklemburg;2996;2996 - Wismar;Mecklenburg - Wismar
+c_schwerin;2996;2996 - Wismar;Schwerin - Wismar
 
 ## Scandinavia
 ### Svealand
