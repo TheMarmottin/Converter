@@ -35,8 +35,8 @@ def main():
     for n, v in parser.parse_file(eu4root / 'map/superregion.txt'):
         if v.contents:
             superregions[n.val] = [v2.val for v2 in v]
-    orphan_regions = {rn: rv for rn, rv in regions.items()
-                      if not any(rn in srv for srv in superregions.values())}
+    orphan_regions = collections.OrderedDict((rn, rv) for rn, rv in regions.items()
+        if not any(rn in srv for srv in superregions.values()))
     history = {}
     for path in (eu4root / 'history/provinces').iterdir():
         num = int(re.match(r'\d+', path.stem).group())
