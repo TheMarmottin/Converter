@@ -456,7 +456,6 @@ c_saintois;187;187 - Barrois;Vaudémont - Barrois
 c_metz;188;188 - Metz;Metz - Metz
 c_metz;188;188 - Metz;Duplicate to increase weight
 c_saarbrucken;188;188 - Metz;Saarbrücken - Metz
-c_lorraine;188;188 - Metz;Blâmont - Metz
 
 d_upper_lorraine;189;189 - Lothringen;Duchy Lothringen - Lothringen
 c_lorraine;189;189 - Lothringen;Blâmont - Lothringen
@@ -1431,12 +1430,8 @@ c_leiningen;78;78 - Mainz;Duplicate to increase weight
 
 d_pfalz;1761;1761 - Pfalz;Duchy Pfalzgrafschaft bei Rhein - Pfalz
 c_pfalz;1761;1761 - Pfalz;Pfalz - Pfalz
-c_pfalz;1761;1761 - Pfalz;Duplicate to increase weight
 c_zweibrucken;1761;1761 - Pfalz;Zweibrücken - Pfalz
-c_zweibrucken;1761;1761 - Pfalz;Duplicate to increase weight
 c_sponheim;1761;1761 - Pfalz;Sponheim - Pfalz
-c_sponheim;1761;1761 - Pfalz;Duplicate to increase weight
-c_saarbrucken;1761;1761 - Pfalz;Saarbrücken - Pfalz
 
 ## North Germany
 ### Erzgebirge
@@ -1781,7 +1776,9 @@ c_laroche;93;93 - Liege;La Roche - Liège
 
 d_luxembourg;94;94 - Luxemburg;Duchy Luxembourg - Luxemburg
 c_luxembourg;94;94 - Luxemburg;Luxembourg - Luxemburg
+c_luxembourg;94;94 - Luxemburg;Duplicate to increase weight
 c_arlon;94;94 - Luxemburg;Arlon - Luxemburg
+c_arlon;94;94 - Luxemburg;Duplicate to increase weight
 c_chiny;94;94 - Luxemburg;Chiny - Luxemburg
 c_laroche;94;94 - Luxemburg;La Roche - Luxemburg
 c_vianden;94;94 - Luxemburg;Vianden - Luxemburg
