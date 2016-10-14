@@ -26,10 +26,17 @@ def main():
     areas, regions, superregions = {}, {}, collections.OrderedDict()
     for n, v in parser.parse_file(eu4root / 'map/area.txt'):
         areas[n.val] = [v2.val for v2 in v]
-    for n, v in parser.parse_file(eu4root / 'map/region.txt'):
-        regions[n.val] = [v3.val for _, v2 in v for v3 in v2]
+    with (eu4root / 'map/region.txt').open(encoding='cp1252') as f:
+        # klugey
+        region_text = f.read().split('#Sea Regions', 1)[0]
+    for n, v in parser.parse(region_text):
+        if v.contents:
+            regions[n.val] = [v3.val for _, v2 in v for v3 in v2]
     for n, v in parser.parse_file(eu4root / 'map/superregion.txt'):
-        superregions[n.val] = [v2.val for v2 in v]
+        if v.contents:
+            superregions[n.val] = [v2.val for v2 in v]
+    orphan_regions = {rn: rv for rn, rv in regions.items()
+                      if not any(rn in srv for srv in superregions.values())}
     history = {}
     for path in (eu4root / 'history/provinces').iterdir():
         num = int(re.match(r'\d+', path.stem).group())
@@ -66,7 +73,7 @@ def main():
 
     prev = None
 
-    def write_line(f, line):
+    def write_line(line):
         nonlocal prev
         cur = line.split(';')[1] if ';' in line else '#'
         if prev != cur:
@@ -74,45 +81,50 @@ def main():
         print(line, file=f)
         prev = cur
 
+    def write_region(region_name):
+        if localize[region_name] in off_map[1]:
+            write_line('## {} (off-map)'.format(localize[region_name]))
+            return
+        write_line('## {}'.format(localize[region_name]))
+        for area_name in regions[region_name]:
+            if localize[area_name] in off_map[2]:
+                write_line('### {} (off-map)'.format(localize[area_name]))
+                continue
+            write_line('### {}'.format(localize[area_name]))
+            for province in areas[area_name]:
+                if names[province][0] in off_map[3]:
+                    write_line('#### {} (off-map)'.format(names[province][0]))
+                    continue
+                if prov_mappings[province]:
+                    seen_title = set()
+                    for ck2title in prov_mappings[province]:
+                        if ck2title in seen_title:
+                            comment = 'Duplicate to increase weight'
+                        else:
+                            comment = ''
+                            if ck2title.startswith('d_'):
+                                comment += 'Duchy ' + ck2localize[ck2title]
+                            else:
+                                comment += ck2localize[title_key[ck2title]]
+                            comment += ' - ' + names[province][0]
+                            seen_title.add(ck2title)
+                        write_line('{};{};{};{}'.format(
+                            ck2title, province, history[province], comment))
+                else:
+                    write_line('####;{};{};{}'.format(
+                        province, history[province], '/'.join(names[province])))
+
     with open('province_table_new.csv', 'w', encoding='cp1252', newline='\r\n') as f:
         print('# CK2TITLE;EU4ID;Filename;Comment', file=f)
+        for region_name in orphan_regions:
+            write_region(region_name)
         for superregion_name, superregion in superregions.items():
             if localize[superregion_name] in off_map[0]:
-                write_line(f, '# {} (off-map)'.format(localize[superregion_name]))
+                write_line('# {} (off-map)'.format(localize[superregion_name]))
                 continue
-            write_line(f, '# {}'.format(localize[superregion_name]))
+            write_line('# {}'.format(localize[superregion_name]))
             for region_name in superregion:
-                if localize[region_name] in off_map[1]:
-                    write_line(f, '## {} (off-map)'.format(localize[region_name]))
-                    continue
-                write_line(f, '## {}'.format(localize[region_name]))
-                for area_name in regions[region_name]:
-                    if localize[area_name] in off_map[2]:
-                        write_line(f, '### {} (off-map)'.format(localize[area_name]))
-                        continue
-                    write_line(f, '### {}'.format(localize[area_name]))
-                    for province in areas[area_name]:
-                        if names[province][0] in off_map[3]:
-                            write_line(f, '#### {} (off-map)'.format(names[province][0]))
-                            continue
-                        if prov_mappings[province]:
-                            seen = set()
-                            for ck2title in prov_mappings[province]:
-                                if ck2title in seen:
-                                    comment = 'Duplicate to increase weight'
-                                else:
-                                    comment = ''
-                                    if ck2title.startswith('d_'):
-                                        comment += 'Duchy ' + ck2localize[ck2title]
-                                    else:
-                                        comment += ck2localize[title_key[ck2title]]
-                                    comment += ' - ' + names[province][0]
-                                    seen.add(ck2title)
-                                write_line(f, '{};{};{};{}'.format(
-                                    ck2title, province, history[province], comment))
-                        else:
-                            write_line(f, '####;{};{};{}'.format(
-                                province, history[province], '/'.join(names[province])))
+                write_region(region_name)
 
 
 if __name__ == '__main__':

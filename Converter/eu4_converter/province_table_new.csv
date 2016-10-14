@@ -1,5 +1,1329 @@
 # CK2TITLE;EU4ID;Filename;Comment
 
+## Tibet
+### U-Tsang
+
+####;565;565 - Bhutan;Bhutan
+
+####;676;676 - Shigatse;Shigatse/Zikace
+
+####;677;677 - Lhasa;Lhasa
+
+####;2128;2128 - Ngari;Ngari
+
+####;2129;2129 - Changtang;Changtang/Changthang
+
+####;2130;2130 - Nyingchi;Nyingchi
+
+### Amdo
+
+####;705;705 - Gyegu;Gyegu
+
+####;706;706 - Tsaidam;Tsaidam
+
+####;2134;2134 - Rebgong;Rebgong
+
+### Kham
+
+####;678;678 - Tachienlu;Tachienlu
+
+####;2131;2131 - Qamdo;Qamdo/Chamdo
+
+####;2132;2132 - Markam;Markam
+
+####;2133;2133 - Dege;Dege
+
+####;2135;2135 - Garze;Garze
+
+### Altishahr
+
+####;710;710 - Hotan;Hotan
+
+####;711;711 - Qarqan;Qarqan
+
+####;712;712 - Aksu;Aksu
+
+####;739;739 - Kashgar;Kashgar
+
+####;2121;2121 - Kuqa;Kuqa
+
+####;2123;2123 - Qakilik;Qakilik
+
+####;2124;2124 - Yarkand;Yarkand/Jarkend
+
+####;2127;2127 - Yashilkul;Yashilkul
+
+####;2192;2192 - Korla;Korla
+
+## Poland
+### Wielkopolska
+
+####;254;254 - Poznan;Poznan/Posen
+
+####;255;255 - Kalisz;Kalisz/Kalis/Gnesen
+
+####;258;258 - Lodz;Sieradz/Schieratz
+
+####;1939;1939 - Leczyca;Leczyca/Lentschiza/Lentschitza
+
+####;2963;2963 - Notec;Notec/Netzeland/Netze
+
+### Malopolska
+
+####;259;259 - Sandomierz;Sandomierz/Sandomer/Sandomir
+
+####;260;260 - Lublin;Lublin
+
+####;262;262 - Krakow;Krakow/Krakov/Krakau/Krakkó/Kraków
+
+####;2959;2959 - Tarnow;Tarnow/Tarnov/Tarnau/Tarnów
+
+####;2960;2960 - Sadecki;Nowy Sacz/Novy Sadec/Neu Sandec/Újszandec
+
+### Red Ruthenia
+
+####;261;261 - Halicz;Halicz/Galic/Halic/Halitsch
+
+####;1940;1940 - Belz;Belz/Bels
+
+####;2424;2424 - Peremyshl;Peremyshl/Premysl/Premissel/Przemysl
+
+####;2961;2961 - Lwow;Lwow/Lvov/Lemberg/Lwów
+
+### Mazovia
+
+####;256;256 - Plock;Plock/Plozk
+
+####;257;257 - Warszawa;Warszawa/Varsava/Warschava/Warschau/Varsó
+
+####;269;269 - Podlasia;Podlasie/Podlesí/Podlachien/Palenké
+
+####;1938;1938 - Wizna;Wizna
+
+### Silesia
+
+####;263;263 - Ratibor;Ratibor/Racibórz
+
+####;264;264 - Breslau;Breslau/Vratislavija/Vratislav/Boroszló/Wroclaw
+
+####;2966;2966 - Leignitz;Glogau/Hlohov/Glogów
+
+## Central Asia
+### Nogai
+
+####;465;465 - Nogay;Nogay/Nizhny-Embinsk
+
+####;469;469 - Ryn;Ryn/Guriev
+
+####;470;470 - Bayuly;Bayuly/Kalmykov
+
+####;471;471 - Alimuly;Alimuly/Aralsk
+
+####;472;472 - Jetyru;Zhetyru/Aktubinsk
+
+####;474;474 - Yaik;Yaik
+
+####;2365;2365 - Orda;Orda/Aleksandrov-gay
+
+####;2366;2366 - Utva;Utva/Ilets
+
+####;2367;2367 - Lower Yik;Lower Yik/Glinanskaya
+
+### Transcaspia
+
+####;437;437 - Atak;Kopet Dag
+
+####;438;438 - Kara Kum;Karakum
+
+####;439;439 - Mangyshlak;Mangyshlak
+
+####;443;443 - Ust Yurt;Ustyurt
+
+####;2349;2349 - Kizil-Su;Kizil-Su/Krasnovodsk
+
+### Transoxiana
+
+####;442;442 - Bukhara;Bukhara
+
+####;453;453 - Qarshi;Qarshi
+
+####;454;454 - Samarkand;Samarkand
+
+####;455;455 - Kyrzyl-Kum;Kyzylkum
+
+####;1968;1968 - Kulob;Kulob
+
+####;1970;1970 - Syghnak;Syghnak/Perovsk
+
+####;2363;2363 - Atakent;Atakent
+
+### Kazakhstan
+
+####;456;456 - Turkestan;Turkestan
+
+####;476;476 - Kypshak;Kypshak
+
+####;2351;2351 - Shekty;Shekty/Irghiz
+
+####;2353;2353 - Tortkara;Tortkara/Turgay
+
+####;2352;2352 - Alty-Kuduk;Alty-Kuduk/Kazalinsk
+
+####;2358;2358 - Altyn;Altyn
+
+####;2359;2359 - Baganaly;Baganaly/Kiyinsk
+
+####;2361;2361 - Dzhaman-Kuduk;Dzhaman-Kuduk/Golodnaya steppe
+
+### Balchasj
+
+####;477;477 - Nadym;Nadym
+
+####;478;478 - Argyn;Argyn/Semipalatinsk
+
+####;2355;2355 - Narym;Narym/Sergiopol
+
+####;2360;2360 - Tobykty;Tobykty/Karkaralinsk
+
+### Khiva
+
+####;440;440 - Qaraqalpak;Qaraqalpak
+
+####;441;441 - Khiva;Khiva
+
+####;1973;1973 - Urgench;Urgench
+
+####;2362;2362 - Gurganj;Gurganj
+
+####;2370;2370 - Kungirot;Kungirot/Kungrad
+
+### Ferghana
+
+####;458;458 - Kokand;Kokand
+
+####;460;460 - Uzkend;Uzkend
+
+####;1967;1967 - Khujand;Khujand
+
+### Jetysuu
+
+####;459;459 - Taraz;Taraz/Pishpek
+
+####;461;461 - Almaty;Almaty/Vernyi
+
+####;2125;2125 - Kochkor;Kochkor/Przhevalsk
+
+####;2126;2126 - Chuy;Chuy/Naryn
+
+####;2368;2368 - Karamegdan;Karamegdan
+
+### Arys
+
+####;457;457 - Tashkent;Tashkent
+
+####;1969;1969 - Sozak;Sozak
+
+####;2364;2364 - Talas;Talas/Fergana
+
+####;2356;2356 - Shymkent;Shymkent/Chimkent
+
+## Russia
+### Moscow
+
+####;294;294 - Tver;Tver/Tveer/Twer
+
+####;295;295 - Moskva;Moskva/Moscau/Moskwa
+
+####;307;307 - Vladimir;Vladimir/Wlodzimierz
+
+####;308;308 - Yaroslavl;Yaroslavl/Jaroslavl/Jaroslaw
+
+### Suzdal
+
+####;1753;1753 - Kostroma;Kostroma
+
+####;1754;1754 - Orel;Murom
+
+####;1956;1956 - Suzdal;Suzdal
+
+### Novgorod
+
+####;310;310 - Novgorod;Novgorod/Nowogród
+
+####;1752;1752 - Rzhev;Rzhev/Rzev/Rzew
+
+####;1959;1959 - Torzhok;Torzhok/Torzok
+
+### Pskov
+
+####;274;274 - Pskov;Pskov/Psków
+
+####;311;311 - Kholm;Kholm/Cholm
+
+####;1960;1960 - Ostrov;Ostrov/Ostrów
+
+### Beloozero
+
+####;312;312 - Vologda;Beloozero/Bieloziersk
+
+####;314;314 - Vologda;Vologda/Wologda
+
+####;2749;2749 - Tikhvin;Tikhvin/Tichwin
+
+####;4117;4117 - Bezhetsk;Bezhetsk
+
+### Pomorye
+
+####;313;313 - Soroka;Soroka/Archangielsk
+
+####;1755;1755 - Ustyug;Ustyug/Wielki Ustiug
+
+####;1955;1955 - Kholmogory;Kholmogory/Cholmogory
+
+####;1958;1958 - Kargopol;Kargopol
+
+####;4122;4122 - Shenkursk;Shenkursk
+
+### Karelia
+
+####;30;30-Viborg;Viborg/Viipuri/Vyborg
+
+####;32;32-Keksholm;Kexholm/Priozersk/Prioziersk/Korela
+
+####;33;33-Neva;Neva/Newa/Nöteborg
+
+####;309;309 - Olonets;Olonets/Oloniec
+
+####;1776;1776-Karelia;Kem
+
+####;1777;1777-Kola;Kola
+
+####;1961;1961 - Ladoga;Ladoga
+
+####;4124;4124 - Kovero;Karelia/Karélie/Karelen
+
+### Ryazan
+
+####;300;300 - Tula;Tula
+
+####;301;301 - Ryazan;Ryazan/Rjazan/Riazan
+
+####;1778;1778 - Kasimov;Kasimov/Kasimow
+
+### Tambov
+
+####;302;302 - Tambow;Tambov/Tambow
+
+####;304;304 - Pensa;Penza
+
+####;2408;2408 - Lipetsk;Lipetsk/Lipieck
+
+####;2415;2415 - Etkara;Etkara/Chopior/Atkarsk
+
+## West Siberia
+### Yrtesh
+
+####;479;479 - Kerey;Kerey/Atbasarsk
+
+####;1071;1071 - Tara;Irtesh/Omsk
+
+####;2354;2354 - Shegendyk;Shegendyk/Akmolinsk
+
+####;2357;2357 - Aksary;Aksary/Kokchetav
+
+####;2428;2428 - Yugan;Yugan
+
+####;2434;2434 - Barnaul;Barnaul
+
+### Ob
+
+####;480;480 - Kulunda;Pegaya Orda/Novosibirsk
+
+####;1068;1068 - Pegaya Orda;Ket
+
+####;2429;2429 - Agan;Agan/Variegansk
+
+####;2433;2433 - Vah;Vah/Kemerovo
+
+### Central Siberia
+
+####;1064;1064 - Tomsk;Tomsk
+
+####;1067;1067 - Narym;Turukhan
+
+####;1069;1069 - Surgut;Surgut
+
+####;1070;1070 - Koda;Narim
+
+####;1072;1072 - Obdorsk;Obdorsk
+
+####;1073;1073 - Berezov;Berezov
+
+####;1074;1074 - Sibir;Sibir/Tobolsk
+
+####;2430;2430 - Baykha;Baykha/Troitskiy
+
+####;2445;2445 - Mangazea;Mangazea
+
+### Tunguska
+
+####;1059;1059 - Bratsk;East Tunguska/Východní Tunguska
+
+####;1061;1061 - Yeniseysk;West Tunguska/Západní Tunguska
+
+####;2431;2431 - Uchamin;Uchamin/Uchaminskiy
+
+####;2432;2432 - Chulym;Chulym/Yeniseysk
+
+####;2436;2436 - Chuna;Chuna/Vanavara
+
+### Irkutsk
+
+####;1060;1060 - Irkutsk;Irkutsk
+
+####;1062;1062 - Kachinsk;Angara
+
+####;1063;1063 - Sayan;Sayan
+
+####;2442;2442 - Ust-Kut;Ust-Kut/Kirensk
+
+####;2443;2443 - Kan;Kan/Krasnoyarsk
+
+### Ishim
+
+####;1075;1075 - Tyumen;Tyumen/Chimgi-Tura
+
+####;1076;1076 - Kurgan;Kurgan
+
+####;2369;2369 - Lower Ishim;Lower Ishim/Kustanay
+
+## Mongolia
+### Outer Mongolia
+
+####;717;717 - Kherlen;Kherlen
+
+####;720;720 - Dorno Govi;Dornogovi
+
+####;721;721 - Setsen;Setsen
+
+####;2116;2116 - Ih Huree;Ih Huree
+
+####;2189;2189 - Tsetserleg;Tsetserleg
+
+####;2190;2190 - Qaraqorum;Qaraqorum
+
+####;2193;2193 - Govi;Govi
+
+### Inner Mongolia
+
+####;722;722 - Jirem;Jirem
+
+####;723;723 - Xilin Gol;Xilin Gol
+
+####;2109;2109 - Boduna;Boduna
+
+####;2114;2114 - Ereen;Ereen
+
+####;2115;2115 - Chahar;Chahar
+
+####;2187;2187 - Sartu;Sartu
+
+### Ordos
+
+####;701;701 - Ordos;Ordos
+
+####;702;702 - Hohhot;Hohhot
+
+####;709;709 - Alxa;Alxa
+
+####;2191;2191 - Ejin;Ejin
+
+####;2747;2747 - Khara Narin Ula;Khara Narin Ula
+
+### Zungaria
+
+####;713;713 - Bechbaliq;Bechbaliq
+
+####;714;714 - Hoboksar;Hoboksar
+
+####;715;715 - Urumqi;Urumqi/Urumçi
+
+####;2118;2118 - Urzhar;Urzhar
+
+####;2119;2119 - Chuguchak;Chuguchak
+
+####;2120;2120 - Ili;Ili
+
+####;2122;2122 - Hami;Hami
+
+### Altai Sayan
+
+####;716;716 - Tannu Uriankhai;Tannu Uriankhai/Belotsarsk
+
+####;718;718 - Kobdo;Kobdo
+
+####;719;719 - Uliastai;Uliastai
+
+####;1065;1065 - Kuznetsk;Kuznetsk
+
+####;1066;1066 - Altai;Altai Uriankhai
+
+####;2117;2117 - Zasagt;Zasagt
+
+## Crimea
+### Crimea
+
+####;284;284 - Crimea;Crimea/Krim/Krym/Kirim
+
+####;285;285 - Kaffa;Caffa/Feodosija/Theodosia/Cafa/Kaffa/Feodosia/Kefe
+
+####;2410;2410 - Theodoro;Theodoro/Teodoro/Sevastopol
+
+####;2447;2447 - Mantrega;Mantrega/Tamatarha/Taman/Matrika/Hunkala
+
+### Lower Don
+
+####;288;288 - Cherkassk;Lower Don/Dolní Don/Ust-Medveditskaya
+
+####;467;467 - Borisoglebsk;Borisoglebsk
+
+####;1971;1971 - Tsaritsyn;Tsaritsyn/Caryczin
+
+####;2409;2409 - Bahmut;Bahmut/Bachmut/Veshensakaya
+
+### Astrakhan
+
+####;464;464 - Astrakhan;Astrakhan/Astrachan
+
+####;466;466 - Sarai;Sarai/Saraj/Kamyshin
+
+####;468;468 - Khazaria;Manych/Manycz
+
+####;2416;2416 - Majar;Majar/Stawropol/Stavropol
+
+####;2417;2417 - Kuma;Kuma/Elista
+
+### Zaporizhia
+
+####;283;283 - Zaporozhia;Zaporozhia/Zaporoshka/Zaporoze/Krivoi Rog
+
+####;2411;2411 - Mansur;Mansur/Kodak/Ekaterinoslav
+
+####;2412;2412 - Kyzyl-Yar;Kyzyl-Yar/Melitopol/Mariupol
+
+### Yedisan
+
+####;282;282 - Yedisan;Yedisan/Jedisan/Jedysan/Ochakov/Özü/Hocabey
+
+####;1974;1974 - Yedishkul;Yedishkul/Cherson
+
+####;2406;2406 - Ingil;Ingil/Ingul/Nikolaev
+
+### Azov
+
+####;286;286 - Azow;Azov/Azow
+
+####;287;287 - Kouban;Kuban/Ekaterinodar
+
+####;2413;2413 - Tyn;Tyn/Novocherkassk
+
+####;2414;2414 - Azaraba;Azaraba/Tichorieck/Tichoretsk
+
+## Carpathia
+### Transdanubia
+
+####;135;135 - Sopron;Sopron/shopron/Ödenburg/Scarbantia
+
+####;153;153 - Pest;Pest/Peshta/Pestinum/Pest-Budin/Budin
+
+####;1864;1864 - Somogy;Somogy/Schomodei/Kopan
+
+####;4126;4126 - Bacs;Bacs/Segedin
+
+### Alföld
+
+####;155;155 - Bekes;Bekes/Göle
+
+####;1953;1953 - Szabolcs;Szabolcs/Saboltsch/Debrecín/Debrecin
+
+####;1954;1954 - Torontal;Torontal/Vojvodina/Beçkerek
+
+####;4125;4125 - Szolnok;Szolnok/Solník/Eger
+
+### Slovakia
+
+####;154;154 - Ersekujvar;Érsekújvár/Spish/Nové Zámky/Neuhäusel/Nitra/Uyvar
+
+####;162;162 - Zemplen;Zemplen/Koshice/Semmlin/Zemplin/Prashev
+
+####;1318;1318 - Spis;Spiš/Spisz/Szepes/Spis
+
+####;1772;1772 - Pozsony;Pozsony/Presporok/Pressburg/Pozon
+
+### Transylvania
+
+####;156;156 - Temes;Temes/Temishvar/Temesch/Timis
+
+####;157;157 - Bihar;Bihar/Veliki Varadin/Bihor/Varad
+
+####;158;158 - Maros;Maros/Maruse/Marosch/Mures
+
+####;1951;1951 - Hunyad;Hunyad/Eisenmarkt/Hunedoara
+
+####;1952;1952 - Maramaros;Maramaros/Marmarosch/Maramures/Zakarpathia
+
+####;4127;4127 - Turda;Turda/Torda
+
+####;4128;4128 - Kiralyfold;Kiralyföld
+
+### Wallachia
+
+####;160;160 - Oltenia;Oltenia/Oltenija/Oltenie/Oltenien/Dacia Malvensis
+
+####;161;161 - Tirgoviste;Tîrgoviste/Trgovishte/Trhoviste/Tergowisch/Targoviste/Bükres
+
+####;2998;2998 - Buzau;Buzau/Busäu/Bodzavásár
+
+### Moldavia
+
+####;268;268 - Moldavia;Moldavia/Moldavija/Moldávie/Moldau/Moldova/Bogdan
+
+####;1756;1756 - Budjak;Bessarabia/Besarábie/Bessarabien/Moesia/Basarabia/Akkerman
+
+####;2405;2405 - Bendery;Bender/Tighina
+
+## Caribbeans
+### Cuba
+
+####;484;484 - Havana;Havana/La Havane
+
+####;485;485 - Moron;Moron
+
+####;486;486 - Guantanamo;Guantanamo
+
+####;2654;2654 - Baracoa;Baracoa
+
+####;2655;2655 - Bayamo;Bayamo
+
+####;2656;2656 - Camaguey;Camaguey
+
+### Hispaniola
+
+####;488;488 - Les Cayes;Les Cayes/La Sabana
+
+####;489;489 - Tortuga;Tortuga/Ile de la Tortue
+
+####;490;490 - Barahonas;Barahonas/Santo Domingo
+
+####;492;492 - Puerto Rico;Puerto Rico/Portoriko
+
+####;2658;2658 - Maguana;Maguana/Azua
+
+####;2659;2659 - Magua;Magua/Puerto Plata
+
+### Greater Antilles
+
+####;482;482 - Bahamas;Bahamas/Bahamy
+
+####;483;483 - Turks Islands;Turks Islands/Türk Adalari
+
+####;487;487 - Jamaica;Jamaica/Jamajka
+
+####;481;481 - Bermuda;Bermuda/Bermudy
+
+### Leeward Islands
+
+####;493;493 - St. Thomas;St. Thomas/Svatý Tomás/Sankt Thomas
+
+####;494;494 - St. Kitts;St. Kitts/Svatý Krystof/Sint Eustatius
+
+####;495;495 - Antigua;Antigua
+
+####;496;496 - Guadeloupe;Guadelupe
+
+####;1881;1881 - St. Martin;St. Martin/Svatý Martin/Sint Maarten
+
+### Windward Islands
+
+####;497;497 - Dominica;Dominica
+
+####;498;498 - Martinique;Martinique/Martinik
+
+####;499;499 - St. Lucia;St. Lucia/Svatá Lucie
+
+####;500;500 - St. Vincent;St. Vincent/Svatý Vincent/Grenada
+
+####;501;501 - Barbados;Barbados
+
+####;502;502 - Trinidad;Trinidad/Neu-Kurland
+
+## Australia
+### Western Australia
+
+####;1084;1084 - Wadjuk;Wadjuk
+
+####;2726;2726 - Malgana;Malgana
+
+####;2727;2727 - Minang;Minang
+
+### Northern Australia
+
+####;2728;2728 - Tiwi;Tiwi
+
+####;2729;2729 - Yolngu;Yolngu
+
+####;2730;2730 - Awngthim;Awngthim
+
+####;2731;2731 - Guugu Yimithirr;Guugu Yimithirr
+
+### Eastern Australia
+
+####;1091;1091 - Kamilaroi;Kamilaroi
+
+####;1092;1092 - Bundjalung;Bundjalung
+
+####;1093;1093 - Barunggam;Barunggam
+
+####;1094;1094 - Turrbal;Turrbal
+
+####;2732;2732 - Wulgurukaba;Wulgurukaba
+
+####;2733;2733 - Baiali;Baiali
+
+### Southern Australia
+
+####;1085;1085 - Paredarerme;Paredarerme
+
+####;1086;1086 - Kaurna;Kaurna
+
+####;1088;1088 - Wergaia;Wergaia
+
+####;1087;1087 - Wurundjeri;Wurundjeri
+
+####;1089;1089 - Wiradjuri;Wiradjuri
+
+####;1090;1090 - Eora;Eora
+
+####;2734;2734 - Yuin;Yuin
+
+####;2735;2735 - Gunditjmara;Gunditjmara
+
+####;2736;2736 - Nukunu;Nukunu
+
+## Ruthenia
+### West Dniepr
+
+####;280;280 - Kiev;Kiev/Kijev/Kyjev/Kijów
+
+####;1942;1942 - Zhytomyr;Zhytomyr/Zytomierz
+
+####;1944;1944 - Cherkasy;Cherkasy/Cerkasy/Czerkasy
+
+### East Dniepr
+
+####;289;289 - Chernigov;Chernigov/Cernjihiv/Cernihiv/Czernichów
+
+####;290;290 - Poltava;Poltava/Poltawa
+
+####;1945;1945 - Novgorod-Seversky;Severia/Severie/Siewierszczyzna
+
+####;2407;2407 - Pereyaslav;Pereyaslav/Perejaslaw
+
+### Sloboda Ukraine
+
+####;291;291 - Kharkov;Kharkov/Harkiv/Charkov/Charków
+
+####;298;298 - Kursk;Kursk
+
+####;299;299 - Voronezh;Voronezh/Voronjez/Voronez
+
+### White Ruthenia
+
+####;275;275 - Polotsk;Polotsk/Polock
+
+####;276;276 - Minsk;Minsk
+
+####;292;292 - Mogilyov;Mogilev/Mogiljov/Mohylev/Mohylew
+
+####;771;771 - Vitebsk;Vitebsk/Witebsk
+
+####;4115;4115 - Mazyr;Mazyr/Mozyrz
+
+### Podolia Volhynia
+
+####;279;279 - Volhynia;Volhynia/Volinj/Volyn/Wolhynien/Wolyn
+
+####;281;281 - Kamienec;Podolia/Podolien/Podole/Kamaniçe
+
+####;1943;1943 - Bratslav;Bratslav/Braclaw
+
+####;2962;2962 - Rowne;Rowne/Rovné/Równe
+
+### Pripyat
+
+####;277;277 - Brest;Brest/Brasta/Brzesc
+
+####;278;278 - Pinsk;Pinsk
+
+####;1941;1941 - Turov;Turov/Turów
+
+### Smolensk
+
+####;293;293 - Smolensk;Smolensk
+
+####;296;296 - Mozhaisk;Kaluga/Koluga
+
+####;297;297 - Bryansk;Bryansk/Brjansk/Briansk
+
+####;4116;4116 - Upper Oka;Oka/Odoyev
+
+## Japan
+### Hokkaido
+
+####;1031;1031 - Kamikawa;Kamikawa
+
+####;1032;1032 - Kurils;The Kurils/Kurily
+
+####;1847;1847 - Shiribeshi;Shiribeshi
+
+####;1852;1852 - Tokachi;Tokachi
+
+### Hokuriku
+
+####;1023;1023 - Echizen;Echizen
+
+####;1024;1024 - Echigo;Echigo
+
+####;1837;1837 - Etchu;Etchu/Dorpat
+
+### Kanto
+
+####;1027;1027 - Hitachi;Hitachi
+
+####;1028;1028 - Musashi;Musashi
+
+####;1843;1843 - Kozuke;Kozuke
+
+### Kyushu
+
+####;1012;1012 - Satsuma;Satsuma
+
+####;1014;1014 - Bungo;Bungo
+
+####;1015;1015 - Okinawa;Okinawa
+
+####;1818;1818 - Chikuzen;Chikuzen
+
+### Chubu
+
+####;1029;1029 - Kai;Kai
+
+####;1030;1030 - Owari;Owari
+
+####;1835;1835 - Mino;Mino
+
+####;1839;1839 - Suruga;Suruga
+
+### Kinai
+
+####;1020;1020 - Yamashiro;Kyoto/Kjoto
+
+####;1021;1021 - Settsu;Settsu
+
+####;1832;1832 - Yamato;Yamato
+
+####;1830;1830 - Tajima;Tajima/Norfolcia
+
+### Tohoku
+
+####;1025;1025 - Dewa;Dewa
+
+####;1026;1026 - Rikuzen;Rikuzen
+
+####;4131;4131 - Mutsu;Mutsu
+
+### Saigoku
+
+####;1017;1017 - Suo;Suo
+
+####;1018;1018 - Izumo;Izumo
+
+####;1019;1019 - Harima;Harima
+
+####;1819;1819 - Tosa;Tosa
+
+####;1820;1820 - Awa;Awa
+
+####;1825;1825 - Aki;Aki
+
+## Manchuria
+### Heilongjiangord
+
+####;724;724 - Hulunbuir;Hulunbuir
+
+####;725;725 - Cicigar;Cicigar
+
+####;727;727 - Aigun;Aigun/Ajgun/Cicikar
+
+####;728;728 - Tuwan;Tuwan/Harbin
+
+####;1049;1049 - Hailanboo;Haiilanboo/Habarovsk
+
+####;1053;1053 - Hinggan;Hinggan/Blagoveshensk
+
+####;2102;2102 - Urkan;Urkan
+
+####;2104;2104 - Birija;Birija
+
+####;2185;2185 - Mergen;Mergen
+
+### Jilin
+
+####;730;730 - Girin;Girin
+
+####;1850;1850 - Yaran;Yaran/Vladivostok
+
+####;2106;2106 - Furdan;Furdan
+
+####;2107;2107 - Ningguta;Ningguta
+
+####;2108;2108 - Huncun;Huncun
+
+####;2110;2110 - Yehe;Yehe
+
+####;2111;2111 - Hetu Ala;Hetu Ala
+
+####;2186;2186 - Iman;Iman
+
+####;2188;2188 - Alchuka;Alchuka
+
+### Ilin Hala
+
+####;729;729 - Bohori;Bohori
+
+####;731;731 - Ilan Hala;Ilan Hala
+
+####;1033;1033 - Sakhalin;Sakhalin/Sachalin
+
+####;1048;1048 - Udskoye;Miyoo Gasan
+
+####;1050;1050 - Deren;Deren/Nikolayev-on-Amur
+
+####;2105;2105 - Kuru;Kuru
+
+### Liaoning
+
+####;704;704 - Ningyuan;Ningyuan
+
+####;726;726 - Shenyang;Shenyang/Sen-jang/Port-Artur
+
+####;2112;2112 - Andong;Andong
+
+####;2113;2113 - Gaizhou;Gaizhou
+
+### North Korea
+
+####;732;732 - South Hamgyeong;Hamgyeong/Xianjin
+
+####;733;733 - Hwanghae;Hwanghae/Huanghai
+
+####;1845;1845 - South Pyongan;Pyongan/Ping'an
+
+####;2742;2742 - Yukjin;Yukjin
+
+####;2743;2743 - North Hamgyeong;Kyongsong
+
+####;2744;2744 - North Pyongan;Nyongbyon
+
+### Central Korea
+
+####;734;734 - West Gangwon;Wonju/Jiangyuan
+
+####;735;735 - Gyeonggi;Gyeonggi/Hancheng
+
+####;1013;1013 - Chungcheong;Chungcheong/Zhongqing
+
+####;2694;2694 - East Gangwon;Gangneung
+
+### South Korea
+
+####;736;736 - West Gyeongsang;Sangju/Qingshang
+
+####;737;737 - Jeolla;Jeolla/Quanluo
+
+####;2741;2741 - Jeju;Jeju
+
+####;2745;2745 - East Gyeongsang;Gyeongju
+
+## Balkans
+### Croatia
+
+####;131;131 - Zagorje;Zagreb/Záhreb/Agram/Zágráb/Zagrabia
+
+####;152;152 - Belovar;Varasd/Varazdin/Bellowar/Varasdinum
+
+####;1767;1767 - Veroce;Slavonia/Slavonie/Slawonien/Sclavonia/Slavonija/Sirem
+
+####;1828;1828 - Soli;Donji Kraji/Dolní Kraj/Partes Inferiores/Tarsatica/Travik
+
+### East Adriatic
+
+####;136;136 - Dalmatia;Dalmatia/Dalmacija/Dalmacie/Dalmatien
+
+####;137;137 - Ragusa;Ragusa/Dubrovnik/Ragusium
+
+####;1826;1826 - Lika;Lika
+
+### Bosnia
+
+####;139;139 - Hum;Hum/Zachlumia/Hersek
+
+####;140;140 - Bosnia;Bosnia/Bosna
+
+####;1831;1831 - Travunia;Travunia/Travunien/Trebine
+
+####;3002;3002 - Sarajevo;Visoki/Sarajewo/Visoka
+
+### Serbia
+
+####;138;138 - Zeta;Zeta/Crna Gora/Dioclea/Iskodra
+
+####;141;141 - Serbia;Serbia/Srbija/Srbsko/Serbien/Szendro/Semendire
+
+####;1766;1766 - Kosovo;Kosovo/Kosovia/Kosova
+
+####;1827;1827 - Raska;Raska/Raschka/Rascia/Yeni Pazar
+
+####;3000;3000 - Nis;Nis/Nish/Nisch/Naissus
+
+### Bulgaria
+
+####;150;150 - Tarnovo;Tarnovo/Trnovo/Nikápoly/Ternobum/Nigbolu
+
+####;159;159 - Silistria;Silistria/Drastar/Durosztol/Durostorum/Silistre
+
+####;1765;1765 - Nis;Sofia/Sofija/Sofie/Szeredoc/Serdica/Sofya
+
+####;2746;2746 - Vidin;Vidin/Bodony/Bononia
+
+####;2750;2750 - Plovdiv;Plovdiv/Philippopolis/Filibe
+
+### Macedonia
+
+####;143;143 - Albania;Albania/Albanija/Albánie/Albanien
+
+####;148;148 - Thessaloniki;Macedonia/Solun/Makedonie/Makedonien/Makedonija/Selanik
+
+####;1853;1853- Kastoria;Kastoria/Castoria/Kesriye
+
+####;3001;3001 - Skopje;Skopje/Skoplje/Scopia/Üsküp
+
+### Northern Greece
+
+####;142;142 - Corfu;Corfu/Krf/Korfu/Corcyra
+
+####;144;144 - Janina;Epirus/Epir/Yanya
+
+####;147;147 - Salonica;Thessaly/Tesalija/Thesálie/Thessalien/Tirhala
+
+### Morea
+
+####;145;145 - Morea;Morea/Moreja/Anabolu
+
+####;146;146 - Athens;Athens/Atina/Athény/Athen/Athenae
+
+####;1773;1773 - Achaea;Achaea/Achaja/Achaia/Ballibadra
+
+### Western Aegean
+
+####;163;163 - Crete;Crete/Kreta/Kréta/Creta
+
+####;164;164 - Naxos;Naxos/Cikladi/Naxia/Naksa Berre
+
+####;3003;3003 - Euboea;Euboea/Negroponte/Euböa/Egriboz
+
+### Thrace
+
+####;149;149 - Edirne;Edirne/Drinopolje/Drinopol/Drinápoly/Adrianopolis/Jedrinje
+
+####;151;151 - Constantinople;Constantinople/Carigrad/Carihrad/Konstantinopel/Konstantinápoly/Constantinopolis/Tsargrad/Tsarigrad/Kostantiniyye
+
+####;1764;1764 - Burgas;Burgas/Burgus/Kirkkilise
+
+## Oceania
+### Polynesia
+
+####;1240;1240 - Hawaii;Hawaii/Havaj
+
+####;1243;1243 - Samoa;Samoa
+
+####;1244;1244 - Tahiti;Tuamotu Islands/Gambierovy ostrovy
+
+####;1987;1987 - Society Islands;Society Islands/Spolecenské ostrovy
+
+####;1988;1988 - Rapa Nui;Rapanui/Velikonocní ostrov
+
+####;1989;1989 - Tonga;Tonga
+
+####;1990;1990 - Tuvalu;Tuvalu
+
+####;1992;1992 - Nauru;Nauru
+
+####;1997;1997 - Midway;Midway
+
+### Micronesia
+
+####;1235;1235 - Guam;Guam
+
+####;1241;1241 - Kiribati;Kiribati
+
+####;1991;1991 - Gilbert Islands;Gilbert Islands/Gilbertovy ostrovy
+
+####;1993;1993 - Masrshall Islands;Marshall Islands/Marshallovy ostrovy
+
+####;1994;1994 - Wake;Wake
+
+####;1995;1995 - Micronesia;Micronesia/Mikronésie
+
+####;1996;1996  Palau;Palau
+
+### Melanesia
+
+####;1236;1236 - Rabaul;Rabaul
+
+####;1238;1238 - Solomon Islands;Solomon Islands/Salamounovy ostrovy
+
+####;1239;1239 - Vanuatu;Vanuatu
+
+####;1242;1242 - Fiji;Fiji/Fidzi
+
+####;1986;1986 - New Caledonia;New Caledonia/Nová Kaledonie
+
+### Te Ika a Maui
+
+####;1106;1106 - Whangarei;Whangarei
+
+####;1107;1107 - Taranaki;Taranaki
+
+####;1108;1108 - Tauranga;Tauranga
+
+####;2737;2737 - Ahuriri;Ahuriri
+
+####;2739;2739 - Kirikiriroa;Kirikiriroa
+
+### Te Waipounamu
+
+####;1109;1109 - Timaru;Timaru
+
+####;1246;1246 - Waihopai;Waihopai
+
+####;2738;2738 - Waitaha;Waitaha
+
+## Baltic
+### Lithuania
+
+####;270;270 - Troki;Trakai/Troky/Traken/Troki
+
+####;271;271 - Samogitia;Samogitia/Samogitija/Zmud/Schemaiten/Zemaitija/Zmudz
+
+####;272;272 - Lithuania;Vilna/Litva/Vilno/Wilno
+
+####;770;770 - Braslaw;Braslaw/Braslav
+
+####;1936;1936 - Kovno;Kovno/Kauen/Kowno
+
+####;1937;1937 - Grodno;Grodno/Garten
+
+### Livonia
+
+####;37;37 - Livland;Livland/Livonija/Lifland/Liefland/Césis/Liwlandia/Pernov
+
+####;38;38 - Riga;Riga/Ryga
+
+####;273;273 - Latgalia;Latgalia/Latgalija/Lettgallen/Daugpilis
+
+####;1834;1834 - Dorpat;Dorpat/Dörpt/Tartu/Uriev
+
+### Estonia
+
+####;34;34-Ingermanland;Ingermanland/Ingria
+
+####;36;36 - Estland;Reval/Estonija/Talinas/Rewal
+
+####;1842;1842 - Narva;Narva/Narwa
+
+### Curonia
+
+####;35;35 - Osel;Ösel/Øsel/Sarema/Ozylia/Ezel
+
+####;39;39 - Kurland;Goldingen/Kursas/Goldynga
+
+####;1935;1935 - Semigallia;Mitau/Mitava/Ziemgala/Mitawa
+
+### West Prussia
+
+####;42;42 - Warmia;Warmia/Varmia/Varmie/Ermland/Varmé
+
+####;43;43 - Danzig;Danzig/Dánzig/Gdanjsk/Gdansk/Dantzig/Gdanskas
+
+####;1841;1841 - Marienburg;Marienburg/Mariemburgo/Malbork/Marienbourg/Marienburgas
+
+####;1859;1859 - Torun;Chelmno/Chlumno/Culm/Kulm/Kulmas
+
+####;2997;2997 - Pomorskie;Tuchola/Tuchel
+
+### East Prussia
+
+####;40;40 - Memel;Memel/Klajpeda/Klaipéda
+
+####;41;41 - Konigsberg;Königsberg/Prusia Oriental/Královec/Prusse orientale/Karaliaucius/Królewiec
+
+####;767;767 - Ortelsburg;Ortelsburg/Ortelsburk/Szczytno
+
+####;2958;2958 - Osterode;Osterode/Ostroda/Ostróda
+
+## Ural
+### Ural
+
+####;1080;1080 - North Urals;Pelym/Serov
+
+####;1078;1078 - Middle Urals;Tura/Ekaterinburg
+
+####;1780;1780 - Komi;Komi
+
+####;2427;2427 - Ostyaki;Ostyaki/Beloyarskiy
+
+####;2441;2441 - Iglino;Iglino
+
+### Perm
+
+####;1077;1077 - Solikamsk;Solikamsk
+
+####;1963;1963 - Cherdyn;Cherdyn/Czerdyn/Troitsko-Pechersk
+
+####;1964;1964 - Ust-Sysolsk;Ust-Sysolsk/Syktywkar
+
+####;4129;4129 - UstVym;Ust-Vym
+
+### Kazan
+
+####;473;473 - Samara;Samara
+
+####;1081;1081 - Simbirsk;Simbirsk/Symbirsk
+
+####;1082;1082 - Kazan;Kazan
+
+####;2421;2421 - Ar-Chally;Ar-Chally/Czystopol/Berezhnye
+
+####;2422;2422 - Veda-Suvar;Veda-Suvar/Czeboksary/Cheboksary
+
+####;2423;2423 - Alatyr;Alatyr
+
+### Galich
+
+####;306;306 - Nijni-Novgorod;Nizhny Novgorod/Dolní Novgorod/Nischgorod/Nizny Nowogród
+
+####;1079;1079 - Viatka;Viatka/Wiatka
+
+####;1083;1083 - Zavolochye;Vetluga/Wietluga
+
+####;1957;1957 - Galich;Galich/Kalis/Galicz
+
+### Saratov
+
+####;303;303 - Saratow;Saratov
+
+####;2418;2418 - Ukek;Ukek/Pokrovsk
+
+####;2419;2419 - Kanadey;Kanadey/Syzran
+
+### Kama
+
+####;305;305 - Perm;Perm
+
+####;1962;1962 - Kudymkar;Kudymkar/Izhevsk
+
+####;1972;1972 - Udmurtia;Udmurtia/Udmurcja/Glazov
+
+### Bashkiria
+
+####;475;475 - Bashkortostan;Bashkortostan
+
+####;1965;1965 - Buzuluk;Buzuluk
+
+####;1966;1966 - Chelyaba;Chelyaba/Chelabinsk
+
+####;2420;2420 - Agyidel;Agyidel/Orenburg
+
+####;2444;2444 - Bashgird;Bashgird/Zlatoust
+
+## East Siberia
+### Yakutia
+
+####;1042;1042 - Kamnuskoye;Sakha
+
+####;1045;1045 - Yakutsk;Yakut
+
+####;1046;1046 - Butalsk;Maya
+
+####;1051;1051 - Uchurskoye;Aldan
+
+####;1052;1052 - Verkohzehkoye;Stanovoy
+
+####;1054;1054 - Ilimsk;Mukhtuya
+
+####;2438;2438 - Kharya;Kharya/Zhigansk
+
+####;2435;2435 - Nukhtui;Nukhtui/Olyokminsk
+
+####;2437;2437 - Seganka;Seganka/Vilyisk
+
+### Okhotsk
+
+####;1043;1043 - Okhotsk;Okhotsk
+
+####;1047;1047 - Jugjur;Jugjur/Ayan
+
+####;2103;2103 - Udi;Udi
+
+### Magadan
+
+####;1036;1036 - Podzhiversk;Kolyma
+
+####;1037;1037 - Nizhe-Kolymsk;Omolon/Oimakon
+
+####;1039;1039 - Verkhoyansk;Verkhoyansk
+
+####;1040;1040 - Suntar Khayat;Suntar Khayata
+
+####;1041;1041 - Gizhiga;Gizhiga
+
+####;1044;1044 - Tauisk;Tauisk
+
+####;2439;2439 - Yarmanka;Yarmanka
+
+### Kamchatka
+
+####;1034;1034 - Kamchatka;Kamchatka/Kamcatka
+
+####;1035;1035 - Penchisky;Penzhina
+
+####;1038;1038 - Anadyrsk;Karalveyem
+
+####;2440;2440 - Kagyrgyn;Kagyrgyn
+
+### Buryatia
+
+####;1055;1055 - Verkne-Angarsky;Kirenga/Verhneangarsk
+
+####;1056;1056 - Barguzinsky;Barguzin
+
+####;1057;1057 - Udinsky;Ude/Verhneudinsk
+
+####;1058;1058 - Nerchinsky;Onan Gol
+
+####;2446;2446 - Chara;Chara/Chita
+
 # India
 ## Bengal (off-map)
 ## Hindustan
@@ -4908,5 +6232,3 @@ c_loon;2974;2974 - Loon;Loon - Loon
 ####;2234;2234 - Rafsanjan;Rafsanjan
 
 ####;2999;2999 - Hormuz;Hormuz/Hürmüz
-
-# New World
