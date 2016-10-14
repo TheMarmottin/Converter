@@ -1185,6 +1185,7 @@ c_tyrconnell;372;372 - Tyrone;Tyrconnell - Tyrone
 c_tyrconnell;372;372 - Tyrone;Duplicate to increase weight
 c_oriel;372;372 - Tyrone;Oriel - Tyrone
 
+d_meath;373;373 - Meath;Duchy Mide - Pale
 c_dublin;373;373 - Meath;Dublin - Pale
 c_brega;373;373 - Meath;Brega - Pale
 c_brega;373;373 - Meath;Duplicate to increase weight
@@ -1208,6 +1209,7 @@ c_ulster;4121;4121 - Ulster;Antrim - Ulster
 
 ### Western Ireland
 
+d_thomond;375;375 - Munster;Duchy Thomond - Limerick
 c_desmond;375;375 - Munster;Kerry - Limerick
 c_desmond;375;375 - Munster;Duplicate to increase weight
 c_limerick;375;375 - Munster;Luimnigh - Limerick
@@ -1218,6 +1220,7 @@ c_connacht;375;375 - Munster;Mayo - Limerick
 
 c_connacht;376;376 - Connaught;Mayo - Connaught
 
+d_munster;4118;4118 - Desmond;Duchy Desmond - Cork
 c_cork;4118;4118 - Desmond;Corcaigh - Cork
 c_cork;4118;4118 - Desmond;Duplicate to increase weight
 c_ormond;4118;4118 - Desmond;Waterford - Cork
