@@ -1,5 +1,98 @@
 # CK2TITLE;EU4ID;Filename;Comment
 
+## Russia
+### Moscow
+
+####;294;294 - Tver;Tver/Tveer/Twer
+
+####;295;295 - Moskva;Moskva/Moscau/Moskwa
+
+####;307;307 - Vladimir;Vladimir/Wlodzimierz
+
+####;308;308 - Yaroslavl;Yaroslavl/Jaroslavl/Jaroslaw
+
+### Suzdal
+
+####;1753;1753 - Kostroma;Kostroma
+
+####;1754;1754 - Orel;Murom
+
+####;1956;1956 - Suzdal;Suzdal
+
+### Novgorod
+
+####;310;310 - Novgorod;Novgorod/Nowogród
+
+####;1752;1752 - Rzhev;Rzhev/Rzev/Rzew
+
+####;1959;1959 - Torzhok;Torzhok/Torzok
+
+### Pskov
+
+####;274;274 - Pskov;Pskov/Psków
+
+####;311;311 - Kholm;Kholm/Cholm
+
+####;1960;1960 - Ostrov;Ostrov/Ostrów
+
+### Beloozero
+
+####;312;312 - Vologda;Beloozero/Bieloziersk
+
+####;314;314 - Vologda;Vologda/Wologda
+
+####;2749;2749 - Tikhvin;Tikhvin/Tichwin
+
+####;4117;4117 - Bezhetsk;Bezhetsk
+
+### Pomorye
+
+####;313;313 - Soroka;Soroka/Archangielsk
+
+####;1755;1755 - Ustyug;Ustyug/Wielki Ustiug
+
+####;1955;1955 - Kholmogory;Kholmogory/Cholmogory
+
+####;1958;1958 - Kargopol;Kargopol
+
+####;4122;4122 - Shenkursk;Shenkursk
+
+### Karelia
+
+####;30;30-Viborg;Viborg/Viipuri/Vyborg
+
+####;32;32-Keksholm;Kexholm/Priozersk/Prioziersk/Korela
+
+####;33;33-Neva;Neva/Newa/Nöteborg
+
+####;309;309 - Olonets;Olonets/Oloniec
+
+####;1776;1776-Karelia;Kem
+
+####;1777;1777-Kola;Kola
+
+####;1961;1961 - Ladoga;Ladoga
+
+####;4124;4124 - Kovero;Karelia/Karélie/Karelen
+
+### Ryazan
+
+####;300;300 - Tula;Tula
+
+####;301;301 - Ryazan;Ryazan/Rjazan/Riazan
+
+####;1778;1778 - Kasimov;Kasimov/Kasimow
+
+### Tambov
+
+####;302;302 - Tambow;Tambov/Tambow
+
+####;304;304 - Pensa;Penza
+
+####;2408;2408 - Lipetsk;Lipetsk/Lipieck
+
+####;2415;2415 - Etkara;Etkara/Chopior/Atkarsk
+
 ## Ural
 ### Ural
 
@@ -75,64 +168,121 @@
 
 ####;2444;2444 - Bashgird;Bashgird/Zlatoust
 
-## Crimea
-### Crimea
+## Baltic
+### Lithuania
 
-####;284;284 - Crimea;Crimea/Krim/Krym/Kirim
+####;270;270 - Troki;Trakai/Troky/Traken/Troki
 
-####;285;285 - Kaffa;Caffa/Feodosija/Theodosia/Cafa/Kaffa/Feodosia/Kefe
+####;271;271 - Samogitia;Samogitia/Samogitija/Zmud/Schemaiten/Zemaitija/Zmudz
 
-####;2410;2410 - Theodoro;Theodoro/Teodoro/Sevastopol
+####;272;272 - Lithuania;Vilna/Litva/Vilno/Wilno
 
-####;2447;2447 - Mantrega;Mantrega/Tamatarha/Taman/Matrika/Hunkala
+####;770;770 - Braslaw;Braslaw/Braslav
 
-### Lower Don
+####;1936;1936 - Kovno;Kovno/Kauen/Kowno
 
-####;288;288 - Cherkassk;Lower Don/Dolní Don/Ust-Medveditskaya
+####;1937;1937 - Grodno;Grodno/Garten
 
-####;467;467 - Borisoglebsk;Borisoglebsk
+### Livonia
 
-####;1971;1971 - Tsaritsyn;Tsaritsyn/Caryczin
+####;37;37 - Livland;Livland/Livonija/Lifland/Liefland/Césis/Liwlandia/Pernov
 
-####;2409;2409 - Bahmut;Bahmut/Bachmut/Veshensakaya
+####;38;38 - Riga;Riga/Ryga
 
-### Astrakhan
+####;273;273 - Latgalia;Latgalia/Latgalija/Lettgallen/Daugpilis
 
-####;464;464 - Astrakhan;Astrakhan/Astrachan
+####;1834;1834 - Dorpat;Dorpat/Dörpt/Tartu/Uriev
 
-####;466;466 - Sarai;Sarai/Saraj/Kamyshin
+### Estonia
 
-####;468;468 - Khazaria;Manych/Manycz
+####;34;34-Ingermanland;Ingermanland/Ingria
 
-####;2416;2416 - Majar;Majar/Stawropol/Stavropol
+####;36;36 - Estland;Reval/Estonija/Talinas/Rewal
 
-####;2417;2417 - Kuma;Kuma/Elista
+####;1842;1842 - Narva;Narva/Narwa
 
-### Zaporizhia
+### Curonia
 
-####;283;283 - Zaporozhia;Zaporozhia/Zaporoshka/Zaporoze/Krivoi Rog
+####;35;35 - Osel;Ösel/Øsel/Sarema/Ozylia/Ezel
 
-####;2411;2411 - Mansur;Mansur/Kodak/Ekaterinoslav
+####;39;39 - Kurland;Goldingen/Kursas/Goldynga
 
-####;2412;2412 - Kyzyl-Yar;Kyzyl-Yar/Melitopol/Mariupol
+####;1935;1935 - Semigallia;Mitau/Mitava/Ziemgala/Mitawa
 
-### Yedisan
+### West Prussia
 
-####;282;282 - Yedisan;Yedisan/Jedisan/Jedysan/Ochakov/Özü/Hocabey
+####;42;42 - Warmia;Warmia/Varmia/Varmie/Ermland/Varmé
 
-####;1974;1974 - Yedishkul;Yedishkul/Cherson
+####;43;43 - Danzig;Danzig/Dánzig/Gdanjsk/Gdansk/Dantzig/Gdanskas
 
-####;2406;2406 - Ingil;Ingil/Ingul/Nikolaev
+####;1841;1841 - Marienburg;Marienburg/Mariemburgo/Malbork/Marienbourg/Marienburgas
 
-### Azov
+####;1859;1859 - Torun;Chelmno/Chlumno/Culm/Kulm/Kulmas
 
-####;286;286 - Azow;Azov/Azow
+####;2997;2997 - Pomorskie;Tuchola/Tuchel
 
-####;287;287 - Kouban;Kuban/Ekaterinodar
+### East Prussia
 
-####;2413;2413 - Tyn;Tyn/Novocherkassk
+####;40;40 - Memel;Memel/Klajpeda/Klaipéda
 
-####;2414;2414 - Azaraba;Azaraba/Tichorieck/Tichoretsk
+####;41;41 - Konigsberg;Königsberg/Prusia Oriental/Královec/Prusse orientale/Karaliaucius/Królewiec
+
+####;767;767 - Ortelsburg;Ortelsburg/Ortelsburk/Szczytno
+
+####;2958;2958 - Osterode;Osterode/Ostroda/Ostróda
+
+## Poland
+### Wielkopolska
+
+####;254;254 - Poznan;Poznan/Posen
+
+####;255;255 - Kalisz;Kalisz/Kalis/Gnesen
+
+####;258;258 - Lodz;Sieradz/Schieratz
+
+####;1939;1939 - Leczyca;Leczyca/Lentschiza/Lentschitza
+
+####;2963;2963 - Notec;Notec/Netzeland/Netze
+
+### Malopolska
+
+####;259;259 - Sandomierz;Sandomierz/Sandomer/Sandomir
+
+####;260;260 - Lublin;Lublin
+
+####;262;262 - Krakow;Krakow/Krakov/Krakau/Krakkó/Kraków
+
+####;2959;2959 - Tarnow;Tarnow/Tarnov/Tarnau/Tarnów
+
+####;2960;2960 - Sadecki;Nowy Sacz/Novy Sadec/Neu Sandec/Újszandec
+
+### Red Ruthenia
+
+####;261;261 - Halicz;Halicz/Galic/Halic/Halitsch
+
+####;1940;1940 - Belz;Belz/Bels
+
+####;2424;2424 - Peremyshl;Peremyshl/Premysl/Premissel/Przemysl
+
+####;2961;2961 - Lwow;Lwow/Lvov/Lemberg/Lwów
+
+### Mazovia
+
+####;256;256 - Plock;Plock/Plozk
+
+####;257;257 - Warszawa;Warszawa/Varsava/Warschava/Warschau/Varsó
+
+####;269;269 - Podlasia;Podlasie/Podlesí/Podlachien/Palenké
+
+####;1938;1938 - Wizna;Wizna
+
+### Silesia
+
+####;263;263 - Ratibor;Ratibor/Racibórz
+
+####;264;264 - Breslau;Breslau/Vratislavija/Vratislav/Boroszló/Wroclaw
+
+####;2966;2966 - Leignitz;Glogau/Hlohov/Glogów
 
 ## Ruthenia
 ### West Dniepr
@@ -201,237 +351,332 @@
 
 ####;4116;4116 - Upper Oka;Oka/Odoyev
 
+## Crimea
+### Crimea
+
+####;284;284 - Crimea;Crimea/Krim/Krym/Kirim
+
+####;285;285 - Kaffa;Caffa/Feodosija/Theodosia/Cafa/Kaffa/Feodosia/Kefe
+
+####;2410;2410 - Theodoro;Theodoro/Teodoro/Sevastopol
+
+####;2447;2447 - Mantrega;Mantrega/Tamatarha/Taman/Matrika/Hunkala
+
+### Lower Don
+
+####;288;288 - Cherkassk;Lower Don/Dolní Don/Ust-Medveditskaya
+
+####;467;467 - Borisoglebsk;Borisoglebsk
+
+####;1971;1971 - Tsaritsyn;Tsaritsyn/Caryczin
+
+####;2409;2409 - Bahmut;Bahmut/Bachmut/Veshensakaya
+
+### Astrakhan
+
+####;464;464 - Astrakhan;Astrakhan/Astrachan
+
+####;466;466 - Sarai;Sarai/Saraj/Kamyshin
+
+####;468;468 - Khazaria;Manych/Manycz
+
+####;2416;2416 - Majar;Majar/Stawropol/Stavropol
+
+####;2417;2417 - Kuma;Kuma/Elista
+
+### Zaporizhia
+
+####;283;283 - Zaporozhia;Zaporozhia/Zaporoshka/Zaporoze/Krivoi Rog
+
+####;2411;2411 - Mansur;Mansur/Kodak/Ekaterinoslav
+
+####;2412;2412 - Kyzyl-Yar;Kyzyl-Yar/Melitopol/Mariupol
+
+### Yedisan
+
+####;282;282 - Yedisan;Yedisan/Jedisan/Jedysan/Ochakov/Özü/Hocabey
+
+####;1974;1974 - Yedishkul;Yedishkul/Cherson
+
+####;2406;2406 - Ingil;Ingil/Ingul/Nikolaev
+
+### Azov
+
+####;286;286 - Azow;Azov/Azow
+
+####;287;287 - Kouban;Kuban/Ekaterinodar
+
+####;2413;2413 - Tyn;Tyn/Novocherkassk
+
+####;2414;2414 - Azaraba;Azaraba/Tichorieck/Tichoretsk
+
 ## Balkans
 ### Croatia
 
-####;131;131 - Zagorje;Zagreb/Záhreb/Agram/Zágráb/Zagrabia
+c_zagreb;131;131 - Zagorje;Zagreb - Zagreb
+c_okic;131;131 - Zagorje;Okic - Zagreb
+c_vodica;131;131 - Zagorje;Vodica - Zagreb
 
-####;152;152 - Belovar;Varasd/Varazdin/Bellowar/Varasdinum
+c_varadzin;152;152 - Belovar;Zagorje - Varasd
+c_varadzin;152;152 - Belovar;Duplicate to increase weight
+c_varadzin;152;152 - Belovar;Duplicate to increase weight
+c_zagreb;152;152 - Belovar;Zagreb - Varasd
+c_pozega;152;152 - Belovar;Požega - Varasd
 
-####;1767;1767 - Veroce;Slavonia/Slavonie/Slawonien/Sclavonia/Slavonija/Sirem
+c_krizevci;1767;1767 - Veroce;Vukova - Slavonia
+c_pozega;1767;1767 - Veroce;Požega - Slavonia
 
-####;1828;1828 - Soli;Donji Kraji/Dolní Kraj/Partes Inferiores/Tarsatica/Travik
+c_donjikraji;1828;1828 - Soli;Donji Kraji - Donji Kraji
+c_vrbas;1828;1828 - Soli;Vrbas - Donji Kraji
+c_rama;1828;1828 - Soli;Rama - Donji Kraji
+c_zavrsje;1828;1828 - Soli;Zavrsje - Donji Kraji
 
 ### East Adriatic
 
-####;136;136 - Dalmatia;Dalmatia/Dalmacija/Dalmacie/Dalmatien
+d_dalmatia;136;136 - Dalmatia;Duchy Dalmacija - Dalmatia
+c_split;136;136 - Dalmatia;Cetina - Dalmatia
+c_split;136;136 - Dalmatia;Duplicate to increase weight
+c_knin;136;136 - Dalmatia;Knin - Dalmatia
+c_omis;136;136 - Dalmatia;Omis - Dalmatia
+c_bribir;136;136 - Dalmatia;Bribir - Dalmatia
+c_zadar;136;136 - Dalmatia;Zadar - Dalmatia
+c_hvar;136;136 - Dalmatia;Hvar - Dalmatia
 
-####;137;137 - Ragusa;Ragusa/Dubrovnik/Ragusium
+c_ragusa;137;137 - Ragusa;Dubrovnik - Ragusa
+c_ragusa;137;137 - Ragusa;Duplicate to increase weight
+c_korcula;137;137 - Ragusa;Korcula - Ragusa
 
-####;1826;1826 - Lika;Lika
+c_senj;1826;1826 - Lika;Lika - Lika
+c_modrus;1826;1826 - Lika;Modruš - Lika
 
 ### Bosnia
 
-####;139;139 - Hum;Hum/Zachlumia/Hersek
+c_zachlumia;139;139 - Hum;Podgorje - Hum
+c_zachlumia;139;139 - Hum;Duplicate to increase weight
+c_zachlumia;139;139 - Hum;Duplicate to increase weight
+c_zachlumia;139;139 - Hum;Duplicate to increase weight
+c_zavrsje;139;139 - Hum;Zavrsje - Hum
+c_rama;139;139 - Hum;Rama - Hum
+c_vrhbosna;139;139 - Hum;Vrhbosna - Hum
 
-####;140;140 - Bosnia;Bosnia/Bosna
+c_vrhbosna;140;140 - Bosnia;Vrhbosna - Bosnia
+c_usora;140;140 - Bosnia;Usora - Bosnia
+c_soli;140;140 - Bosnia;Soli - Bosnia
 
-####;1831;1831 - Travunia;Travunia/Travunien/Trebine
+c_travunija;1831;1831 - Travunia;Travunija - Travunia
 
-####;3002;3002 - Sarajevo;Visoki/Sarajewo/Visoka
+c_polimlje;3002;3002 - Sarajevo;Polimlje - Visoki
+c_polimlje;3002;3002 - Sarajevo;Duplicate to increase weight
+c_polimlje;3002;3002 - Sarajevo;Duplicate to increase weight
+c_zachlumia;3002;3002 - Sarajevo;Podgorje - Visoki
+c_zachlumia;3002;3002 - Sarajevo;Duplicate to increase weight
+c_hum;3002;3002 - Sarajevo;Podrinje - Visoki
+c_hum;3002;3002 - Sarajevo;Duplicate to increase weight
+c_vrhbosna;3002;3002 - Sarajevo;Vrhbosna - Visoki
 
 ### Serbia
 
-####;138;138 - Zeta;Zeta/Crna Gora/Dioclea/Iskodra
+c_zeta;138;138 - Zeta;Crna Gora - Zeta
+c_zeta;138;138 - Zeta;Duplicate to increase weight
+c_zeta;138;138 - Zeta;Duplicate to increase weight
+c_primorje;138;138 - Zeta;Primorje - Zeta
+c_primorje;138;138 - Zeta;Duplicate to increase weight
+c_travunija;138;138 - Zeta;Travunija - Zeta
 
-####;141;141 - Serbia;Serbia/Srbija/Srbsko/Serbien/Szendro/Semendire
+c_belgrade;141;141 - Serbia;Belgrad - Serbia
+c_macva;141;141 - Serbia;Macva - Serbia
+c_branicevo;141;141 - Serbia;Branicevo - Serbia
 
-####;1766;1766 - Kosovo;Kosovo/Kosovia/Kosova
+c_prizren;1766;1766 - Kosovo;Hvosno - Kosovo
+c_prizren;1766;1766 - Kosovo;Duplicate to increase weight
+c_skopje;1766;1766 - Kosovo;Skopje - Kosovo
 
-####;1827;1827 - Raska;Raska/Raschka/Rascia/Yeni Pazar
+c_rashka;1827;1827 - Raska;Rashka - Raska
+c_rashka;1827;1827 - Raska;Duplicate to increase weight
+c_rashka;1827;1827 - Raska;Duplicate to increase weight
+c_polimlje;1827;1827 - Raska;Polimlje - Raska
+c_prizren;1827;1827 - Raska;Hvosno - Raska
 
-####;3000;3000 - Nis;Nis/Nish/Nisch/Naissus
+c_naissus;3000;3000 - Nis;Niš - Nis
+c_naissus;3000;3000 - Nis;Duplicate to increase weight
+c_velbazhd;3000;3000 - Nis;Velbazhd - Nis
 
 ### Bulgaria
 
-####;150;150 - Tarnovo;Tarnovo/Trnovo/Nikápoly/Ternobum/Nigbolu
+c_tyrnovo;150;150 - Tarnovo;Tarnovo - Tarnovo
+c_tyrnovo;150;150 - Tarnovo;Duplicate to increase weight
+c_nikopolis;150;150 - Tarnovo;Kran - Tarnovo
 
-####;159;159 - Silistria;Silistria/Drastar/Durosztol/Durostorum/Silistre
+c_karvuna;159;159 - Silistria;Karvuna - Silistria
+c_karvuna;159;159 - Silistria;Duplicate to increase weight
+c_dorostotum;159;159 - Silistria;Preslav - Silistria
+c_dorostotum;159;159 - Silistria;Duplicate to increase weight
+c_constantia;159;159 - Silistria;Konstanta - Silistria
 
-####;1765;1765 - Nis;Sofia/Sofija/Sofie/Szeredoc/Serdica/Sofya
+c_serdica;1765;1765 - Nis;Sredets - Sofia
+c_serdica;1765;1765 - Nis;Duplicate to increase weight
+c_velbazhd;1765;1765 - Nis;Velbazhd - Sofia
+c_strumica;1765;1765 - Nis;Strumica - Sofia
 
-####;2746;2746 - Vidin;Vidin/Bodony/Bononia
+c_vidin;2746;2746 - Vidin;Vidin - Vidin
 
-####;2750;2750 - Plovdiv;Plovdiv/Philippopolis/Filibe
+c_philippopolis;2750;2750 - Plovdiv;Plovdiv - Plovdiv
+c_kopsis;2750;2750 - Plovdiv;Kopsis - Plovdiv
+c_mesembria;2750;2750 - Plovdiv;Zagore - Plovdiv
+c_adrianopolis;2750;2750 - Plovdiv;Adrianopol - Plovdiv
 
 ### Macedonia
 
-####;143;143 - Albania;Albania/Albanija/Albánie/Albanien
+d_dyrrachion;143;143 - Albania;Duchy Dyrráchiou - Albania
+c_arbanon;143;143 - Albania;Arbër - Albania
+c_arbanon;143;143 - Albania;Duplicate to increase weight
+c_dyrrachion;143;143 - Albania;Dyrrakhiou - Albania
+c_valona;143;143 - Albania;Aulona - Albania
+c_zeta;143;143 - Albania;Crna Gora - Albania
 
-####;148;148 - Thessaloniki;Macedonia/Solun/Makedonie/Makedonien/Makedonija/Selanik
+d_thessalonika;148;148 - Thessaloniki;Duchy Thessalonikes - Macedonia
+c_thessalonike;148;148 - Thessaloniki;Thessaloníke - Macedonia
+c_thessalonike;148;148 - Thessaloniki;Duplicate to increase weight
+c_strymon;148;148 - Thessaloniki;Strymonos - Macedonia
+c_chalkidike;148;148 - Thessaloniki;Chalkidike - Macedonia
+c_veria;148;148 - Thessaloniki;Verroia - Macedonia
+c_strumica;148;148 - Thessaloniki;Strumica - Macedonia
 
-####;1853;1853- Kastoria;Kastoria/Castoria/Kesriye
+c_ochrid;1853;1853- Kastoria;Ohrid - Kastoria
+c_ochrid;1853;1853- Kastoria;Duplicate to increase weight
+c_upper_wallachia;1853;1853- Kastoria;Megále Vlachia - Kastoria
 
-####;3001;3001 - Skopje;Skopje/Skoplje/Scopia/Üsküp
+c_skopje;3001;3001 - Skopje;Skopje - Skopje
+c_skopje;3001;3001 - Skopje;Duplicate to increase weight
+c_velbazhd;3001;3001 - Skopje;Velbazhd - Skopje
+c_strumica;3001;3001 - Skopje;Strumica - Skopje
 
 ### Northern Greece
 
-####;142;142 - Corfu;Corfu/Krf/Korfu/Corcyra
+c_corfu;142;142 - Corfu;Kérkyra - Corfu
 
-####;144;144 - Janina;Epirus/Epir/Yanya
+d_epirus;144;144 - Janina;Duchy Nikopoleos - Epirus
+c_epeiros;144;144 - Janina;Epeiros - Epirus
+c_epeiros;144;144 - Janina;Duplicate to increase weight
+c_arta;144;144 - Janina;Nikopolis - Epirus
+c_arta;144;144 - Janina;Duplicate to increase weight
+c_hellas;144;144 - Janina;Naupaktos - Epirus
+c_cephalonia;144;144 - Janina;Kephallenia - Epirus
 
-####;147;147 - Salonica;Thessaly/Tesalija/Thesálie/Thessalien/Tirhala
+c_thessalia;147;147 - Salonica;Thessalía - Thessaly
+c_thessalia;147;147 - Salonica;Duplicate to increase weight
+c_demetrias;147;147 - Salonica;Demetrias - Thessaly
+c_neopatras;147;147 - Salonica;Neai Patrai - Thessaly
+c_upper_wallachia;147;147 - Salonica;Megále Vlachia - Thessaly
+c_veria;147;147 - Salonica;Verroia - Thessaly
 
 ### Morea
 
-####;145;145 - Morea;Morea/Moreja/Anabolu
+c_monemvasia;145;145 - Morea;Lakonia - Morea
+c_monemvasia;145;145 - Morea;Duplicate to increase weight
+c_arcadia;145;145 - Morea;Arkadia - Morea
 
-####;146;146 - Athens;Athens/Atina/Athény/Athen/Athenae
+c_atheniai;146;146 - Athens;Attika - Athens
+c_thebai;146;146 - Athens;Boiotía - Athens
 
-####;1773;1773 - Achaea;Achaea/Achaja/Achaia/Ballibadra
+c_achaia;1773;1773 - Achaea;Achaía - Achaea
+c_achaia;1773;1773 - Achaea;Duplicate to increase weight
+c_korinthos;1773;1773 - Achaea;Korinthos - Achaea
+c_korinthos;1773;1773 - Achaea;Duplicate to increase weight
+c_arcadia;1773;1773 - Achaea;Arkadia - Achaea
+c_methone;1773;1773 - Achaea;Messinia - Achaea
 
 ### Western Aegean
 
-####;163;163 - Crete;Crete/Kreta/Kréta/Creta
+d_krete;163;163 - Crete;Duchy Kretes - Crete
+c_kaneia;163;163 - Crete;Chaneia - Crete
+c_chandax;163;163 - Crete;Khándax - Crete
 
-####;164;164 - Naxos;Naxos/Cikladi/Naxia/Naksa Berre
+c_naxos;164;164 - Naxos;Kykládes - Naxos
 
-####;3003;3003 - Euboea;Euboea/Negroponte/Euböa/Egriboz
+c_euboia;3003;3003 - Euboea;Euripos - Euboea
 
 ### Thrace
 
-####;149;149 - Edirne;Edirne/Drinopolje/Drinopol/Drinápoly/Adrianopolis/Jedrinje
+c_adrianopolis;149;149 - Edirne;Adrianopol - Edirne
+c_adrianopolis;149;149 - Edirne;Duplicate to increase weight
+c_traianopolis;149;149 - Edirne;Traianopolis - Edirne
+c_mosynopolis;149;149 - Edirne;Mosynopolis - Edirne
+c_kaliopolis;149;149 - Edirne;Kallipolis - Edirne
+c_kaliopolis;149;149 - Edirne;Duplicate to increase weight
+c_thrake;149;149 - Edirne;Thráke - Edirne
 
-####;151;151 - Constantinople;Constantinople/Carigrad/Carihrad/Konstantinopel/Konstantinápoly/Constantinopolis/Tsargrad/Tsarigrad/Kostantiniyye
+c_byzantion;151;151 - Constantinople;Konstantinoupolis - Constantinople
+c_byzantion;151;151 - Constantinople;Duplicate to increase weight
+c_byzantion;151;151 - Constantinople;Duplicate to increase weight
+c_thrake;151;151 - Constantinople;Thráke - Constantinople
+c_kaliopolis;151;151 - Constantinople;Kallipolis - Constantinople
 
-####;1764;1764 - Burgas;Burgas/Burgus/Kirkkilise
+c_thrake;1764;1764 - Burgas;Thráke - Burgas
+c_mesembria;1764;1764 - Burgas;Zagore - Burgas
 
-## Mongolia
-### Outer Mongolia
+## Carpathia
+### Transdanubia
 
-####;717;717 - Kherlen;Kherlen
+####;135;135 - Sopron;Sopron/shopron/Ödenburg/Scarbantia
 
-####;720;720 - Dorno Govi;Dornogovi
+####;153;153 - Pest;Pest/Peshta/Pestinum/Pest-Budin/Budin
 
-####;721;721 - Setsen;Setsen
+####;1864;1864 - Somogy;Somogy/Schomodei/Kopan
 
-####;2116;2116 - Ih Huree;Ih Huree
+####;4126;4126 - Bacs;Bacs/Segedin
 
-####;2189;2189 - Tsetserleg;Tsetserleg
+### Alföld
 
-####;2190;2190 - Qaraqorum;Qaraqorum
+####;155;155 - Bekes;Bekes/Göle
 
-####;2193;2193 - Govi;Govi
+####;1953;1953 - Szabolcs;Szabolcs/Saboltsch/Debrecín/Debrecin
 
-### Inner Mongolia
+####;1954;1954 - Torontal;Torontal/Vojvodina/Beçkerek
 
-####;722;722 - Jirem;Jirem
+####;4125;4125 - Szolnok;Szolnok/Solník/Eger
 
-####;723;723 - Xilin Gol;Xilin Gol
+### Slovakia
 
-####;2109;2109 - Boduna;Boduna
+####;154;154 - Ersekujvar;Érsekújvár/Spish/Nové Zámky/Neuhäusel/Nitra/Uyvar
 
-####;2114;2114 - Ereen;Ereen
+####;162;162 - Zemplen;Zemplen/Koshice/Semmlin/Zemplin/Prashev
 
-####;2115;2115 - Chahar;Chahar
+####;1318;1318 - Spis;Spiš/Spisz/Szepes/Spis
 
-####;2187;2187 - Sartu;Sartu
+####;1772;1772 - Pozsony;Pozsony/Presporok/Pressburg/Pozon
 
-### Ordos
+### Transylvania
 
-####;701;701 - Ordos;Ordos
+####;156;156 - Temes;Temes/Temishvar/Temesch/Timis
 
-####;702;702 - Hohhot;Hohhot
+####;157;157 - Bihar;Bihar/Veliki Varadin/Bihor/Varad
 
-####;709;709 - Alxa;Alxa
+####;158;158 - Maros;Maros/Maruse/Marosch/Mures
 
-####;2191;2191 - Ejin;Ejin
+####;1951;1951 - Hunyad;Hunyad/Eisenmarkt/Hunedoara
 
-####;2747;2747 - Khara Narin Ula;Khara Narin Ula
+####;1952;1952 - Maramaros;Maramaros/Marmarosch/Maramures/Zakarpathia
 
-### Zungaria
+####;4127;4127 - Turda;Turda/Torda
 
-####;713;713 - Bechbaliq;Bechbaliq
+####;4128;4128 - Kiralyfold;Kiralyföld
 
-####;714;714 - Hoboksar;Hoboksar
+### Wallachia
 
-####;715;715 - Urumqi;Urumqi/Urumçi
+####;160;160 - Oltenia;Oltenia/Oltenija/Oltenie/Oltenien/Dacia Malvensis
 
-####;2118;2118 - Urzhar;Urzhar
+####;161;161 - Tirgoviste;Tîrgoviste/Trgovishte/Trhoviste/Tergowisch/Targoviste/Bükres
 
-####;2119;2119 - Chuguchak;Chuguchak
+####;2998;2998 - Buzau;Buzau/Busäu/Bodzavásár
 
-####;2120;2120 - Ili;Ili
+### Moldavia
 
-####;2122;2122 - Hami;Hami
+####;268;268 - Moldavia;Moldavia/Moldavija/Moldávie/Moldau/Moldova/Bogdan
 
-### Altai Sayan
+####;1756;1756 - Budjak;Bessarabia/Besarábie/Bessarabien/Moesia/Basarabia/Akkerman
 
-####;716;716 - Tannu Uriankhai;Tannu Uriankhai/Belotsarsk
-
-####;718;718 - Kobdo;Kobdo
-
-####;719;719 - Uliastai;Uliastai
-
-####;1065;1065 - Kuznetsk;Kuznetsk
-
-####;1066;1066 - Altai;Altai Uriankhai
-
-####;2117;2117 - Zasagt;Zasagt
-
-## Oceania (off-map)
-## Baltic
-### Lithuania
-
-####;270;270 - Troki;Trakai/Troky/Traken/Troki
-
-####;271;271 - Samogitia;Samogitia/Samogitija/Zmud/Schemaiten/Zemaitija/Zmudz
-
-####;272;272 - Lithuania;Vilna/Litva/Vilno/Wilno
-
-####;770;770 - Braslaw;Braslaw/Braslav
-
-####;1936;1936 - Kovno;Kovno/Kauen/Kowno
-
-####;1937;1937 - Grodno;Grodno/Garten
-
-### Livonia
-
-####;37;37 - Livland;Livland/Livonija/Lifland/Liefland/Césis/Liwlandia/Pernov
-
-####;38;38 - Riga;Riga/Ryga
-
-####;273;273 - Latgalia;Latgalia/Latgalija/Lettgallen/Daugpilis
-
-####;1834;1834 - Dorpat;Dorpat/Dörpt/Tartu/Uriev
-
-### Estonia
-
-####;34;34-Ingermanland;Ingermanland/Ingria
-
-####;36;36 - Estland;Reval/Estonija/Talinas/Rewal
-
-####;1842;1842 - Narva;Narva/Narwa
-
-### Curonia
-
-####;35;35 - Osel;Ösel/Øsel/Sarema/Ozylia/Ezel
-
-####;39;39 - Kurland;Goldingen/Kursas/Goldynga
-
-####;1935;1935 - Semigallia;Mitau/Mitava/Ziemgala/Mitawa
-
-### West Prussia
-
-####;42;42 - Warmia;Warmia/Varmia/Varmie/Ermland/Varmé
-
-####;43;43 - Danzig;Danzig/Dánzig/Gdanjsk/Gdansk/Dantzig/Gdanskas
-
-####;1841;1841 - Marienburg;Marienburg/Mariemburgo/Malbork/Marienbourg/Marienburgas
-
-####;1859;1859 - Torun;Chelmno/Chlumno/Culm/Kulm/Kulmas
-
-####;2997;2997 - Pomorskie;Tuchola/Tuchel
-
-### East Prussia
-
-####;40;40 - Memel;Memel/Klajpeda/Klaipéda
-
-####;41;41 - Konigsberg;Königsberg/Prusia Oriental/Královec/Prusse orientale/Karaliaucius/Królewiec
-
-####;767;767 - Ortelsburg;Ortelsburg/Ortelsburk/Szczytno
-
-####;2958;2958 - Osterode;Osterode/Ostroda/Ostróda
+####;2405;2405 - Bendery;Bender/Tighina
 
 ## Central Asia
 ### Nogai
@@ -552,69 +797,82 @@
 
 ####;2356;2356 - Shymkent;Shymkent/Chimkent
 
-## Carpathia
-### Transdanubia
+## West Siberia (off-map)
+## East Siberia (off-map)
+## Mongolia
+### Outer Mongolia
 
-####;135;135 - Sopron;Sopron/shopron/Ödenburg/Scarbantia
+####;717;717 - Kherlen;Kherlen
 
-####;153;153 - Pest;Pest/Peshta/Pestinum/Pest-Budin/Budin
+####;720;720 - Dorno Govi;Dornogovi
 
-####;1864;1864 - Somogy;Somogy/Schomodei/Kopan
+####;721;721 - Setsen;Setsen
 
-####;4126;4126 - Bacs;Bacs/Segedin
+####;2116;2116 - Ih Huree;Ih Huree
 
-### Alföld
+####;2189;2189 - Tsetserleg;Tsetserleg
 
-####;155;155 - Bekes;Bekes/Göle
+####;2190;2190 - Qaraqorum;Qaraqorum
 
-####;1953;1953 - Szabolcs;Szabolcs/Saboltsch/Debrecín/Debrecin
+####;2193;2193 - Govi;Govi
 
-####;1954;1954 - Torontal;Torontal/Vojvodina/Beçkerek
+### Inner Mongolia
 
-####;4125;4125 - Szolnok;Szolnok/Solník/Eger
+####;722;722 - Jirem;Jirem
 
-### Slovakia
+####;723;723 - Xilin Gol;Xilin Gol
 
-####;154;154 - Ersekujvar;Érsekújvár/Spish/Nové Zámky/Neuhäusel/Nitra/Uyvar
+####;2109;2109 - Boduna;Boduna
 
-####;162;162 - Zemplen;Zemplen/Koshice/Semmlin/Zemplin/Prashev
+####;2114;2114 - Ereen;Ereen
 
-####;1318;1318 - Spis;Spiš/Spisz/Szepes/Spis
+####;2115;2115 - Chahar;Chahar
 
-####;1772;1772 - Pozsony;Pozsony/Presporok/Pressburg/Pozon
+####;2187;2187 - Sartu;Sartu
 
-### Transylvania
+### Ordos
 
-####;156;156 - Temes;Temes/Temishvar/Temesch/Timis
+####;701;701 - Ordos;Ordos
 
-####;157;157 - Bihar;Bihar/Veliki Varadin/Bihor/Varad
+####;702;702 - Hohhot;Hohhot
 
-####;158;158 - Maros;Maros/Maruse/Marosch/Mures
+####;709;709 - Alxa;Alxa
 
-####;1951;1951 - Hunyad;Hunyad/Eisenmarkt/Hunedoara
+####;2191;2191 - Ejin;Ejin
 
-####;1952;1952 - Maramaros;Maramaros/Marmarosch/Maramures/Zakarpathia
+####;2747;2747 - Khara Narin Ula;Khara Narin Ula
 
-####;4127;4127 - Turda;Turda/Torda
+### Zungaria
 
-####;4128;4128 - Kiralyfold;Kiralyföld
+####;713;713 - Bechbaliq;Bechbaliq
 
-### Wallachia
+####;714;714 - Hoboksar;Hoboksar
 
-####;160;160 - Oltenia;Oltenia/Oltenija/Oltenie/Oltenien/Dacia Malvensis
+####;715;715 - Urumqi;Urumqi/Urumçi
 
-####;161;161 - Tirgoviste;Tîrgoviste/Trgovishte/Trhoviste/Tergowisch/Targoviste/Bükres
+####;2118;2118 - Urzhar;Urzhar
 
-####;2998;2998 - Buzau;Buzau/Busäu/Bodzavásár
+####;2119;2119 - Chuguchak;Chuguchak
 
-### Moldavia
+####;2120;2120 - Ili;Ili
 
-####;268;268 - Moldavia;Moldavia/Moldavija/Moldávie/Moldau/Moldova/Bogdan
+####;2122;2122 - Hami;Hami
 
-####;1756;1756 - Budjak;Bessarabia/Besarábie/Bessarabien/Moesia/Basarabia/Akkerman
+### Altai Sayan
 
-####;2405;2405 - Bendery;Bender/Tighina
+####;716;716 - Tannu Uriankhai;Tannu Uriankhai/Belotsarsk
 
+####;718;718 - Kobdo;Kobdo
+
+####;719;719 - Uliastai;Uliastai
+
+####;1065;1065 - Kuznetsk;Kuznetsk
+
+####;1066;1066 - Altai;Altai Uriankhai
+
+####;2117;2117 - Zasagt;Zasagt
+
+## Manchuria (off-map)
 ## Tibet
 ### U-Tsang
 
@@ -670,158 +928,10 @@
 
 ####;2192;2192 - Korla;Korla
 
-## Manchuria (off-map)
-## Poland
-### Wielkopolska
-
-####;254;254 - Poznan;Poznan/Posen
-
-####;255;255 - Kalisz;Kalisz/Kalis/Gnesen
-
-####;258;258 - Lodz;Sieradz/Schieratz
-
-####;1939;1939 - Leczyca;Leczyca/Lentschiza/Lentschitza
-
-####;2963;2963 - Notec;Notec/Netzeland/Netze
-
-### Malopolska
-
-####;259;259 - Sandomierz;Sandomierz/Sandomer/Sandomir
-
-####;260;260 - Lublin;Lublin
-
-####;262;262 - Krakow;Krakow/Krakov/Krakau/Krakkó/Kraków
-
-####;2959;2959 - Tarnow;Tarnow/Tarnov/Tarnau/Tarnów
-
-####;2960;2960 - Sadecki;Nowy Sacz/Novy Sadec/Neu Sandec/Újszandec
-
-### Red Ruthenia
-
-####;261;261 - Halicz;Halicz/Galic/Halic/Halitsch
-
-####;1940;1940 - Belz;Belz/Bels
-
-####;2424;2424 - Peremyshl;Peremyshl/Premysl/Premissel/Przemysl
-
-####;2961;2961 - Lwow;Lwow/Lvov/Lemberg/Lwów
-
-### Mazovia
-
-####;256;256 - Plock;Plock/Plozk
-
-####;257;257 - Warszawa;Warszawa/Varsava/Warschava/Warschau/Varsó
-
-####;269;269 - Podlasia;Podlasie/Podlesí/Podlachien/Palenké
-
-####;1938;1938 - Wizna;Wizna
-
-### Silesia
-
-####;263;263 - Ratibor;Ratibor/Racibórz
-
-####;264;264 - Breslau;Breslau/Vratislavija/Vratislav/Boroszló/Wroclaw
-
-####;2966;2966 - Leignitz;Glogau/Hlohov/Glogów
-
-## East Siberia (off-map)
-## West Siberia (off-map)
-## Russia
-### Moscow
-
-####;294;294 - Tver;Tver/Tveer/Twer
-
-####;295;295 - Moskva;Moskva/Moscau/Moskwa
-
-####;307;307 - Vladimir;Vladimir/Wlodzimierz
-
-####;308;308 - Yaroslavl;Yaroslavl/Jaroslavl/Jaroslaw
-
-### Suzdal
-
-####;1753;1753 - Kostroma;Kostroma
-
-####;1754;1754 - Orel;Murom
-
-####;1956;1956 - Suzdal;Suzdal
-
-### Novgorod
-
-####;310;310 - Novgorod;Novgorod/Nowogród
-
-####;1752;1752 - Rzhev;Rzhev/Rzev/Rzew
-
-####;1959;1959 - Torzhok;Torzhok/Torzok
-
-### Pskov
-
-####;274;274 - Pskov;Pskov/Psków
-
-####;311;311 - Kholm;Kholm/Cholm
-
-####;1960;1960 - Ostrov;Ostrov/Ostrów
-
-### Beloozero
-
-####;312;312 - Vologda;Beloozero/Bieloziersk
-
-####;314;314 - Vologda;Vologda/Wologda
-
-####;2749;2749 - Tikhvin;Tikhvin/Tichwin
-
-####;4117;4117 - Bezhetsk;Bezhetsk
-
-### Pomorye
-
-####;313;313 - Soroka;Soroka/Archangielsk
-
-####;1755;1755 - Ustyug;Ustyug/Wielki Ustiug
-
-####;1955;1955 - Kholmogory;Kholmogory/Cholmogory
-
-####;1958;1958 - Kargopol;Kargopol
-
-####;4122;4122 - Shenkursk;Shenkursk
-
-### Karelia
-
-####;30;30-Viborg;Viborg/Viipuri/Vyborg
-
-####;32;32-Keksholm;Kexholm/Priozersk/Prioziersk/Korela
-
-####;33;33-Neva;Neva/Newa/Nöteborg
-
-####;309;309 - Olonets;Olonets/Oloniec
-
-####;1776;1776-Karelia;Kem
-
-####;1777;1777-Kola;Kola
-
-####;1961;1961 - Ladoga;Ladoga
-
-####;4124;4124 - Kovero;Karelia/Karélie/Karelen
-
-### Ryazan
-
-####;300;300 - Tula;Tula
-
-####;301;301 - Ryazan;Ryazan/Rjazan/Riazan
-
-####;1778;1778 - Kasimov;Kasimov/Kasimow
-
-### Tambov
-
-####;302;302 - Tambow;Tambov/Tambow
-
-####;304;304 - Pensa;Penza
-
-####;2408;2408 - Lipetsk;Lipetsk/Lipieck
-
-####;2415;2415 - Etkara;Etkara/Chopior/Atkarsk
-
-## Caribbeans (off-map)
 ## Japan (off-map)
 ## Australia (off-map)
+## Oceania (off-map)
+## Caribbeans (off-map)
 # India
 ## Bengal (off-map)
 ## Hindustan
@@ -2104,6 +2214,7 @@ c_celje;129;129 - Krain;Celje - Krain
 d_istria;130;130 - Istria;Duchy Istra - Istria
 c_istria;130;130 - Istria;Merania - Istria
 c_trieste;130;130 - Istria;Duino - Istria
+c_veglia;130;130 - Istria;Krk - Istria
 
 c_gorz;1769;1769 - Gorz;Görz - Görz
 c_gorz;1769;1769 - Gorz;Duplicate to increase weight

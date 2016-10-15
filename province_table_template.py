@@ -23,7 +23,7 @@ def main():
                 match = re.fullmatch(r'\s*([^#\s:]+):\d?\s*"(.*)"[^"]*', line)
                 if match:
                     localize[match.group(1)] = match.group(2)
-    areas, regions, superregions = {}, {}, collections.OrderedDict()
+    areas, regions, superregions = {}, collections.OrderedDict(), collections.OrderedDict()
     for n, v in parser.parse_file(eu4root / 'map/area.txt'):
         areas[n.val] = [v2.val for v2 in v]
     with (eu4root / 'map/region.txt').open(encoding='cp1252') as f:
@@ -35,8 +35,8 @@ def main():
     for n, v in parser.parse_file(eu4root / 'map/superregion.txt'):
         if v.contents:
             superregions[n.val] = [v2.val for v2 in v]
-    orphan_regions = collections.OrderedDict((rn, rv) for rn, rv in regions.items()
-        if not any(rn in srv for srv in superregions.values()))
+    orphan_regions = [rn for rn, rv in regions.items()
+                      if not any(rn in srv for srv in superregions.values())]
     history = {}
     for path in (eu4root / 'history/provinces').iterdir():
         num = int(re.match(r'\d+', path.stem).group())
