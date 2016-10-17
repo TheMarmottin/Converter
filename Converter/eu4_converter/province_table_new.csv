@@ -618,65 +618,149 @@ c_mesembria;1764;1764 - Burgas;Zagore - Burgas
 ## Carpathia
 ### Transdanubia
 
-####;135;135 - Sopron;Sopron/shopron/Ödenburg/Scarbantia
+d_gyor;135;135 - Sopron;Duchy Gyõr - Sopron
+c_sopron;135;135 - Sopron;Sopron - Sopron
+c_vas;135;135 - Sopron;Kolon - Sopron
+c_vas;135;135 - Sopron;Duplicate to increase weight
+c_pest;135;135 - Sopron;Veszprém - Sopron
+c_gemer;135;135 - Sopron;Gyõr - Sopron
 
-####;153;153 - Pest;Pest/Peshta/Pestinum/Pest-Budin/Budin
+d_esztergom;153;153 - Pest;Duchy Visegrád - Pest
+c_esztergom;153;153 - Pest;Visegrád - Pest
+c_esztergom;153;153 - Pest;Duplicate to increase weight
+c_esztergom;153;153 - Pest;Duplicate to increase weight
+c_fejer;153;153 - Pest;Fejér - Pest
+c_fejer;153;153 - Pest;Duplicate to increase weight
+c_szekezfehervar;153;153 - Pest;Csongrád - Pest
+c_szekezfehervar;153;153 - Pest;Duplicate to increase weight
+c_komarom;153;153 - Pest;Komarom - Pest
+c_hont;153;153 - Pest;Hont - Pest
 
-####;1864;1864 - Somogy;Somogy/Schomodei/Kopan
+c_pecs;1864;1864 - Somogy;Tolna - Somogy
+c_pecs;1864;1864 - Somogy;Duplicate to increase weight
+c_pecs;1864;1864 - Somogy;Duplicate to increase weight
+c_bereg;1864;1864 - Somogy;Somogy - Somogy
+c_bereg;1864;1864 - Somogy;Duplicate to increase weight
+c_pest;1864;1864 - Somogy;Veszprém - Somogy
+c_fejer;1864;1864 - Somogy;Fejér - Somogy
 
-####;4126;4126 - Bacs;Bacs/Segedin
+c_bacs;4126;4126 - Bacs;Bodrog - Bacs
+c_bacs;4126;4126 - Bacs;Duplicate to increase weight
+c_bacs;4126;4126 - Bacs;Duplicate to increase weight
+c_bacs;4126;4126 - Bacs;Duplicate to increase weight
+c_syrmia;4126;4126 - Bacs;Szerém - Bacs
+c_syrmia;4126;4126 - Bacs;Duplicate to increase weight
+c_krizevci;4126;4126 - Bacs;Vukova - Bacs
 
 ### Alföld
 
-####;155;155 - Bekes;Bekes/Göle
+c_bekes;155;155 - Bekes;Békés - Bekes
+c_zarand;155;155 - Bekes;Zaránd - Bekes
+c_csanad;155;155 - Bekes;Csanad - Bekes
 
-####;1953;1953 - Szabolcs;Szabolcs/Saboltsch/Debrecín/Debrecin
+c_bihar;1953;1953 - Szabolcs;Bihar - Szabolcs
+c_bihar;1953;1953 - Szabolcs;Duplicate to increase weight
+c_marmaros;1953;1953 - Szabolcs;Szatmár - Szabolcs
 
-####;1954;1954 - Torontal;Torontal/Vojvodina/Beçkerek
+c_temes;1954;1954 - Torontal;Temes - Torontal
+c_temes;1954;1954 - Torontal;Duplicate to increase weight
+c_krasso;1954;1954 - Torontal;Krassó - Torontal
 
-####;4125;4125 - Szolnok;Szolnok/Solník/Eger
+c_heves;4125;4125 - Szolnok;Heves - Szolnok
+c_heves;4125;4125 - Szolnok;Duplicate to increase weight
+c_heves;4125;4125 - Szolnok;Duplicate to increase weight
+c_esztergom;4125;4125 - Szolnok;Visegrád - Szolnok
+c_saris;4125;4125 - Szolnok;Borsod - Szolnok
 
 ### Slovakia
 
-####;154;154 - Ersekujvar;Érsekújvár/Spish/Nové Zámky/Neuhäusel/Nitra/Uyvar
+c_komarom;154;154 - Ersekujvar;Komarom - Érsekújvár
+c_trencin;154;154 - Ersekujvar;Trencsén - Érsekújvár
+c_trencin;154;154 - Ersekujvar;Duplicate to increase weight
+c_bars;154;154 - Ersekujvar;Bars - Érsekújvár
+c_bars;154;154 - Ersekujvar;Duplicate to increase weight
+c_hont;154;154 - Ersekujvar;Hont - Érsekújvár
+c_nitra;154;154 - Ersekujvar;Nyitra - Érsekújvár
 
-####;162;162 - Zemplen;Zemplen/Koshice/Semmlin/Zemplin/Prashev
+c_zemplen;162;162 - Zemplen;Zemplén - Zemplen
+c_zemplen;162;162 - Zemplen;Duplicate to increase weight
+c_zemplen;162;162 - Zemplen;Duplicate to increase weight
+c_abauj;162;162 - Zemplen;Abauj - Zemplen
+c_saris;162;162 - Zemplen;Borsod - Zemplen
 
-####;1318;1318 - Spis;Spiš/Spisz/Szepes/Spis
+c_szepes;1318;1318 - Spis;Szepes - Spiš
+c_hont;1318;1318 - Spis;Hont - Spiš
+c_orava;1318;1318 - Spis;Árva - Spiš
+c_bars;1318;1318 - Spis;Bars - Spiš
+c_saris;1318;1318 - Spis;Borsod - Spiš
 
-####;1772;1772 - Pozsony;Pozsony/Presporok/Pressburg/Pozon
+c_pressburg;1772;1772 - Pozsony;Pozsony - Pozsony
+c_pressburg;1772;1772 - Pozsony;Duplicate to increase weight
+c_nitra;1772;1772 - Pozsony;Nyitra - Pozsony
+c_nitra;1772;1772 - Pozsony;Duplicate to increase weight
+c_trencin;1772;1772 - Pozsony;Trencsén - Pozsony
 
 ### Transylvania
 
-####;156;156 - Temes;Temes/Temishvar/Temesch/Timis
+c_temes;156;156 - Temes;Temes - Temes
+c_temes;156;156 - Temes;Duplicate to increase weight
+c_krasso;156;156 - Temes;Krassó - Temes
 
-####;157;157 - Bihar;Bihar/Veliki Varadin/Bihor/Varad
+c_bihar;157;157 - Bihar;Bihar - Bihar
+c_bihar;157;157 - Bihar;Duplicate to increase weight
+c_marmaros;157;157 - Bihar;Szatmár - Bihar
 
-####;158;158 - Maros;Maros/Maruse/Marosch/Mures
+c_szekelyfold;158;158 - Maros;Torda - Maros
+c_szekelyfold;158;158 - Maros;Duplicate to increase weight
+c_burzenland;158;158 - Maros;Barcaság - Maros
 
-####;1951;1951 - Hunyad;Hunyad/Eisenmarkt/Hunedoara
+c_feher;1951;1951 - Hunyad;Fehér - Hunyad
+c_zarand;1951;1951 - Hunyad;Zaránd - Hunyad
 
-####;1952;1952 - Maramaros;Maramaros/Marmarosch/Maramures/Zakarpathia
+c_marmaros;1952;1952 - Maramaros;Szatmár - Maramaros
+c_marmaros;1952;1952 - Maramaros;Duplicate to increase weight
+c_zemplen;1952;1952 - Maramaros;Zemplén - Maramaros
 
-####;4127;4127 - Turda;Turda/Torda
+c_szekelyfold;4127;4127 - Turda;Torda - Turda
+c_szekelyfold;4127;4127 - Turda;Duplicate to increase weight
+c_feher;4127;4127 - Turda;Fehér - Turda
 
-####;4128;4128 - Kiralyfold;Kiralyföld
+c_feher;4128;4128 - Kiralyfold;Fehér - Kiralyföld
 
 ### Wallachia
 
-####;160;160 - Oltenia;Oltenia/Oltenija/Oltenie/Oltenien/Dacia Malvensis
+d_oltenia;160;160 - Oltenia;Duchy Oltenia - Oltenia
+c_severin;160;160 - Oltenia;Severin - Oltenia
+c_targujiu;160;160 - Oltenia;Targu Jiu - Oltenia
 
-####;161;161 - Tirgoviste;Tîrgoviste/Trgovishte/Trhoviste/Tergowisch/Targoviste/Bükres
+c_tirgoviste;161;161 - Tirgoviste;Tirgoviste - Tîrgoviste
+d_wallachia;161;161 - Tirgoviste;Duchy Muntenia - Tîrgoviste
+c_turnu;161;161 - Tirgoviste;Turnu - Tîrgoviste
 
-####;2998;2998 - Buzau;Buzau/Busäu/Bodzavásár
+c_buzau;2998;2998 - Buzau;Buzau - Buzau
+d_wallachia;2998;2998 - Buzau;Duchy Muntenia - Buzau
+c_ialomita;2998;2998 - Buzau;Ialomita - Buzau
+c_birlad;2998;2998 - Buzau;Bârlad - Buzau
 
 ### Moldavia
 
-####;268;268 - Moldavia;Moldavia/Moldavija/Moldávie/Moldau/Moldova/Bogdan
+c_torki;268;268 - Moldavia;Suceava - Moldavia
+c_torki;268;268 - Moldavia;Duplicate to increase weight
+c_torki;268;268 - Moldavia;Duplicate to increase weight
+c_bacau;268;268 - Moldavia;Bacau - Moldavia
+c_bacau;268;268 - Moldavia;Duplicate to increase weight
+c_bacau;268;268 - Moldavia;Duplicate to increase weight
+c_birlad;268;268 - Moldavia;Bârlad - Moldavia
+c_birlad;268;268 - Moldavia;Duplicate to increase weight
+c_belgorod;268;268 - Moldavia;Tighina - Moldavia
+c_iasi;268;268 - Moldavia;Iasi - Moldavia
 
-####;1756;1756 - Budjak;Bessarabia/Besarábie/Bessarabien/Moesia/Basarabia/Akkerman
+c_galaz;1756;1756 - Budjak;Basarabia - Bessarabia
+c_constantia;1756;1756 - Budjak;Konstanta - Bessarabia
 
-####;2405;2405 - Bendery;Bender/Tighina
+c_belgorod;2405;2405 - Bendery;Tighina - Bender
+c_galaz;2405;2405 - Bendery;Basarabia - Bender
+c_iasi;2405;2405 - Bendery;Iasi - Bender
 
 ## Central Asia
 ### Nogai
