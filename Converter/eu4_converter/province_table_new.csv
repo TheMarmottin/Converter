@@ -349,65 +349,130 @@ c_ural;2444;2444 - Bashgird;Chusovaya - Bashgird
 ## Baltic
 ### Lithuania
 
-####;270;270 - Troki;Trakai/Troky/Traken/Troki
+c_trakai;270;270 - Troki;Trakai - Trakai
+c_trakai;270;270 - Troki;Duplicate to increase weight
+c_trakai;270;270 - Troki;Duplicate to increase weight
+c_sudovia;270;270 - Troki;Sùduva - Trakai
+c_sudovia;270;270 - Troki;Duplicate to increase weight
+c_memel;270;270 - Troki;Karšuva - Trakai
+c_yatvyagi;270;270 - Troki;Dainava - Trakai
+c_aukshayts;270;270 - Troki;Lietuva - Trakai
 
-####;271;271 - Samogitia;Samogitia/Samogitija/Zmud/Schemaiten/Zemaitija/Zmudz
+c_zhmud;271;271 - Samogitia;Žëmaitëjë - Samogitia
+c_zhmud;271;271 - Samogitia;Duplicate to increase weight
+c_memel;271;271 - Samogitia;Karšuva - Samogitia
 
-####;272;272 - Lithuania;Vilna/Litva/Vilno/Wilno
+c_aukshayts;272;272 - Lithuania;Lietuva - Vilna
+c_lida;272;272 - Lithuania;Dzùkija - Vilna
+c_asmena;272;272 - Lithuania;Asmena - Vilna
 
-####;770;770 - Braslaw;Braslaw/Braslav
+c_braslaw;770;770 - Braslaw;Braslaw - Braslaw
+c_braslaw;770;770 - Braslaw;Duplicate to increase weight
+c_utena;770;770 - Braslaw;Nalshia - Braslaw
+c_utena;770;770 - Braslaw;Duplicate to increase weight
+c_utena;770;770 - Braslaw;Duplicate to increase weight
+c_deltuva;770;770 - Braslaw;Deltuva - Braslaw
+c_deltuva;770;770 - Braslaw;Duplicate to increase weight
+c_polotsk;770;770 - Braslaw;Polotsk - Braslaw
 
-####;1936;1936 - Kovno;Kovno/Kauen/Kowno
+c_upyte;1936;1936 - Kovno;Upytë - Kovno
+c_upyte;1936;1936 - Kovno;Duplicate to increase weight
+c_deltuva;1936;1936 - Kovno;Deltuva - Kovno
 
-####;1937;1937 - Grodno;Grodno/Garten
+c_yatvyagi;1937;1937 - Grodno;Dainava - Grodno
+c_podlasie;1937;1937 - Grodno;Belsk - Grodno
+c_lida;1937;1937 - Grodno;Dzùkija - Grodno
 
 ### Livonia
 
-####;37;37 - Livland;Livland/Livonija/Lifland/Liefland/Césis/Liwlandia/Pernov
+c_livs;37;37 - Livland;Saccalia - Livland
+c_livs;37;37 - Livland;Duplicate to increase weight
+c_metsepole;37;37 - Livland;Metsepole - Livland
+c_metsepole;37;37 - Livland;Duplicate to increase weight
+c_lettigalians;37;37 - Livland;Tholowa - Livland
+c_lettigalians;37;37 - Livland;Duplicate to increase weight
+c_jarva;37;37 - Livland;Järva - Livland
 
-####;38;38 - Riga;Riga/Ryga
+c_toreida;38;38 - Riga;Rìga - Riga
 
-####;273;273 - Latgalia;Latgalia/Latgalija/Lettgallen/Daugpilis
+d_lettigale;273;273 - Latgalia;Duchy Gerzike - Latgalia
+c_jeriska;273;273 - Latgalia;Jersika - Latgalia
+c_jeriska;273;273 - Latgalia;Duplicate to increase weight
+c_jeriska;273;273 - Latgalia;Duplicate to increase weight
+c_toreida;273;273 - Latgalia;Rìga - Latgalia
+c_west_dvina;273;273 - Latgalia;Rositten - Latgalia
+c_west_dvina;273;273 - Latgalia;Duplicate to increase weight
+c_west_dvina;273;273 - Latgalia;Duplicate to increase weight
+c_atzele;273;273 - Latgalia;Atzele - Latgalia
+c_lettigalians;273;273 - Latgalia;Tholowa - Latgalia
+c_selija;273;273 - Latgalia;Sèlija - Latgalia
 
-####;1834;1834 - Dorpat;Dorpat/Dörpt/Tartu/Uriev
+c_dorpat;1834;1834 - Dorpat;Ugaunia - Dorpat
+c_dorpat;1834;1834 - Dorpat;Duplicate to increase weight
+c_dorpat;1834;1834 - Dorpat;Duplicate to increase weight
+c_atzele;1834;1834 - Dorpat;Atzele - Dorpat
+c_vaiga;1834;1834 - Dorpat;Vaiga - Dorpat
 
 ### Estonia
 
-####;34;34-Ingermanland;Ingermanland/Ingria
+c_koporje;34;34-Ingermanland;Koporje - Ingermanland
+c_porkhov;34;34-Ingermanland;Porhov - Ingermanland
 
-####;36;36 - Estland;Reval/Estonija/Talinas/Rewal
+c_reval;36;36 - Estland;Harria - Reval
+c_reval;36;36 - Estland;Duplicate to increase weight
+c_jarva;36;36 - Estland;Järva - Reval
+c_laanemaa;36;36 - Estland;Rotalia - Reval
+c_laanemaa;36;36 - Estland;Duplicate to increase weight
 
-####;1842;1842 - Narva;Narva/Narwa
+c_narva;1842;1842 - Narva;Vironia - Narva
+c_narva;1842;1842 - Narva;Duplicate to increase weight
+c_vaiga;1842;1842 - Narva;Vaiga - Narva
 
 ### Curonia
 
-####;35;35 - Osel;Ösel/Øsel/Sarema/Ozylia/Ezel
+c_osel;35;35 - Osel;Osilia - Ösel
 
-####;39;39 - Kurland;Goldingen/Kursas/Goldynga
+c_kurs;39;39 - Kurland;Vredecuren - Goldingen
+c_bandava;39;39 - Kurland;Bandava - Goldingen
+c_duvzare;39;39 - Kurland;Duvzare - Goldingen
 
-####;1935;1935 - Semigallia;Mitau/Mitava/Ziemgala/Mitawa
+d_zemigalia;1935;1935 - Semigallia;Duchy Zemgali - Mitau
+c_zemigalians;1935;1935 - Semigallia;Opemele - Mitau
+c_zemigalians;1935;1935 - Semigallia;Duplicate to increase weight
+c_zemigalians;1935;1935 - Semigallia;Duplicate to increase weight
+c_selija;1935;1935 - Semigallia;Sèlija - Mitau
+c_selija;1935;1935 - Semigallia;Duplicate to increase weight
+c_toreida;1935;1935 - Semigallia;Rìga - Mitau
+c_kurs;1935;1935 - Semigallia;Vredecuren - Mitau
 
 ### West Prussia
 
-####;42;42 - Warmia;Warmia/Varmia/Varmie/Ermland/Varmé
+c_marienburg;42;42 - Warmia;Warmia - Warmia
 
-####;43;43 - Danzig;Danzig/Dánzig/Gdanjsk/Gdansk/Dantzig/Gdanskas
+c_danzig;43;43 - Danzig;Danzig - Danzig
 
-####;1841;1841 - Marienburg;Marienburg/Mariemburgo/Malbork/Marienbourg/Marienburgas
+c_pomesania;1841;1841 - Marienburg;Pomesania - Marienburg
 
-####;1859;1859 - Torun;Chelmno/Chlumno/Culm/Kulm/Kulmas
+c_chelminskie;1859;1859 - Torun;Chelmno - Chelmno
 
-####;2997;2997 - Pomorskie;Tuchola/Tuchel
+c_swiecie;2997;2997 - Pomorskie;Schlochau - Tuchola
+c_danzig;2997;2997 - Pomorskie;Danzig - Tuchola
 
 ### East Prussia
 
-####;40;40 - Memel;Memel/Klajpeda/Klaipéda
+c_scalovia;40;40 - Memel;Skalva - Memel
+c_scalovia;40;40 - Memel;Duplicate to increase weight
+c_nadruvia;40;40 - Memel;Nadruvia - Memel
 
-####;41;41 - Konigsberg;Königsberg/Prusia Oriental/Královec/Prusse orientale/Karaliaucius/Królewiec
+c_sambia;41;41 - Konigsberg;Sambi - Königsberg
+c_sambia;41;41 - Konigsberg;Duplicate to increase weight
+c_nadruvia;41;41 - Konigsberg;Nadruvia - Königsberg
 
-####;767;767 - Ortelsburg;Ortelsburg/Ortelsburk/Szczytno
+c_bartia;767;767 - Ortelsburg;Bartia - Ortelsburg
+c_galindia;767;767 - Ortelsburg;Galindia - Ortelsburg
+c_nadruvia;767;767 - Ortelsburg;Nadruvia - Ortelsburg
 
-####;2958;2958 - Osterode;Osterode/Ostroda/Ostróda
+c_pogesania;2958;2958 - Osterode;Pogesania - Osterode
 
 ## Poland
 ### Wielkopolska
