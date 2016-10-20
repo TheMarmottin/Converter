@@ -208,78 +208,143 @@ c_lower_volga;2415;2415 - Etkara;Qaratayak - Etkara
 
 ## Ural
 ### Ural
+#### Pelym (off-map)
 
-####;1080;1080 - North Urals;Pelym/Serov
+d_pelym;1078;1078 - Middle Urals;Duchy Polum - Tura
+c_mansia;1078;1078 - Middle Urals;Polum - Tura
+c_ural;1078;1078 - Middle Urals;Chusovaya - Tura
 
-####;1078;1078 - Middle Urals;Tura/Ekaterinburg
-
-####;1780;1780 - Komi;Komi
-
-####;2427;2427 - Ostyaki;Ostyaki/Beloyarskiy
-
-####;2441;2441 - Iglino;Iglino
-
+#### Komi (off-map)
+#### Ostyaki (off-map)
+#### Iglino (off-map)
 ### Perm
 
-####;1077;1077 - Solikamsk;Solikamsk
+c_perm;1077;1077 - Solikamsk;Viser - Solikamsk
+c_mansia;1077;1077 - Solikamsk;Polum - Solikamsk
+c_ural;1077;1077 - Solikamsk;Chusovaya - Solikamsk
 
-####;1963;1963 - Cherdyn;Cherdyn/Czerdyn/Troitsko-Pechersk
+c_zyriane;1963;1963 - Cherdyn;Ežva - Cherdyn
+c_zyriane;1963;1963 - Cherdyn;Duplicate to increase weight
+c_samoyeds;1963;1963 - Cherdyn;Ižva - Cherdyn
 
-####;1964;1964 - Ust-Sysolsk;Ust-Sysolsk/Syktywkar
+c_zyriane;1964;1964 - Ust-Sysolsk;Ežva - Ust-Sysolsk
+c_zyriane;1964;1964 - Ust-Sysolsk;Duplicate to increase weight
+c_zyriane;1964;1964 - Ust-Sysolsk;Duplicate to increase weight
+c_samoyeds;1964;1964 - Ust-Sysolsk;Ižva - Ust-Sysolsk
+c_hlynov;1964;1964 - Ust-Sysolsk;Vice - Ust-Sysolsk
 
-####;4129;4129 - UstVym;Ust-Vym
+c_syrj;4129;4129 - UstVym;Jemva - Ust-Vym
+c_syrj;4129;4129 - UstVym;Duplicate to increase weight
+c_ugra;4129;4129 - UstVym;Mozyn - Ust-Vym
+c_hlynov;4129;4129 - UstVym;Vice - Ust-Vym
 
 ### Kazan
 
-####;473;473 - Samara;Samara
+c_tyumen;473;473 - Samara;Suar - Samara
+c_tyumen;473;473 - Samara;Duplicate to increase weight
+c_tyumen;473;473 - Samara;Duplicate to increase weight
+c_khantia;473;473 - Samara;Samar - Samara
+c_bulgar;473;473 - Samara;Bolgar - Samara
 
-####;1081;1081 - Simbirsk;Simbirsk/Symbirsk
+c_burtasy;1081;1081 - Simbirsk;Barysh - Simbirsk
+c_burtasy;1081;1081 - Simbirsk;Duplicate to increase weight
+c_burtasy;1081;1081 - Simbirsk;Duplicate to increase weight
+c_burtasy;1081;1081 - Simbirsk;Duplicate to increase weight
+c_ashli;1081;1081 - Simbirsk;Ashli - Simbirsk
+c_mountain_cheremisa;1081;1081 - Simbirsk;Alatyr' - Simbirsk
+c_tyumen;1081;1081 - Simbirsk;Suar - Simbirsk
 
-####;1082;1082 - Kazan;Kazan
+c_qazan;1082;1082 - Kazan;Qazan - Kazan
+c_qazan;1082;1082 - Kazan;Duplicate to increase weight
+c_kokshaga;1082;1082 - Kazan;Kakšan - Kazan
 
-####;2421;2421 - Ar-Chally;Ar-Chally/Czystopol/Berezhnye
+d_bulgar;2421;2421 - Ar-Chally;Duchy Bolgar - Ar-Chally
+c_bulgar;2421;2421 - Ar-Chally;Bolgar - Ar-Chally
+c_bilyar;2421;2421 - Ar-Chally;Bilär - Ar-Chally
 
-####;2422;2422 - Veda-Suvar;Veda-Suvar/Czeboksary/Cheboksary
+c_chuvash;2422;2422 - Veda-Suvar;Sura - Veda-Suvar
+c_chuvash;2422;2422 - Veda-Suvar;Duplicate to increase weight
+c_chuvash;2422;2422 - Veda-Suvar;Duplicate to increase weight
+c_chuvash;2422;2422 - Veda-Suvar;Duplicate to increase weight
+c_kokshaga;2422;2422 - Veda-Suvar;Kakšan - Veda-Suvar
+c_ashli;2422;2422 - Veda-Suvar;Ashli - Veda-Suvar
+c_ashli;2422;2422 - Veda-Suvar;Duplicate to increase weight
+c_mountain_cheremisa;2422;2422 - Veda-Suvar;Alatyr' - Veda-Suvar
 
-####;2423;2423 - Alatyr;Alatyr
+c_mountain_cheremisa;2423;2423 - Alatyr;Alatyr' - Alatyr
+c_mountain_cheremisa;2423;2423 - Alatyr;Duplicate to increase weight
+c_kadom;2423;2423 - Alatyr;Kadom - Alatyr
 
 ### Galich
 
-####;306;306 - Nijni-Novgorod;Nizhny Novgorod/Dolní Novgorod/Nischgorod/Nizny Nowogród
+c_nizhny_novgorod;306;306 - Nijni-Novgorod;Nizhny Novgorod - Nizhny Novgorod
+c_nizhny_novgorod;306;306 - Nijni-Novgorod;Duplicate to increase weight
+c_gorodez;306;306 - Nijni-Novgorod;Gorodets-Radilov - Nizhny Novgorod
 
-####;1079;1079 - Viatka;Viatka/Wiatka
+d_vyatka;1079;1079 - Viatka;Duchy Vice - Viatka
+c_hlynov;1079;1079 - Viatka;Vice - Viatka
+c_merya;1079;1079 - Viatka;Šošma - Viatka
 
-####;1083;1083 - Zavolochye;Vetluga/Wietluga
+c_grassland_cheremisa;1083;1083 - Zavolochye;Vütla - Vetluga
+c_grassland_cheremisa;1083;1083 - Zavolochye;Duplicate to increase weight
+c_grassland_cheremisa;1083;1083 - Zavolochye;Duplicate to increase weight
+c_gorodez;1083;1083 - Zavolochye;Gorodets-Radilov - Vetluga
+c_galich_mersky;1083;1083 - Zavolochye;Galich Mersky - Vetluga
 
-####;1957;1957 - Galich;Galich/Kalis/Galicz
+c_galich_mersky;1957;1957 - Galich;Galich Mersky - Galich
+c_galich_mersky;1957;1957 - Galich;Duplicate to increase weight
+c_kostroma;1957;1957 - Galich;Kostroma - Galich
 
 ### Saratov
 
-####;303;303 - Saratow;Saratov
+c_uzens;303;303 - Saratow;Usens - Saratov
+c_khopyor;303;303 - Saratow;Khoper - Saratov
+c_khopyor;303;303 - Saratow;Duplicate to increase weight
+c_khopyor;303;303 - Saratow;Duplicate to increase weight
+c_burtasy;303;303 - Saratow;Barysh - Saratov
 
-####;2418;2418 - Ukek;Ukek/Pokrovsk
+c_uzens;2418;2418 - Ukek;Usens - Ukek
 
-####;2419;2419 - Kanadey;Kanadey/Syzran
+c_khantia;2419;2419 - Kanadey;Samar - Kanadey
+c_khantia;2419;2419 - Kanadey;Duplicate to increase weight
+c_uzens;2419;2419 - Kanadey;Usens - Kanadey
 
 ### Kama
 
-####;305;305 - Perm;Perm
+c_ural;305;305 - Perm;Chusovaya - Perm
+c_ural;305;305 - Perm;Duplicate to increase weight
+c_votyaki;305;305 - Perm;Otš - Perm
+c_bashkirs;305;305 - Perm;Aghidhel - Perm
 
-####;1962;1962 - Kudymkar;Kudymkar/Izhevsk
+c_komi;1962;1962 - Kudymkar;Inva - Kudymkar
 
-####;1972;1972 - Udmurtia;Udmurtia/Udmurcja/Glazov
+c_merya;1972;1972 - Udmurtia;Šošma - Udmurtia
+c_votyaki;1972;1972 - Udmurtia;Otš - Udmurtia
+c_qazan;1972;1972 - Udmurtia;Qazan - Udmurtia
 
 ### Bashkiria
 
-####;475;475 - Bashkortostan;Bashkortostan
+c_bashkirs;475;475 - Bashkortostan;Aghidhel - Bashkortostan
+c_bashkirs;475;475 - Bashkortostan;Duplicate to increase weight
+c_bashkirs;475;475 - Bashkortostan;Duplicate to increase weight
+c_bilyar;475;475 - Bashkortostan;Bilär - Bashkortostan
+c_bilyar;475;475 - Bashkortostan;Duplicate to increase weight
+c_syrt;475;475 - Bashkortostan;Syrt - Bashkortostan
 
-####;1965;1965 - Buzuluk;Buzuluk
+c_syrt;1965;1965 - Buzuluk;Syrt - Buzuluk
+c_syrt;1965;1965 - Buzuluk;Duplicate to increase weight
+c_syrt;1965;1965 - Buzuluk;Duplicate to increase weight
+c_khantia;1965;1965 - Buzuluk;Samar - Buzuluk
+c_bilyar;1965;1965 - Buzuluk;Bilär - Buzuluk
 
-####;1966;1966 - Chelyaba;Chelyaba/Chelabinsk
+c_sibir;1966;1966 - Chelyaba;Tobol - Chelyaba
 
-####;2420;2420 - Agyidel;Agyidel/Orenburg
+c_bashkirs;2420;2420 - Agyidel;Aghidhel - Agyidel
+c_pecheneg;2420;2420 - Agyidel;Haqmar - Agyidel
 
-####;2444;2444 - Bashgird;Bashgird/Zlatoust
+c_bashkirs;2444;2444 - Bashgird;Aghidhel - Bashgird
+c_bashkirs;2444;2444 - Bashgird;Duplicate to increase weight
+c_ural;2444;2444 - Bashgird;Chusovaya - Bashgird
 
 ## Baltic
 ### Lithuania
