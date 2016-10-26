@@ -477,55 +477,111 @@ c_pogesania;2958;2958 - Osterode;Pogesania - Osterode
 ## Poland
 ### Wielkopolska
 
-####;254;254 - Poznan;Poznan/Posen
+c_poznanskie;254;254 - Poznan;Poznan - Poznan
 
-####;255;255 - Kalisz;Kalisz/Kalis/Gnesen
+c_kaliskie;255;255 - Kalisz;Kalisz - Kalisz
+c_kaliskie;255;255 - Kalisz;Duplicate to increase weight
+c_gnieznienskie;255;255 - Kalisz;Gniezno - Kalisz
 
-####;258;258 - Lodz;Sieradz/Schieratz
+c_sieradzko-leczyckie;258;258 - Lodz;Sieradz - Sieradz
+c_kaliskie;258;258 - Lodz;Kalisz - Sieradz
+c_opole;258;258 - Lodz;Opole - Sieradz
 
-####;1939;1939 - Leczyca;Leczyca/Lentschiza/Lentschitza
+c_leczyca;1939;1939 - Leczyca;Leczyca - Leczyca
+c_leczyca;1939;1939 - Leczyca;Duplicate to increase weight
+c_sieradzko-leczyckie;1939;1939 - Leczyca;Sieradz - Leczyca
+c_rawamazovia;1939;1939 - Leczyca;Rawa - Leczyca
+c_plock;1939;1939 - Leczyca;Plock - Leczyca
+c_kujawy;1939;1939 - Leczyca;Kujawy - Leczyca
 
-####;2963;2963 - Notec;Notec/Netzeland/Netze
+c_gnieznienskie;2963;2963 - Notec;Gniezno - Notec
+c_gnieznienskie;2963;2963 - Notec;Duplicate to increase weight
+c_kujawy;2963;2963 - Notec;Kujawy - Notec
 
 ### Malopolska
 
-####;259;259 - Sandomierz;Sandomierz/Sandomer/Sandomir
+c_sandomierskie;259;259 - Sandomierz;Sandomierz - Sandomierz
+c_sandomierskie;259;259 - Sandomierz;Duplicate to increase weight
+c_sieradzko-leczyckie;259;259 - Sandomierz;Sieradz - Sandomierz
 
-####;260;260 - Lublin;Lublin
+c_lublin;260;260 - Lublin;Lublin - Lublin
+c_lublin;260;260 - Lublin;Duplicate to increase weight
+c_lublin;260;260 - Lublin;Duplicate to increase weight
+c_sandomierskie;260;260 - Lublin;Sandomierz - Lublin
+c_sandomierskie;260;260 - Lublin;Duplicate to increase weight
+c_belz;260;260 - Lublin;Belz - Lublin
 
-####;262;262 - Krakow;Krakow/Krakov/Krakau/Krakkó/Kraków
+c_krakowskie;262;262 - Krakow;Krakow - Krakow
+c_krakowskie;262;262 - Krakow;Duplicate to increase weight
+c_opole;262;262 - Krakow;Opole - Krakow
 
-####;2959;2959 - Tarnow;Tarnow/Tarnov/Tarnau/Tarnów
+c_sandomierskie;2959;2959 - Tarnow;Sandomierz - Tarnow
+c_sandomierskie;2959;2959 - Tarnow;Duplicate to increase weight
+c_peremyshl;2959;2959 - Tarnow;Peremyshl - Tarnow
 
-####;2960;2960 - Sadecki;Nowy Sacz/Novy Sadec/Neu Sandec/Újszandec
+c_sacz;2960;2960 - Sadecki;Sacz - Nowy Sacz
+c_sacz;2960;2960 - Sadecki;Duplicate to increase weight
+c_sacz;2960;2960 - Sadecki;Duplicate to increase weight
+c_sacz;2960;2960 - Sadecki;Duplicate to increase weight
+c_krakowskie;2960;2960 - Sadecki;Krakow - Nowy Sacz
+c_krakowskie;2960;2960 - Sadecki;Duplicate to increase weight
+c_peremyshl;2960;2960 - Sadecki;Peremyshl - Nowy Sacz
 
 ### Red Ruthenia
 
-####;261;261 - Halicz;Halicz/Galic/Halic/Halitsch
+c_galich;261;261 - Halicz;Halych - Halicz
+c_galich;261;261 - Halicz;Duplicate to increase weight
+c_torki;261;261 - Halicz;Suceava - Halicz
 
-####;1940;1940 - Belz;Belz/Bels
+c_belz;1940;1940 - Belz;Belz - Belz
+c_lutsk;1940;1940 - Belz;Luck - Belz
 
-####;2424;2424 - Peremyshl;Peremyshl/Premysl/Premissel/Przemysl
+c_peremyshl;2424;2424 - Peremyshl;Peremyshl - Peremyshl
 
-####;2961;2961 - Lwow;Lwow/Lvov/Lemberg/Lwów
+c_lutsk;2961;2961 - Lwow;Luck - Lwow
+c_terebovl;2961;2961 - Lwow;Terebovl - Lwow
+c_terebovl;2961;2961 - Lwow;Duplicate to increase weight
 
 ### Mazovia
 
-####;256;256 - Plock;Plock/Plozk
+c_plock;256;256 - Plock;Plock - Plock
+c_plock;256;256 - Plock;Duplicate to increase weight
+c_kujawy;256;256 - Plock;Kujawy - Plock
 
-####;257;257 - Warszawa;Warszawa/Varsava/Warschava/Warschau/Varsó
+c_czersk;257;257 - Warszawa;Czersk - Warszawa
+c_czersk;257;257 - Warszawa;Duplicate to increase weight
+c_czersk;257;257 - Warszawa;Duplicate to increase weight
+c_rawamazovia;257;257 - Warszawa;Rawa - Warszawa
+c_sandomierskie;257;257 - Warszawa;Sandomierz - Warszawa
 
-####;269;269 - Podlasia;Podlasie/Podlesí/Podlachien/Palenké
+c_podlasie;269;269 - Podlasia;Belsk - Podlasie
+c_podlasie;269;269 - Podlasia;Duplicate to increase weight
+c_podlasie;269;269 - Podlasia;Duplicate to increase weight
+c_pultusk;269;269 - Podlasia;Pultusk - Podlasie
+c_pultusk;269;269 - Podlasia;Duplicate to increase weight
+c_czersk;269;269 - Podlasia;Czersk - Podlasie
+c_beresty;269;269 - Podlasia;Berestye - Podlasie
 
-####;1938;1938 - Wizna;Wizna
+c_pultusk;1938;1938 - Wizna;Pultusk - Wizna
+c_czersk;1938;1938 - Wizna;Czersk - Wizna
 
 ### Silesia
 
-####;263;263 - Ratibor;Ratibor/Racibórz
+c_opole;263;263 - Ratibor;Opole - Ratibor
+c_opole;263;263 - Ratibor;Duplicate to increase weight
+c_cieszyn;263;263 - Ratibor;Cieszyn - Ratibor
+c_cieszyn;263;263 - Ratibor;Duplicate to increase weight
+c_opava;263;263 - Ratibor;Opava - Ratibor
 
-####;264;264 - Breslau;Breslau/Vratislavija/Vratislav/Boroszló/Wroclaw
+c_upper_silesia;264;264 - Breslau;Wroclaw - Breslau
+c_upper_silesia;264;264 - Breslau;Duplicate to increase weight
+c_upper_silesia;264;264 - Breslau;Duplicate to increase weight
+c_upper_silesia;264;264 - Breslau;Duplicate to increase weight
+c_legnica;264;264 - Breslau;Legnica - Breslau
+c_legnica;264;264 - Breslau;Duplicate to increase weight
+c_lower_silesia;264;264 - Breslau;Glogów - Breslau
 
-####;2966;2966 - Leignitz;Glogau/Hlohov/Glogów
+c_lower_silesia;2966;2966 - Leignitz;Glogów - Glogau
 
 ## Ruthenia
 ### West Dniepr
@@ -924,6 +980,7 @@ c_bars;154;154 - Ersekujvar;Bars - Érsekújvár
 c_bars;154;154 - Ersekujvar;Duplicate to increase weight
 c_hont;154;154 - Ersekujvar;Hont - Érsekújvár
 c_nitra;154;154 - Ersekujvar;Nyitra - Érsekújvár
+c_cieszyn;154;154 - Ersekujvar;Cieszyn - Érsekújvár
 
 c_zemplen;162;162 - Zemplen;Zemplén - Zemplen
 c_zemplen;162;162 - Zemplen;Duplicate to increase weight
@@ -936,6 +993,7 @@ c_hont;1318;1318 - Spis;Hont - Spiš
 c_orava;1318;1318 - Spis;Árva - Spiš
 c_bars;1318;1318 - Spis;Bars - Spiš
 c_saris;1318;1318 - Spis;Borsod - Spiš
+c_sacz;1318;1318 - Spis;Sacz - Spiš
 
 c_pressburg;1772;1772 - Pozsony;Pozsony - Pozsony
 c_pressburg;1772;1772 - Pozsony;Duplicate to increase weight
@@ -987,12 +1045,11 @@ c_birlad;2998;2998 - Buzau;Bârlad - Buzau
 
 ### Moldavia
 
-c_torki;268;268 - Moldavia;Suceava - Moldavia
-c_torki;268;268 - Moldavia;Duplicate to increase weight
-c_torki;268;268 - Moldavia;Duplicate to increase weight
 c_bacau;268;268 - Moldavia;Bacau - Moldavia
 c_bacau;268;268 - Moldavia;Duplicate to increase weight
 c_bacau;268;268 - Moldavia;Duplicate to increase weight
+c_torki;268;268 - Moldavia;Suceava - Moldavia
+c_torki;268;268 - Moldavia;Duplicate to increase weight
 c_birlad;268;268 - Moldavia;Bârlad - Moldavia
 c_birlad;268;268 - Moldavia;Duplicate to increase weight
 c_belgorod;268;268 - Moldavia;Tighina - Moldavia
@@ -2770,7 +2827,6 @@ c_lubusz;2969;2969 - Sternberg;Lubusz - Sternberg
 c_lubusz;2969;2969 - Sternberg;Duplicate to increase weight
 c_lubusz;2969;2969 - Sternberg;Duplicate to increase weight
 c_santok;2969;2969 - Sternberg;Santok - Sternberg
-c_santok;2969;2969 - Sternberg;Duplicate to increase weight
 c_brandenburg;2969;2969 - Sternberg;Brandenburg - Sternberg
 
 ### Mittelmark
@@ -2806,10 +2862,14 @@ c_stettin;2994;2994 - Greifswald;Stettin - Greifswald
 d_moravia;265;265 - Moravia;Duchy Morawske - Moravia
 c_brno;265;265 - Moravia;Boruy - Moravia
 c_brno;265;265 - Moravia;Duplicate to increase weight
+c_brno;265;265 - Moravia;Duplicate to increase weight
 c_olomouc;265;265 - Moravia;Olomouc - Moravia
 c_olomouc;265;265 - Moravia;Duplicate to increase weight
+c_olomouc;265;265 - Moravia;Duplicate to increase weight
 c_znojmo;265;265 - Moravia;Znojmo - Moravia
+c_znojmo;265;265 - Moravia;Duplicate to increase weight
 c_opava;265;265 - Moravia;Opava - Moravia
+c_trencin;265;265 - Moravia;Trencsén - Moravia
 
 c_praha;266;266 - Prague;Praha - Prague
 c_praha;266;266 - Prague;Duplicate to increase weight

@@ -55,21 +55,31 @@ def main():
                 names[num].remove(v)
             names[num].insert(0, v)
 
-    # count = 0
     off_map = [set(), set(), set(), set()]
     prov_mappings = collections.defaultdict(list)
+    errors = []
     try:
         with open('province_table_new.csv', encoding='cp1252') as f:
             for line in f:
                 match = re.match(r'([^#;]*);([^#;]*)', line)
                 if match:
-                    prov_mappings[int(match.group(2))].append(match.group(1))
+                    ck2title = match.group(1)
+                    eu4id = int(match.group(2))
+                    if not any(ck2title in x
+                               for x in [title_key, ck2localize, errors]):
+                        errors.append(ck2title)
+                    prov_mappings[eu4id].append(ck2title)
                 else:
                     match = re.match(r'(#+) ([^;]*) \(off-map\)', line)
                     if match:
                         off_map[len(match.group(1)) - 1].add(match.group(2))
     except FileNotFoundError:
         pass
+
+    if errors:
+        print('Invalid titles:')
+        print(*errors)
+        raise SystemExit()
 
     prev = None
 
