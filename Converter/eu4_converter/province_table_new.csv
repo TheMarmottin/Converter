@@ -586,69 +586,161 @@ c_lower_silesia;2966;2966 - Leignitz;Glogów - Glogau
 ## Ruthenia
 ### West Dniepr
 
-####;280;280 - Kiev;Kiev/Kijev/Kyjev/Kijów
+d_kiev;280;280 - Kiev;Duchy Kiev - Kiev
+c_kiev;280;280 - Kiev;Kiev - Kiev
+c_kiev;280;280 - Kiev;Duplicate to increase weight
+c_pereyaslavl;280;280 - Kiev;Perejaslavl - Kiev
+c_iskorosten;280;280 - Kiev;Ovruch - Kiev
 
-####;1942;1942 - Zhytomyr;Zhytomyr/Zytomierz
+c_zhytomyr;1942;1942 - Zhytomyr;Zhytomyr - Zhytomyr
+c_iskorosten;1942;1942 - Zhytomyr;Ovruch - Zhytomyr
+c_iskorosten;1942;1942 - Zhytomyr;Duplicate to increase weight
 
-####;1944;1944 - Cherkasy;Cherkasy/Cerkasy/Czerkasy
+c_korsun;1944;1944 - Cherkasy;Ros’ - Cherkasy
+c_lower_dniepr;1944;1944 - Cherkasy;Özü - Cherkasy
+c_kiev;1944;1944 - Cherkasy;Kiev - Cherkasy
 
 ### East Dniepr
 
-####;289;289 - Chernigov;Chernigov/Cernjihiv/Cernihiv/Czernichów
+d_chernigov;289;289 - Chernigov;Duchy Chernigov - Chernigov
+c_chernigov;289;289 - Chernigov;Chernigov - Chernigov
+c_chernigov;289;289 - Chernigov;Duplicate to increase weight
+c_chernigov;289;289 - Chernigov;Duplicate to increase weight
+c_lyubech;289;289 - Chernigov;Lyubech - Chernigov
+c_novgorod_seversky;289;289 - Chernigov;Novgorod Seversky - Chernigov
+c_bryansk;289;289 - Chernigov;Briansk - Chernigov
 
-####;290;290 - Poltava;Poltava/Poltawa
+c_lower_don;290;290 - Poltava;Orel - Poltava
+c_lower_don;290;290 - Poltava;Duplicate to increase weight
+c_lower_don;290;290 - Poltava;Duplicate to increase weight
+c_lubny;290;290 - Poltava;Lukoml - Poltava
+c_tana;290;290 - Poltava;Vorskla - Poltava
 
-####;1945;1945 - Novgorod-Seversky;Severia/Severie/Siewierszczyzna
+c_novgorod_seversky;1945;1945 - Novgorod-Seversky;Novgorod Seversky - Severia
+c_novgorod_seversky;1945;1945 - Novgorod-Seversky;Duplicate to increase weight
+c_bryansk;1945;1945 - Novgorod-Seversky;Briansk - Severia
+c_karachev;1945;1945 - Novgorod-Seversky;Karachev - Severia
 
-####;2407;2407 - Pereyaslav;Pereyaslav/Perejaslaw
+d_pereyaslavl;2407;2407 - Pereyaslav;Duchy Perejaslavl - Pereyaslav
+c_pereyaslavl;2407;2407 - Pereyaslav;Perejaslavl - Pereyaslav
+c_pereyaslavl;2407;2407 - Pereyaslav;Duplicate to increase weight
+c_romny_ukraine;2407;2407 - Pereyaslav;Romen - Pereyaslav
+c_romny_ukraine;2407;2407 - Pereyaslav;Duplicate to increase weight
+c_chernigov;2407;2407 - Pereyaslav;Chernigov - Pereyaslav
 
 ### Sloboda Ukraine
 
-####;291;291 - Kharkov;Kharkov/Harkiv/Charkov/Charków
+c_sharukan;291;291 - Kharkov;Uda - Kharkov
+c_sharukan;291;291 - Kharkov;Duplicate to increase weight
+c_tana;291;291 - Kharkov;Vorskla - Kharkov
 
-####;298;298 - Kursk;Kursk
+c_kursk;298;298 - Kursk;Kursk - Kursk
+c_kursk;298;298 - Kursk;Duplicate to increase weight
+c_kursk;298;298 - Kursk;Duplicate to increase weight
+c_rilsk;298;298 - Kursk;Rilsk - Kursk
+c_rilsk;298;298 - Kursk;Duplicate to increase weight
+c_tana;298;298 - Kursk;Vorskla - Kursk
+c_tana;298;298 - Kursk;Duplicate to increase weight
+c_romny_ukraine;298;298 - Kursk;Romen - Kursk
+c_desht-i-kipchak;298;298 - Kursk;Vskol' - Kursk
 
-####;299;299 - Voronezh;Voronezh/Voronjez/Voronez
+c_lower_volga;299;299 - Voronezh;Qaratayak - Voronezh
+c_desht-i-kipchak;299;299 - Voronezh;Vskol' - Voronezh
+c_khopyor;299;299 - Voronezh;Khoper - Voronezh
 
 ### White Ruthenia
 
-####;275;275 - Polotsk;Polotsk/Polock
+c_polotsk;275;275 - Polotsk;Polotsk - Polotsk
+c_polotsk;275;275 - Polotsk;Duplicate to increase weight
+c_braslaw;275;275 - Polotsk;Braslaw - Polotsk
+c_braslaw;275;275 - Polotsk;Duplicate to increase weight
+c_velikiye_luki;275;275 - Polotsk;Luki - Polotsk
 
-####;276;276 - Minsk;Minsk
+c_minsk;276;276 - Minsk;Minsk - Minsk
+c_lepiel;276;276 - Minsk;Logozsk - Minsk
+c_zaslawye;276;276 - Minsk;Izjaslavl' - Minsk
 
-####;292;292 - Mogilyov;Mogilev/Mogiljov/Mohylev/Mohylew
+c_mstislavl;292;292 - Mogilyov;Mstislavl - Mogilev
+c_mstislavl;292;292 - Mogilyov;Duplicate to increase weight
+c_mstislavl;292;292 - Mogilyov;Duplicate to increase weight
+c_druck;292;292 - Mogilyov;Druck - Mogilev
+c_druck;292;292 - Mogilyov;Duplicate to increase weight
+c_orsha;292;292 - Mogilyov;Krasen - Mogilev
+c_polotsk;292;292 - Mogilyov;Polotsk - Mogilev
 
-####;771;771 - Vitebsk;Vitebsk/Witebsk
+c_vitebsk;771;771 - Vitebsk;Vitebsk - Vitebsk
+c_toropets;771;771 - Vitebsk;Toropec - Vitebsk
 
-####;4115;4115 - Mazyr;Mazyr/Mozyrz
+c_turov;4115;4115 - Mazyr;Turov - Mazyr
+c_turov;4115;4115 - Mazyr;Duplicate to increase weight
+c_gomel;4115;4115 - Mazyr;Gomel - Mazyr
+c_lyubech;4115;4115 - Mazyr;Lyubech - Mazyr
 
 ### Podolia Volhynia
 
-####;279;279 - Volhynia;Volhynia/Volinj/Volyn/Wolhynien/Wolyn
+c_vladimir_volynsky;279;279 - Volhynia;Vladimir Volynsky - Volhynia
+c_vladimir_volynsky;279;279 - Volhynia;Duplicate to increase weight
+c_vladimir_volynsky;279;279 - Volhynia;Duplicate to increase weight
+c_pinsk;279;279 - Volhynia;Pinsk - Volhynia
+c_lutsk;279;279 - Volhynia;Luck - Volhynia
 
-####;281;281 - Kamienec;Podolia/Podolien/Podole/Kamaniçe
+c_peresechen;281;281 - Kamienec;Podolya - Podolia
+c_peresechen;281;281 - Kamienec;Duplicate to increase weight
+c_terebovl;281;281 - Kamienec;Terebovl - Podolia
+c_zhytomyr;281;281 - Kamienec;Zhytomyr - Podolia
 
-####;1943;1943 - Bratslav;Bratslav/Braclaw
+c_peresechen;1943;1943 - Bratslav;Podolya - Bratslav
+c_peresechen;1943;1943 - Bratslav;Duplicate to increase weight
+c_korsun;1943;1943 - Bratslav;Ros’ - Bratslav
+c_zhytomyr;1943;1943 - Bratslav;Zhytomyr - Bratslav
 
-####;2962;2962 - Rowne;Rowne/Rovné/Równe
+c_dorogobuzh;2962;2962 - Rowne;Dorogobuž - Rowne
+c_dorogobuzh;2962;2962 - Rowne;Duplicate to increase weight
+c_zhytomyr;2962;2962 - Rowne;Zhytomyr - Rowne
 
 ### Pripyat
 
-####;277;277 - Brest;Brest/Brasta/Brzesc
+c_beresty;277;277 - Brest;Berestye - Brest
+c_beresty;277;277 - Brest;Duplicate to increase weight
+c_beresty;277;277 - Brest;Duplicate to increase weight
+c_podlasie;277;277 - Brest;Belsk - Brest
+c_chelm;277;277 - Brest;Chelm - Brest
+c_vladimir_volynsky;277;277 - Brest;Vladimir Volynsky - Brest
 
-####;278;278 - Pinsk;Pinsk
+c_pinsk;278;278 - Pinsk;Pinsk - Pinsk
+c_pinsk;278;278 - Pinsk;Duplicate to increase weight
+c_jacwiez;278;278 - Pinsk;Volkovysk - Pinsk
 
-####;1941;1941 - Turov;Turov/Turów
+c_turov;1941;1941 - Turov;Turov - Turov
+c_turov;1941;1941 - Turov;Duplicate to increase weight
+c_pinsk;1941;1941 - Turov;Pinsk - Turov
+c_pinsk;1941;1941 - Turov;Duplicate to increase weight
+c_slutsk;1941;1941 - Turov;Sluck - Turov
 
 ### Smolensk
 
-####;293;293 - Smolensk;Smolensk
+d_smolensk;293;293 - Smolensk;Duchy Smolensk - Smolensk
+c_smolensk;293;293 - Smolensk;Smolensk - Smolensk
+c_smolensk;293;293 - Smolensk;Duplicate to increase weight
+c_roslavl;293;293 - Smolensk;Roslavl - Smolensk
+c_vyazma;293;293 - Smolensk;Viazma - Smolensk
 
-####;296;296 - Mozhaisk;Kaluga/Koluga
+c_mozhaysk;296;296 - Mozhaisk;Mozhajsk - Kaluga
+c_mozhaysk;296;296 - Mozhaisk;Duplicate to increase weight
+c_tarusa;296;296 - Mozhaisk;Tarusa - Kaluga
+c_vorotynsk;296;296 - Mozhaisk;Vorotynsk - Kaluga
 
-####;297;297 - Bryansk;Bryansk/Brjansk/Briansk
+c_bryansk;297;297 - Bryansk;Briansk - Bryansk
+c_bryansk;297;297 - Bryansk;Duplicate to increase weight
+c_bryansk;297;297 - Bryansk;Duplicate to increase weight
+c_bryansk;297;297 - Bryansk;Duplicate to increase weight
+c_vorotynsk;297;297 - Bryansk;Vorotynsk - Bryansk
+c_roslavl;297;297 - Bryansk;Roslavl - Bryansk
+c_gomel;297;297 - Bryansk;Gomel - Bryansk
 
-####;4116;4116 - Upper Oka;Oka/Odoyev
+c_karachev;4116;4116 - Upper Oka;Karachev - Oka
+c_novosil;4116;4116 - Upper Oka;Novosil - Oka
+c_kozelsk;4116;4116 - Upper Oka;Kozel'sk - Oka
 
 ## Crimea
 ### Crimea
