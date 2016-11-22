@@ -646,7 +646,6 @@ c_desht-i-kipchak;298;298 - Kursk;Vskol' - Kursk
 
 c_lower_volga;299;299 - Voronezh;Qaratayak - Voronezh
 c_desht-i-kipchak;299;299 - Voronezh;Vskol' - Voronezh
-c_khopyor;299;299 - Voronezh;Khoper - Voronezh
 
 ### White Ruthenia
 
@@ -745,61 +744,88 @@ c_kozelsk;4116;4116 - Upper Oka;Kozel'sk - Oka
 ## Crimea
 ### Crimea
 
-####;284;284 - Crimea;Crimea/Krim/Krym/Kirim
+c_crimea;284;284 - Crimea;Qirim - Crimea
 
-####;285;285 - Kaffa;Caffa/Feodosija/Theodosia/Cafa/Kaffa/Feodosia/Kefe
+c_theodosia;285;285 - Kaffa;Theodosia - Caffa
+c_korchev;285;285 - Kaffa;Kerch - Caffa
 
-####;2410;2410 - Theodoro;Theodoro/Teodoro/Sevastopol
+c_theodoro;2410;2410 - Theodoro;Doros - Theodoro
+c_cherson;2410;2410 - Theodoro;Cherson - Theodoro
 
-####;2447;2447 - Mantrega;Mantrega/Tamatarha/Taman/Matrika/Hunkala
+c_tmutarakan;2447;2447 - Mantrega;Tamatarkha - Mantrega
 
 ### Lower Don
 
-####;288;288 - Cherkassk;Lower Don/Dolní Don/Ust-Medveditskaya
+c_sarkel;288;288 - Cherkassk;Sharkel - Lower Don
 
-####;467;467 - Borisoglebsk;Borisoglebsk
+c_lower_volga;467;467 - Borisoglebsk;Qaratayak - Borisoglebsk
+c_khopyor;467;467 - Borisoglebsk;Khoper - Borisoglebsk
 
-####;1971;1971 - Tsaritsyn;Tsaritsyn/Caryczin
+c_khopyor;1971;1971 - Tsaritsyn;Khoper - Tsaritsyn
+c_khopyor;1971;1971 - Tsaritsyn;Duplicate to increase weight
+c_khopyor;1971;1971 - Tsaritsyn;Duplicate to increase weight
+c_saray;1971;1971 - Tsaritsyn;Saray - Tsaritsyn
+c_saray;1971;1971 - Tsaritsyn;Duplicate to increase weight
+c_sarkel;1971;1971 - Tsaritsyn;Sharkel - Tsaritsyn
 
-####;2409;2409 - Bahmut;Bahmut/Bachmut/Veshensakaya
+c_sarkel;2409;2409 - Bahmut;Sharkel - Bahmut
 
 ### Astrakhan
 
-####;464;464 - Astrakhan;Astrakhan/Astrachan
+c_itil;464;464 - Astrakhan;Itil - Astrakhan
+c_itil;464;464 - Astrakhan;Duplicate to increase weight
+c_kuma;464;464 - Astrakhan;Kuma - Astrakhan
 
-####;466;466 - Sarai;Sarai/Saraj/Kamyshin
+c_saray;466;466 - Sarai;Saray - Sarai
+c_saray;466;466 - Sarai;Duplicate to increase weight
+c_sarpa;466;466 - Sarai;Sarpa - Sarai
 
-####;468;468 - Khazaria;Manych/Manycz
+c_manych;468;468 - Khazaria;Ugru - Manych
+c_manych;468;468 - Khazaria;Duplicate to increase weight
+c_sarpa;468;468 - Khazaria;Sarpa - Manych
 
-####;2416;2416 - Majar;Majar/Stawropol/Stavropol
+c_yegorlyk;2416;2416 - Majar;Yegorlyk - Majar
 
-####;2417;2417 - Kuma;Kuma/Elista
+c_kuma;2417;2417 - Kuma;Kuma - Kuma
+c_sarpa;2417;2417 - Kuma;Sarpa - Kuma
+c_sarpa;2417;2417 - Kuma;Duplicate to increase weight
 
 ### Zaporizhia
 
-####;283;283 - Zaporozhia;Zaporozhia/Zaporoshka/Zaporoze/Krivoi Rog
+c_lower_dniepr;283;283 - Zaporozhia;Özü - Zaporozhia
 
-####;2411;2411 - Mansur;Mansur/Kodak/Ekaterinoslav
+c_chortitza;2411;2411 - Mansur;Aq Samar - Mansur
+c_chortitza;2411;2411 - Mansur;Duplicate to increase weight
+c_sugrov;2411;2411 - Mansur;Duna-Jük - Mansur
 
-####;2412;2412 - Kyzyl-Yar;Kyzyl-Yar/Melitopol/Mariupol
+c_lukomorie;2412;2412 - Kyzyl-Yar;Tokmak - Kyzyl-Yar
 
 ### Yedisan
 
-####;282;282 - Yedisan;Yedisan/Jedisan/Jedysan/Ochakov/Özü/Hocabey
+c_olvia;282;282 - Yedisan;Yedisan - Yedisan
+c_olvia;282;282 - Yedisan;Duplicate to increase weight
+c_peresechen;282;282 - Yedisan;Podolya - Yedisan
 
-####;1974;1974 - Yedishkul;Yedishkul/Cherson
+c_lukomorie;1974;1974 - Yedishkul;Tokmak - Yedishkul
 
-####;2406;2406 - Ingil;Ingil/Ingul/Nikolaev
+c_oleshye;2406;2406 - Ingil;Boh - Ingil
+c_oleshye;2406;2406 - Ingil;Duplicate to increase weight
+c_lower_dniepr;2406;2406 - Ingil;Özü - Ingil
 
 ### Azov
 
-####;286;286 - Azow;Azov/Azow
+c_azov;286;286 - Azow;Azaq - Azov
 
-####;287;287 - Kouban;Kuban/Ekaterinodar
+c_kuban;287;287 - Kouban;Cuba - Kuban
+c_azov;287;287 - Kouban;Azaq - Kuban
 
-####;2413;2413 - Tyn;Tyn/Novocherkassk
+c_sugrov;2413;2413 - Tyn;Duna-Jük - Tyn
 
-####;2414;2414 - Azaraba;Azaraba/Tichorieck/Tichoretsk
+c_azov;2414;2414 - Azaraba;Azaq - Azaraba
+c_azov;2414;2414 - Azaraba;Duplicate to increase weight
+c_kuban;2414;2414 - Azaraba;Cuba - Azaraba
+c_manych;2414;2414 - Azaraba;Ugru - Azaraba
+c_yegorlyk;2414;2414 - Azaraba;Yegorlyk - Azaraba
 
 ## Balkans
 ### Croatia
