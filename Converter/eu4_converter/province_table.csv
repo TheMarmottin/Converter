@@ -139,12 +139,12 @@ c_shetland;1978;1978 - Shetlands;Shetland - The Shetlands
 c_orkney;369;369 - Orkney;Orkney - Orkney
 
 c_bergenshus;23;23-Bergenshus;Bergenhus - Bergenhus
-c_rogaland;23;23-Bergenshus;Rogaland - Bergenhus
+c_rogaland;24;24-Agder;Rogaland - Agder
 
-c_agder;24;24-Agder;Agder - Agder
-c_telemark;24;24-Agder;Telemark - Agder
+c_agder;4145;4145 - Agdesiden;Agder - Agdesiden
+c_telemark;4144;4144 - Bratsberg;Telemark - Bratsberg
 
-c_akershus;17;17-Akershus;Akershus - Akershus
+c_akershus;4143;4143 - Smalenene;Akershus - Smalenene
 c_vestfold;17;17-Akershus;Vestfold - Akershus
 
 c_hedmark;22;22-Eisdiva;Hedmark - Eidsiva
@@ -169,11 +169,13 @@ c_viken;16;16-Bohuslan;Viken - Bohuslän
 # Sweden & Finland
 
 c_vastergotland;7;7-Vastergotland;Västergötland - Västergötland
+c_vastergotland;4163;4163 - Elfsborg;Västergötland - Elfsborg
 
-d_smaland;3;3-Smaland;Duchy Småland - Småland
-c_smaland;3;3-Smaland;County Småland - Småland
-c_more;3;3-Smaland;Möre - Småland
-c_oland;3;3-Smaland;Öland - Småland
+c_smaland;4166;4166 - Tioharad;Småland - Tioharad
+
+d_smaland;3;3 - Kalmar;Duchy Småland - Kalmar
+c_more;3;3 - Kalmar;Möre - Kalmar
+c_oland;3;3 - Kalmar;Öland - Kalmar
 
 c_ostergotland;2;2-Ostergotland;Östergötland - Östergötland
 c_tjust;2;2-Ostergotland;Tjust - Östergötland
@@ -188,7 +190,7 @@ c_uppland;1;1-Uppland;Uppland - Stockholm
 c_aland;1930;1930 - Aland;Åland - Åland
 
 c_varmland;5;5-Varmland;Värmland - Värmland
-c_dal;5;5-Varmland;Dal - Värmland
+c_dal;4164;4164 - Dal;Dal - Dal
 
 c_vastmanland;4;4-Bergslagen;Västmanland - Bergslagen
 
@@ -219,9 +221,10 @@ c_kexholm;32;32 - Keksholm;Kexholm - Kexholm
 c_kexholm;4124;4124 - Karelia;Kexholm - Karelia
 
 c_osterbotten;19;19-Osterbotten;Österbotten - Österbotten
-c_kemi;19;19-Osterbotten;Kemi - Österbotten
-c_kemi;4113;4113-Rovaniemi;Kemi - Rovaniemi
+c_osterbotten;4152;4152 - Kajaani;Österbotten - Kajaani
 
+c_kemi;4113;4113-Rovaniemi;Kemi - Rovaniemi
+c_kemi;4151;4151 - Inari;Kemi - Inari
 c_kandalax;1777;1777-Kola;Kandalax - Kola
 
 c_karelen;1776;1776-Karelia;Karelen - Karelia
@@ -239,6 +242,7 @@ c_reval;36;36 - Estland;Reval - Reval
 # Denmark
 
 c_skane;6;6-Skane;Skåne - Skåne
+c_skane;4165;4165 - Goinge;Skåne - Goinge
 
 c_halland;26;26-Halland;Halland - Halland
 
@@ -253,10 +257,15 @@ c_fyn;14;14-Fyn;Fyn - Fyn
 
 c_jylland;1984;1984-Nordjylland;Jylland - Nordjylland
 c_jylland;15;15-Jylland;Jylland - Midtjylland
+c_jylland;4142;4142 - Aarhus;Jylland - Aarhus
+c_jylland;4149;4149 - Kolding;Jylland - Kolding
+
 
 c_slesvig;13;13-Slesvig;Slesvig - Slesvig
 
 c_holstein;1775;1775 - Holstein;Holstein - Holstein
+
+c_holstein;4141;4141 - Ditmarschen;Holstein - Ditmarschen
 
 # Francia
 
@@ -415,7 +424,8 @@ c_coimbra;1851;1851 - Ribatejo;Coimbra - Ribatejo
 
 c_lisboa;227;227 - Lisboa;Lisboa - Lisboa
 
-c_evora;229;229 - Alentejo;Evora - Alentejo
+c_evora;4150;4150 - Evora;Evora - Evora
+
 c_alcacer_do_sal;229;229 - Alentejo;Alcacer do Sal - Alentejo
 c_mertola;229;229 - Alentejo;Mertola - Alentejo
 
@@ -888,6 +898,7 @@ c_rashka;1766;1766 - Kosovo;Rashka - Kosovo
 c_belgrade;141;141 - Serbia;Belgrade - Serbia
 
 c_vidin;2746;2746 - East Gangwon;Vidin - Vidin
+c_vidin;4176;4176 - Brancievo;Vidin - Brancievo
 
 c_krizevci;1767;1767 - Veroce;Krizevci - Veroce
 
@@ -900,10 +911,11 @@ c_rama;3002;3002 - Visoki;Rama - Visoki
 
 # Byzantine Empire
 
-d_dyrrachion;143;143 - Albania;Duchy Dyrrachion - Albania
-c_dyrrachion;143;143 - Albania;Dyrrachion - Albania
-c_arbanon;143;143 - Albania;Arbanon - Albania
-c_valona;143;143 - Albania;Ochrid - Albania
+c_dyrrachion;143;143 - Vlore;Dyrrachion - Vlore
+c_dyrrachion;4174;4174 - Durres;Dyrrachion - Durres
+
+c_dyrrachion;4175;4175 - Lezhe;Ochrid - Lezhe
+c_ochrid;4175;4175 - Lezhe;Ochrid - Lezhe
 
 c_epeiros;144;144 - Janina;Epeiros - Janina
 c_arta;144;144 - Janina;Arta - Janina
@@ -1638,6 +1650,7 @@ c_esfahan;429;429 - Fars;Esfahan - Esfahan
 
 c_yazd;433;433 - Yadz;Yazd - Yazd
 c_yazd;2222;2222 - Ardakan;Yazd - Ardakan
+c_yazd;4171;4171 - 4171 - Abarquh;Yazd - Abarquh
 
 c_hamadan;414;414 - Hamadan;Hamadan - Hamadan
 
@@ -1849,6 +1862,8 @@ c_pecs;4126;4126 - Bacs;Pecs - Bacs
 c_bacs;1954;1954 - Torontal;Bacs - Torontal
 c_csanad;1954;1954 - Torontal;Csanad - Torontal
 
+c_bacs;4173;4173 - Syrmia;Bacs - Syrmia
+
 c_temes;156;156 - Temes;Temes - Temes
 
 c_pest;153;153 - Pest;Pest - Pest
@@ -2038,6 +2053,7 @@ c_novgorod;310;310 - Novgorod;Novgorod - Novgorod
 c_torzhok;1959;1959 - Torzhok;Torzhok - Torzhok
 
 c_velikiye_luki;311;311 - Kholm;Velikiye Luki - Kholm
+c_velikiye_luki;4148;4148 - Luki;Velikiye Luki - Luki
 
 c_romny;1958;1958 - Kargopol;Romny - Kargopol
 
@@ -2066,7 +2082,8 @@ c_kostroma;1753;1753 - Kostroma;Kostroma - Kostroma
 c_galich_mersky;1957;1957 - Galich;Galich Mersky - Galich
 
 c_yaroslavl;308;308 - Yaroslavl;Yaroslavl - Yaroslavl
-c_rostov;308;308 - Yaroslavl;Rostov - Yaroslavl
+
+c_rostov;4147;4147 - Rostov;Rostov - Rostov
 
 c_tver;294;294 - Tver;Tver - Tver
 c_uglich;294;294 - Tver;Uglich - Tver
@@ -2319,7 +2336,6 @@ c_navasarika;516;516 - Gujarat;Navasarika - Gujarat
 c_vadodara;516;516 - Gujarat;Vadodara - Gujarat
 
 d_lata;2056;2056 - Rewakantha;Vadodara - Rewakantha
-d_avanti;2056;2056 - Rewakantha;Vadodara - Rewakantha
 c_vadodara;2056;2056 - Rewakantha;Vadodara - Rewakantha
 c_dadhipadra;2056;2056 - Rewakanthra;Dadhipadra - Rewakantha
 
