@@ -236,17 +236,17 @@ wolof;fulani;0;Fulani
 # Cushitic
 
 somali;somali;0;Somali
-afar;tigray;0;Tigray
+afar;afar;0;Afar
 ethiopian;amhara;0;Amhara
 falashim;amhara;0;Amhara
 
 # Sudanese
 
 daju;nubian;0;Nubian
-beja;nubian;0;Nubian
 zaghawa;nubian;0;Nubian
 coptic;nubian;0;Nubian
 nubian;nubian;0;Nubian
+beja;beja;0;Beja
 
 # Tatar
 
