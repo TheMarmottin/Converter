@@ -20,6 +20,7 @@ c_gotland;GOT;Gotland;Gotland County
 d_karelia;KRL;Karelia;Karelia Duchy
 k_iceland;ICE;Iceland;Iceland Kingdom
 d_iceland;ICE;Iceland;Iceland Duchy
+c_dithmarschen;DTT;Ditmarschen;Ditmarschen County
 
 # Balkans
 
@@ -508,6 +509,10 @@ d_air;AIR;Air;Air Duchy
 d_darfur;DAR;Darfur;Darfur Duchy
 k_kanem;KBO;KanemBornu;Kanem Bornu Kingdom
 c_masin;ZAF;Zafunu;Zafunu (Macina) County
+k_blemmyes;BEJ;Beja;Beja Kingdom
+d_damot;DAM;Damot;Damot Duchy
+c_ankober;DAM;Damot;Damot County
+c_shewa;SOA;Shewa;Shewa County
 
 # Mongols
 
