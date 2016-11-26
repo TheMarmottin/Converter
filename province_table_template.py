@@ -25,7 +25,7 @@ def main():
                     localize[match.group(1)] = match.group(2)
     areas, regions, superregions = {}, collections.OrderedDict(), collections.OrderedDict()
     for n, v in parser.parse_file(eu4root / 'map/area.txt'):
-        areas[n.val] = [v2.val for v2 in v]
+        areas[n.val] = [v2.val for v2 in v if isinstance(v2, ck2parser.Number)]
     with (eu4root / 'map/region.txt').open(encoding='cp1252') as f:
         # klugey
         region_text = f.read().split('#Sea Regions', 1)[0]
@@ -97,6 +97,7 @@ def main():
             return
         write_line('## {}'.format(localize[region_name]))
         for area_name in regions[region_name]:
+            localize[area_name] = localize.get(area_name, area_name) # unlocalized ad_dahna_area etc.
             if localize[area_name] in off_map[2]:
                 write_line('### {} (off-map)'.format(localize[area_name]))
                 continue

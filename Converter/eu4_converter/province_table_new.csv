@@ -1,1438 +1,5 @@
 # CK2TITLE;EU4ID;Filename;Comment
 
-## Russia
-### Moscow
-
-d_tver;294;294 - Tver;Duchy Tver - Tver
-c_tver;294;294 - Tver;Tver - Tver
-c_tver;294;294 - Tver;Duplicate to increase weight
-c_tver;294;294 - Tver;Duplicate to increase weight
-c_volokolamsk;294;294 - Tver;Volokolamsk - Tver
-c_pereyaslavl_zalessky;294;294 - Tver;Perejaslavl'-Zalesskij - Tver
-c_rostov;294;294 - Tver;Rostov - Tver
-
-c_moskva;295;295 - Moskva;Moskva - Moskva
-c_moskva;295;295 - Moskva;Duplicate to increase weight
-c_moskva;295;295 - Moskva;Duplicate to increase weight
-c_moskva;295;295 - Moskva;Duplicate to increase weight
-c_mozhaysk;295;295 - Moskva;Mozhajsk - Moskva
-c_pereyaslavl_zalessky;295;295 - Moskva;Perejaslavl'-Zalesskij - Moskva
-c_tarusa;295;295 - Moskva;Tarusa - Moskva
-
-c_vladimir;307;307 - Vladimir;Vladimir - Vladimir
-c_vladimir;307;307 - Vladimir;Duplicate to increase weight
-c_vladimir;307;307 - Vladimir;Duplicate to increase weight
-c_ryazan;307;307 - Vladimir;Riazan' - Vladimir
-c_murom;307;307 - Vladimir;Murom - Vladimir
-
-c_yaroslavl;308;308 - Yaroslavl;Yaroslavl - Yaroslavl
-c_mologa;308;308 - Yaroslavl;Mologa - Yaroslavl
-c_rostov;308;308 - Yaroslavl;Rostov - Yaroslavl
-
-### Suzdal
-
-c_kostroma;1753;1753 - Kostroma;Kostroma - Kostroma
-c_kostroma;1753;1753 - Kostroma;Duplicate to increase weight
-c_yaroslavl;1753;1753 - Kostroma;Yaroslavl - Kostroma
-c_yaroslavl;1753;1753 - Kostroma;Duplicate to increase weight
-c_rostov;1753;1753 - Kostroma;Rostov - Kostroma
-
-c_kadom;1754;1754 - Orel;Kadom - Murom
-c_kadom;1754;1754 - Orel;Duplicate to increase weight
-c_kadom;1754;1754 - Orel;Duplicate to increase weight
-c_kadom;1754;1754 - Orel;Duplicate to increase weight
-c_nizhny_novgorod;1754;1754 - Orel;Nizhny Novgorod - Murom
-c_mountain_cheremisa;1754;1754 - Orel;Alatyr' - Murom
-c_murom;1754;1754 - Orel;Murom - Murom
-
-c_suzdal;1956;1956 - Suzdal;Suzdal - Suzdal
-c_suzdal;1956;1956 - Suzdal;Duplicate to increase weight
-c_suzdal;1956;1956 - Suzdal;Duplicate to increase weight
-c_rostov;1956;1956 - Suzdal;Rostov - Suzdal
-c_murom;1956;1956 - Suzdal;Murom - Suzdal
-
-### Novgorod
-
-c_novgorod;310;310 - Novgorod;Novgorod - Novgorod
-
-c_russa;1752;1752 - Rzhev;Rusa - Rzhev
-c_torzhok;1752;1752 - Rzhev;Torzhok - Rzhev
-c_toropets;1752;1752 - Rzhev;Toropec - Rzhev
-
-c_torzhok;1959;1959 - Torzhok;Torzhok - Torzhok
-c_ustyuzhna;1959;1959 - Torzhok;Ustyug Zhelezny - Torzhok
-c_novgorod;1959;1959 - Torzhok;Novgorod - Torzhok
-
-### Pskov
-
-c_pskov;274;274 - Pskov;Pskov - Pskov
-
-d_russa;311;311 - Kholm;Duchy Rusa - Kholm
-c_porkhov;311;311 - Kholm;Porhov - Kholm
-c_russa;311;311 - Kholm;Rusa - Kholm
-c_velikiye_luki;311;311 - Kholm;Luki - Kholm
-
-c_pskov;1960;1960 - Ostrov;Pskov - Ostrov
-
-### Beloozero
-
-c_beloozero;312;312 - Vologda;Beloozero - Beloozero
-c_beloozero;312;312 - Vologda;Duplicate to increase weight
-c_beloozero;312;312 - Vologda;Duplicate to increase weight
-c_beloozero;312;312 - Vologda;Duplicate to increase weight
-c_ustyuzhna;312;312 - Vologda;Ustyug Zhelezny - Beloozero
-c_zaozerye;312;312 - Vologda;Tudozerskij - Beloozero
-c_vologda;312;312 - Vologda;Vologda - Beloozero
-
-c_vologda;314;314 - Vologda;Vologda - Vologda
-c_vologda;314;314 - Vologda;Duplicate to increase weight
-c_vologda;314;314 - Vologda;Duplicate to increase weight
-c_kostroma;314;314 - Vologda;Kostroma - Vologda
-c_veliky_ustug;314;314 - Vologda;Veliky Ustjug - Vologda
-c_galich_mersky;314;314 - Vologda;Galich Mersky - Vologda
-
-c_bezhetsky_verh;2749;2749 - Tikhvin;Ladoga - Tikhvin
-c_bezhetsky_verh;2749;2749 - Tikhvin;Duplicate to increase weight
-c_bezhetsky_verh;2749;2749 - Tikhvin;Duplicate to increase weight
-c_bezhetsky_verh;2749;2749 - Tikhvin;Duplicate to increase weight
-c_ustyuzhna;2749;2749 - Tikhvin;Ustyug Zhelezny - Tikhvin
-c_zaozerye;2749;2749 - Tikhvin;Tudozerskij - Tikhvin
-c_novgorod;2749;2749 - Tikhvin;Novgorod - Tikhvin
-
-c_uglich;4117;4117 - Bezhetsk;Uglich - Bezhetsk
-c_ustyuzhna;4117;4117 - Bezhetsk;Ustyug Zhelezny - Bezhetsk
-c_mologa;4117;4117 - Bezhetsk;Mologa - Bezhetsk
-
-### Pomorye
-
-d_onega;313;313 - Soroka;Duchy Änine - Soroka
-c_onega;313;313 - Soroka;Änine - Soroka
-c_onega;313;313 - Soroka;Duplicate to increase weight
-c_onega;313;313 - Soroka;Duplicate to increase weight
-c_romny;313;313 - Soroka;Latša - Soroka
-c_romny;313;313 - Soroka;Duplicate to increase weight
-c_trans-portage;313;313 - Soroka;Pomorye - Soroka
-
-d_ustyg;1755;1755 - Ustyug;Duchy Ustjug - Ustyug
-c_veliky_ustug;1755;1755 - Ustyug;Veliky Ustjug - Ustyug
-c_veliky_ustug;1755;1755 - Ustyug;Duplicate to increase weight
-c_syrj;1755;1755 - Ustyug;Jemva - Ustyug
-c_galich_mersky;1755;1755 - Ustyug;Galich Mersky - Ustyug
-c_bjarmia;1755;1755 - Ustyug;Pinega - Ustyug
-
-c_ugra;1955;1955 - Kholmogory;Mozyn - Kholmogory
-c_bjarmia;1955;1955 - Kholmogory;Pinega - Kholmogory
-c_north_dvina;1955;1955 - Kholmogory;Výnva - Kholmogory
-
-c_romny;1958;1958 - Kargopol;Latša - Kargopol
-c_romny;1958;1958 - Kargopol;Duplicate to increase weight
-c_romny;1958;1958 - Kargopol;Duplicate to increase weight
-c_romny;1958;1958 - Kargopol;Duplicate to increase weight
-c_romny;1958;1958 - Kargopol;Duplicate to increase weight
-c_chud;1958;1958 - Kargopol;Vaga - Kargopol
-c_vologda;1958;1958 - Kargopol;Vologda - Kargopol
-c_beloozero;1958;1958 - Kargopol;Beloozero - Kargopol
-c_zaozerye;1958;1958 - Kargopol;Tudozerskij - Kargopol
-
-c_bjarmia;4122;4122 - Shenkursk;Pinega - Shenkursk
-c_chud;4122;4122 - Shenkursk;Vaga - Shenkursk
-c_chud;4122;4122 - Shenkursk;Duplicate to increase weight
-c_ugra;4122;4122 - Shenkursk;Mozyn - Shenkursk
-
-### Karelia
-
-c_viipuri;30;30-Viborg;Viipuri - Viborg
-
-c_kexholm;32;32-Keksholm;Kexholm - Kexholm
-
-c_vodi;33;33-Neva;Ingria - Neva
-c_vodi;33;33-Neva;Duplicate to increase weight
-c_novgorod;33;33-Neva;Novgorod - Neva
-
-c_kola;309;309 - Olonets;Olonec - Olonets
-c_kola;309;309 - Olonets;Duplicate to increase weight
-c_zaozerye;309;309 - Olonets;Tudozerskij - Olonets
-
-c_karelen;1776;1776-Karelia;Karjala - Kem
-c_karelen;1776;1776-Karelia;Duplicate to increase weight
-c_trans-portage;1776;1776-Karelia;Pomorye - Kem
-
-c_kandalax;1777;1777-Kola;Kantalahti - Kola
-c_kandalax;1777;1777-Kola;Duplicate to increase weight
-c_karelen;1777;1777-Kola;Karjala - Kola
-
-c_bezhetsky_verh;1961;1961 - Ladoga;Ladoga - Ladoga
-
-c_kexholm;4124;4124 - Kovero;Kexholm - Karelia
-
-### Ryazan
-
-c_kolomna;300;300 - Tula;Kolomna - Tula
-c_pronsk;300;300 - Tula;Pronsk - Tula
-c_kozelsk;300;300 - Tula;Kozel'sk - Tula
-
-c_ryazan;301;301 - Ryazan;Riazan' - Ryazan
-c_ryazan;301;301 - Ryazan;Duplicate to increase weight
-c_kolomna;301;301 - Ryazan;Kolomna - Ryazan
-
-c_ryazan;1778;1778 - Kasimov;Riazan' - Kasimov
-c_ryazan;1778;1778 - Kasimov;Duplicate to increase weight
-c_kadom;1778;1778 - Kasimov;Kadom - Kasimov
-
-### Tambov
-
-c_mordva;302;302 - Tambow;Moksha - Tambov
-c_pronsk;302;302 - Tambow;Pronsk - Tambov
-c_pronsk;302;302 - Tambow;Duplicate to increase weight
-c_pronsk;302;302 - Tambow;Duplicate to increase weight
-c_lower_volga;302;302 - Tambow;Qaratayak - Tambov
-c_lower_volga;302;302 - Tambow;Duplicate to increase weight
-
-c_burtasy;304;304 - Pensa;Barysh - Penza
-c_mordva;304;304 - Pensa;Moksha - Penza
-c_mordva;304;304 - Pensa;Duplicate to increase weight
-c_mordva;304;304 - Pensa;Duplicate to increase weight
-c_mountain_cheremisa;304;304 - Pensa;Alatyr' - Penza
-
-c_lower_volga;2408;2408 - Lipetsk;Qaratayak - Lipetsk
-c_desht-i-kipchak;2408;2408 - Lipetsk;Vskol' - Lipetsk
-c_desht-i-kipchak;2408;2408 - Lipetsk;Duplicate to increase weight
-c_desht-i-kipchak;2408;2408 - Lipetsk;Duplicate to increase weight
-c_pronsk;2408;2408 - Lipetsk;Pronsk - Lipetsk
-
-c_khopyor;2415;2415 - Etkara;Khoper - Etkara
-c_khopyor;2415;2415 - Etkara;Duplicate to increase weight
-c_mordva;2415;2415 - Etkara;Moksha - Etkara
-c_mordva;2415;2415 - Etkara;Duplicate to increase weight
-c_lower_volga;2415;2415 - Etkara;Qaratayak - Etkara
-
-## Ural
-### Ural
-#### Pelym (off-map)
-
-d_pelym;1078;1078 - Middle Urals;Duchy Polum - Tura
-c_mansia;1078;1078 - Middle Urals;Polum - Tura
-c_ural;1078;1078 - Middle Urals;Chusovaya - Tura
-
-#### Komi (off-map)
-#### Ostyaki (off-map)
-#### Iglino (off-map)
-### Perm
-
-c_perm;1077;1077 - Solikamsk;Viser - Solikamsk
-c_mansia;1077;1077 - Solikamsk;Polum - Solikamsk
-c_ural;1077;1077 - Solikamsk;Chusovaya - Solikamsk
-
-c_zyriane;1963;1963 - Cherdyn;Ežva - Cherdyn
-c_zyriane;1963;1963 - Cherdyn;Duplicate to increase weight
-c_samoyeds;1963;1963 - Cherdyn;Ižva - Cherdyn
-
-c_zyriane;1964;1964 - Ust-Sysolsk;Ežva - Ust-Sysolsk
-c_zyriane;1964;1964 - Ust-Sysolsk;Duplicate to increase weight
-c_zyriane;1964;1964 - Ust-Sysolsk;Duplicate to increase weight
-c_samoyeds;1964;1964 - Ust-Sysolsk;Ižva - Ust-Sysolsk
-c_hlynov;1964;1964 - Ust-Sysolsk;Vice - Ust-Sysolsk
-
-c_syrj;4129;4129 - UstVym;Jemva - Ust-Vym
-c_syrj;4129;4129 - UstVym;Duplicate to increase weight
-c_ugra;4129;4129 - UstVym;Mozyn - Ust-Vym
-c_hlynov;4129;4129 - UstVym;Vice - Ust-Vym
-
-### Kazan
-
-c_tyumen;473;473 - Samara;Suar - Samara
-c_tyumen;473;473 - Samara;Duplicate to increase weight
-c_tyumen;473;473 - Samara;Duplicate to increase weight
-c_khantia;473;473 - Samara;Samar - Samara
-c_bulgar;473;473 - Samara;Bolgar - Samara
-
-c_burtasy;1081;1081 - Simbirsk;Barysh - Simbirsk
-c_burtasy;1081;1081 - Simbirsk;Duplicate to increase weight
-c_burtasy;1081;1081 - Simbirsk;Duplicate to increase weight
-c_burtasy;1081;1081 - Simbirsk;Duplicate to increase weight
-c_ashli;1081;1081 - Simbirsk;Ashli - Simbirsk
-c_mountain_cheremisa;1081;1081 - Simbirsk;Alatyr' - Simbirsk
-c_tyumen;1081;1081 - Simbirsk;Suar - Simbirsk
-
-c_qazan;1082;1082 - Kazan;Qazan - Kazan
-c_qazan;1082;1082 - Kazan;Duplicate to increase weight
-c_kokshaga;1082;1082 - Kazan;Kakšan - Kazan
-
-d_bulgar;2421;2421 - Ar-Chally;Duchy Bolgar - Ar-Chally
-c_bulgar;2421;2421 - Ar-Chally;Bolgar - Ar-Chally
-c_bilyar;2421;2421 - Ar-Chally;Bilär - Ar-Chally
-
-c_chuvash;2422;2422 - Veda-Suvar;Sura - Veda-Suvar
-c_chuvash;2422;2422 - Veda-Suvar;Duplicate to increase weight
-c_chuvash;2422;2422 - Veda-Suvar;Duplicate to increase weight
-c_chuvash;2422;2422 - Veda-Suvar;Duplicate to increase weight
-c_kokshaga;2422;2422 - Veda-Suvar;Kakšan - Veda-Suvar
-c_ashli;2422;2422 - Veda-Suvar;Ashli - Veda-Suvar
-c_ashli;2422;2422 - Veda-Suvar;Duplicate to increase weight
-c_mountain_cheremisa;2422;2422 - Veda-Suvar;Alatyr' - Veda-Suvar
-
-c_mountain_cheremisa;2423;2423 - Alatyr;Alatyr' - Alatyr
-c_mountain_cheremisa;2423;2423 - Alatyr;Duplicate to increase weight
-c_kadom;2423;2423 - Alatyr;Kadom - Alatyr
-
-### Galich
-
-c_nizhny_novgorod;306;306 - Nijni-Novgorod;Nizhny Novgorod - Nizhny Novgorod
-c_nizhny_novgorod;306;306 - Nijni-Novgorod;Duplicate to increase weight
-c_gorodez;306;306 - Nijni-Novgorod;Gorodets-Radilov - Nizhny Novgorod
-
-d_vyatka;1079;1079 - Viatka;Duchy Vice - Viatka
-c_hlynov;1079;1079 - Viatka;Vice - Viatka
-c_merya;1079;1079 - Viatka;Šošma - Viatka
-
-c_grassland_cheremisa;1083;1083 - Zavolochye;Vütla - Vetluga
-c_grassland_cheremisa;1083;1083 - Zavolochye;Duplicate to increase weight
-c_grassland_cheremisa;1083;1083 - Zavolochye;Duplicate to increase weight
-c_gorodez;1083;1083 - Zavolochye;Gorodets-Radilov - Vetluga
-c_galich_mersky;1083;1083 - Zavolochye;Galich Mersky - Vetluga
-
-c_galich_mersky;1957;1957 - Galich;Galich Mersky - Galich
-c_galich_mersky;1957;1957 - Galich;Duplicate to increase weight
-c_kostroma;1957;1957 - Galich;Kostroma - Galich
-
-### Saratov
-
-c_uzens;303;303 - Saratow;Usens - Saratov
-c_khopyor;303;303 - Saratow;Khoper - Saratov
-c_khopyor;303;303 - Saratow;Duplicate to increase weight
-c_khopyor;303;303 - Saratow;Duplicate to increase weight
-c_burtasy;303;303 - Saratow;Barysh - Saratov
-
-c_uzens;2418;2418 - Ukek;Usens - Ukek
-
-c_khantia;2419;2419 - Kanadey;Samar - Kanadey
-c_khantia;2419;2419 - Kanadey;Duplicate to increase weight
-c_uzens;2419;2419 - Kanadey;Usens - Kanadey
-
-### Kama
-
-c_ural;305;305 - Perm;Chusovaya - Perm
-c_ural;305;305 - Perm;Duplicate to increase weight
-c_votyaki;305;305 - Perm;Otš - Perm
-c_bashkirs;305;305 - Perm;Aghidhel - Perm
-
-c_komi;1962;1962 - Kudymkar;Inva - Kudymkar
-
-c_merya;1972;1972 - Udmurtia;Šošma - Udmurtia
-c_votyaki;1972;1972 - Udmurtia;Otš - Udmurtia
-c_qazan;1972;1972 - Udmurtia;Qazan - Udmurtia
-
-### Bashkiria
-
-c_bashkirs;475;475 - Bashkortostan;Aghidhel - Bashkortostan
-c_bashkirs;475;475 - Bashkortostan;Duplicate to increase weight
-c_bashkirs;475;475 - Bashkortostan;Duplicate to increase weight
-c_bilyar;475;475 - Bashkortostan;Bilär - Bashkortostan
-c_bilyar;475;475 - Bashkortostan;Duplicate to increase weight
-c_syrt;475;475 - Bashkortostan;Syrt - Bashkortostan
-
-c_syrt;1965;1965 - Buzuluk;Syrt - Buzuluk
-c_syrt;1965;1965 - Buzuluk;Duplicate to increase weight
-c_syrt;1965;1965 - Buzuluk;Duplicate to increase weight
-c_khantia;1965;1965 - Buzuluk;Samar - Buzuluk
-c_bilyar;1965;1965 - Buzuluk;Bilär - Buzuluk
-
-c_sibir;1966;1966 - Chelyaba;Tobol - Chelyaba
-
-c_bashkirs;2420;2420 - Agyidel;Aghidhel - Agyidel
-c_pecheneg;2420;2420 - Agyidel;Haqmar - Agyidel
-
-c_bashkirs;2444;2444 - Bashgird;Aghidhel - Bashgird
-c_bashkirs;2444;2444 - Bashgird;Duplicate to increase weight
-c_ural;2444;2444 - Bashgird;Chusovaya - Bashgird
-
-## Baltic
-### Lithuania
-
-c_trakai;270;270 - Troki;Trakai - Trakai
-c_trakai;270;270 - Troki;Duplicate to increase weight
-c_trakai;270;270 - Troki;Duplicate to increase weight
-c_sudovia;270;270 - Troki;Sùduva - Trakai
-c_sudovia;270;270 - Troki;Duplicate to increase weight
-c_memel;270;270 - Troki;Karšuva - Trakai
-c_yatvyagi;270;270 - Troki;Dainava - Trakai
-c_aukshayts;270;270 - Troki;Lietuva - Trakai
-
-c_zhmud;271;271 - Samogitia;Žëmaitëjë - Samogitia
-c_zhmud;271;271 - Samogitia;Duplicate to increase weight
-c_memel;271;271 - Samogitia;Karšuva - Samogitia
-
-c_aukshayts;272;272 - Lithuania;Lietuva - Vilna
-c_lida;272;272 - Lithuania;Dzùkija - Vilna
-c_asmena;272;272 - Lithuania;Asmena - Vilna
-
-c_braslaw;770;770 - Braslaw;Braslaw - Braslaw
-c_braslaw;770;770 - Braslaw;Duplicate to increase weight
-c_utena;770;770 - Braslaw;Nalshia - Braslaw
-c_utena;770;770 - Braslaw;Duplicate to increase weight
-c_utena;770;770 - Braslaw;Duplicate to increase weight
-c_deltuva;770;770 - Braslaw;Deltuva - Braslaw
-c_deltuva;770;770 - Braslaw;Duplicate to increase weight
-c_polotsk;770;770 - Braslaw;Polotsk - Braslaw
-
-c_upyte;1936;1936 - Kovno;Upytë - Kovno
-c_upyte;1936;1936 - Kovno;Duplicate to increase weight
-c_deltuva;1936;1936 - Kovno;Deltuva - Kovno
-
-c_yatvyagi;1937;1937 - Grodno;Dainava - Grodno
-c_podlasie;1937;1937 - Grodno;Belsk - Grodno
-c_lida;1937;1937 - Grodno;Dzùkija - Grodno
-
-### Livonia
-
-c_livs;37;37 - Livland;Saccalia - Livland
-c_livs;37;37 - Livland;Duplicate to increase weight
-c_metsepole;37;37 - Livland;Metsepole - Livland
-c_metsepole;37;37 - Livland;Duplicate to increase weight
-c_lettigalians;37;37 - Livland;Tholowa - Livland
-c_lettigalians;37;37 - Livland;Duplicate to increase weight
-c_jarva;37;37 - Livland;Järva - Livland
-
-c_toreida;38;38 - Riga;Rìga - Riga
-
-d_lettigale;273;273 - Latgalia;Duchy Gerzike - Latgalia
-c_jeriska;273;273 - Latgalia;Jersika - Latgalia
-c_jeriska;273;273 - Latgalia;Duplicate to increase weight
-c_jeriska;273;273 - Latgalia;Duplicate to increase weight
-c_toreida;273;273 - Latgalia;Rìga - Latgalia
-c_west_dvina;273;273 - Latgalia;Rositten - Latgalia
-c_west_dvina;273;273 - Latgalia;Duplicate to increase weight
-c_west_dvina;273;273 - Latgalia;Duplicate to increase weight
-c_atzele;273;273 - Latgalia;Atzele - Latgalia
-c_lettigalians;273;273 - Latgalia;Tholowa - Latgalia
-c_selija;273;273 - Latgalia;Sèlija - Latgalia
-
-c_dorpat;1834;1834 - Dorpat;Ugaunia - Dorpat
-c_dorpat;1834;1834 - Dorpat;Duplicate to increase weight
-c_dorpat;1834;1834 - Dorpat;Duplicate to increase weight
-c_atzele;1834;1834 - Dorpat;Atzele - Dorpat
-c_vaiga;1834;1834 - Dorpat;Vaiga - Dorpat
-
-### Estonia
-
-c_koporje;34;34-Ingermanland;Koporje - Ingermanland
-c_porkhov;34;34-Ingermanland;Porhov - Ingermanland
-
-c_reval;36;36 - Estland;Harria - Reval
-c_reval;36;36 - Estland;Duplicate to increase weight
-c_jarva;36;36 - Estland;Järva - Reval
-c_laanemaa;36;36 - Estland;Rotalia - Reval
-c_laanemaa;36;36 - Estland;Duplicate to increase weight
-
-c_narva;1842;1842 - Narva;Vironia - Narva
-c_narva;1842;1842 - Narva;Duplicate to increase weight
-c_vaiga;1842;1842 - Narva;Vaiga - Narva
-
-### Curonia
-
-c_osel;35;35 - Osel;Osilia - Ösel
-
-c_kurs;39;39 - Kurland;Vredecuren - Goldingen
-c_bandava;39;39 - Kurland;Bandava - Goldingen
-c_duvzare;39;39 - Kurland;Duvzare - Goldingen
-
-d_zemigalia;1935;1935 - Semigallia;Duchy Zemgali - Mitau
-c_zemigalians;1935;1935 - Semigallia;Opemele - Mitau
-c_zemigalians;1935;1935 - Semigallia;Duplicate to increase weight
-c_zemigalians;1935;1935 - Semigallia;Duplicate to increase weight
-c_selija;1935;1935 - Semigallia;Sèlija - Mitau
-c_selija;1935;1935 - Semigallia;Duplicate to increase weight
-c_toreida;1935;1935 - Semigallia;Rìga - Mitau
-c_kurs;1935;1935 - Semigallia;Vredecuren - Mitau
-
-### West Prussia
-
-c_marienburg;42;42 - Warmia;Warmia - Warmia
-
-c_danzig;43;43 - Danzig;Danzig - Danzig
-
-c_pomesania;1841;1841 - Marienburg;Pomesania - Marienburg
-
-c_chelminskie;1859;1859 - Torun;Chelmno - Chelmno
-
-c_swiecie;2997;2997 - Pomorskie;Schlochau - Tuchola
-c_danzig;2997;2997 - Pomorskie;Danzig - Tuchola
-
-### East Prussia
-
-c_scalovia;40;40 - Memel;Skalva - Memel
-c_scalovia;40;40 - Memel;Duplicate to increase weight
-c_nadruvia;40;40 - Memel;Nadruvia - Memel
-
-c_sambia;41;41 - Konigsberg;Sambi - Königsberg
-c_sambia;41;41 - Konigsberg;Duplicate to increase weight
-c_nadruvia;41;41 - Konigsberg;Nadruvia - Königsberg
-
-c_bartia;767;767 - Ortelsburg;Bartia - Ortelsburg
-c_galindia;767;767 - Ortelsburg;Galindia - Ortelsburg
-c_nadruvia;767;767 - Ortelsburg;Nadruvia - Ortelsburg
-
-c_pogesania;2958;2958 - Osterode;Pogesania - Osterode
-
-## Poland
-### Wielkopolska
-
-c_poznanskie;254;254 - Poznan;Poznan - Poznan
-
-c_kaliskie;255;255 - Kalisz;Kalisz - Kalisz
-c_kaliskie;255;255 - Kalisz;Duplicate to increase weight
-c_gnieznienskie;255;255 - Kalisz;Gniezno - Kalisz
-
-c_sieradzko-leczyckie;258;258 - Lodz;Sieradz - Sieradz
-c_kaliskie;258;258 - Lodz;Kalisz - Sieradz
-c_opole;258;258 - Lodz;Opole - Sieradz
-
-c_leczyca;1939;1939 - Leczyca;Leczyca - Leczyca
-c_leczyca;1939;1939 - Leczyca;Duplicate to increase weight
-c_sieradzko-leczyckie;1939;1939 - Leczyca;Sieradz - Leczyca
-c_rawamazovia;1939;1939 - Leczyca;Rawa - Leczyca
-c_plock;1939;1939 - Leczyca;Plock - Leczyca
-c_kujawy;1939;1939 - Leczyca;Kujawy - Leczyca
-
-c_gnieznienskie;2963;2963 - Notec;Gniezno - Notec
-c_gnieznienskie;2963;2963 - Notec;Duplicate to increase weight
-c_kujawy;2963;2963 - Notec;Kujawy - Notec
-
-### Malopolska
-
-c_sandomierskie;259;259 - Sandomierz;Sandomierz - Sandomierz
-c_sandomierskie;259;259 - Sandomierz;Duplicate to increase weight
-c_sieradzko-leczyckie;259;259 - Sandomierz;Sieradz - Sandomierz
-
-c_lublin;260;260 - Lublin;Lublin - Lublin
-c_lublin;260;260 - Lublin;Duplicate to increase weight
-c_lublin;260;260 - Lublin;Duplicate to increase weight
-c_sandomierskie;260;260 - Lublin;Sandomierz - Lublin
-c_sandomierskie;260;260 - Lublin;Duplicate to increase weight
-c_belz;260;260 - Lublin;Belz - Lublin
-
-c_krakowskie;262;262 - Krakow;Krakow - Krakow
-c_krakowskie;262;262 - Krakow;Duplicate to increase weight
-c_opole;262;262 - Krakow;Opole - Krakow
-
-c_sandomierskie;2959;2959 - Tarnow;Sandomierz - Tarnow
-c_sandomierskie;2959;2959 - Tarnow;Duplicate to increase weight
-c_peremyshl;2959;2959 - Tarnow;Peremyshl - Tarnow
-
-c_sacz;2960;2960 - Sadecki;Sacz - Nowy Sacz
-c_sacz;2960;2960 - Sadecki;Duplicate to increase weight
-c_sacz;2960;2960 - Sadecki;Duplicate to increase weight
-c_sacz;2960;2960 - Sadecki;Duplicate to increase weight
-c_krakowskie;2960;2960 - Sadecki;Krakow - Nowy Sacz
-c_krakowskie;2960;2960 - Sadecki;Duplicate to increase weight
-c_peremyshl;2960;2960 - Sadecki;Peremyshl - Nowy Sacz
-
-### Red Ruthenia
-
-c_galich;261;261 - Halicz;Halych - Halicz
-c_galich;261;261 - Halicz;Duplicate to increase weight
-c_torki;261;261 - Halicz;Suceava - Halicz
-
-c_belz;1940;1940 - Belz;Belz - Belz
-c_lutsk;1940;1940 - Belz;Luck - Belz
-
-c_peremyshl;2424;2424 - Peremyshl;Peremyshl - Peremyshl
-
-c_lutsk;2961;2961 - Lwow;Luck - Lwow
-c_terebovl;2961;2961 - Lwow;Terebovl - Lwow
-c_terebovl;2961;2961 - Lwow;Duplicate to increase weight
-
-### Mazovia
-
-c_plock;256;256 - Plock;Plock - Plock
-c_plock;256;256 - Plock;Duplicate to increase weight
-c_kujawy;256;256 - Plock;Kujawy - Plock
-
-c_czersk;257;257 - Warszawa;Czersk - Warszawa
-c_czersk;257;257 - Warszawa;Duplicate to increase weight
-c_czersk;257;257 - Warszawa;Duplicate to increase weight
-c_rawamazovia;257;257 - Warszawa;Rawa - Warszawa
-c_sandomierskie;257;257 - Warszawa;Sandomierz - Warszawa
-
-c_podlasie;269;269 - Podlasia;Belsk - Podlasie
-c_podlasie;269;269 - Podlasia;Duplicate to increase weight
-c_podlasie;269;269 - Podlasia;Duplicate to increase weight
-c_pultusk;269;269 - Podlasia;Pultusk - Podlasie
-c_pultusk;269;269 - Podlasia;Duplicate to increase weight
-c_czersk;269;269 - Podlasia;Czersk - Podlasie
-c_beresty;269;269 - Podlasia;Berestye - Podlasie
-
-c_pultusk;1938;1938 - Wizna;Pultusk - Wizna
-c_czersk;1938;1938 - Wizna;Czersk - Wizna
-
-### Silesia
-
-c_opole;263;263 - Ratibor;Opole - Ratibor
-c_opole;263;263 - Ratibor;Duplicate to increase weight
-c_cieszyn;263;263 - Ratibor;Cieszyn - Ratibor
-c_cieszyn;263;263 - Ratibor;Duplicate to increase weight
-c_opava;263;263 - Ratibor;Opava - Ratibor
-
-c_upper_silesia;264;264 - Breslau;Wroclaw - Breslau
-c_upper_silesia;264;264 - Breslau;Duplicate to increase weight
-c_upper_silesia;264;264 - Breslau;Duplicate to increase weight
-c_upper_silesia;264;264 - Breslau;Duplicate to increase weight
-c_legnica;264;264 - Breslau;Legnica - Breslau
-c_legnica;264;264 - Breslau;Duplicate to increase weight
-c_lower_silesia;264;264 - Breslau;Glogów - Breslau
-
-c_lower_silesia;2966;2966 - Leignitz;Glogów - Glogau
-
-## Ruthenia
-### West Dniepr
-
-d_kiev;280;280 - Kiev;Duchy Kiev - Kiev
-c_kiev;280;280 - Kiev;Kiev - Kiev
-c_kiev;280;280 - Kiev;Duplicate to increase weight
-c_pereyaslavl;280;280 - Kiev;Perejaslavl - Kiev
-c_iskorosten;280;280 - Kiev;Ovruch - Kiev
-
-c_zhytomyr;1942;1942 - Zhytomyr;Zhytomyr - Zhytomyr
-c_iskorosten;1942;1942 - Zhytomyr;Ovruch - Zhytomyr
-c_iskorosten;1942;1942 - Zhytomyr;Duplicate to increase weight
-
-c_korsun;1944;1944 - Cherkasy;Ros’ - Cherkasy
-c_lower_dniepr;1944;1944 - Cherkasy;Özü - Cherkasy
-c_kiev;1944;1944 - Cherkasy;Kiev - Cherkasy
-
-### East Dniepr
-
-d_chernigov;289;289 - Chernigov;Duchy Chernigov - Chernigov
-c_chernigov;289;289 - Chernigov;Chernigov - Chernigov
-c_chernigov;289;289 - Chernigov;Duplicate to increase weight
-c_chernigov;289;289 - Chernigov;Duplicate to increase weight
-c_lyubech;289;289 - Chernigov;Lyubech - Chernigov
-c_novgorod_seversky;289;289 - Chernigov;Novgorod Seversky - Chernigov
-c_bryansk;289;289 - Chernigov;Briansk - Chernigov
-
-c_lower_don;290;290 - Poltava;Orel - Poltava
-c_lower_don;290;290 - Poltava;Duplicate to increase weight
-c_lower_don;290;290 - Poltava;Duplicate to increase weight
-c_lubny;290;290 - Poltava;Lukoml - Poltava
-c_tana;290;290 - Poltava;Vorskla - Poltava
-
-c_novgorod_seversky;1945;1945 - Novgorod-Seversky;Novgorod Seversky - Severia
-c_novgorod_seversky;1945;1945 - Novgorod-Seversky;Duplicate to increase weight
-c_bryansk;1945;1945 - Novgorod-Seversky;Briansk - Severia
-c_karachev;1945;1945 - Novgorod-Seversky;Karachev - Severia
-
-d_pereyaslavl;2407;2407 - Pereyaslav;Duchy Perejaslavl - Pereyaslav
-c_pereyaslavl;2407;2407 - Pereyaslav;Perejaslavl - Pereyaslav
-c_pereyaslavl;2407;2407 - Pereyaslav;Duplicate to increase weight
-c_romny_ukraine;2407;2407 - Pereyaslav;Romen - Pereyaslav
-c_romny_ukraine;2407;2407 - Pereyaslav;Duplicate to increase weight
-c_chernigov;2407;2407 - Pereyaslav;Chernigov - Pereyaslav
-
-### Sloboda Ukraine
-
-c_sharukan;291;291 - Kharkov;Uda - Kharkov
-c_sharukan;291;291 - Kharkov;Duplicate to increase weight
-c_tana;291;291 - Kharkov;Vorskla - Kharkov
-
-c_kursk;298;298 - Kursk;Kursk - Kursk
-c_kursk;298;298 - Kursk;Duplicate to increase weight
-c_kursk;298;298 - Kursk;Duplicate to increase weight
-c_rilsk;298;298 - Kursk;Rilsk - Kursk
-c_rilsk;298;298 - Kursk;Duplicate to increase weight
-c_tana;298;298 - Kursk;Vorskla - Kursk
-c_tana;298;298 - Kursk;Duplicate to increase weight
-c_romny_ukraine;298;298 - Kursk;Romen - Kursk
-c_desht-i-kipchak;298;298 - Kursk;Vskol' - Kursk
-
-c_lower_volga;299;299 - Voronezh;Qaratayak - Voronezh
-c_desht-i-kipchak;299;299 - Voronezh;Vskol' - Voronezh
-
-### White Ruthenia
-
-c_polotsk;275;275 - Polotsk;Polotsk - Polotsk
-c_polotsk;275;275 - Polotsk;Duplicate to increase weight
-c_braslaw;275;275 - Polotsk;Braslaw - Polotsk
-c_braslaw;275;275 - Polotsk;Duplicate to increase weight
-c_velikiye_luki;275;275 - Polotsk;Luki - Polotsk
-
-c_minsk;276;276 - Minsk;Minsk - Minsk
-c_lepiel;276;276 - Minsk;Logozsk - Minsk
-c_zaslawye;276;276 - Minsk;Izjaslavl' - Minsk
-
-c_mstislavl;292;292 - Mogilyov;Mstislavl - Mogilev
-c_mstislavl;292;292 - Mogilyov;Duplicate to increase weight
-c_mstislavl;292;292 - Mogilyov;Duplicate to increase weight
-c_druck;292;292 - Mogilyov;Druck - Mogilev
-c_druck;292;292 - Mogilyov;Duplicate to increase weight
-c_orsha;292;292 - Mogilyov;Krasen - Mogilev
-c_polotsk;292;292 - Mogilyov;Polotsk - Mogilev
-
-c_vitebsk;771;771 - Vitebsk;Vitebsk - Vitebsk
-c_toropets;771;771 - Vitebsk;Toropec - Vitebsk
-
-c_turov;4115;4115 - Mazyr;Turov - Mazyr
-c_turov;4115;4115 - Mazyr;Duplicate to increase weight
-c_gomel;4115;4115 - Mazyr;Gomel - Mazyr
-c_lyubech;4115;4115 - Mazyr;Lyubech - Mazyr
-
-### Podolia Volhynia
-
-c_vladimir_volynsky;279;279 - Volhynia;Vladimir Volynsky - Volhynia
-c_vladimir_volynsky;279;279 - Volhynia;Duplicate to increase weight
-c_vladimir_volynsky;279;279 - Volhynia;Duplicate to increase weight
-c_pinsk;279;279 - Volhynia;Pinsk - Volhynia
-c_lutsk;279;279 - Volhynia;Luck - Volhynia
-
-c_peresechen;281;281 - Kamienec;Podolya - Podolia
-c_peresechen;281;281 - Kamienec;Duplicate to increase weight
-c_terebovl;281;281 - Kamienec;Terebovl - Podolia
-c_zhytomyr;281;281 - Kamienec;Zhytomyr - Podolia
-
-c_peresechen;1943;1943 - Bratslav;Podolya - Bratslav
-c_peresechen;1943;1943 - Bratslav;Duplicate to increase weight
-c_korsun;1943;1943 - Bratslav;Ros’ - Bratslav
-c_zhytomyr;1943;1943 - Bratslav;Zhytomyr - Bratslav
-
-c_dorogobuzh;2962;2962 - Rowne;Dorogobuž - Rowne
-c_dorogobuzh;2962;2962 - Rowne;Duplicate to increase weight
-c_zhytomyr;2962;2962 - Rowne;Zhytomyr - Rowne
-
-### Pripyat
-
-c_beresty;277;277 - Brest;Berestye - Brest
-c_beresty;277;277 - Brest;Duplicate to increase weight
-c_beresty;277;277 - Brest;Duplicate to increase weight
-c_podlasie;277;277 - Brest;Belsk - Brest
-c_chelm;277;277 - Brest;Chelm - Brest
-c_vladimir_volynsky;277;277 - Brest;Vladimir Volynsky - Brest
-
-c_pinsk;278;278 - Pinsk;Pinsk - Pinsk
-c_pinsk;278;278 - Pinsk;Duplicate to increase weight
-c_jacwiez;278;278 - Pinsk;Volkovysk - Pinsk
-
-c_turov;1941;1941 - Turov;Turov - Turov
-c_turov;1941;1941 - Turov;Duplicate to increase weight
-c_pinsk;1941;1941 - Turov;Pinsk - Turov
-c_pinsk;1941;1941 - Turov;Duplicate to increase weight
-c_slutsk;1941;1941 - Turov;Sluck - Turov
-
-### Smolensk
-
-d_smolensk;293;293 - Smolensk;Duchy Smolensk - Smolensk
-c_smolensk;293;293 - Smolensk;Smolensk - Smolensk
-c_smolensk;293;293 - Smolensk;Duplicate to increase weight
-c_roslavl;293;293 - Smolensk;Roslavl - Smolensk
-c_vyazma;293;293 - Smolensk;Viazma - Smolensk
-
-c_mozhaysk;296;296 - Mozhaisk;Mozhajsk - Kaluga
-c_mozhaysk;296;296 - Mozhaisk;Duplicate to increase weight
-c_tarusa;296;296 - Mozhaisk;Tarusa - Kaluga
-c_vorotynsk;296;296 - Mozhaisk;Vorotynsk - Kaluga
-
-c_bryansk;297;297 - Bryansk;Briansk - Bryansk
-c_bryansk;297;297 - Bryansk;Duplicate to increase weight
-c_bryansk;297;297 - Bryansk;Duplicate to increase weight
-c_bryansk;297;297 - Bryansk;Duplicate to increase weight
-c_vorotynsk;297;297 - Bryansk;Vorotynsk - Bryansk
-c_roslavl;297;297 - Bryansk;Roslavl - Bryansk
-c_gomel;297;297 - Bryansk;Gomel - Bryansk
-
-c_karachev;4116;4116 - Upper Oka;Karachev - Oka
-c_novosil;4116;4116 - Upper Oka;Novosil - Oka
-c_kozelsk;4116;4116 - Upper Oka;Kozel'sk - Oka
-
-## Crimea
-### Crimea
-
-c_crimea;284;284 - Crimea;Qirim - Crimea
-
-c_theodosia;285;285 - Kaffa;Theodosia - Caffa
-c_korchev;285;285 - Kaffa;Kerch - Caffa
-
-c_theodoro;2410;2410 - Theodoro;Doros - Theodoro
-c_cherson;2410;2410 - Theodoro;Cherson - Theodoro
-
-c_tmutarakan;2447;2447 - Mantrega;Tamatarkha - Mantrega
-
-### Lower Don
-
-c_sarkel;288;288 - Cherkassk;Sharkel - Lower Don
-
-c_lower_volga;467;467 - Borisoglebsk;Qaratayak - Borisoglebsk
-c_khopyor;467;467 - Borisoglebsk;Khoper - Borisoglebsk
-
-c_khopyor;1971;1971 - Tsaritsyn;Khoper - Tsaritsyn
-c_khopyor;1971;1971 - Tsaritsyn;Duplicate to increase weight
-c_khopyor;1971;1971 - Tsaritsyn;Duplicate to increase weight
-c_saray;1971;1971 - Tsaritsyn;Saray - Tsaritsyn
-c_saray;1971;1971 - Tsaritsyn;Duplicate to increase weight
-c_sarkel;1971;1971 - Tsaritsyn;Sharkel - Tsaritsyn
-
-c_sarkel;2409;2409 - Bahmut;Sharkel - Bahmut
-
-### Astrakhan
-
-c_itil;464;464 - Astrakhan;Itil - Astrakhan
-c_itil;464;464 - Astrakhan;Duplicate to increase weight
-c_kuma;464;464 - Astrakhan;Kuma - Astrakhan
-
-c_saray;466;466 - Sarai;Saray - Sarai
-c_saray;466;466 - Sarai;Duplicate to increase weight
-c_sarpa;466;466 - Sarai;Sarpa - Sarai
-
-c_manych;468;468 - Khazaria;Ugru - Manych
-c_manych;468;468 - Khazaria;Duplicate to increase weight
-c_sarpa;468;468 - Khazaria;Sarpa - Manych
-
-c_yegorlyk;2416;2416 - Majar;Yegorlyk - Majar
-
-c_kuma;2417;2417 - Kuma;Kuma - Kuma
-c_sarpa;2417;2417 - Kuma;Sarpa - Kuma
-c_sarpa;2417;2417 - Kuma;Duplicate to increase weight
-
-### Zaporizhia
-
-c_lower_dniepr;283;283 - Zaporozhia;Özü - Zaporozhia
-
-c_chortitza;2411;2411 - Mansur;Aq Samar - Mansur
-c_chortitza;2411;2411 - Mansur;Duplicate to increase weight
-c_sugrov;2411;2411 - Mansur;Duna-Jük - Mansur
-
-c_lukomorie;2412;2412 - Kyzyl-Yar;Tokmak - Kyzyl-Yar
-
-### Yedisan
-
-c_olvia;282;282 - Yedisan;Yedisan - Yedisan
-c_olvia;282;282 - Yedisan;Duplicate to increase weight
-c_peresechen;282;282 - Yedisan;Podolya - Yedisan
-
-c_lukomorie;1974;1974 - Yedishkul;Tokmak - Yedishkul
-
-c_oleshye;2406;2406 - Ingil;Boh - Ingil
-c_oleshye;2406;2406 - Ingil;Duplicate to increase weight
-c_lower_dniepr;2406;2406 - Ingil;Özü - Ingil
-
-### Azov
-
-c_azov;286;286 - Azow;Azaq - Azov
-
-c_kuban;287;287 - Kouban;Cuba - Kuban
-c_azov;287;287 - Kouban;Azaq - Kuban
-
-c_sugrov;2413;2413 - Tyn;Duna-Jük - Tyn
-
-c_azov;2414;2414 - Azaraba;Azaq - Azaraba
-c_azov;2414;2414 - Azaraba;Duplicate to increase weight
-c_kuban;2414;2414 - Azaraba;Cuba - Azaraba
-c_manych;2414;2414 - Azaraba;Ugru - Azaraba
-c_yegorlyk;2414;2414 - Azaraba;Yegorlyk - Azaraba
-
-## Balkans
-### Croatia
-
-c_zagreb;131;131 - Zagorje;Zagreb - Zagreb
-c_okic;131;131 - Zagorje;Okic - Zagreb
-c_vodica;131;131 - Zagorje;Vodica - Zagreb
-
-c_varadzin;152;152 - Belovar;Zagorje - Varasd
-c_varadzin;152;152 - Belovar;Duplicate to increase weight
-c_varadzin;152;152 - Belovar;Duplicate to increase weight
-c_zagreb;152;152 - Belovar;Zagreb - Varasd
-c_pozega;152;152 - Belovar;Požega - Varasd
-
-c_krizevci;1767;1767 - Veroce;Vukova - Slavonia
-c_pozega;1767;1767 - Veroce;Požega - Slavonia
-
-c_donjikraji;1828;1828 - Soli;Donji Kraji - Donji Kraji
-c_vrbas;1828;1828 - Soli;Vrbas - Donji Kraji
-c_rama;1828;1828 - Soli;Rama - Donji Kraji
-c_zavrsje;1828;1828 - Soli;Zavrsje - Donji Kraji
-
-### East Adriatic
-
-d_dalmatia;136;136 - Dalmatia;Duchy Dalmacija - Dalmatia
-c_split;136;136 - Dalmatia;Cetina - Dalmatia
-c_split;136;136 - Dalmatia;Duplicate to increase weight
-c_knin;136;136 - Dalmatia;Knin - Dalmatia
-c_omis;136;136 - Dalmatia;Omis - Dalmatia
-c_bribir;136;136 - Dalmatia;Bribir - Dalmatia
-c_zadar;136;136 - Dalmatia;Zadar - Dalmatia
-c_hvar;136;136 - Dalmatia;Hvar - Dalmatia
-
-c_ragusa;137;137 - Ragusa;Dubrovnik - Ragusa
-c_ragusa;137;137 - Ragusa;Duplicate to increase weight
-c_korcula;137;137 - Ragusa;Korcula - Ragusa
-
-c_senj;1826;1826 - Lika;Lika - Lika
-c_modrus;1826;1826 - Lika;Modruš - Lika
-
-### Bosnia
-
-c_zachlumia;139;139 - Hum;Podgorje - Hum
-c_zachlumia;139;139 - Hum;Duplicate to increase weight
-c_zachlumia;139;139 - Hum;Duplicate to increase weight
-c_zachlumia;139;139 - Hum;Duplicate to increase weight
-c_zavrsje;139;139 - Hum;Zavrsje - Hum
-c_rama;139;139 - Hum;Rama - Hum
-c_vrhbosna;139;139 - Hum;Vrhbosna - Hum
-
-c_vrhbosna;140;140 - Bosnia;Vrhbosna - Bosnia
-c_usora;140;140 - Bosnia;Usora - Bosnia
-c_soli;140;140 - Bosnia;Soli - Bosnia
-
-c_travunija;1831;1831 - Travunia;Travunija - Travunia
-
-c_polimlje;3002;3002 - Sarajevo;Polimlje - Visoki
-c_polimlje;3002;3002 - Sarajevo;Duplicate to increase weight
-c_polimlje;3002;3002 - Sarajevo;Duplicate to increase weight
-c_zachlumia;3002;3002 - Sarajevo;Podgorje - Visoki
-c_zachlumia;3002;3002 - Sarajevo;Duplicate to increase weight
-c_hum;3002;3002 - Sarajevo;Podrinje - Visoki
-c_hum;3002;3002 - Sarajevo;Duplicate to increase weight
-c_vrhbosna;3002;3002 - Sarajevo;Vrhbosna - Visoki
-
-### Serbia
-
-c_zeta;138;138 - Zeta;Crna Gora - Zeta
-c_zeta;138;138 - Zeta;Duplicate to increase weight
-c_zeta;138;138 - Zeta;Duplicate to increase weight
-c_primorje;138;138 - Zeta;Primorje - Zeta
-c_primorje;138;138 - Zeta;Duplicate to increase weight
-c_travunija;138;138 - Zeta;Travunija - Zeta
-
-c_belgrade;141;141 - Serbia;Belgrad - Serbia
-c_macva;141;141 - Serbia;Macva - Serbia
-c_branicevo;141;141 - Serbia;Branicevo - Serbia
-
-c_prizren;1766;1766 - Kosovo;Hvosno - Kosovo
-c_prizren;1766;1766 - Kosovo;Duplicate to increase weight
-c_skopje;1766;1766 - Kosovo;Skopje - Kosovo
-
-c_rashka;1827;1827 - Raska;Rashka - Raska
-c_rashka;1827;1827 - Raska;Duplicate to increase weight
-c_rashka;1827;1827 - Raska;Duplicate to increase weight
-c_polimlje;1827;1827 - Raska;Polimlje - Raska
-c_prizren;1827;1827 - Raska;Hvosno - Raska
-
-c_naissus;3000;3000 - Nis;Niš - Nis
-c_naissus;3000;3000 - Nis;Duplicate to increase weight
-c_velbazhd;3000;3000 - Nis;Velbazhd - Nis
-
-### Bulgaria
-
-c_tyrnovo;150;150 - Tarnovo;Tarnovo - Tarnovo
-c_tyrnovo;150;150 - Tarnovo;Duplicate to increase weight
-c_nikopolis;150;150 - Tarnovo;Kran - Tarnovo
-
-c_karvuna;159;159 - Silistria;Karvuna - Silistria
-c_karvuna;159;159 - Silistria;Duplicate to increase weight
-c_dorostotum;159;159 - Silistria;Preslav - Silistria
-c_dorostotum;159;159 - Silistria;Duplicate to increase weight
-c_constantia;159;159 - Silistria;Konstanta - Silistria
-
-c_serdica;1765;1765 - Nis;Sredets - Sofia
-c_serdica;1765;1765 - Nis;Duplicate to increase weight
-c_velbazhd;1765;1765 - Nis;Velbazhd - Sofia
-c_strumica;1765;1765 - Nis;Strumica - Sofia
-
-c_vidin;2746;2746 - Vidin;Vidin - Vidin
-
-c_philippopolis;2750;2750 - Plovdiv;Plovdiv - Plovdiv
-c_kopsis;2750;2750 - Plovdiv;Kopsis - Plovdiv
-c_mesembria;2750;2750 - Plovdiv;Zagore - Plovdiv
-c_adrianopolis;2750;2750 - Plovdiv;Adrianopol - Plovdiv
-
-### Macedonia
-
-d_dyrrachion;143;143 - Albania;Duchy Dyrráchiou - Albania
-c_arbanon;143;143 - Albania;Arbër - Albania
-c_arbanon;143;143 - Albania;Duplicate to increase weight
-c_dyrrachion;143;143 - Albania;Dyrrakhiou - Albania
-c_valona;143;143 - Albania;Aulona - Albania
-c_zeta;143;143 - Albania;Crna Gora - Albania
-
-d_thessalonika;148;148 - Thessaloniki;Duchy Thessalonikes - Macedonia
-c_thessalonike;148;148 - Thessaloniki;Thessaloníke - Macedonia
-c_thessalonike;148;148 - Thessaloniki;Duplicate to increase weight
-c_strymon;148;148 - Thessaloniki;Strymonos - Macedonia
-c_chalkidike;148;148 - Thessaloniki;Chalkidike - Macedonia
-c_veria;148;148 - Thessaloniki;Verroia - Macedonia
-c_strumica;148;148 - Thessaloniki;Strumica - Macedonia
-
-c_ochrid;1853;1853- Kastoria;Ohrid - Kastoria
-c_ochrid;1853;1853- Kastoria;Duplicate to increase weight
-c_upper_wallachia;1853;1853- Kastoria;Megále Vlachia - Kastoria
-
-c_skopje;3001;3001 - Skopje;Skopje - Skopje
-c_skopje;3001;3001 - Skopje;Duplicate to increase weight
-c_velbazhd;3001;3001 - Skopje;Velbazhd - Skopje
-c_strumica;3001;3001 - Skopje;Strumica - Skopje
-
-### Northern Greece
-
-c_corfu;142;142 - Corfu;Kérkyra - Corfu
-
-d_epirus;144;144 - Janina;Duchy Nikopoleos - Epirus
-c_epeiros;144;144 - Janina;Epeiros - Epirus
-c_epeiros;144;144 - Janina;Duplicate to increase weight
-c_arta;144;144 - Janina;Nikopolis - Epirus
-c_arta;144;144 - Janina;Duplicate to increase weight
-c_hellas;144;144 - Janina;Naupaktos - Epirus
-c_cephalonia;144;144 - Janina;Kephallenia - Epirus
-
-c_thessalia;147;147 - Salonica;Thessalía - Thessaly
-c_thessalia;147;147 - Salonica;Duplicate to increase weight
-c_demetrias;147;147 - Salonica;Demetrias - Thessaly
-c_neopatras;147;147 - Salonica;Neai Patrai - Thessaly
-c_upper_wallachia;147;147 - Salonica;Megále Vlachia - Thessaly
-c_veria;147;147 - Salonica;Verroia - Thessaly
-
-### Morea
-
-c_monemvasia;145;145 - Morea;Lakonia - Morea
-c_monemvasia;145;145 - Morea;Duplicate to increase weight
-c_arcadia;145;145 - Morea;Arkadia - Morea
-
-c_atheniai;146;146 - Athens;Attika - Athens
-c_thebai;146;146 - Athens;Boiotía - Athens
-
-c_achaia;1773;1773 - Achaea;Achaía - Achaea
-c_achaia;1773;1773 - Achaea;Duplicate to increase weight
-c_korinthos;1773;1773 - Achaea;Korinthos - Achaea
-c_korinthos;1773;1773 - Achaea;Duplicate to increase weight
-c_arcadia;1773;1773 - Achaea;Arkadia - Achaea
-c_methone;1773;1773 - Achaea;Messinia - Achaea
-
-### Western Aegean
-
-d_krete;163;163 - Crete;Duchy Kretes - Crete
-c_kaneia;163;163 - Crete;Chaneia - Crete
-c_chandax;163;163 - Crete;Khándax - Crete
-
-c_naxos;164;164 - Naxos;Kykládes - Naxos
-
-c_euboia;3003;3003 - Euboea;Euripos - Euboea
-
-### Thrace
-
-c_adrianopolis;149;149 - Edirne;Adrianopol - Edirne
-c_adrianopolis;149;149 - Edirne;Duplicate to increase weight
-c_traianopolis;149;149 - Edirne;Traianopolis - Edirne
-c_mosynopolis;149;149 - Edirne;Mosynopolis - Edirne
-c_kaliopolis;149;149 - Edirne;Kallipolis - Edirne
-c_kaliopolis;149;149 - Edirne;Duplicate to increase weight
-c_thrake;149;149 - Edirne;Thráke - Edirne
-
-c_byzantion;151;151 - Constantinople;Konstantinoupolis - Constantinople
-c_byzantion;151;151 - Constantinople;Duplicate to increase weight
-c_byzantion;151;151 - Constantinople;Duplicate to increase weight
-c_thrake;151;151 - Constantinople;Thráke - Constantinople
-c_kaliopolis;151;151 - Constantinople;Kallipolis - Constantinople
-
-c_thrake;1764;1764 - Burgas;Thráke - Burgas
-c_mesembria;1764;1764 - Burgas;Zagore - Burgas
-
-## Carpathia
-### Transdanubia
-
-d_gyor;135;135 - Sopron;Duchy Gyõr - Sopron
-c_sopron;135;135 - Sopron;Sopron - Sopron
-c_vas;135;135 - Sopron;Kolon - Sopron
-c_vas;135;135 - Sopron;Duplicate to increase weight
-c_pest;135;135 - Sopron;Veszprém - Sopron
-c_gemer;135;135 - Sopron;Gyõr - Sopron
-
-d_esztergom;153;153 - Pest;Duchy Visegrád - Pest
-c_esztergom;153;153 - Pest;Visegrád - Pest
-c_esztergom;153;153 - Pest;Duplicate to increase weight
-c_esztergom;153;153 - Pest;Duplicate to increase weight
-c_fejer;153;153 - Pest;Fejér - Pest
-c_fejer;153;153 - Pest;Duplicate to increase weight
-c_szekezfehervar;153;153 - Pest;Csongrád - Pest
-c_szekezfehervar;153;153 - Pest;Duplicate to increase weight
-c_komarom;153;153 - Pest;Komarom - Pest
-c_hont;153;153 - Pest;Hont - Pest
-
-c_pecs;1864;1864 - Somogy;Tolna - Somogy
-c_pecs;1864;1864 - Somogy;Duplicate to increase weight
-c_pecs;1864;1864 - Somogy;Duplicate to increase weight
-c_bereg;1864;1864 - Somogy;Somogy - Somogy
-c_bereg;1864;1864 - Somogy;Duplicate to increase weight
-c_pest;1864;1864 - Somogy;Veszprém - Somogy
-c_fejer;1864;1864 - Somogy;Fejér - Somogy
-
-c_bacs;4126;4126 - Bacs;Bodrog - Bacs
-c_bacs;4126;4126 - Bacs;Duplicate to increase weight
-c_bacs;4126;4126 - Bacs;Duplicate to increase weight
-c_bacs;4126;4126 - Bacs;Duplicate to increase weight
-c_syrmia;4126;4126 - Bacs;Szerém - Bacs
-c_syrmia;4126;4126 - Bacs;Duplicate to increase weight
-c_krizevci;4126;4126 - Bacs;Vukova - Bacs
-
-### Alföld
-
-c_bekes;155;155 - Bekes;Békés - Bekes
-c_zarand;155;155 - Bekes;Zaránd - Bekes
-c_csanad;155;155 - Bekes;Csanad - Bekes
-
-c_bihar;1953;1953 - Szabolcs;Bihar - Szabolcs
-c_bihar;1953;1953 - Szabolcs;Duplicate to increase weight
-c_marmaros;1953;1953 - Szabolcs;Szatmár - Szabolcs
-
-c_temes;1954;1954 - Torontal;Temes - Torontal
-c_temes;1954;1954 - Torontal;Duplicate to increase weight
-c_krasso;1954;1954 - Torontal;Krassó - Torontal
-
-c_heves;4125;4125 - Szolnok;Heves - Szolnok
-c_heves;4125;4125 - Szolnok;Duplicate to increase weight
-c_heves;4125;4125 - Szolnok;Duplicate to increase weight
-c_esztergom;4125;4125 - Szolnok;Visegrád - Szolnok
-c_saris;4125;4125 - Szolnok;Borsod - Szolnok
-
-### Slovakia
-
-c_komarom;154;154 - Ersekujvar;Komarom - Érsekújvár
-c_trencin;154;154 - Ersekujvar;Trencsén - Érsekújvár
-c_trencin;154;154 - Ersekujvar;Duplicate to increase weight
-c_bars;154;154 - Ersekujvar;Bars - Érsekújvár
-c_bars;154;154 - Ersekujvar;Duplicate to increase weight
-c_hont;154;154 - Ersekujvar;Hont - Érsekújvár
-c_nitra;154;154 - Ersekujvar;Nyitra - Érsekújvár
-c_cieszyn;154;154 - Ersekujvar;Cieszyn - Érsekújvár
-
-c_zemplen;162;162 - Zemplen;Zemplén - Zemplen
-c_zemplen;162;162 - Zemplen;Duplicate to increase weight
-c_zemplen;162;162 - Zemplen;Duplicate to increase weight
-c_abauj;162;162 - Zemplen;Abauj - Zemplen
-c_saris;162;162 - Zemplen;Borsod - Zemplen
-
-c_szepes;1318;1318 - Spis;Szepes - Spiš
-c_hont;1318;1318 - Spis;Hont - Spiš
-c_orava;1318;1318 - Spis;Árva - Spiš
-c_bars;1318;1318 - Spis;Bars - Spiš
-c_saris;1318;1318 - Spis;Borsod - Spiš
-c_sacz;1318;1318 - Spis;Sacz - Spiš
-
-c_pressburg;1772;1772 - Pozsony;Pozsony - Pozsony
-c_pressburg;1772;1772 - Pozsony;Duplicate to increase weight
-c_nitra;1772;1772 - Pozsony;Nyitra - Pozsony
-c_nitra;1772;1772 - Pozsony;Duplicate to increase weight
-c_trencin;1772;1772 - Pozsony;Trencsén - Pozsony
-
-### Transylvania
-
-c_temes;156;156 - Temes;Temes - Temes
-c_temes;156;156 - Temes;Duplicate to increase weight
-c_krasso;156;156 - Temes;Krassó - Temes
-
-c_bihar;157;157 - Bihar;Bihar - Bihar
-c_bihar;157;157 - Bihar;Duplicate to increase weight
-c_marmaros;157;157 - Bihar;Szatmár - Bihar
-
-c_szekelyfold;158;158 - Maros;Torda - Maros
-c_szekelyfold;158;158 - Maros;Duplicate to increase weight
-c_burzenland;158;158 - Maros;Barcaság - Maros
-
-c_feher;1951;1951 - Hunyad;Fehér - Hunyad
-c_zarand;1951;1951 - Hunyad;Zaránd - Hunyad
-
-c_marmaros;1952;1952 - Maramaros;Szatmár - Maramaros
-c_marmaros;1952;1952 - Maramaros;Duplicate to increase weight
-c_zemplen;1952;1952 - Maramaros;Zemplén - Maramaros
-
-c_szekelyfold;4127;4127 - Turda;Torda - Turda
-c_szekelyfold;4127;4127 - Turda;Duplicate to increase weight
-c_feher;4127;4127 - Turda;Fehér - Turda
-
-c_feher;4128;4128 - Kiralyfold;Fehér - Kiralyföld
-
-### Wallachia
-
-d_oltenia;160;160 - Oltenia;Duchy Oltenia - Oltenia
-c_severin;160;160 - Oltenia;Severin - Oltenia
-c_targujiu;160;160 - Oltenia;Targu Jiu - Oltenia
-
-c_tirgoviste;161;161 - Tirgoviste;Tirgoviste - Tîrgoviste
-d_wallachia;161;161 - Tirgoviste;Duchy Muntenia - Tîrgoviste
-c_turnu;161;161 - Tirgoviste;Turnu - Tîrgoviste
-
-c_buzau;2998;2998 - Buzau;Buzau - Buzau
-d_wallachia;2998;2998 - Buzau;Duchy Muntenia - Buzau
-c_ialomita;2998;2998 - Buzau;Ialomita - Buzau
-c_birlad;2998;2998 - Buzau;Bârlad - Buzau
-
-### Moldavia
-
-c_bacau;268;268 - Moldavia;Bacau - Moldavia
-c_bacau;268;268 - Moldavia;Duplicate to increase weight
-c_bacau;268;268 - Moldavia;Duplicate to increase weight
-c_torki;268;268 - Moldavia;Suceava - Moldavia
-c_torki;268;268 - Moldavia;Duplicate to increase weight
-c_birlad;268;268 - Moldavia;Bârlad - Moldavia
-c_birlad;268;268 - Moldavia;Duplicate to increase weight
-c_belgorod;268;268 - Moldavia;Tighina - Moldavia
-c_iasi;268;268 - Moldavia;Iasi - Moldavia
-
-c_galaz;1756;1756 - Budjak;Basarabia - Bessarabia
-c_constantia;1756;1756 - Budjak;Konstanta - Bessarabia
-
-c_belgorod;2405;2405 - Bendery;Tighina - Bender
-c_galaz;2405;2405 - Bendery;Basarabia - Bender
-c_iasi;2405;2405 - Bendery;Iasi - Bender
-
-## Central Asia
-### Nogai
-
-####;465;465 - Nogay;Nogay/Nizhny-Embinsk
-
-####;469;469 - Ryn;Ryn/Guriev
-
-####;470;470 - Bayuly;Bayuly/Kalmykov
-
-####;471;471 - Alimuly;Alimuly/Aralsk
-
-####;472;472 - Jetyru;Zhetyru/Aktubinsk
-
-####;474;474 - Yaik;Yaik
-
-####;2365;2365 - Orda;Orda/Aleksandrov-gay
-
-####;2366;2366 - Utva;Utva/Ilets
-
-####;2367;2367 - Lower Yik;Lower Yik/Glinanskaya
-
-### Transcaspia
-
-####;437;437 - Atak;Kopet Dag
-
-####;438;438 - Kara Kum;Karakum
-
-####;439;439 - Mangyshlak;Mangyshlak
-
-####;443;443 - Ust Yurt;Ustyurt
-
-####;2349;2349 - Kizil-Su;Kizil-Su/Krasnovodsk
-
-### Transoxiana
-
-####;442;442 - Bukhara;Bukhara
-
-####;453;453 - Qarshi;Qarshi
-
-####;454;454 - Samarkand;Samarkand
-
-####;455;455 - Kyrzyl-Kum;Kyzylkum
-
-####;1968;1968 - Kulob;Kulob
-
-####;1970;1970 - Syghnak;Syghnak/Perovsk
-
-####;2363;2363 - Atakent;Atakent
-
-### Kazakhstan
-
-####;456;456 - Turkestan;Turkestan
-
-####;476;476 - Kypshak;Kypshak
-
-####;2351;2351 - Shekty;Shekty/Irghiz
-
-####;2353;2353 - Tortkara;Tortkara/Turgay
-
-####;2352;2352 - Alty-Kuduk;Alty-Kuduk/Kazalinsk
-
-####;2358;2358 - Altyn;Altyn
-
-####;2359;2359 - Baganaly;Baganaly/Kiyinsk
-
-####;2361;2361 - Dzhaman-Kuduk;Dzhaman-Kuduk/Golodnaya steppe
-
-### Balchasj
-
-####;477;477 - Nadym;Nadym
-
-####;478;478 - Argyn;Argyn/Semipalatinsk
-
-####;2355;2355 - Narym;Narym/Sergiopol
-
-####;2360;2360 - Tobykty;Tobykty/Karkaralinsk
-
-### Khiva
-
-####;440;440 - Qaraqalpak;Qaraqalpak
-
-####;441;441 - Khiva;Khiva
-
-####;1973;1973 - Urgench;Urgench
-
-####;2362;2362 - Gurganj;Gurganj
-
-####;2370;2370 - Kungirot;Kungirot/Kungrad
-
-### Ferghana
-
-####;458;458 - Kokand;Kokand
-
-####;460;460 - Uzkend;Uzkend
-
-####;1967;1967 - Khujand;Khujand
-
-### Jetysuu
-
-####;459;459 - Taraz;Taraz/Pishpek
-
-####;461;461 - Almaty;Almaty/Vernyi
-
-####;2125;2125 - Kochkor;Kochkor/Przhevalsk
-
-####;2126;2126 - Chuy;Chuy/Naryn
-
-####;2368;2368 - Karamegdan;Karamegdan
-
-### Arys
-
-####;457;457 - Tashkent;Tashkent
-
-####;1969;1969 - Sozak;Sozak
-
-####;2364;2364 - Talas;Talas/Fergana
-
-####;2356;2356 - Shymkent;Shymkent/Chimkent
-
-## West Siberia (off-map)
-## East Siberia (off-map)
-## Mongolia
-### Outer Mongolia
-
-####;717;717 - Kherlen;Kherlen
-
-####;720;720 - Dorno Govi;Dornogovi
-
-####;721;721 - Setsen;Setsen
-
-####;2116;2116 - Ih Huree;Ih Huree
-
-####;2189;2189 - Tsetserleg;Tsetserleg
-
-####;2190;2190 - Qaraqorum;Qaraqorum
-
-####;2193;2193 - Govi;Govi
-
-### Inner Mongolia
-
-####;722;722 - Jirem;Jirem
-
-####;723;723 - Xilin Gol;Xilin Gol
-
-####;2109;2109 - Boduna;Boduna
-
-####;2114;2114 - Ereen;Ereen
-
-####;2115;2115 - Chahar;Chahar
-
-####;2187;2187 - Sartu;Sartu
-
-### Ordos
-
-####;701;701 - Ordos;Ordos
-
-####;702;702 - Hohhot;Hohhot
-
-####;709;709 - Alxa;Alxa
-
-####;2191;2191 - Ejin;Ejin
-
-####;2747;2747 - Khara Narin Ula;Khara Narin Ula
-
-### Zungaria
-
-####;713;713 - Bechbaliq;Bechbaliq
-
-####;714;714 - Hoboksar;Hoboksar
-
-####;715;715 - Urumqi;Urumqi/Urumçi
-
-####;2118;2118 - Urzhar;Urzhar
-
-####;2119;2119 - Chuguchak;Chuguchak
-
-####;2120;2120 - Ili;Ili
-
-####;2122;2122 - Hami;Hami
-
-### Altai Sayan
-
-####;716;716 - Tannu Uriankhai;Tannu Uriankhai/Belotsarsk
-
-####;718;718 - Kobdo;Kobdo
-
-####;719;719 - Uliastai;Uliastai
-
-####;1065;1065 - Kuznetsk;Kuznetsk
-
-####;1066;1066 - Altai;Altai Uriankhai
-
-####;2117;2117 - Zasagt;Zasagt
-
-## Manchuria (off-map)
-## Tibet
-### U-Tsang
-
-####;565;565 - Bhutan;Bhutan
-
-####;676;676 - Shigatse;Shigatse/Zikace
-
-####;677;677 - Lhasa;Lhasa
-
-####;2128;2128 - Ngari;Ngari
-
-####;2129;2129 - Changtang;Changtang/Changthang
-
-####;2130;2130 - Nyingchi;Nyingchi
-
-### Amdo
-
-####;705;705 - Gyegu;Gyegu
-
-####;706;706 - Tsaidam;Tsaidam
-
-####;2134;2134 - Rebgong;Rebgong
-
-### Kham
-
-####;678;678 - Tachienlu;Tachienlu
-
-####;2131;2131 - Qamdo;Qamdo/Chamdo
-
-####;2132;2132 - Markam;Markam
-
-####;2133;2133 - Dege;Dege
-
-####;2135;2135 - Garze;Garze
-
-### Altishahr
-
-####;710;710 - Hotan;Hotan
-
-####;711;711 - Qarqan;Qarqan
-
-####;712;712 - Aksu;Aksu
-
-####;739;739 - Kashgar;Kashgar
-
-####;2121;2121 - Kuqa;Kuqa
-
-####;2123;2123 - Qakilik;Qakilik
-
-####;2124;2124 - Yarkand;Yarkand/Jarkend
-
-####;2127;2127 - Yashilkul;Yashilkul
-
-####;2192;2192 - Korla;Korla
-
-## Japan (off-map)
-## Australia (off-map)
-## Oceania (off-map)
 ## Caribbeans (off-map)
 # India
 ## Bengal (off-map)
@@ -1651,6 +218,10 @@ c_asirgarh;526;526 - Mandu;Asirgarh - Mandu
 c_dhara;526;526 - Mandu;Dhara - Mandu
 c_ujjayini;526;526 - Mandu;Ujjayini - Mandu
 
+c_burhanpur;527;527 - Khandesh;Burhanpur - Khandesh
+c_thalner;527;527 - Khandesh;Thalner - Khandesh
+c_asirgarh;527;527 - Khandesh;Asirgarh - Khandesh
+
 c_chanderi;740;740 - Chanderi;Chanderi - Chanderi
 c_vidisa;740;740 - Chanderi;Vidisa - Chanderi
 c_damoh;740;740 - Chanderi;Damoh - Chanderi
@@ -1728,27 +299,12 @@ c_daman;529;529 - North Konkan;Daman - North Konkan
 
 #### South Konkan (off-map)
 #### Chaul (off-map)
-## Deccan
-### Maharashtra
-
-c_burhanpur;527;527 - Khandesh;Burhanpur - Khandesh
-c_thalner;527;527 - Khandesh;Thalner - Khandesh
-c_asirgarh;527;527 - Khandesh;Asirgarh - Khandesh
-
-#### Marathwada (off-map)
-#### West Berar (off-map)
-### Gondwana (off-map)
-### Telingana (off-map)
-### Maidan (off-map)
-### Desh (off-map)
-### Rayalaseema (off-map)
-### Mysore (off-map)
-### Kanara (off-map)
-### Kerala (off-map)
+## Deccan (off-map)
 ## Coromandel (off-map)
 # East Indies (off-map)
+# Oceania (off-map)
 # China (off-map)
-# Europe
+# Western Europe
 ## France
 ### Brittany
 
@@ -1797,11 +353,6 @@ c_gapencais;2991;2991 - Draguignan;Gapençais - Draguignan
 c_provence;2991;2991 - Draguignan;Provence - Draguignan
 
 ### Guyenne
-
-c_bordeaux;174;174 - Gascogne;Bordeaux - Gascogne
-c_bordeaux;174;174 - Gascogne;Duplicate to increase weight
-c_albret;174;174 - Gascogne;Labrit - Gascogne
-c_agen;174;174 - Gascogne;Agen - Gascogne
 
 d_poitou;180;180 - Poitou;Duchy Poitou - Poitou
 c_poitiers;180;180 - Poitou;Poitiers - Poitou
@@ -1876,8 +427,14 @@ c_gapencais;204;204 - Dauphine;Gapençais - Dauphiné
 
 d_savoie;205;205 - Savoie;Duchy Savoy - Savoie
 c_savoie;205;205 - Savoie;Savoia - Savoie
+c_savoie;205;205 - Savoie;Duplicate to increase weight
+c_savoie;205;205 - Savoie;Duplicate to increase weight
 c_bugey;205;205 - Savoie;Bresse - Savoie
+c_bugey;205;205 - Savoie;Duplicate to increase weight
 c_geneve;205;205 - Savoie;Genève - Savoie
+c_geneve;205;205 - Savoie;Duplicate to increase weight
+c_aosta;205;205 - Savoie;Aosta - Savoie
+c_chablais;205;205 - Savoie;Chablais - Savoie
 
 ### Lorraine
 
@@ -1987,12 +544,12 @@ c_chalons;1877;1877 - Charolais;Chalons - Charolais
 c_macon;1877;1877 - Charolais;Mâcon - Charolais
 c_bugey;1877;1877 - Charolais;Bresse - Charolais
 
-### Pyrenees
+### Gascony
 
-c_labourd;173;173 - Labourd;Dax - Labourd
-c_labourd;173;173 - Labourd;Duplicate to increase weight
-c_albret;173;173 - Labourd;Labrit - Labourd
-c_marsan;173;173 - Labourd;Marsan - Labourd
+c_bordeaux;174;174 - Gascogne;Bordeaux - Bordeaux
+c_bordeaux;174;174 - Gascogne;Duplicate to increase weight
+c_albret;174;174 - Gascogne;Labrit - Bordeaux
+c_agen;174;174 - Gascogne;Agen - Bordeaux
 
 c_armagnac;175;175 - Armagnac;Armagnac - Armagnac
 c_armagnac;175;175 - Armagnac;Duplicate to increase weight
@@ -2004,13 +561,6 @@ c_comminges;176;176 - Bearn;Comminges - Béarn
 
 ## Iberia
 ### Aragon
-
-d_navarra;210;210 - Navarra;Duchy Navarra - Navarra
-c_navarra;210;210 - Navarra;Navarra - Navarra
-c_navarra;210;210 - Navarra;Duplicate to increase weight
-c_navarra;210;210 - Navarra;Duplicate to increase weight
-c_tudela;210;210 - Navarra;Tudela - Navarra
-c_guipuzcoa;210;210 - Navarra;Guipúzcoa - Navarra
 
 d_aragon;211;211 - Pirineo;Duchy Aragón - Pirineo
 c_alto_aragon;211;211 - Pirineo;Alto Aragón - Pirineo
@@ -2041,12 +591,6 @@ c_barcelona;213;213 - Barcelona;Duplicate to increase weight
 c_barcelona;213;213 - Barcelona;Duplicate to increase weight
 c_girona;213;213 - Barcelona;Girona - Barcelona
 c_tarragona;213;213 - Barcelona;Tortosa - Barcelona
-
-d_mallorca;333;333 - The Baleares;Duchy Mallorca - The Baleares
-c_mallorca;333;333 - The Baleares;Mallorca - The Baleares
-c_mallorca;333;333 - The Baleares;Duplicate to increase weight
-c_menorca;333;333 - The Baleares;Menorca - The Baleares
-c_eivissa;333;333 - The Baleares;Eivissa - The Baleares
 
 c_urgell;2987;2987 - Urgell;Urgell - Urgell
 c_urgell;2987;2987 - Urgell;Duplicate to increase weight
@@ -2080,7 +624,7 @@ c_cadiz;224;224 - Andalucia;Carmona - Sevilla
 
 c_cordoba;225;225 - Cordoba;Cordoba - Córdoba
 
-c_algeciras;226;226 - Gibraltar;Algeciras - Gibraltar
+c_jaen;1748;1748 - La Mancha;Jaén - Jaén
 
 c_algeciras;1749;1749 - Cadiz;Algeciras - Cadiz
 c_algeciras;1749;1749 - Cadiz;Duplicate to increase weight
@@ -2096,7 +640,7 @@ d_granada;223;223 - Granada;Duchy Granada - Granada
 c_granada;223;223 - Granada;Granada - Granada
 c_malaga;223;223 - Granada;Malaga - Granada
 
-c_jaen;1748;1748 - La Mancha;Jaén - Jaén
+c_algeciras;226;226 - Gibraltar;Algeciras - Gibraltar
 
 ### Castille
 
@@ -2161,11 +705,6 @@ c_lemos;206;206 - Galicia;Lemos - Galicia
 
 c_asturias_de_oviedo;207;207 - Asturias;Asturias de Oviedo - Asturias
 
-c_viscaya;209;209 - Vizcaya;Viscaya - Vizcaya
-c_viscaya;209;209 - Vizcaya;Duplicate to increase weight
-c_alava;209;209 - Vizcaya;Álava - Vizcaya
-c_guipuzcoa;209;209 - Vizcaya;Guipúzcoa - Vizcaya
-
 c_asturias_de_santillana;1745;1745 - Cantabria;Asturias de Santillana - Cantabria
 c_asturias_de_santillana;1745;1745 - Cantabria;Duplicate to increase weight
 c_palencia;1745;1745 - Cantabria;Palencia - Cantabria
@@ -2199,15 +738,15 @@ c_setubal;227;227 - Lisboa;Setúbal - Lisboa
 c_leiria;227;227 - Lisboa;Leiria - Lisboa
 c_thomar;227;227 - Lisboa;Tomar - Lisboa
 
-d_beja;229;229 - Alentejo;Duchy Alentejo - Alentejo
-c_evora;229;229 - Alentejo;Évora - Alentejo
-c_beja;229;229 - Alentejo;Beja - Alentejo
-c_mertola;229;229 - Alentejo;Mértola - Alentejo
-c_alcacer_do_sal;229;229 - Alentejo;Alcácer do Sal - Alentejo
+c_beja;229;229 - Beja;Beja - Beja
+c_mertola;229;229 - Beja;Mértola - Beja
+c_alcacer_do_sal;229;229 - Beja;Alcácer do Sal - Beja
 
 d_algarve;230;230 - Algarve;Duchy Algarve - Algarve
 c_silves;230;230 - Algarve;Silves - Algarve
 c_faro;230;230 - Algarve;Faro - Algarve
+
+c_evora;4150;4150 - Evora;Évora - Évora
 
 ### Beiras
 
@@ -2231,6 +770,25 @@ c_canarias;366;366 - The Canarias;Gran Canaria - The Canarias
 
 #### The Azores (off-map)
 #### Madeira (off-map)
+### Vasconia
+
+c_labourd;173;173 - Labourd;Dax - Labourd
+c_labourd;173;173 - Labourd;Duplicate to increase weight
+c_albret;173;173 - Labourd;Labrit - Labourd
+c_marsan;173;173 - Labourd;Marsan - Labourd
+
+c_viscaya;209;209 - Vizcaya;Viscaya - Vizcaya
+c_viscaya;209;209 - Vizcaya;Duplicate to increase weight
+c_alava;209;209 - Vizcaya;Álava - Vizcaya
+c_guipuzcoa;209;209 - Vizcaya;Guipúzcoa - Vizcaya
+
+d_navarra;210;210 - Navarra;Duchy Navarra - Navarra
+c_navarra;210;210 - Navarra;Navarra - Navarra
+c_navarra;210;210 - Navarra;Duplicate to increase weight
+c_navarra;210;210 - Navarra;Duplicate to increase weight
+c_tudela;210;210 - Navarra;Tudela - Navarra
+c_guipuzcoa;210;210 - Navarra;Guipúzcoa - Navarra
+
 ## Italy
 ### Venetia
 
@@ -2319,12 +877,20 @@ c_savona;2992;2992 - Albenga;Savona - Albenga
 c_finale;2992;2992 - Albenga;Finale - Albenga
 c_ventimiglia;2992;2992 - Albenga;Ventimiglia - Albenga
 
-### Corsica & Sardinia
+### Western Mediterranean Islands
+
+c_malta;126;126 - Malta;Malta - Malta
 
 d_sardinia;127;127 - Sassari;Duchy Sardinia - Sassari
 c_logudoro;127;127 - Sassari;Logudoro - Sassari
 c_logudoro;127;127 - Sassari;Duplicate to increase weight
 c_gallura;127;127 - Sassari;Gallura - Sassari
+
+d_mallorca;333;333 - The Baleares;Duchy Mallorca - The Baleares
+c_mallorca;333;333 - The Baleares;Mallorca - The Baleares
+c_mallorca;333;333 - The Baleares;Duplicate to increase weight
+c_menorca;333;333 - The Baleares;Menorca - The Baleares
+c_eivissa;333;333 - The Baleares;Eivissa - The Baleares
 
 d_corsica;1247;1247 - Corsica;Duchy Corsica - Corsica
 c_corsica;1247;1247 - Corsica;Cinarca - Corsica
@@ -2348,8 +914,6 @@ c_siracusa;124;124 - Messina;Sarausa - Messina
 c_palermo;125;125 - Palermo;Palermu - Palermo
 c_trapani;125;125 - Palermo;Tràpani - Palermo
 c_agrigento;125;125 - Palermo;Girgenti - Palermo
-
-c_malta;126;126 - Malta;Malta - Malta
 
 c_siracusa;2982;2982 - Syracuse;Sarausa - Syracuse
 c_modica;2982;2982 - Syracuse;Muòrica - Syracuse
@@ -2462,12 +1026,6 @@ c_bedford;237;237 - Oxfordshire;Bedford - Oxfordshire
 
 c_gloucester;239;239 - Gloucestershire;Gloucester - Gloucestershire
 
-c_warwick;240;240 - Marches;Warwick - Marches
-c_stafford;240;240 - Marches;Stafford - Marches
-c_shrewsbury;240;240 - Marches;Shrewsbury - Marches
-c_worcester;240;240 - Marches;Worcester - Marches
-c_hereford;240;240 - Marches;Hereford - Marches
-
 c_lincoln;243;243 - Lincoln;Lincoln - Lincolnshire
 
 c_derby;1861;1861 - Derby;Derby - Derbyshire
@@ -2477,6 +1035,10 @@ c_northampton;1861;1861 - Derby;Northampton - Derbyshire
 c_rutland;1861;1861 - Derby;Rutland - Derbyshire
 
 ### Wessex
+
+d_cornwall;233;233 - Cornwall;Duchy Cornwall - Cornwall
+c_cornwall;233;233 - Cornwall;Cornwall - Cornwall
+c_devon;233;233 - Cornwall;Devon - Cornwall
 
 c_winchester;234;234 - Hampshire;Winchester - Hampshire
 c_wiltshire;234;234 - Hampshire;Wiltshire - Hampshire
@@ -2528,9 +1090,11 @@ c_isle_of_man;247;247 - Cumbria;Isle of Man - Cumbria
 
 ### Wales
 
-d_cornwall;233;233 - Cornwall;Duchy Cornwall - Cornwall
-c_cornwall;233;233 - Cornwall;Cornwall - Cornwall
-c_devon;233;233 - Cornwall;Devon - Cornwall
+c_warwick;240;240 - Marches;Warwick - Marches
+c_stafford;240;240 - Marches;Stafford - Marches
+c_shrewsbury;240;240 - Marches;Shrewsbury - Marches
+c_worcester;240;240 - Marches;Worcester - Marches
+c_hereford;240;240 - Marches;Hereford - Marches
 
 d_morgannwg;241;241 - Glamorgan;Duchy Glamorgan - Glamorganshire
 c_glamorgan;241;241 - Glamorgan;Glywysing - Glamorganshire
@@ -2675,8 +1239,6 @@ c_tirol;73;73 - Tirol;Tirol - Tirol
 
 c_trent;110;110 - Trent;Trent - Trent
 
-c_tirol;1768;1768 - Lienz;Tirol - Lienz
-c_karnten;1768;1768 - Lienz;Kärnten - Lienz
 c_aquileia;1768;1768 - Lienz;Aquileia - Lienz
 
 ### Austria Proper
@@ -3082,9 +1644,62 @@ c_frankfurt;1876;1876 - Frankfurt;Hanau - Frankfurt
 
 ### Lower Saxony
 
+c_hamburg;44;44 - Hamburg;Stormarn - Hamburg
+c_hamburg;44;44 - Hamburg;Duplicate to increase weight
+c_holstein;44;44 - Hamburg;Eselsfleth - Hamburg
+
 c_luneburg;53;53 - Luneburg;Lüneburg - Lüneburg
 c_luneburg;53;53 - Luneburg;Duplicate to increase weight
 c_dannenberg;53;53 - Luneburg;Dannenberg - Lüneburg
+
+c_lauenburg;1857;1857 - Lauenburg;Lauenburg - Lauenburg
+c_lauenburg;1857;1857 - Lauenburg;Duplicate to increase weight
+c_hamburg;1857;1857 - Lauenburg;Stormarn - Lauenburg
+
+### Weser
+
+c_bremen;54;54 - Stade;Bremen - Stade
+
+c_oldenburg;55;55 - Oldenburg;Oldenburg - Oldenburg
+c_oldenburg;55;55 - Oldenburg;Duplicate to increase weight
+c_rustringen;55;55 - Oldenburg;Rüstringen - Oldenburg
+
+c_bremen;1874;1874 - Bremen;Bremen - Bremen
+
+### Schleswig-Holstein
+
+d_slesvig;13;13-Slesvig;Duchy Sliesvík - Slesvig
+c_slesvig;13;13-Slesvig;Istathesysæl - Slesvig
+c_north_frisia;13;13-Slesvig;Utland - Slesvig
+c_southern_jylland;13;13-Slesvig;Ellæmsysæl - Slesvig
+
+d_holstein;1775;1775 - Holstein;Duchy Holstein - Holstein
+c_holstein;1775;1775 - Holstein;Eselsfleth - Holstein
+c_reinholdsburg;1775;1775 - Holstein;Rendsburg - Holstein
+c_reinholdsburg;1775;1775 - Holstein;Duplicate to increase weight
+c_slesvig;1775;1775 - Holstein;Istathesysæl - Holstein
+c_hamburg;1775;1775 - Holstein;Stormarn - Holstein
+c_wargrien;1775;1775 - Holstein;Wagrien - Holstein
+
+c_dithmarschen;4141;4141 - Ditmarschen;Dithmarschen - Dithmarschen
+c_dithmarschen;4141;4141 - Ditmarschen;Duplicate to increase weight
+c_holstein;4141;4141 - Ditmarschen;Eselsfleth - Dithmarschen
+c_reinholdsburg;4141;4141 - Ditmarschen;Rendsburg - Dithmarschen
+
+### Mecklenburg
+
+c_lubeck;45;45 - Lubeck;Lübeck - Lübeck
+
+c_rostock;46;46 - Rostock;Rostock - Rostock
+c_rostock;46;46 - Rostock;Duplicate to increase weight
+c_werle;46;46 - Rostock;Werle - Rostock
+c_werle;46;46 - Rostock;Duplicate to increase weight
+c_schwerin;46;46 - Rostock;Schwerin - Rostock
+
+c_mecklemburg;2996;2996 - Wismar;Mecklenburg - Wismar
+c_schwerin;2996;2996 - Wismar;Schwerin - Wismar
+
+### Braunschweig
 
 c_braunschweig;57;57 - Brunswick;Braunschweig - Brunswick
 c_weimar;57;57 - Brunswick;Weimar - Brunswick
@@ -3103,57 +1718,8 @@ c_schaumburg;2971;2971 - Hoya;Schaumburg - Hoya
 c_schaumburg;2971;2971 - Hoya;Duplicate to increase weight
 c_bremen;2971;2971 - Hoya;Bremen - Hoya
 
-### Weser
-
-c_bremen;54;54 - Stade;Bremen - Stade
-
-c_oldenburg;55;55 - Oldenburg;Oldenburg - Oldenburg
-c_oldenburg;55;55 - Oldenburg;Duplicate to increase weight
-c_rustringen;55;55 - Oldenburg;Rüstringen - Oldenburg
-
-c_bremen;1874;1874 - Bremen;Bremen - Bremen
-
-### Holstein
-
-c_hamburg;44;44 - Hamburg;Stormarn - Hamburg
-c_hamburg;44;44 - Hamburg;Duplicate to increase weight
-c_holstein;44;44 - Hamburg;Eselsfleth - Hamburg
-
-d_holstein;1775;1775 - Holstein;Duchy Holstein - Holstein
-c_holstein;1775;1775 - Holstein;Eselsfleth - Holstein
-c_holstein;1775;1775 - Holstein;Duplicate to increase weight
-c_reinholdsburg;1775;1775 - Holstein;Rendsburg - Holstein
-c_reinholdsburg;1775;1775 - Holstein;Duplicate to increase weight
-c_dithmarschen;1775;1775 - Holstein;Dithmarschen - Holstein
-c_slesvig;1775;1775 - Holstein;Istathesysæl - Holstein
-c_slesvig;1775;1775 - Holstein;Duplicate to increase weight
-c_north_frisia;1775;1775 - Holstein;Utland - Holstein
-c_hamburg;1775;1775 - Holstein;Stormarn - Holstein
-c_wargrien;1775;1775 - Holstein;Wagrien - Holstein
-
-c_lauenburg;1857;1857 - Lauenburg;Lauenburg - Lauenburg
-c_lauenburg;1857;1857 - Lauenburg;Duplicate to increase weight
-c_hamburg;1857;1857 - Lauenburg;Stormarn - Lauenburg
-
-### Mecklenburg
-
-c_lubeck;45;45 - Lubeck;Lübeck - Lübeck
-
-c_rostock;46;46 - Rostock;Rostock - Rostock
-c_rostock;46;46 - Rostock;Duplicate to increase weight
-c_werle;46;46 - Rostock;Werle - Rostock
-c_werle;46;46 - Rostock;Duplicate to increase weight
-c_schwerin;46;46 - Rostock;Schwerin - Rostock
-
-c_mecklemburg;2996;2996 - Wismar;Mecklenburg - Wismar
-c_schwerin;2996;2996 - Wismar;Schwerin - Wismar
-
 ## Scandinavia
-### Svealand
-
-####;1;1-Uppland;Stockholm/Stokholm
-
-####;4;4-Bergslagen;Bergslagen
+### Västra Svealand
 
 ####;5;5-Varmland;Värmland/Værmeland/Wermland
 
@@ -3165,45 +1731,45 @@ c_schwerin;2996;2996 - Wismar;Schwerin - Wismar
 
 ####;9;9-Halsingland;Hälsingland/Hælsingleland
 
-####;10;10-Jamtland;Jämtland/Jæmtland/Jemtland
+####;11;11-Vasterbotten;Västerbotten/Vesterboten
 
 ####;18;18-Lappland;Lappland
 
 ####;4114;4114 - Northern Lappmarks;Jokkmokk
 
-### Götaland
+### Östra Götaland
 
 ####;2;2-Ostergotland;Östergötland/Øster-Gøtland
 
-####;3;3-Smaland;Småland/Smaaland
+####;3;3 - Kalmar;Kalmar
 
-####;7;7-Vastergotland;Västergötland/Vester-Gøtland
-
-####;25;25-Gotland;Gotland
+####;4166;4166 - Tioharad;Tiohärad
 
 ### Skåneland
 
-####;6;6-Skane;Skåne/Skaane/Schonen
+####;6;6-Skane;Lund/Schonen/Skåne
 
 ####;26;26-Halland;Halland
 
 ####;1982;1982-Blekinge;Blekinge/Bleking
 
-### Jutland
+####;4165;4165 - Goinge;Göinge/Gønge
 
-####;13;13-Slesvig;Slesvig/Slesvicko/Schleswig
+### North Jutland
 
-####;15;15-Jylland;Midtjylland/Mitteljütland/Mittjylland
+####;15;15-Jylland;Vestjylland/Mitteljütland/Mittjylland
 
 ####;1984;1984-Nordjylland;Nordjylland
+
+####;4142;4142 - Aarhus;Østjylland
+
+####;4149;4149 - Kolding;Kolding
 
 ### Denmark
 
 ####;12;12-Sjaelland;Sjælland/Seeland/Själland
 
 ####;14;14-Fyn;Fyn/Fünen
-
-####;1981;1981-Bornholm;Bornholm
 
 ####;1983;1983-Lolland;Lolland
 
@@ -3217,55 +1783,87 @@ c_schwerin;2996;2996 - Wismar;Schwerin - Wismar
 
 ####;31;31-Savolaks;Savolax/Sankt Michel
 
-####;1930;1930 - Aland;Åland/Aaland
-
 ####;4123;4123 - Birkaland;Pirkanmaa/Birkeland/Birkaland
 
-### Northern Norway
+### Trøndelag
+
+####;10;10-Jamtland;Jämtland/Jæmtland/Jemtland
 
 ####;20;20-Trondelag;Trøndelag
 
 ####;21;21-Halogaland;Hålogaland/Nordlandene
 
-####;315;315 - Finnmark;Finnmark/Finmarken/Pechenga
-
-### Eastern Norway
-
-####;16;16-Bohuslan;Bohuslän/Bahuslehn/Båhuslen
+### Østlandet
 
 ####;17;17-Akershus;Akershus/Aggershuus
 
-####;22;22-Eisdiva;Eidsiva
+####;22;22-Eisdiva;Opplanda/Oplandene
 
-### Western Norway
+####;4143;4143 - Smalenene;Smålenene/Borgarsysla
 
-####;23;23-Bergenshus;Bergenshus
+####;4144;4144 - Bratsberg;Bratsberg
 
-####;24;24-Agder;Agder/Christiansand
+### Vestlandet
 
-####;2752;2752 - Sogn;Sogn
+####;23;23-Bergenshus;Bergenhus
 
-### Bothnia
+####;24;24-Agder;Stavanger/Christiansand
 
-####;11;11-Vasterbotten;Västerbotten/Vesterboten
+####;2752;2752 - Sogn;Romsdal
+
+####;4145;4145 - Agdesiden;Agdesiden
+
+### Ostrobothnia
 
 ####;19;19-Osterbotten;Österbotten/Østerbotn/Nikolaistadt
 
 ####;4113;4113 - Rovaniemi;Rovaniemi
 
-### Subarctic Islands
+####;4152;4152 - Kajaani;Kainuu/Kajanaland
 
-####;370;370 - Reykjavik;Reykjavik
-
-####;371;371 - Akureyri;Akureyri
-
-####;1104;1104 - Eiriksfjord;Eiriksfjord
-
-####;1105;1105 - Vestbygden;Vestbygden
+### Faroes
 
 ####;1978;1978 - Shetlands;Shetland/Shetlandy/Hjaltland
 
 ####;1979;1979 -Faroes;Färöarna/Faerske ostrovy/Færøerne/Færøyene
+
+### Laponia
+
+####;315;315 - Finnmark;Finnmark/Finmarken/Pechenga
+
+####;1777;1777-Kola;Kola
+
+####;4151;4151 - Inari;Enare/Aanaar
+
+### Baltic Islands
+
+####;25;25-Gotland;Gotland
+
+####;1981;1981-Bornholm;Bornholm
+
+### Västra Götaland
+
+####;7;7 - Skaraborg;Skaraborg
+
+####;16;16-Bohuslan;Bohuslän/Bahuslehn/Båhuslen
+
+####;4163;4163 - Elfsborg;Elfsborg
+
+####;4164;4164 - Dal;Dal
+
+### Östra Svealand
+
+####;1;1-Uppland;Stockholm/Stokholm
+
+####;4;4-Bergslagen;Bergslagen
+
+####;1930;1930 - Aland;Åland/Aaland
+
+### Iceland
+
+####;370;370 - Reykjavik;Reykjavik
+
+####;371;371 - Akureyri;Akureyri
 
 ## Low Countries
 ### Wallonia
@@ -3355,6 +1953,1436 @@ c_limburg;1742;1742 - Limburg;Limburg - Limburg
 
 c_loon;2974;2974 - Loon;Loon - Loon
 
+# Eastern Europe
+## Poland
+### Wielkopolska
+
+c_poznanskie;254;254 - Poznan;Poznan - Poznan
+
+c_kaliskie;255;255 - Kalisz;Kalisz - Kalisz
+c_kaliskie;255;255 - Kalisz;Duplicate to increase weight
+c_gnieznienskie;255;255 - Kalisz;Gniezno - Kalisz
+
+c_sieradzko-leczyckie;258;258 - Lodz;Sieradz - Sieradz
+c_kaliskie;258;258 - Lodz;Kalisz - Sieradz
+c_opole;258;258 - Lodz;Opole - Sieradz
+
+c_leczyca;1939;1939 - Leczyca;Leczyca - Leczyca
+c_leczyca;1939;1939 - Leczyca;Duplicate to increase weight
+c_sieradzko-leczyckie;1939;1939 - Leczyca;Sieradz - Leczyca
+c_rawamazovia;1939;1939 - Leczyca;Rawa - Leczyca
+c_plock;1939;1939 - Leczyca;Plock - Leczyca
+c_kujawy;1939;1939 - Leczyca;Kujawy - Leczyca
+
+### Malopolska
+
+c_sandomierskie;259;259 - Sandomierz;Sandomierz - Sandomierz
+c_sandomierskie;259;259 - Sandomierz;Duplicate to increase weight
+c_sieradzko-leczyckie;259;259 - Sandomierz;Sieradz - Sandomierz
+
+c_lublin;260;260 - Lublin;Lublin - Lublin
+c_lublin;260;260 - Lublin;Duplicate to increase weight
+c_lublin;260;260 - Lublin;Duplicate to increase weight
+c_sandomierskie;260;260 - Lublin;Sandomierz - Lublin
+c_sandomierskie;260;260 - Lublin;Duplicate to increase weight
+c_belz;260;260 - Lublin;Belz - Lublin
+
+c_krakowskie;262;262 - Krakow;Krakow - Krakow
+c_krakowskie;262;262 - Krakow;Duplicate to increase weight
+c_opole;262;262 - Krakow;Opole - Krakow
+
+c_sandomierskie;2959;2959 - Tarnow;Sandomierz - Tarnow
+c_sandomierskie;2959;2959 - Tarnow;Duplicate to increase weight
+c_peremyshl;2959;2959 - Tarnow;Peremyshl - Tarnow
+
+c_sacz;2960;2960 - Sadecki;Sacz - Nowy Sacz
+c_sacz;2960;2960 - Sadecki;Duplicate to increase weight
+c_sacz;2960;2960 - Sadecki;Duplicate to increase weight
+c_sacz;2960;2960 - Sadecki;Duplicate to increase weight
+c_krakowskie;2960;2960 - Sadecki;Krakow - Nowy Sacz
+c_krakowskie;2960;2960 - Sadecki;Duplicate to increase weight
+c_peremyshl;2960;2960 - Sadecki;Peremyshl - Nowy Sacz
+
+### Red Ruthenia
+
+c_galich;261;261 - Halicz;Halych - Halicz
+c_galich;261;261 - Halicz;Duplicate to increase weight
+c_torki;261;261 - Halicz;Suceava - Halicz
+
+c_belz;1940;1940 - Belz;Belz - Belz
+c_lutsk;1940;1940 - Belz;Luck - Belz
+
+c_peremyshl;2424;2424 - Peremyshl;Peremyshl - Peremyshl
+
+c_lutsk;2961;2961 - Lwow;Luck - Lwow
+c_terebovl;2961;2961 - Lwow;Terebovl - Lwow
+c_terebovl;2961;2961 - Lwow;Duplicate to increase weight
+
+### Mazovia
+
+c_plock;256;256 - Plock;Plock - Plock
+c_plock;256;256 - Plock;Duplicate to increase weight
+c_kujawy;256;256 - Plock;Kujawy - Plock
+
+c_czersk;257;257 - Warszawa;Czersk - Warszawa
+c_czersk;257;257 - Warszawa;Duplicate to increase weight
+c_czersk;257;257 - Warszawa;Duplicate to increase weight
+c_rawamazovia;257;257 - Warszawa;Rawa - Warszawa
+c_sandomierskie;257;257 - Warszawa;Sandomierz - Warszawa
+
+c_podlasie;269;269 - Podlasia;Belsk - Podlasie
+c_podlasie;269;269 - Podlasia;Duplicate to increase weight
+c_podlasie;269;269 - Podlasia;Duplicate to increase weight
+c_pultusk;269;269 - Podlasia;Pultusk - Podlasie
+c_pultusk;269;269 - Podlasia;Duplicate to increase weight
+c_czersk;269;269 - Podlasia;Czersk - Podlasie
+c_beresty;269;269 - Podlasia;Berestye - Podlasie
+
+c_pultusk;1938;1938 - Wizna;Pultusk - Wizna
+c_czersk;1938;1938 - Wizna;Czersk - Wizna
+
+### Silesia
+
+c_opole;263;263 - Ratibor;Opole - Ratibor
+c_opole;263;263 - Ratibor;Duplicate to increase weight
+c_cieszyn;263;263 - Ratibor;Cieszyn - Ratibor
+c_cieszyn;263;263 - Ratibor;Duplicate to increase weight
+c_opava;263;263 - Ratibor;Opava - Ratibor
+
+c_upper_silesia;264;264 - Breslau;Wroclaw - Breslau
+c_upper_silesia;264;264 - Breslau;Duplicate to increase weight
+c_upper_silesia;264;264 - Breslau;Duplicate to increase weight
+c_upper_silesia;264;264 - Breslau;Duplicate to increase weight
+c_legnica;264;264 - Breslau;Legnica - Breslau
+c_legnica;264;264 - Breslau;Duplicate to increase weight
+c_lower_silesia;264;264 - Breslau;Glogów - Breslau
+
+c_lower_silesia;2966;2966 - Leignitz;Glogów - Glogau
+
+## Baltic
+### Vilna
+
+c_aukshayts;272;272 - Lithuania;Lietuva - Vilna
+c_lida;272;272 - Lithuania;Dzùkija - Vilna
+c_asmena;272;272 - Lithuania;Asmena - Vilna
+
+c_braslaw;770;770 - Braslaw;Braslaw - Braslaw
+c_braslaw;770;770 - Braslaw;Duplicate to increase weight
+c_utena;770;770 - Braslaw;Nalshia - Braslaw
+c_utena;770;770 - Braslaw;Duplicate to increase weight
+c_utena;770;770 - Braslaw;Duplicate to increase weight
+c_deltuva;770;770 - Braslaw;Deltuva - Braslaw
+c_deltuva;770;770 - Braslaw;Duplicate to increase weight
+c_polotsk;770;770 - Braslaw;Polotsk - Braslaw
+
+c_yatvyagi;1937;1937 - Grodno;Dainava - Grodno
+c_podlasie;1937;1937 - Grodno;Belsk - Grodno
+c_lida;1937;1937 - Grodno;Dzùkija - Grodno
+
+### Livonia
+
+c_livs;37;37 - Livland;Saccalia - Livland
+c_livs;37;37 - Livland;Duplicate to increase weight
+c_metsepole;37;37 - Livland;Metsepole - Livland
+c_metsepole;37;37 - Livland;Duplicate to increase weight
+c_lettigalians;37;37 - Livland;Tholowa - Livland
+c_lettigalians;37;37 - Livland;Duplicate to increase weight
+c_jarva;37;37 - Livland;Järva - Livland
+
+c_toreida;38;38 - Riga;Rìga - Riga
+
+d_lettigale;273;273 - Latgalia;Duchy Gerzike - Latgalia
+c_jeriska;273;273 - Latgalia;Jersika - Latgalia
+c_jeriska;273;273 - Latgalia;Duplicate to increase weight
+c_jeriska;273;273 - Latgalia;Duplicate to increase weight
+c_toreida;273;273 - Latgalia;Rìga - Latgalia
+c_west_dvina;273;273 - Latgalia;Rositten - Latgalia
+c_west_dvina;273;273 - Latgalia;Duplicate to increase weight
+c_west_dvina;273;273 - Latgalia;Duplicate to increase weight
+c_atzele;273;273 - Latgalia;Atzele - Latgalia
+c_lettigalians;273;273 - Latgalia;Tholowa - Latgalia
+c_selija;273;273 - Latgalia;Sèlija - Latgalia
+
+c_dorpat;1834;1834 - Dorpat;Ugaunia - Dorpat
+c_dorpat;1834;1834 - Dorpat;Duplicate to increase weight
+c_dorpat;1834;1834 - Dorpat;Duplicate to increase weight
+c_atzele;1834;1834 - Dorpat;Atzele - Dorpat
+c_vaiga;1834;1834 - Dorpat;Vaiga - Dorpat
+
+### Estonia
+
+c_koporje;34;34-Ingermanland;Koporje - Ingermanland
+c_porkhov;34;34-Ingermanland;Porhov - Ingermanland
+
+c_reval;36;36 - Estland;Harria - Reval
+c_reval;36;36 - Estland;Duplicate to increase weight
+c_jarva;36;36 - Estland;Järva - Reval
+c_laanemaa;36;36 - Estland;Rotalia - Reval
+c_laanemaa;36;36 - Estland;Duplicate to increase weight
+
+c_narva;1842;1842 - Narva;Vironia - Narva
+c_narva;1842;1842 - Narva;Duplicate to increase weight
+c_vaiga;1842;1842 - Narva;Vaiga - Narva
+
+### Curonia
+
+c_osel;35;35 - Osel;Osilia - Ösel
+
+c_kurs;39;39 - Kurland;Vredecuren - Goldingen
+c_bandava;39;39 - Kurland;Bandava - Goldingen
+c_duvzare;39;39 - Kurland;Duvzare - Goldingen
+
+d_zemigalia;1935;1935 - Semigallia;Duchy Zemgali - Mitau
+c_zemigalians;1935;1935 - Semigallia;Opemele - Mitau
+c_zemigalians;1935;1935 - Semigallia;Duplicate to increase weight
+c_zemigalians;1935;1935 - Semigallia;Duplicate to increase weight
+c_selija;1935;1935 - Semigallia;Sèlija - Mitau
+c_selija;1935;1935 - Semigallia;Duplicate to increase weight
+c_toreida;1935;1935 - Semigallia;Rìga - Mitau
+c_kurs;1935;1935 - Semigallia;Vredecuren - Mitau
+
+### West Prussia
+
+c_chelminskie;1859;1859 - Torun;Chelmno - Chelmno
+
+c_gnieznienskie;2963;2963 - Notec;Gniezno - Notec
+c_gnieznienskie;2963;2963 - Notec;Duplicate to increase weight
+c_kujawy;2963;2963 - Notec;Kujawy - Notec
+
+c_swiecie;2997;2997 - Pomorskie;Schlochau - Tuchola
+c_danzig;2997;2997 - Pomorskie;Danzig - Tuchola
+
+### East Prussia
+
+c_scalovia;40;40 - Memel;Skalva - Memel
+c_scalovia;40;40 - Memel;Duplicate to increase weight
+c_nadruvia;40;40 - Memel;Nadruvia - Memel
+
+c_sambia;41;41 - Konigsberg;Sambi - Königsberg
+c_sambia;41;41 - Konigsberg;Duplicate to increase weight
+c_nadruvia;41;41 - Konigsberg;Nadruvia - Königsberg
+
+c_bartia;767;767 - Ortelsburg;Bartia - Ortelsburg
+c_galindia;767;767 - Ortelsburg;Galindia - Ortelsburg
+c_nadruvia;767;767 - Ortelsburg;Nadruvia - Ortelsburg
+
+c_pogesania;2958;2958 - Osterode;Pogesania - Osterode
+
+### Pomerelia
+
+c_marienburg;42;42 - Warmia;Warmia - Warmia
+
+c_danzig;43;43 - Danzig;Danzig - Danzig
+
+c_pomesania;1841;1841 - Marienburg;Pomesania - Marienburg
+
+### Samogitia
+
+c_trakai;270;270 - Troki;Trakai - Trakai
+c_trakai;270;270 - Troki;Duplicate to increase weight
+c_trakai;270;270 - Troki;Duplicate to increase weight
+c_sudovia;270;270 - Troki;Sùduva - Trakai
+c_sudovia;270;270 - Troki;Duplicate to increase weight
+c_memel;270;270 - Troki;Karšuva - Trakai
+c_yatvyagi;270;270 - Troki;Dainava - Trakai
+c_aukshayts;270;270 - Troki;Lietuva - Trakai
+
+c_zhmud;271;271 - Samogitia;Žëmaitëjë - Samogitia
+c_zhmud;271;271 - Samogitia;Duplicate to increase weight
+c_memel;271;271 - Samogitia;Karšuva - Samogitia
+
+c_upyte;1936;1936 - Kovno;Upytë - Kovno
+c_upyte;1936;1936 - Kovno;Duplicate to increase weight
+c_deltuva;1936;1936 - Kovno;Deltuva - Kovno
+
+## Russia
+### Moscow
+
+d_tver;294;294 - Tver;Duchy Tver - Tver
+c_tver;294;294 - Tver;Tver - Tver
+c_tver;294;294 - Tver;Duplicate to increase weight
+c_tver;294;294 - Tver;Duplicate to increase weight
+c_volokolamsk;294;294 - Tver;Volokolamsk - Tver
+c_pereyaslavl_zalessky;294;294 - Tver;Perejaslavl'-Zalesskij - Tver
+
+c_moskva;295;295 - Moskva;Moskva - Moskva
+c_moskva;295;295 - Moskva;Duplicate to increase weight
+c_moskva;295;295 - Moskva;Duplicate to increase weight
+c_moskva;295;295 - Moskva;Duplicate to increase weight
+c_mozhaysk;295;295 - Moskva;Mozhajsk - Moskva
+c_pereyaslavl_zalessky;295;295 - Moskva;Perejaslavl'-Zalesskij - Moskva
+c_tarusa;295;295 - Moskva;Tarusa - Moskva
+
+c_vladimir;307;307 - Vladimir;Vladimir - Vladimir
+c_vladimir;307;307 - Vladimir;Duplicate to increase weight
+c_vladimir;307;307 - Vladimir;Duplicate to increase weight
+c_ryazan;307;307 - Vladimir;Riazan' - Vladimir
+c_murom;307;307 - Vladimir;Murom - Vladimir
+
+c_yaroslavl;308;308 - Yaroslavl;Yaroslavl - Yaroslavl
+c_mologa;308;308 - Yaroslavl;Mologa - Yaroslavl
+c_rostov;308;308 - Yaroslavl;Rostov - Yaroslavl
+
+c_rostov;4147;4147 - Rostov;Rostov - Rostov
+c_rostov;4147;4147 - Rostov;Duplicate to increase weight
+c_rostov;4147;4147 - Rostov;Duplicate to increase weight
+c_vladimir;4147;4147 - Rostov;Vladimir - Rostov
+c_uglich;4147;4147 - Rostov;Uglich - Rostov
+
+### Suzdal
+
+c_kostroma;1753;1753 - Kostroma;Kostroma - Kostroma
+c_kostroma;1753;1753 - Kostroma;Duplicate to increase weight
+c_yaroslavl;1753;1753 - Kostroma;Yaroslavl - Kostroma
+c_yaroslavl;1753;1753 - Kostroma;Duplicate to increase weight
+c_rostov;1753;1753 - Kostroma;Rostov - Kostroma
+
+c_kadom;1754;1754 - Orel;Kadom - Murom
+c_kadom;1754;1754 - Orel;Duplicate to increase weight
+c_kadom;1754;1754 - Orel;Duplicate to increase weight
+c_kadom;1754;1754 - Orel;Duplicate to increase weight
+c_nizhny_novgorod;1754;1754 - Orel;Nizhny Novgorod - Murom
+c_mountain_cheremisa;1754;1754 - Orel;Alatyr' - Murom
+c_murom;1754;1754 - Orel;Murom - Murom
+
+c_suzdal;1956;1956 - Suzdal;Suzdal - Suzdal
+c_suzdal;1956;1956 - Suzdal;Duplicate to increase weight
+c_suzdal;1956;1956 - Suzdal;Duplicate to increase weight
+c_rostov;1956;1956 - Suzdal;Rostov - Suzdal
+c_murom;1956;1956 - Suzdal;Murom - Suzdal
+
+### Novgorod
+
+c_novgorod;310;310 - Novgorod;Novgorod - Novgorod
+
+c_russa;1752;1752 - Rzhev;Rusa - Rzhev
+c_torzhok;1752;1752 - Rzhev;Torzhok - Rzhev
+c_toropets;1752;1752 - Rzhev;Toropec - Rzhev
+
+c_torzhok;1959;1959 - Torzhok;Torzhok - Torzhok
+c_ustyuzhna;1959;1959 - Torzhok;Ustyug Zhelezny - Torzhok
+c_novgorod;1959;1959 - Torzhok;Novgorod - Torzhok
+
+### Pskov
+
+c_pskov;274;274 - Pskov;Pskov - Pskov
+
+c_porkhov;311;311 - Kholm;Porhov - Kholm
+c_russa;311;311 - Kholm;Rusa - Kholm
+
+c_pskov;1960;1960 - Ostrov;Pskov - Ostrov
+
+c_velikiye_luki;4148;4148 - Luki;Luki - Luki
+c_velikiye_luki;4148;4148 - Luki;Duplicate to increase weight
+c_porkhov;4148;4148 - Luki;Porhov - Luki
+
+### Beloozero
+
+c_beloozero;312;312 - Vologda;Beloozero - Beloozero
+c_beloozero;312;312 - Vologda;Duplicate to increase weight
+c_beloozero;312;312 - Vologda;Duplicate to increase weight
+c_beloozero;312;312 - Vologda;Duplicate to increase weight
+c_ustyuzhna;312;312 - Vologda;Ustyug Zhelezny - Beloozero
+c_zaozerye;312;312 - Vologda;Tudozerskij - Beloozero
+c_vologda;312;312 - Vologda;Vologda - Beloozero
+
+c_vologda;314;314 - Vologda;Vologda - Vologda
+c_vologda;314;314 - Vologda;Duplicate to increase weight
+c_vologda;314;314 - Vologda;Duplicate to increase weight
+c_kostroma;314;314 - Vologda;Kostroma - Vologda
+c_veliky_ustug;314;314 - Vologda;Veliky Ustjug - Vologda
+c_galich_mersky;314;314 - Vologda;Galich Mersky - Vologda
+
+c_bezhetsky_verh;2749;2749 - Tikhvin;Ladoga - Tikhvin
+c_bezhetsky_verh;2749;2749 - Tikhvin;Duplicate to increase weight
+c_bezhetsky_verh;2749;2749 - Tikhvin;Duplicate to increase weight
+c_bezhetsky_verh;2749;2749 - Tikhvin;Duplicate to increase weight
+c_ustyuzhna;2749;2749 - Tikhvin;Ustyug Zhelezny - Tikhvin
+c_zaozerye;2749;2749 - Tikhvin;Tudozerskij - Tikhvin
+c_novgorod;2749;2749 - Tikhvin;Novgorod - Tikhvin
+
+c_uglich;4117;4117 - Bezhetsk;Uglich - Bezhetsk
+c_ustyuzhna;4117;4117 - Bezhetsk;Ustyug Zhelezny - Bezhetsk
+c_mologa;4117;4117 - Bezhetsk;Mologa - Bezhetsk
+
+### Pomorye
+
+d_onega;313;313 - Soroka;Duchy Änine - Soroka
+c_onega;313;313 - Soroka;Änine - Soroka
+c_onega;313;313 - Soroka;Duplicate to increase weight
+c_onega;313;313 - Soroka;Duplicate to increase weight
+c_romny;313;313 - Soroka;Latša - Soroka
+c_romny;313;313 - Soroka;Duplicate to increase weight
+c_trans-portage;313;313 - Soroka;Pomorye - Soroka
+
+d_ustyg;1755;1755 - Ustyug;Duchy Ustjug - Ustyug
+c_veliky_ustug;1755;1755 - Ustyug;Veliky Ustjug - Ustyug
+c_veliky_ustug;1755;1755 - Ustyug;Duplicate to increase weight
+c_syrj;1755;1755 - Ustyug;Jemva - Ustyug
+c_galich_mersky;1755;1755 - Ustyug;Galich Mersky - Ustyug
+c_bjarmia;1755;1755 - Ustyug;Pinega - Ustyug
+
+c_ugra;1955;1955 - Kholmogory;Mozyn - Kholmogory
+c_bjarmia;1955;1955 - Kholmogory;Pinega - Kholmogory
+c_north_dvina;1955;1955 - Kholmogory;Výnva - Kholmogory
+
+c_romny;1958;1958 - Kargopol;Latša - Kargopol
+c_romny;1958;1958 - Kargopol;Duplicate to increase weight
+c_romny;1958;1958 - Kargopol;Duplicate to increase weight
+c_romny;1958;1958 - Kargopol;Duplicate to increase weight
+c_romny;1958;1958 - Kargopol;Duplicate to increase weight
+c_chud;1958;1958 - Kargopol;Vaga - Kargopol
+c_vologda;1958;1958 - Kargopol;Vologda - Kargopol
+c_beloozero;1958;1958 - Kargopol;Beloozero - Kargopol
+c_zaozerye;1958;1958 - Kargopol;Tudozerskij - Kargopol
+
+c_bjarmia;4122;4122 - Shenkursk;Pinega - Shenkursk
+c_chud;4122;4122 - Shenkursk;Vaga - Shenkursk
+c_chud;4122;4122 - Shenkursk;Duplicate to increase weight
+c_ugra;4122;4122 - Shenkursk;Mozyn - Shenkursk
+
+### South Karelia
+
+c_viipuri;30;30-Viborg;Viipuri - Viborg
+
+c_vodi;33;33-Neva;Ingria - Neva
+c_vodi;33;33-Neva;Duplicate to increase weight
+c_novgorod;33;33-Neva;Novgorod - Neva
+
+c_bezhetsky_verh;1961;1961 - Ladoga;Ladoga - Ladoga
+
+### Ryazan
+
+c_kolomna;300;300 - Tula;Kolomna - Tula
+c_pronsk;300;300 - Tula;Pronsk - Tula
+c_kozelsk;300;300 - Tula;Kozel'sk - Tula
+
+c_ryazan;301;301 - Ryazan;Riazan' - Ryazan
+c_ryazan;301;301 - Ryazan;Duplicate to increase weight
+c_kolomna;301;301 - Ryazan;Kolomna - Ryazan
+
+c_ryazan;1778;1778 - Kasimov;Riazan' - Kasimov
+c_ryazan;1778;1778 - Kasimov;Duplicate to increase weight
+c_kadom;1778;1778 - Kasimov;Kadom - Kasimov
+
+### Tambov
+
+c_mordva;302;302 - Tambow;Moksha - Tambov
+c_pronsk;302;302 - Tambow;Pronsk - Tambov
+c_pronsk;302;302 - Tambow;Duplicate to increase weight
+c_pronsk;302;302 - Tambow;Duplicate to increase weight
+c_lower_volga;302;302 - Tambow;Qaratayak - Tambov
+c_lower_volga;302;302 - Tambow;Duplicate to increase weight
+
+c_burtasy;304;304 - Pensa;Barysh - Penza
+c_mordva;304;304 - Pensa;Moksha - Penza
+c_mordva;304;304 - Pensa;Duplicate to increase weight
+c_mordva;304;304 - Pensa;Duplicate to increase weight
+c_mountain_cheremisa;304;304 - Pensa;Alatyr' - Penza
+
+c_lower_volga;2408;2408 - Lipetsk;Qaratayak - Yelets
+c_desht-i-kipchak;2408;2408 - Lipetsk;Vskol' - Yelets
+c_desht-i-kipchak;2408;2408 - Lipetsk;Duplicate to increase weight
+c_desht-i-kipchak;2408;2408 - Lipetsk;Duplicate to increase weight
+c_pronsk;2408;2408 - Lipetsk;Pronsk - Yelets
+
+c_khopyor;2415;2415 - Etkara;Khoper - Etkara
+c_khopyor;2415;2415 - Etkara;Duplicate to increase weight
+c_mordva;2415;2415 - Etkara;Moksha - Etkara
+c_mordva;2415;2415 - Etkara;Duplicate to increase weight
+c_lower_volga;2415;2415 - Etkara;Qaratayak - Etkara
+
+### North Karelia
+
+c_kexholm;32;32-Keksholm;Kexholm - Kexholm
+
+c_kola;309;309 - Olonets;Olonec - Olonets
+c_kola;309;309 - Olonets;Duplicate to increase weight
+c_zaozerye;309;309 - Olonets;Tudozerskij - Olonets
+
+c_karelen;1776;1776-Karelia;Karjala - White Karelia
+c_karelen;1776;1776-Karelia;Duplicate to increase weight
+c_trans-portage;1776;1776-Karelia;Pomorye - White Karelia
+
+c_kexholm;4124;4124 - Kovero;Kexholm - Karelia
+
+## Ruthenia
+### West Dniepr
+
+d_kiev;280;280 - Kiev;Duchy Kiev - Kiev
+c_kiev;280;280 - Kiev;Kiev - Kiev
+c_kiev;280;280 - Kiev;Duplicate to increase weight
+c_pereyaslavl;280;280 - Kiev;Perejaslavl - Kiev
+c_iskorosten;280;280 - Kiev;Ovruch - Kiev
+
+c_zhytomyr;1942;1942 - Zhytomyr;Zhytomyr - Zhytomyr
+c_iskorosten;1942;1942 - Zhytomyr;Ovruch - Zhytomyr
+c_iskorosten;1942;1942 - Zhytomyr;Duplicate to increase weight
+
+c_korsun;1944;1944 - Cherkasy;Ros’ - Cherkasy
+c_lower_dniepr;1944;1944 - Cherkasy;Özü - Cherkasy
+c_kiev;1944;1944 - Cherkasy;Kiev - Cherkasy
+
+### East Dniepr
+
+d_chernigov;289;289 - Chernigov;Duchy Chernigov - Chernigov
+c_chernigov;289;289 - Chernigov;Chernigov - Chernigov
+c_chernigov;289;289 - Chernigov;Duplicate to increase weight
+c_chernigov;289;289 - Chernigov;Duplicate to increase weight
+c_lyubech;289;289 - Chernigov;Lyubech - Chernigov
+c_novgorod_seversky;289;289 - Chernigov;Novgorod Seversky - Chernigov
+c_bryansk;289;289 - Chernigov;Briansk - Chernigov
+
+c_lower_don;290;290 - Poltava;Orel - Poltava
+c_lower_don;290;290 - Poltava;Duplicate to increase weight
+c_lower_don;290;290 - Poltava;Duplicate to increase weight
+c_lubny;290;290 - Poltava;Lukoml - Poltava
+c_tana;290;290 - Poltava;Vorskla - Poltava
+
+c_novgorod_seversky;1945;1945 - Novgorod-Seversky;Novgorod Seversky - Severia
+c_novgorod_seversky;1945;1945 - Novgorod-Seversky;Duplicate to increase weight
+c_bryansk;1945;1945 - Novgorod-Seversky;Briansk - Severia
+c_karachev;1945;1945 - Novgorod-Seversky;Karachev - Severia
+
+d_pereyaslavl;2407;2407 - Pereyaslav;Duchy Perejaslavl - Pereyaslav
+c_pereyaslavl;2407;2407 - Pereyaslav;Perejaslavl - Pereyaslav
+c_pereyaslavl;2407;2407 - Pereyaslav;Duplicate to increase weight
+c_romny_ukraine;2407;2407 - Pereyaslav;Romen - Pereyaslav
+c_romny_ukraine;2407;2407 - Pereyaslav;Duplicate to increase weight
+c_chernigov;2407;2407 - Pereyaslav;Chernigov - Pereyaslav
+
+### Sloboda Ukraine
+
+c_sharukan;291;291 - Kharkov;Uda - Kharkov
+c_sharukan;291;291 - Kharkov;Duplicate to increase weight
+c_tana;291;291 - Kharkov;Vorskla - Kharkov
+
+c_kursk;298;298 - Kursk;Kursk - Kursk
+c_kursk;298;298 - Kursk;Duplicate to increase weight
+c_kursk;298;298 - Kursk;Duplicate to increase weight
+c_rilsk;298;298 - Kursk;Rilsk - Kursk
+c_rilsk;298;298 - Kursk;Duplicate to increase weight
+c_tana;298;298 - Kursk;Vorskla - Kursk
+c_tana;298;298 - Kursk;Duplicate to increase weight
+c_romny_ukraine;298;298 - Kursk;Romen - Kursk
+c_desht-i-kipchak;298;298 - Kursk;Vskol' - Kursk
+
+c_lower_volga;299;299 - Voronezh;Qaratayak - Voronezh
+c_desht-i-kipchak;299;299 - Voronezh;Vskol' - Voronezh
+
+### White Ruthenia
+
+c_polotsk;275;275 - Polotsk;Polotsk - Polotsk
+c_polotsk;275;275 - Polotsk;Duplicate to increase weight
+c_braslaw;275;275 - Polotsk;Braslaw - Polotsk
+c_braslaw;275;275 - Polotsk;Duplicate to increase weight
+c_velikiye_luki;275;275 - Polotsk;Luki - Polotsk
+
+c_minsk;276;276 - Minsk;Minsk - Minsk
+c_lepiel;276;276 - Minsk;Logozsk - Minsk
+c_zaslawye;276;276 - Minsk;Izjaslavl' - Minsk
+
+c_mstislavl;292;292 - Mogilyov;Mstislavl - Mogilev
+c_mstislavl;292;292 - Mogilyov;Duplicate to increase weight
+c_mstislavl;292;292 - Mogilyov;Duplicate to increase weight
+c_druck;292;292 - Mogilyov;Druck - Mogilev
+c_druck;292;292 - Mogilyov;Duplicate to increase weight
+c_orsha;292;292 - Mogilyov;Krasen - Mogilev
+c_polotsk;292;292 - Mogilyov;Polotsk - Mogilev
+
+c_vitebsk;771;771 - Vitebsk;Vitebsk - Vitebsk
+c_toropets;771;771 - Vitebsk;Toropec - Vitebsk
+
+c_turov;4115;4115 - Mazyr;Turov - Mazyr
+c_turov;4115;4115 - Mazyr;Duplicate to increase weight
+c_gomel;4115;4115 - Mazyr;Gomel - Mazyr
+c_lyubech;4115;4115 - Mazyr;Lyubech - Mazyr
+
+### Podolia Volhynia
+
+c_vladimir_volynsky;279;279 - Volhynia;Vladimir Volynsky - Volhynia
+c_vladimir_volynsky;279;279 - Volhynia;Duplicate to increase weight
+c_vladimir_volynsky;279;279 - Volhynia;Duplicate to increase weight
+c_pinsk;279;279 - Volhynia;Pinsk - Volhynia
+c_lutsk;279;279 - Volhynia;Luck - Volhynia
+
+c_peresechen;281;281 - Kamienec;Podolya - Podolia
+c_peresechen;281;281 - Kamienec;Duplicate to increase weight
+c_terebovl;281;281 - Kamienec;Terebovl - Podolia
+c_zhytomyr;281;281 - Kamienec;Zhytomyr - Podolia
+
+c_peresechen;1943;1943 - Bratslav;Podolya - Bratslav
+c_peresechen;1943;1943 - Bratslav;Duplicate to increase weight
+c_korsun;1943;1943 - Bratslav;Ros’ - Bratslav
+c_zhytomyr;1943;1943 - Bratslav;Zhytomyr - Bratslav
+
+c_dorogobuzh;2962;2962 - Rowne;Dorogobuž - Rowne
+c_dorogobuzh;2962;2962 - Rowne;Duplicate to increase weight
+c_zhytomyr;2962;2962 - Rowne;Zhytomyr - Rowne
+
+### Pripyat
+
+c_beresty;277;277 - Brest;Berestye - Brest
+c_beresty;277;277 - Brest;Duplicate to increase weight
+c_beresty;277;277 - Brest;Duplicate to increase weight
+c_podlasie;277;277 - Brest;Belsk - Brest
+c_chelm;277;277 - Brest;Chelm - Brest
+c_vladimir_volynsky;277;277 - Brest;Vladimir Volynsky - Brest
+
+c_pinsk;278;278 - Pinsk;Pinsk - Pinsk
+c_pinsk;278;278 - Pinsk;Duplicate to increase weight
+c_jacwiez;278;278 - Pinsk;Volkovysk - Pinsk
+
+c_turov;1941;1941 - Turov;Turov - Turov
+c_turov;1941;1941 - Turov;Duplicate to increase weight
+c_pinsk;1941;1941 - Turov;Pinsk - Turov
+c_pinsk;1941;1941 - Turov;Duplicate to increase weight
+c_slutsk;1941;1941 - Turov;Sluck - Turov
+
+### Smolensk
+
+d_smolensk;293;293 - Smolensk;Duchy Smolensk - Smolensk
+c_smolensk;293;293 - Smolensk;Smolensk - Smolensk
+c_smolensk;293;293 - Smolensk;Duplicate to increase weight
+c_roslavl;293;293 - Smolensk;Roslavl - Smolensk
+c_vyazma;293;293 - Smolensk;Viazma - Smolensk
+
+c_mozhaysk;296;296 - Mozhaisk;Mozhajsk - Kaluga
+c_mozhaysk;296;296 - Mozhaisk;Duplicate to increase weight
+c_tarusa;296;296 - Mozhaisk;Tarusa - Kaluga
+c_vorotynsk;296;296 - Mozhaisk;Vorotynsk - Kaluga
+
+c_bryansk;297;297 - Bryansk;Briansk - Bryansk
+c_bryansk;297;297 - Bryansk;Duplicate to increase weight
+c_bryansk;297;297 - Bryansk;Duplicate to increase weight
+c_bryansk;297;297 - Bryansk;Duplicate to increase weight
+c_vorotynsk;297;297 - Bryansk;Vorotynsk - Bryansk
+c_roslavl;297;297 - Bryansk;Roslavl - Bryansk
+c_gomel;297;297 - Bryansk;Gomel - Bryansk
+
+c_karachev;4116;4116 - Upper Oka;Karachev - Oka
+c_novosil;4116;4116 - Upper Oka;Novosil - Oka
+c_kozelsk;4116;4116 - Upper Oka;Kozel'sk - Oka
+
+## Carpathia
+### Transdanubia
+
+d_gyor;135;135 - Sopron;Duchy Gyõr - Sopron
+c_sopron;135;135 - Sopron;Sopron - Sopron
+c_vas;135;135 - Sopron;Kolon - Sopron
+c_vas;135;135 - Sopron;Duplicate to increase weight
+c_pest;135;135 - Sopron;Veszprém - Sopron
+c_gemer;135;135 - Sopron;Gyõr - Sopron
+
+d_esztergom;153;153 - Pest;Duchy Visegrád - Pest
+c_esztergom;153;153 - Pest;Visegrád - Pest
+c_esztergom;153;153 - Pest;Duplicate to increase weight
+c_esztergom;153;153 - Pest;Duplicate to increase weight
+c_fejer;153;153 - Pest;Fejér - Pest
+c_fejer;153;153 - Pest;Duplicate to increase weight
+c_szekezfehervar;153;153 - Pest;Csongrád - Pest
+c_szekezfehervar;153;153 - Pest;Duplicate to increase weight
+c_komarom;153;153 - Pest;Komarom - Pest
+c_hont;153;153 - Pest;Hont - Pest
+
+c_pecs;1864;1864 - Somogy;Tolna - Somogy
+c_pecs;1864;1864 - Somogy;Duplicate to increase weight
+c_pecs;1864;1864 - Somogy;Duplicate to increase weight
+c_bereg;1864;1864 - Somogy;Somogy - Somogy
+c_bereg;1864;1864 - Somogy;Duplicate to increase weight
+c_pest;1864;1864 - Somogy;Veszprém - Somogy
+c_fejer;1864;1864 - Somogy;Fejér - Somogy
+
+c_bacs;4126;4126 - Bacs;Bodrog - Bacs
+
+### Alföld
+
+c_bekes;155;155 - Bekes;Békés - Bekes
+c_zarand;155;155 - Bekes;Zaránd - Bekes
+c_csanad;155;155 - Bekes;Csanad - Bekes
+
+c_bihar;1953;1953 - Szabolcs;Bihar - Szabolcs
+c_bihar;1953;1953 - Szabolcs;Duplicate to increase weight
+c_marmaros;1953;1953 - Szabolcs;Szatmár - Szabolcs
+
+c_temes;1954;1954 - Torontal;Temes - Torontal
+c_temes;1954;1954 - Torontal;Duplicate to increase weight
+c_krasso;1954;1954 - Torontal;Krassó - Torontal
+
+c_heves;4125;4125 - Szolnok;Heves - Szolnok
+c_heves;4125;4125 - Szolnok;Duplicate to increase weight
+c_heves;4125;4125 - Szolnok;Duplicate to increase weight
+c_esztergom;4125;4125 - Szolnok;Visegrád - Szolnok
+c_saris;4125;4125 - Szolnok;Borsod - Szolnok
+
+### Slovakia
+
+c_komarom;154;154 - Ersekujvar;Komarom - Érsekújvár
+c_trencin;154;154 - Ersekujvar;Trencsén - Érsekújvár
+c_trencin;154;154 - Ersekujvar;Duplicate to increase weight
+c_bars;154;154 - Ersekujvar;Bars - Érsekújvár
+c_bars;154;154 - Ersekujvar;Duplicate to increase weight
+c_hont;154;154 - Ersekujvar;Hont - Érsekújvár
+c_nitra;154;154 - Ersekujvar;Nyitra - Érsekújvár
+c_cieszyn;154;154 - Ersekujvar;Cieszyn - Érsekújvár
+
+c_zemplen;162;162 - Zemplen;Zemplén - Zemplen
+c_zemplen;162;162 - Zemplen;Duplicate to increase weight
+c_zemplen;162;162 - Zemplen;Duplicate to increase weight
+c_abauj;162;162 - Zemplen;Abauj - Zemplen
+c_saris;162;162 - Zemplen;Borsod - Zemplen
+
+c_szepes;1318;1318 - Spis;Szepes - Spiš
+c_hont;1318;1318 - Spis;Hont - Spiš
+c_orava;1318;1318 - Spis;Árva - Spiš
+c_bars;1318;1318 - Spis;Bars - Spiš
+c_saris;1318;1318 - Spis;Borsod - Spiš
+c_sacz;1318;1318 - Spis;Sacz - Spiš
+
+c_pressburg;1772;1772 - Pozsony;Pozsony - Pozsony
+c_pressburg;1772;1772 - Pozsony;Duplicate to increase weight
+c_nitra;1772;1772 - Pozsony;Nyitra - Pozsony
+c_nitra;1772;1772 - Pozsony;Duplicate to increase weight
+c_trencin;1772;1772 - Pozsony;Trencsén - Pozsony
+
+### Northern Transylvania
+
+c_bihar;157;157 - Bihar;Bihar - Bihar
+c_bihar;157;157 - Bihar;Duplicate to increase weight
+c_marmaros;157;157 - Bihar;Szatmár - Bihar
+
+c_szekelyfold;158;158 - Maros;Torda - Maros
+c_szekelyfold;158;158 - Maros;Duplicate to increase weight
+c_burzenland;158;158 - Maros;Barcaság - Maros
+
+c_marmaros;1952;1952 - Maramaros;Szatmár - Maramaros
+c_marmaros;1952;1952 - Maramaros;Duplicate to increase weight
+c_zemplen;1952;1952 - Maramaros;Zemplén - Maramaros
+
+c_szekelyfold;4127;4127 - Turda;Torda - Turda
+c_szekelyfold;4127;4127 - Turda;Duplicate to increase weight
+c_feher;4127;4127 - Turda;Fehér - Turda
+
+### Southern Transylvania
+
+c_temes;156;156 - Temes;Temes - Temes
+c_temes;156;156 - Temes;Duplicate to increase weight
+c_krasso;156;156 - Temes;Krassó - Temes
+
+c_feher;1951;1951 - Hunyad;Fehér - Hunyad
+c_zarand;1951;1951 - Hunyad;Zaránd - Hunyad
+
+c_feher;4128;4128 - Kiralyfold;Fehér - Kiralyföld
+
+### Wallachia
+
+d_oltenia;160;160 - Oltenia;Duchy Oltenia - Oltenia
+c_severin;160;160 - Oltenia;Severin - Oltenia
+c_targujiu;160;160 - Oltenia;Targu Jiu - Oltenia
+
+c_tirgoviste;161;161 - Tirgoviste;Tirgoviste - Tîrgoviste
+d_wallachia;161;161 - Tirgoviste;Duchy Muntenia - Tîrgoviste
+c_turnu;161;161 - Tirgoviste;Turnu - Tîrgoviste
+
+c_buzau;2998;2998 - Buzau;Buzau - Buzau
+d_wallachia;2998;2998 - Buzau;Duchy Muntenia - Buzau
+c_ialomita;2998;2998 - Buzau;Ialomita - Buzau
+c_birlad;2998;2998 - Buzau;Bârlad - Buzau
+
+### Moldavia
+
+c_bacau;268;268 - Moldavia;Bacau - Moldavia
+c_bacau;268;268 - Moldavia;Duplicate to increase weight
+c_bacau;268;268 - Moldavia;Duplicate to increase weight
+c_torki;268;268 - Moldavia;Suceava - Moldavia
+c_torki;268;268 - Moldavia;Duplicate to increase weight
+c_birlad;268;268 - Moldavia;Bârlad - Moldavia
+c_birlad;268;268 - Moldavia;Duplicate to increase weight
+c_belgorod;268;268 - Moldavia;Tighina - Moldavia
+c_iasi;268;268 - Moldavia;Iasi - Moldavia
+
+c_galaz;1756;1756 - Budjak;Basarabia - Bessarabia
+c_constantia;1756;1756 - Budjak;Konstanta - Bessarabia
+
+c_belgorod;2405;2405 - Bendery;Tighina - Bender
+c_galaz;2405;2405 - Bendery;Basarabia - Bender
+c_iasi;2405;2405 - Bendery;Iasi - Bender
+
+## Balkans
+### Croatia
+
+c_zagreb;131;131 - Zagorje;Zagreb - Zagreb
+c_okic;131;131 - Zagorje;Okic - Zagreb
+c_vodica;131;131 - Zagorje;Vodica - Zagreb
+
+c_varadzin;152;152 - Belovar;Zagorje - Varasd
+c_varadzin;152;152 - Belovar;Duplicate to increase weight
+c_varadzin;152;152 - Belovar;Duplicate to increase weight
+c_zagreb;152;152 - Belovar;Zagreb - Varasd
+c_pozega;152;152 - Belovar;Požega - Varasd
+
+c_krizevci;1767;1767 - Veroce;Vukova - Slavonia
+c_pozega;1767;1767 - Veroce;Požega - Slavonia
+
+c_donjikraji;1828;1828 - Soli;Donji Kraji - Donji Kraji
+c_vrbas;1828;1828 - Soli;Vrbas - Donji Kraji
+c_rama;1828;1828 - Soli;Rama - Donji Kraji
+c_zavrsje;1828;1828 - Soli;Zavrsje - Donji Kraji
+
+c_syrmia;4173;4173 - Syrmia;Szerém - Syrmia
+c_syrmia;4173;4173 - Syrmia;Duplicate to increase weight
+c_krizevci;4173;4173 - Syrmia;Vukova - Syrmia
+
+### East Adriatic
+
+d_dalmatia;136;136 - Dalmatia;Duchy Dalmacija - Dalmatia
+c_split;136;136 - Dalmatia;Cetina - Dalmatia
+c_split;136;136 - Dalmatia;Duplicate to increase weight
+c_knin;136;136 - Dalmatia;Knin - Dalmatia
+c_omis;136;136 - Dalmatia;Omis - Dalmatia
+c_bribir;136;136 - Dalmatia;Bribir - Dalmatia
+c_zadar;136;136 - Dalmatia;Zadar - Dalmatia
+c_hvar;136;136 - Dalmatia;Hvar - Dalmatia
+
+c_ragusa;137;137 - Ragusa;Dubrovnik - Ragusa
+c_ragusa;137;137 - Ragusa;Duplicate to increase weight
+c_korcula;137;137 - Ragusa;Korcula - Ragusa
+
+c_senj;1826;1826 - Lika;Lika - Lika
+c_modrus;1826;1826 - Lika;Modruš - Lika
+
+### Bosnia
+
+c_zachlumia;139;139 - Hum;Podgorje - Hum
+c_zachlumia;139;139 - Hum;Duplicate to increase weight
+c_zachlumia;139;139 - Hum;Duplicate to increase weight
+c_zachlumia;139;139 - Hum;Duplicate to increase weight
+c_zavrsje;139;139 - Hum;Zavrsje - Hum
+c_rama;139;139 - Hum;Rama - Hum
+c_vrhbosna;139;139 - Hum;Vrhbosna - Hum
+
+c_vrhbosna;140;140 - Bosnia;Vrhbosna - Bosnia
+c_usora;140;140 - Bosnia;Usora - Bosnia
+c_soli;140;140 - Bosnia;Soli - Bosnia
+
+c_travunija;1831;1831 - Travunia;Travunija - Travunia
+
+c_polimlje;3002;3002 - Sarajevo;Polimlje - Visoki
+c_polimlje;3002;3002 - Sarajevo;Duplicate to increase weight
+c_polimlje;3002;3002 - Sarajevo;Duplicate to increase weight
+c_zachlumia;3002;3002 - Sarajevo;Podgorje - Visoki
+c_zachlumia;3002;3002 - Sarajevo;Duplicate to increase weight
+c_hum;3002;3002 - Sarajevo;Podrinje - Visoki
+c_hum;3002;3002 - Sarajevo;Duplicate to increase weight
+c_vrhbosna;3002;3002 - Sarajevo;Vrhbosna - Visoki
+
+### Serbia
+
+d_macva;141;141 - Serbia;Duchy Macva - Smederevo
+c_belgrade;141;141 - Serbia;Belgrad - Smederevo
+c_macva;141;141 - Serbia;Macva - Smederevo
+
+c_naissus;3000;3000 - Nis;Niš - Nis
+c_naissus;3000;3000 - Nis;Duplicate to increase weight
+c_velbazhd;3000;3000 - Nis;Velbazhd - Nis
+
+c_branicevo;4176;4176 - Branicevo;Branicevo - Branicevo
+
+### Rascia
+
+c_zeta;138;138 - Zeta;Crna Gora - Zeta
+c_zeta;138;138 - Zeta;Duplicate to increase weight
+c_zeta;138;138 - Zeta;Duplicate to increase weight
+c_primorje;138;138 - Zeta;Primorje - Zeta
+c_primorje;138;138 - Zeta;Duplicate to increase weight
+c_travunija;138;138 - Zeta;Travunija - Zeta
+
+c_prizren;1766;1766 - Kosovo;Hvosno - Kosovo
+c_prizren;1766;1766 - Kosovo;Duplicate to increase weight
+c_skopje;1766;1766 - Kosovo;Skopje - Kosovo
+
+c_rashka;1827;1827 - Raska;Rashka - Raska
+c_rashka;1827;1827 - Raska;Duplicate to increase weight
+c_rashka;1827;1827 - Raska;Duplicate to increase weight
+c_polimlje;1827;1827 - Raska;Polimlje - Raska
+c_prizren;1827;1827 - Raska;Hvosno - Raska
+
+### Bulgaria
+
+c_tyrnovo;150;150 - Tarnovo;Tarnovo - Tarnovo
+c_tyrnovo;150;150 - Tarnovo;Duplicate to increase weight
+c_nikopolis;150;150 - Tarnovo;Kran - Tarnovo
+
+c_karvuna;159;159 - Silistria;Karvuna - Silistria
+c_karvuna;159;159 - Silistria;Duplicate to increase weight
+c_dorostotum;159;159 - Silistria;Preslav - Silistria
+c_dorostotum;159;159 - Silistria;Duplicate to increase weight
+c_constantia;159;159 - Silistria;Konstanta - Silistria
+
+c_serdica;1765;1765 - Nis;Sredets - Sofia
+c_serdica;1765;1765 - Nis;Duplicate to increase weight
+c_velbazhd;1765;1765 - Nis;Velbazhd - Sofia
+c_strumica;1765;1765 - Nis;Strumica - Sofia
+
+c_vidin;2746;2746 - Vidin;Vidin - Vidin
+
+c_philippopolis;2750;2750 - Plovdiv;Plovdiv - Plovdiv
+c_kopsis;2750;2750 - Plovdiv;Kopsis - Plovdiv
+c_mesembria;2750;2750 - Plovdiv;Zagore - Plovdiv
+c_adrianopolis;2750;2750 - Plovdiv;Adrianopol - Plovdiv
+
+### Macedonia
+
+d_thessalonika;148;148 - Thessaloniki;Duchy Thessalonikes - Macedonia
+c_thessalonike;148;148 - Thessaloniki;Thessaloníke - Macedonia
+c_thessalonike;148;148 - Thessaloniki;Duplicate to increase weight
+c_strymon;148;148 - Thessaloniki;Strymonos - Macedonia
+c_chalkidike;148;148 - Thessaloniki;Chalkidike - Macedonia
+c_veria;148;148 - Thessaloniki;Verroia - Macedonia
+c_strumica;148;148 - Thessaloniki;Strumica - Macedonia
+
+c_ochrid;1853;1853- Kastoria;Ohrid - Kastoria
+c_ochrid;1853;1853- Kastoria;Duplicate to increase weight
+c_upper_wallachia;1853;1853- Kastoria;Megále Vlachia - Kastoria
+
+c_skopje;3001;3001 - Skopje;Skopje - Skopje
+c_skopje;3001;3001 - Skopje;Duplicate to increase weight
+c_velbazhd;3001;3001 - Skopje;Velbazhd - Skopje
+c_strumica;3001;3001 - Skopje;Strumica - Skopje
+
+### Northern Greece
+
+d_cephalonia;142;142 - Corfu;Duchy Kephallenias - Corfu
+c_corfu;142;142 - Corfu;Kérkyra - Corfu
+c_cephalonia;142;142 - Corfu;Kephallenia - Corfu
+
+d_epirus;144;144 - Janina;Duchy Nikopoleos - Epirus
+c_epeiros;144;144 - Janina;Epeiros - Epirus
+c_epeiros;144;144 - Janina;Duplicate to increase weight
+c_arta;144;144 - Janina;Nikopolis - Epirus
+c_arta;144;144 - Janina;Duplicate to increase weight
+c_hellas;144;144 - Janina;Naupaktos - Epirus
+
+c_thessalia;147;147 - Salonica;Thessalía - Thessaly
+c_thessalia;147;147 - Salonica;Duplicate to increase weight
+c_demetrias;147;147 - Salonica;Demetrias - Thessaly
+c_neopatras;147;147 - Salonica;Neai Patrai - Thessaly
+c_upper_wallachia;147;147 - Salonica;Megále Vlachia - Thessaly
+c_veria;147;147 - Salonica;Verroia - Thessaly
+
+### Morea
+
+c_monemvasia;145;145 - Morea;Lakonia - Morea
+c_monemvasia;145;145 - Morea;Duplicate to increase weight
+c_arcadia;145;145 - Morea;Arkadia - Morea
+
+c_atheniai;146;146 - Athens;Attika - Athens
+c_thebai;146;146 - Athens;Boiotía - Athens
+
+c_achaia;1773;1773 - Achaea;Achaía - Achaea
+c_achaia;1773;1773 - Achaea;Duplicate to increase weight
+c_korinthos;1773;1773 - Achaea;Korinthos - Achaea
+c_korinthos;1773;1773 - Achaea;Duplicate to increase weight
+c_arcadia;1773;1773 - Achaea;Arkadia - Achaea
+c_methone;1773;1773 - Achaea;Messinia - Achaea
+
+### Western Aegean
+
+c_naxos;164;164 - Naxos;Kykládes - Naxos
+
+c_euboia;3003;3003 - Euboea;Euripos - Euboea
+
+### Thrace
+
+c_adrianopolis;149;149 - Edirne;Adrianopol - Edirne
+c_adrianopolis;149;149 - Edirne;Duplicate to increase weight
+c_traianopolis;149;149 - Edirne;Traianopolis - Edirne
+c_mosynopolis;149;149 - Edirne;Mosynopolis - Edirne
+c_kaliopolis;149;149 - Edirne;Kallipolis - Edirne
+c_kaliopolis;149;149 - Edirne;Duplicate to increase weight
+c_thrake;149;149 - Edirne;Thráke - Edirne
+
+c_byzantion;151;151 - Constantinople;Konstantinoupolis - Constantinople
+c_byzantion;151;151 - Constantinople;Duplicate to increase weight
+c_byzantion;151;151 - Constantinople;Duplicate to increase weight
+c_thrake;151;151 - Constantinople;Thráke - Constantinople
+c_kaliopolis;151;151 - Constantinople;Kallipolis - Constantinople
+
+c_thrake;1764;1764 - Burgas;Thráke - Burgas
+c_mesembria;1764;1764 - Burgas;Zagore - Burgas
+
+### Albania
+
+c_valona;143;143 - Vlore;Aulona - Vlorë
+d_dyrrachion;143;143 - Vlore;Duchy Dyrráchiou - Vlorë
+c_arbanon;143;143 - Vlore;Arbër - Vlorë
+
+c_dyrrachion;4174;4174 - Durres;Dyrrakhiou - Durrës
+
+c_arbanon;4175;4175 - Lezhe;Arbër - Lezhë
+c_arbanon;4175;4175 - Lezhe;Duplicate to increase weight
+c_zeta;4175;4175 - Lezhe;Crna Gora - Lezhë
+
+## Crimea
+### Crimea
+
+c_crimea;284;284 - Crimea;Qirim - Crimea
+
+c_theodosia;285;285 - Kaffa;Theodosia - Caffa
+c_korchev;285;285 - Kaffa;Kerch - Caffa
+
+c_theodoro;2410;2410 - Theodoro;Doros - Theodoro
+c_cherson;2410;2410 - Theodoro;Cherson - Theodoro
+
+c_tmutarakan;2447;2447 - Mantrega;Tamatarkha - Mantrega
+
+### Lower Don
+
+c_sarkel;288;288 - Cherkassk;Sharkel - Lower Don
+
+c_lower_volga;467;467 - Borisoglebsk;Qaratayak - Borisoglebsk
+c_khopyor;467;467 - Borisoglebsk;Khoper - Borisoglebsk
+
+c_khopyor;1971;1971 - Tsaritsyn;Khoper - Tsaritsyn
+c_khopyor;1971;1971 - Tsaritsyn;Duplicate to increase weight
+c_khopyor;1971;1971 - Tsaritsyn;Duplicate to increase weight
+c_saray;1971;1971 - Tsaritsyn;Saray - Tsaritsyn
+c_saray;1971;1971 - Tsaritsyn;Duplicate to increase weight
+c_sarkel;1971;1971 - Tsaritsyn;Sharkel - Tsaritsyn
+
+c_sarkel;2409;2409 - Bahmut;Sharkel - Bahmut
+
+### Astrakhan
+
+c_itil;464;464 - Astrakhan;Itil - Astrakhan
+c_itil;464;464 - Astrakhan;Duplicate to increase weight
+c_kuma;464;464 - Astrakhan;Kuma - Astrakhan
+
+c_saray;466;466 - Sarai;Saray - Sarai
+c_saray;466;466 - Sarai;Duplicate to increase weight
+c_sarpa;466;466 - Sarai;Sarpa - Sarai
+
+c_manych;468;468 - Khazaria;Ugru - Manych
+c_manych;468;468 - Khazaria;Duplicate to increase weight
+c_sarpa;468;468 - Khazaria;Sarpa - Manych
+
+c_yegorlyk;2416;2416 - Majar;Yegorlyk - Majar
+
+c_kuma;2417;2417 - Kuma;Kuma - Kuma
+c_sarpa;2417;2417 - Kuma;Sarpa - Kuma
+c_sarpa;2417;2417 - Kuma;Duplicate to increase weight
+
+### Zaporizhia
+
+c_lower_dniepr;283;283 - Zaporozhia;Özü - Zaporozhia
+
+c_chortitza;2411;2411 - Mansur;Aq Samar - Mansur
+c_chortitza;2411;2411 - Mansur;Duplicate to increase weight
+c_sugrov;2411;2411 - Mansur;Duna-Jük - Mansur
+
+c_lukomorie;2412;2412 - Kyzyl-Yar;Tokmak - Kyzyl-Yar
+
+### Yedisan
+
+c_olvia;282;282 - Yedisan;Yedisan - Yedisan
+c_olvia;282;282 - Yedisan;Duplicate to increase weight
+c_peresechen;282;282 - Yedisan;Podolya - Yedisan
+
+c_lukomorie;1974;1974 - Yedishkul;Tokmak - Yedishkul
+
+c_oleshye;2406;2406 - Ingil;Boh - Ingil
+c_oleshye;2406;2406 - Ingil;Duplicate to increase weight
+c_lower_dniepr;2406;2406 - Ingil;Özü - Ingil
+
+### Azov
+
+c_azov;286;286 - Azow;Azaq - Azov
+
+c_kuban;287;287 - Kouban;Cuba - Kuban
+c_azov;287;287 - Kouban;Azaq - Kuban
+
+c_sugrov;2413;2413 - Tyn;Duna-Jük - Tyn
+
+c_azov;2414;2414 - Azaraba;Azaq - Azaraba
+c_azov;2414;2414 - Azaraba;Duplicate to increase weight
+c_kuban;2414;2414 - Azaraba;Cuba - Azaraba
+c_manych;2414;2414 - Azaraba;Ugru - Azaraba
+c_yegorlyk;2414;2414 - Azaraba;Yegorlyk - Azaraba
+
+## Ural
+### Ural
+#### Pelym (off-map)
+
+d_pelym;1078;1078 - Middle Urals;Duchy Polum - Tura
+c_mansia;1078;1078 - Middle Urals;Polum - Tura
+c_ural;1078;1078 - Middle Urals;Chusovaya - Tura
+
+#### Komi (off-map)
+#### Ostyaki (off-map)
+#### Iglino (off-map)
+### Perm
+
+c_perm;1077;1077 - Solikamsk;Viser - Solikamsk
+c_mansia;1077;1077 - Solikamsk;Polum - Solikamsk
+c_ural;1077;1077 - Solikamsk;Chusovaya - Solikamsk
+
+c_zyriane;1963;1963 - Cherdyn;Ežva - Cherdyn
+c_zyriane;1963;1963 - Cherdyn;Duplicate to increase weight
+c_samoyeds;1963;1963 - Cherdyn;Ižva - Cherdyn
+
+c_zyriane;1964;1964 - Ust-Sysolsk;Ežva - Ust-Sysolsk
+c_zyriane;1964;1964 - Ust-Sysolsk;Duplicate to increase weight
+c_zyriane;1964;1964 - Ust-Sysolsk;Duplicate to increase weight
+c_samoyeds;1964;1964 - Ust-Sysolsk;Ižva - Ust-Sysolsk
+c_hlynov;1964;1964 - Ust-Sysolsk;Vice - Ust-Sysolsk
+
+c_syrj;4129;4129 - UstVym;Jemva - Ust-Vym
+c_syrj;4129;4129 - UstVym;Duplicate to increase weight
+c_ugra;4129;4129 - UstVym;Mozyn - Ust-Vym
+c_hlynov;4129;4129 - UstVym;Vice - Ust-Vym
+
+### Kazan
+
+c_qazan;1082;1082 - Kazan;Qazan - Kazan
+c_qazan;1082;1082 - Kazan;Duplicate to increase weight
+c_kokshaga;1082;1082 - Kazan;Kakšan - Kazan
+
+d_bulgar;2421;2421 - Ar-Chally;Duchy Bolgar - Ar-Chally
+c_bulgar;2421;2421 - Ar-Chally;Bolgar - Ar-Chally
+c_bilyar;2421;2421 - Ar-Chally;Bilär - Ar-Chally
+
+c_chuvash;2422;2422 - Veda-Suvar;Sura - Veda-Suvar
+c_chuvash;2422;2422 - Veda-Suvar;Duplicate to increase weight
+c_chuvash;2422;2422 - Veda-Suvar;Duplicate to increase weight
+c_chuvash;2422;2422 - Veda-Suvar;Duplicate to increase weight
+c_kokshaga;2422;2422 - Veda-Suvar;Kakšan - Veda-Suvar
+c_ashli;2422;2422 - Veda-Suvar;Ashli - Veda-Suvar
+c_ashli;2422;2422 - Veda-Suvar;Duplicate to increase weight
+c_mountain_cheremisa;2422;2422 - Veda-Suvar;Alatyr' - Veda-Suvar
+
+### Galich
+
+c_nizhny_novgorod;306;306 - Nijni-Novgorod;Nizhny Novgorod - Nizhny Novgorod
+c_nizhny_novgorod;306;306 - Nijni-Novgorod;Duplicate to increase weight
+c_gorodez;306;306 - Nijni-Novgorod;Gorodets-Radilov - Nizhny Novgorod
+
+d_vyatka;1079;1079 - Viatka;Duchy Vice - Viatka
+c_hlynov;1079;1079 - Viatka;Vice - Viatka
+c_merya;1079;1079 - Viatka;Šošma - Viatka
+
+c_grassland_cheremisa;1083;1083 - Zavolochye;Vütla - Vetluga
+c_grassland_cheremisa;1083;1083 - Zavolochye;Duplicate to increase weight
+c_grassland_cheremisa;1083;1083 - Zavolochye;Duplicate to increase weight
+c_gorodez;1083;1083 - Zavolochye;Gorodets-Radilov - Vetluga
+c_galich_mersky;1083;1083 - Zavolochye;Galich Mersky - Vetluga
+
+c_galich_mersky;1957;1957 - Galich;Galich Mersky - Galich
+c_galich_mersky;1957;1957 - Galich;Duplicate to increase weight
+c_kostroma;1957;1957 - Galich;Kostroma - Galich
+
+### Saratov
+
+c_uzens;303;303 - Saratow;Usens - Saratov
+c_khopyor;303;303 - Saratow;Khoper - Saratov
+c_khopyor;303;303 - Saratow;Duplicate to increase weight
+c_khopyor;303;303 - Saratow;Duplicate to increase weight
+c_burtasy;303;303 - Saratow;Barysh - Saratov
+
+c_uzens;2418;2418 - Ukek;Usens - Ukek
+
+c_khantia;2419;2419 - Kanadey;Samar - Kanadey
+c_khantia;2419;2419 - Kanadey;Duplicate to increase weight
+c_uzens;2419;2419 - Kanadey;Usens - Kanadey
+
+### Kama
+
+c_ural;305;305 - Perm;Chusovaya - Perm
+c_ural;305;305 - Perm;Duplicate to increase weight
+c_votyaki;305;305 - Perm;Otš - Perm
+c_bashkirs;305;305 - Perm;Aghidhel - Perm
+
+c_komi;1962;1962 - Kudymkar;Inva - Kudymkar
+
+c_merya;1972;1972 - Udmurtia;Šošma - Udmurtia
+c_votyaki;1972;1972 - Udmurtia;Otš - Udmurtia
+c_qazan;1972;1972 - Udmurtia;Qazan - Udmurtia
+
+### Bashkiria
+
+c_bashkirs;475;475 - Bashkortostan;Aghidhel - Bashkortostan
+c_bashkirs;475;475 - Bashkortostan;Duplicate to increase weight
+c_bashkirs;475;475 - Bashkortostan;Duplicate to increase weight
+c_bilyar;475;475 - Bashkortostan;Bilär - Bashkortostan
+c_bilyar;475;475 - Bashkortostan;Duplicate to increase weight
+c_syrt;475;475 - Bashkortostan;Syrt - Bashkortostan
+
+c_syrt;1965;1965 - Buzuluk;Syrt - Buzuluk
+c_syrt;1965;1965 - Buzuluk;Duplicate to increase weight
+c_syrt;1965;1965 - Buzuluk;Duplicate to increase weight
+c_khantia;1965;1965 - Buzuluk;Samar - Buzuluk
+c_bilyar;1965;1965 - Buzuluk;Bilär - Buzuluk
+
+c_sibir;1966;1966 - Chelyaba;Tobol - Chelyaba
+
+c_bashkirs;2420;2420 - Agyidel;Aghidhel - Agyidel
+c_pecheneg;2420;2420 - Agyidel;Haqmar - Agyidel
+
+c_bashkirs;2444;2444 - Bashgird;Aghidhel - Bashgird
+c_bashkirs;2444;2444 - Bashgird;Duplicate to increase weight
+c_ural;2444;2444 - Bashgird;Chusovaya - Bashgird
+
+### Samara
+
+c_tyumen;473;473 - Samara;Suar - Samara
+c_tyumen;473;473 - Samara;Duplicate to increase weight
+c_tyumen;473;473 - Samara;Duplicate to increase weight
+c_khantia;473;473 - Samara;Samar - Samara
+c_bulgar;473;473 - Samara;Bolgar - Samara
+
+c_burtasy;1081;1081 - Simbirsk;Barysh - Simbirsk
+c_burtasy;1081;1081 - Simbirsk;Duplicate to increase weight
+c_burtasy;1081;1081 - Simbirsk;Duplicate to increase weight
+c_burtasy;1081;1081 - Simbirsk;Duplicate to increase weight
+c_ashli;1081;1081 - Simbirsk;Ashli - Simbirsk
+c_mountain_cheremisa;1081;1081 - Simbirsk;Alatyr' - Simbirsk
+c_tyumen;1081;1081 - Simbirsk;Suar - Simbirsk
+
+c_mountain_cheremisa;2423;2423 - Alatyr;Alatyr' - Alatyr
+c_mountain_cheremisa;2423;2423 - Alatyr;Duplicate to increase weight
+c_kadom;2423;2423 - Alatyr;Kadom - Alatyr
+
+# Tartary
+## East Siberia (off-map)
+## West Siberia (off-map)
+## Manchuria (off-map)
+## Mongolia
+### Outer Mongolia
+
+####;717;717 - Kherlen;Kherlen
+
+####;721;721 - Setsen;Setsen
+
+####;2116;2116 - Ih Huree;Ih Huree
+
+####;2189;2189 - Tsetserleg;Tsetserleg
+
+### Inner Mongolia
+
+####;702;702 - Hohhot;Hohhot
+
+####;723;723 - Xilin Gol;Xilin Gol
+
+####;2114;2114 - Ereen;Ereen
+
+####;2115;2115 - Chahar;Chahar
+
+####;2747;2747 - Khara Narin Ula;Khara Narin Ula
+
+### Ordos
+
+####;701;701 - Ordos;Ordos
+
+####;709;709 - Alxa;Alxa
+
+####;2191;2191 - Ejin;Ejin
+
+### South Zungaria
+
+####;713;713 - Bechbaliq;Bechbaliq
+
+####;715;715 - Urumqi;Urumqi/Urumçi
+
+####;2120;2120 - Ili;Ili
+
+####;2122;2122 - Hami;Hami
+
+### North Zungaria
+
+####;714;714 - Hoboksar;Hoboksar
+
+####;2118;2118 - Urzhar;Urzhar
+
+####;2119;2119 - Chuguchak;Chuguchak
+
+### Western Mongolia
+
+####;716;716 - Tannu Uriankhai;Tannu Uriankhai/Belotsarsk
+
+####;718;718 - Kobdo;Kobdo
+
+####;1065;1065 - Kuznetsk;Kuznetsk
+
+####;1066;1066 - Altai;Altai Uriankhai
+
+####;2117;2117 - Zasagt;Zasagt
+
+### Eastern Mongolia
+
+####;722;722 - Jirem;Jirem
+
+####;2109;2109 - Boduna;Boduna
+
+####;2187;2187 - Sartu;Sartu
+
+### Central Mongolia
+
+####;719;719 - Uliastai;Uliastai
+
+####;720;720 - Dorno Govi;Dornogovi
+
+####;2190;2190 - Qaraqorum;Qaraqorum
+
+####;2193;2193 - Govi;Govi
+
+## Central Asia
+### Nogai
+
+####;465;465 - Nogay;Nogay/Nizhny-Embinsk
+
+####;470;470 - Bayuly;Bayuly/Kalmykov
+
+####;471;471 - Alimuly;Alimuly/Aralsk
+
+####;472;472 - Jetyru;Zhetyru/Aktubinsk
+
+####;2366;2366 - Utva;Utva/Ilets
+
+### Transcaspia
+
+####;437;437 - Atak;Kopet Dag
+
+####;438;438 - Kara Kum;Karakum
+
+####;439;439 - Mangyshlak;Mangyshlak
+
+####;443;443 - Ust Yurt;Ustyurt
+
+####;2349;2349 - Kizil-Su;Kizil-Su/Krasnovodsk
+
+### Transoxiana
+
+####;442;442 - Bukhara;Bukhara
+
+####;453;453 - Qarshi;Qarshi
+
+####;454;454 - Samarkand;Samarkand
+
+####;1968;1968 - Kulob;Kulob
+
+### Kazakhstan
+
+####;476;476 - Kypshak;Kypshak
+
+####;2351;2351 - Shekty;Shekty/Irghiz
+
+####;2353;2353 - Tortkara;Tortkara/Turgay
+
+####;2358;2358 - Altyn;Altyn
+
+####;2359;2359 - Baganaly;Baganaly/Kiyinsk
+
+### Balchash
+
+####;477;477 - Nadym;Nadym
+
+####;478;478 - Argyn;Argyn/Semipalatinsk
+
+####;2355;2355 - Narym;Narym/Sergiopol
+
+####;2360;2360 - Tobykty;Tobykty/Karkaralinsk
+
+### Khiva
+
+####;440;440 - Qaraqalpak;Qaraqalpak
+
+####;441;441 - Khiva;Khiva
+
+####;1973;1973 - Urgench;Urgench
+
+####;2362;2362 - Gurganj;Gurganj
+
+####;2370;2370 - Kungirot;Kungirot/Kungrad
+
+### Ferghana
+
+####;458;458 - Kokand;Kokand
+
+####;460;460 - Uzkend;Uzkend
+
+####;1967;1967 - Khujand;Khujand
+
+### Jetysuu
+
+####;459;459 - Taraz;Taraz/Pishpek
+
+####;461;461 - Almaty;Almaty/Vernyi
+
+####;2125;2125 - Kochkor;Kochkor/Przhevalsk
+
+####;2126;2126 - Chuy;Chuy/Naryn
+
+####;2368;2368 - Karamegdan;Karamegdan
+
+### Arys
+
+####;457;457 - Tashkent;Tashkent
+
+####;2364;2364 - Talas;Talas/Fergana
+
+####;2356;2356 - Shymkent;Shymkent/Chimkent
+
+### Lower Yik
+
+####;469;469 - Ryn;Ryn/Guriev
+
+####;474;474 - Yaik;Yaik
+
+####;2365;2365 - Orda;Orda/Aleksandrov-gay
+
+####;2367;2367 - Lower Yik;Lower Yik/Glinanskaya
+
+### Syr Darya
+
+####;456;456 - Turkestan;Turkestan
+
+####;1969;1969 - Sozak;Sozak
+
+####;2352;2352 - Alty-Kuduk;Alty-Kuduk/Kazalinsk
+
+####;2361;2361 - Dzhaman-Kuduk;Dzhaman-Kuduk/Golodnaya steppe
+
+### Kashgaria
+
+####;712;712 - Aksu;Aksu
+
+####;739;739 - Kashgar;Kashgar
+
+####;2124;2124 - Yarkand;Yarkand/Jarkend
+
+####;2127;2127 - Yashilkul;Yashilkul
+
+### Altishahr
+
+####;710;710 - Hotan;Hotan
+
+####;711;711 - Qarqan;Qarqan
+
+####;2121;2121 - Kuqa;Kuqa
+
+####;2123;2123 - Qakilik;Qakilik
+
+####;2192;2192 - Korla;Korla
+
+### Kyzylkum
+
+####;455;455 - Kyrzyl-Kum;Kyzylkum
+
+####;1970;1970 - Syghnak;Syghnak/Perovsk
+
+####;2363;2363 - Atakent;Atakent
+
+## Tibet (off-map)
+# Far East (off-map)
 # Africa
 ## Niger
 ### Adamawa Plateau
@@ -3364,6 +3392,8 @@ c_loon;2974;2974 - Loon;Loon - Loon
 ####;1162;1162 - Wukari;Wukari
 
 ####;1249;1249 - Yola;Yola
+
+####;2285;2285 - Marghi;Marghi
 
 ### Lower Niger
 
@@ -3377,27 +3407,29 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;1153;1153 - Pindinga;Pindinga
 
-####;2289;2289 - Ondo;Ondo
+### Kano
 
-### Hausa
+####;1155;1155 - Kano;Kano
+
+####;2280;2280 - Biram;Biram
+
+####;2281;2281 - Rano;Rano
+
+### Katsina
 
 ####;1148;1148 - Gobir;Gobir
 
 ####;1149;1149 - Katsina;Katsina
 
+####;2279;2279 - Daura;Daura
+
+### Zazzau
+
 ####;1150;1150 - Zamfara;Zamfara
 
 ####;1154;1154 - Zazzau;Zazzau
 
-####;1155;1155 - Kano;Kano
-
 ####;2278;2278 - Kebbi;Kebbi
-
-####;2279;2279 - Daura;Daura
-
-####;2280;2280 - Biram;Biram
-
-####;2281;2281 - Rano;Rano
 
 ####;2293;2293 - Yawuri;Yawuri
 
@@ -3412,8 +3444,6 @@ c_loon;2974;2974 - Loon;Loon - Loon
 ####;2265;2265 - Liptako;Liptako
 
 ####;2266;2266 - Bilanga;Bilanga
-
-####;2267;2267 - Tenkodogo;Tenkodogo
 
 ### Atacora Oueme
 
@@ -3437,7 +3467,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2256;2256 - Dagbon;Dagbon
 
-####;2257;2257 - Denkyira;Denkyira
+####;2267;2267 - Tenkodogo;Tenkodogo
 
 ### Kong
 
@@ -3455,15 +3485,9 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;1131;1131 - Massina;Massina
 
-####;1134;1134 - Jenne;Jenne
-
 ####;2249;2249 - Sibiridugu;Sibiridugu
 
 ####;2250;2250 - Bendugu;Bendugu
-
-####;2261;2261 - Kala;Kala
-
-####;2263;2263 - Haayre;Haayre
 
 ### Manding
 
@@ -3485,24 +3509,36 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2244;2244 - Tagant;Tagant
 
+### Jenne
+
+####;1134;1134 - Jenne;Jenne
+
+####;2259;2259 - Bara;Sah
+
+####;2261;2261 - Kala;Kala
+
+####;2263;2263 - Haayre;Haayre
+
 ## Guinea
+### Benin
+
+####;1147;1147 - Benin;Benin/Benim
+
+####;2289;2289 - Ondo;Ondo
+
+####;2290;2290 - Ijebu;Ijebu
+
+####;2294;2294 - Warri;Warri
+
 ### Cap Verde
 
-####;1096;1096 - Cape Verde;Cape Verde/Kapverdy/Cap-Vert
+####;1096;1096 - Cape Verde;Cape Verde/Kapverdy/Cap-Vert/Cabo Verde
 
-####;1111;1111 - Arguin;Arguin
-
-####;1112;1112 - Trarza;Trarza
-
-####;1113;1113 - Cayor;Cayor
-
-####;1116;1116 - Wolof;Wolof
-
-####;2239;2239 - Siine;Siine
+####;1111;1111 - Arguin;Arguin/Arguim
 
 ### Guinea
 
-####;1118;1118 - Sierra Leone;Sierra Leone
+####;1118;1118 - Sierra Leone;Sierra Leone/Serra Leoa
 
 ####;1119;1119 - Grain Coast;Grain Coast/Peprové pobrezí
 
@@ -3512,23 +3548,13 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Gulf of Guinea
 
-####;1097;1097 - Fernando Po;Fernando Po
-
-####;1147;1147 - Benin;Benin
-
 ####;1151;1151 - Bonny;Bonny
 
 ####;1163;1163 - Calabar;Calabar
 
-####;1164;1164 - Cameroon;Cameroon/Kamerun
+####;1164;1164 - Cameroon;Cameroon/Kamerun/Camarões
 
-####;1165;1165 - Gabon;Gabon
-
-####;1306;1306 - Sao Tomel;Sao Tome/Svatý Tomás
-
-####;2290;2290 - Ijebu;Ijebu
-
-####;2294;2294 - Warri;Warri
+####;1165;1165 - Gabon;Gabon/Gabão
 
 ### Futa Jallon
 
@@ -3540,13 +3566,33 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### West African Coast
 
-####;1126;1126 - Ivory Coast;Ivory Coast/Pobrezí Slonoviny
+####;1126;1126 - Ivory Coast;Ivory Coast/Pobrezí Slonoviny/Costa do Marfim
 
-####;1139;1139 - Gold Coast;Gold Coast/Zlaté pobrezí/Christiansborg/Fort Elmina/Fort Dorothea
+####;1139;1139 - Gold Coast;Gold Coast/Zlaté pobrezí/Christiansborg/Fort Elmina/Fort Dorothea/Costa do Ouro
 
 ####;1141;1141 - Whydah;Whydah/Prindsensteen
 
+####;2257;2257 - Denkyira;Denkyira
+
 ####;2258;2258 - Cape Coast;Cape Coast/Cap Coast/Fort Hollandia/Groß Friedrichsburg
+
+### Jolof
+
+####;1112;1112 - Trarza;Trarza
+
+####;1113;1113 - Cayor;Cayor
+
+####;1116;1116 - Wolof;Wolof
+
+####;2239;2239 - Siine;Siine
+
+### Sao Tome
+
+####;1097;1097 - Fernando Po;Fernando Po/Fernando Pó
+
+####;1174;1174 - Walvis Bay;Ezorongondo/Walvis Bay/Walfischbucht
+
+####;1306;1306 - Sao Tomel;Sao Tome/Svatý Tomás/São Tomé
 
 ## Central Africa (off-map)
 ## Sahel
@@ -3586,9 +3632,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2284;2284 - Manga;Manga
 
-####;2285;2285 - Marghi;Marghi
-
-### Azbin
+### West Azbin
 
 ####;1156;1156 - Damagaram;Damagaram
 
@@ -3598,13 +3642,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2274;2274 - Air;Air
 
-####;2275;2275 - Tenere;Tenere
-
 ####;2276;2276 - Itesan;Itesan
-
-####;2277;2277 - Kawar;Kawar
-
-####;2475;2475 - Djado;Djado
 
 ### Kurdufan
 
@@ -3652,16 +3690,22 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;1133;1133 - Gao;Gao
 
-####;2259;2259 - Bara;Sah
-
 ####;2260;2260 - Mema;Mema
 
 ####;2262;2262 - Karabara;Karabara
 
 ####;2264;2264 - Hombori;Hombori
 
+### East Azbin
+
+####;2275;2275 - Tenere;Tenere
+
+####;2277;2277 - Kawar;Kawar
+
+####;2475;2475 - Djado;Djado
+
 ## Horn of Africa
-### Ajuuran
+### Ajuuraan
 
 ####;2776;2776 - Afgooye;Afgooye
 
@@ -3675,17 +3719,13 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2757;2757 - Kaffa;Kaffa
 
-####;2758;2758 - Illubabor;Illubabor
+####;2758;2758 - Illubabor;Illubabor/Ennarea
 
 ####;2759;2759 - Gambela;Gambela
 
-####;2762;2762 - Damot;Damot
-
-####;2763;2763 - Asosa;Asosa
+####;4158;4158 - Janjero;Janjiro
 
 ### Central Ethiopia
-
-####;1213;1213 - Shoa;Shewa
 
 ####;1214;1214 - Awsa;Wollo
 
@@ -3693,31 +3733,15 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;1224;1224 - Gonder;Gonder
 
-####;2768;2768 - Angot;Angot
-
 ####;2769;2769 - Lasta;Lasta
-
-####;2770;2770 - Agew;Agew
 
 ####;2772;2772 - Dembiya;Dembiya
 
-####;2791;2791 - Ankober;Ankober
-
 ### Ifat
-
-####;1208;1208 - Degehabur;Degehabur
-
-####;1210;1210 - Ifat;Dawaro
 
 ####;1211;1211 - Harer;Harer
 
 ####;1212;1212 - Zeila;Zeila
-
-####;1215;1215 - Tajura;Tajura
-
-####;2761;2761 - Arsi;Arsi
-
-####;2764;2764 - Aussa;Ausa
 
 ####;2773;2773 - Mora;Mora
 
@@ -3749,6 +3773,10 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;1207;1207 - Ogaden;Ogaden
 
+####;1208;1208 - Degehabur;Degehabur
+
+####;1210;1210 - Dawaro;Dawaro
+
 ####;2778;2778 - Werder;Werder
 
 ####;2779;2779 - Afder;Afder
@@ -3761,7 +3789,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2760;2760 - Hadiya;Hadiya
 
-### Majarteen
+### Majeerteen
 
 ####;1206;1206 - Qardho;Qardho
 
@@ -3793,19 +3821,13 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2324;2324 - Halaib;Halaib
 
-####;2765;2765 - Assab;Assab
-
 ####;2787;2787 - Hamasien;Hamasien
 
 ### Upper Nubia
 
-####;1217;1217 - Fazughli;Fazughli
-
 ####;1222;1222 - Gezira;Gezira
 
 ####;1226;1226 - Taka;Beja
-
-####;2799;2799 - Sennar;Sennar
 
 ####;1225;1225 - Butana;Butana
 
@@ -3813,7 +3835,55 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2798;2798 - Soba;Soba
 
+### Sennar
+
+####;1217;1217 - Fazughli;Fazughli
+
+####;2799;2799 - Sennar;Sennar
+
 ####;4033;4033 - Al Qadirif;Al Qadarif
+
+### Dongola
+
+####;1220;1220 - Dar Jaal;Bayuda
+
+####;1228;1228 - Dongola;Dongola
+
+####;1229;1229 - Berber;Berber
+
+### Hadiya
+
+####;1218;1218 - Kefa;Sidamo
+
+####;2756;2756 - Welayta;Welayta
+
+####;2760;2760 - Hadiya;Hadiya
+
+### Damot
+
+####;2762;2762 - Damot;Damot
+
+####;2763;2763 - Asosa;Asosa
+
+####;2770;2770 - Agew;Agew
+
+### Aussa
+
+####;1215;1215 - Tajura;Tajura
+
+####;2764;2764 - Aussa;Ausa
+
+####;2765;2765 - Assab;Assab
+
+####;2768;2768 - Angot;Angot
+
+### Shewa
+
+####;1213;1213 - Shoa;Shewa
+
+####;2761;2761 - Arsi;Arsi
+
+####;2791;2791 - Ankober;Ankober
 
 ## East Africa (off-map)
 ## Kongo (off-map)
@@ -3831,15 +3901,17 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;341;341 - Tunis;Tunis/Tunes/Tunus
 
-####;353;353 - Gabes;Tataouine/Tacape
-
-####;2453;2453 - Sfax;Sfax/Thaenae
-
 ####;2454;2454 - Kairouan;Kef/Sicca Veneria
 
 ####;2455;2455 - Bizerte;Bizerte/Hippo Diarrhytus
 
 ####;2473;2473 - Souss;Sousse/Susa/Hadrumetum
+
+### Djerba
+
+####;353;353 - Gabes;Tataouine/Tacape
+
+####;2453;2453 - Sfax;Sfax/Thaenae
 
 ####;2954;2954 - Djerba;Djerba/Dzerba/Meninx
 
@@ -3849,11 +3921,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;340;340 - Constantine;Constantine/Constantina/Cirta/Konstantin/Qusantinah
 
-####;351;351 - Biskra;Aures/Vescera
-
 ####;1882;1882 - Bone;Annaba/Hippo Regius
-
-####;2458;2458 - Kabylia;Hodna
 
 ### Algiers
 
@@ -3863,17 +3931,19 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;338;338 - Al-Djazair;Mitidja/Algeria/Cezayir/Mitija
 
-####;2459;2459 - Titteri;Titteri/Media
-
 ####;2461;2461 - Dahra;Dahra/Murustaga
+
+####;2465;2465 - Oudja;Oujda
+
+### High Plains
+
+####;2459;2459 - Titteri;Titteri/Media
 
 ####;2462;2462 - Ouarsenis;Ouarsenis
 
 ####;2463;2463 - Maaskar;Kasdir
 
 ### North Sahara
-
-####;350;350 - Aures;Laghouat
 
 ####;352;352 - Gafsa;Gafsa/Justiniania/Capsa/Kafsa/Qafsah
 
@@ -3887,61 +3957,67 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Tafilalt
 
-####;346;346 - Figuig;Tafilalt
-
-####;2460;2460 - Saoura;Saoura
-
-####;2466;2466 - Draa;Draa
-
-### Sus
-
-####;347;347 - Ifni;Ifni
-
-####;348;348 - Sus;Sus
-
-####;1110;1110 - Rio de Oro;Agadir
-
-####;2464;2464 - Ouarzazate;Ouarzazate
-
-### Marrekesh
-
-####;344;344 - Marrakech;Marrakech/Marrakés
-
-####;345;345 - Safi;Abda
-
-####;2468;2468 - Tadla;Tadla
-
-####;2469;2469 - Dukkala;Dukkala
-
-####;2470;2470 - Haha;Haha
-
-### Fez
-
-####;335;335 - Mellila;Melilla/Rusadir
-
-####;343;343 - Fez;Fez
+####;346;346 - Figuig;Tafilalt/Tafilate
 
 ####;349;349 - Atlas;Figuig
 
-####;2465;2465 - Oudja;Oujda
+####;2460;2460 - Saoura;Saoura
+
+### Sus
+
+####;348;348 - Sus;Sus
+
+####;2464;2464 - Ouarzazate;Ouarzazate
+
+####;2466;2466 - Draa;Draa
+
+### Central Morocco
+
+####;343;343 - Fez;Fez
+
+####;344;344 - Marrakech;Marrakech/Marrakés/Marraquexe
 
 ####;2467;2467 - Meknes;Meknes
 
+####;2468;2468 - Tadla;Tadla
+
+### Ouled Nail
+
+####;350;350 - Aures;Laghouat
+
+####;351;351 - Biskra;Biskra/Vescera
+
+####;2458;2458 - Kabylia;Hodna
+
 ### North Morocco
 
-####;334;334 - Tangiers;Tangiers/Tanger/Tingis/Tanca
+####;334;334 - Tangiers;Tangiers/Tanger/Tânger/Tingis/Tanca
 
-####;342;342 - Toubkhal;Gharb/Rabatum
+####;335;335 - Mellila;Melilla/Melilha/Rusadir
 
 ####;1751;1751 - Ceuta;Ceuta/Sebtah/Septa
 
+### Southern Morocco
+
+####;347;347 - Ifni;Ifni
+
+####;1110;1110 - Rio de Oro;Agadir
+
+####;2470;2470 - Haha;Haha
+
+### Gharb
+
+####;342;342 - Toubkhal;Gharb/Rabatum
+
+####;345;345 - Safi;Abda
+
+####;2469;2469 - Dukkala;Dukkala/Mazagão
+
 ### Tripolitania
 
-####;355;355 - Sirt;Sirt/Syrtis
+####;354;354 - Tripolitania;Tripoli/Trables/Tripolis/Trablusgarp
 
 ####;2451;2451 - Thubaqt;Thubaqt/Thubactis
-
-####;354;354 - Tripolitania;Tripoli/Trables/Tripolis/Trablusgarp
 
 ####;2452;2452 - Zuwarah;Zuwarah
 
@@ -3954,17 +4030,19 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2325;2325 - Tarrana;Tarrana/Paraetonium
 
+####;2326;2326 - Bardiyah;Bardiyah/Bardia/Petra Megale/Petras Maior/Bardiya
+
 ### Gharbia
 
 ####;358;358 - Alexandria;Alexandria/Alexandrie/Aleksandreia/Iskenderiye/Iskandariyya
 
-####;362;362 - Rosetta;Rosetta/Rashid
+####;362;362 - Rosetta;Rosetta/Roseta/Rashid
 
 ####;2316;2316 - Al Gharbia;Al Gharbia/Gharbeyya
 
 ### Sharqiya
 
-####;363;363 - Damietta;Damietta/Tamiathis/Dumyat
+####;363;363 - Damietta;Damietta/Tamiathis/Damieta/Dumyat
 
 ####;365;365 - Sinai;Sinai/Sinaj/Sina
 
@@ -3992,12 +4070,6 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Lower Nubia
 
-####;1220;1220 - Dar Jaal;Bayuda
-
-####;1228;1228 - Dongola;Dongola
-
-####;1229;1229 - Berber;Berber
-
 ####;1234;1234 - Qasr Ibrim;Qasr Ibrim
 
 ####;2322;2322 - Wadi Halfa;Wadi Halfa
@@ -4006,11 +4078,11 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Cyrenaica
 
-####;356;356 - Benghazi;Benghazi/Berenice/Bingazi/Bangazi
+####;355;355 - Sirt;Sirt/Syrtis
+
+####;356;356 - Benghazi;Benghazi/Bengazi/Berenice/Bingazi/Bangazi
 
 ####;357;357 - Darnah;Darnah/Derna/Darnis
-
-####;2326;2326 - Bardiyah;Bardiyah/Bardia/Petra Megale/Petras Maior/Bardiya
 
 # South America (off-map)
 # North America (off-map)
@@ -4027,6 +4099,8 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;326;326 - Ankara;Ankara/Galatia
 
+####;2296;2296 - Biga;Biga/Abydus
+
 ### Aydin
 
 ####;318;318 - Sugla;Sugla/Smyrna/Aydin
@@ -4036,6 +4110,8 @@ c_loon;2974;2974 - Loon;Loon - Loon
 ####;2297;2297 - Saruhan;Saruhan/Lydia
 
 ####;2298;2298 - Tekke;Tekke/Attalea/Teke
+
+####;2348;2348 - Chios;Chios/Scio/Sakiz
 
 ### Karaman
 
@@ -4047,15 +4123,13 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Aleppo
 
-####;321;321 - Cyprus;Cyprus/Cipar/Kypr/Kibris
-
 ####;327;327 - Adana;Adana/Cilicia
 
 ####;377;377 - Aleppo;Aleppo/Beroea
 
 ####;2302;2302 - Icel;Içel/Pamphylia
 
-####;2313;2313 - Antioch;Antioch/Antiochie/Antâki/Antiocheia/Antakya/Antakiya
+####;2313;2313 - Antioch;Antioch/Antiochie/Antâki/Antiocheia/Antioque/Antakya/Antakiya
 
 ### Rum
 
@@ -4099,20 +4173,20 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2303;2303 - Malatya;Malatya/Melitene/Urfa
 
-### Eastern Aegean
+### Eastern Mediterranean Islands
+
+####;163;163 - Crete;Crete/Kreta/Kréta/Creta
 
 ####;320;320 - Rhodes;Rhodes/Rod/Rhodos/Rhodus/Rodos
 
-####;2296;2296 - Biga;Biga/Abydus
-
-####;2348;2348 - Chios;Chios/Scio/Sakiz
+####;321;321 - Cyprus;Cyprus/Cipar/Kypr/Kibris
 
 ## Mashriq
 ### Syria
 
 ####;378;378 - Tripoli;Tarabulus/Trábulos/Trablus/Tarabulus al-Sham
 
-####;382;382 - Damascus;Damascus/Damasek/Damâsk/Sham/Dimashq
+####;382;382 - Damascus;Damascus/Damasek/Damâsk/Damasco/Sham/Dimashq
 
 ####;1855;1855 - Sidon;Sidon/Seide/Sayda
 
@@ -4120,7 +4194,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;364;364 - Gaza;Gaza/Gazze/Ghazzah
 
-####;379;379 - Jerusalem;Jerusalem/Jeruzalém/Hierosolyma/Kudus/al-Quds
+####;379;379 - Jerusalem;Jerusalem/Jeruzalém/Jerusalém/Hierosolyma/Kudus/al-Quds
 
 ####;380;380 - Al Karak;Al Karak/Idumea/El Karak/Karak
 
@@ -4152,9 +4226,7 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;409;409 - Hillah;Hillah/Helle/Kerbela
 
-####;410;410 - Baghdad;Baghdad/Bagdád/Bagdatum/Bagdad
-
-####;2209;2209 - Ilam;Ilam
+####;410;410 - Baghdad;Baghdad/Bagdád/Bagdade/Bagdatum/Bagdad
 
 ####;2311;2311 - Samawah;Samawah
 
@@ -4181,25 +4253,19 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Georgia
 
+####;420;420 - Ganja;Ganja/Karabag
+
 ####;422;422 - Imereti;Imereti/Kutais
 
 ####;423;423 - Kartli;Kartli/Tiflis
 
-####;462;462 - Mingrelia;Mingrelia/Megrelya
-
-####;1856;1856 - Abkhazia;Abkhazia/Abcházie/Abhazya
-
-####;2196;2196 - Guria;Guria/Batum/Çildir
-
 ####;2203;2203 - Kahketi;Kahketi/Elisavetpol
-
-####;2204;2204 - Samtskhe;Samtskhe/Kars
 
 ### Shirvan
 
-####;420;420 - Ganja;Ganja/Karabag
-
 ####;421;421 - Shirvan;Shirvan/Baku/Sirvan
+
+####;424;424 - Ardabil;Ardabil
 
 ####;425;425 - Dagestan;Dagestan/Derbent/Dagistan
 
@@ -4208,6 +4274,8 @@ c_loon;2974;2974 - Loon;Loon - Loon
 ####;419;419 - Yerevan;Yerevan/Jerevan/Erivan
 
 ####;2202;2202 - Melikates;Melikates
+
+####;2204;2204 - Samtskhe;Samtskhe/Kars
 
 ####;2205;2205 - Nakhchivan;Nakhchivan
 
@@ -4219,34 +4287,40 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2208;2208 - Terek;Terek
 
+### Odishi
+
+####;462;462 - Mingrelia;Mingrelia/Megrelya
+
+####;1856;1856 - Abkhazia;Abkhazia/Abcházie/Abhazya
+
+####;2196;2196 - Guria;Guria/Batum/Çildir
+
 ## Arabia
-### Hejaz
+### Tabuk
 
 ####;383;383 - Tabuk;Tabuk
-
-####;384;384 - Medina;Medina/Medîne/Medine/Madinah
-
-####;385;385 - Mecca;Mecca/Mékke/Mekke/Makkah
-
-####;386;386 - Asir;Asir
-
-####;2330;2330 - Ma'din Sulaym;Ma'din Sulaym
-
-####;2331;2331 - Jeddah;Jeddah/Dsjidda
-
-####;2332;2332 - Truba;Truba
 
 ####;2327;2327 - Maan;Maan/Ma'an
 
 ####;2328;2328 - Tayma;Tayma/Taima
 
+### Hejaz
+
+####;384;384 - Medina;Medina/Medîne/Medine/Madinah
+
+####;385;385 - Mecca;Mecca/Mékke/Mekke/Makkah
+
+####;2330;2330 - Ma'din Sulaym;Ma'din Sulaym
+
+####;2331;2331 - Jeddah;Jeddah/Dsjidda
+
 ####;2329;2329 - Yanbu;Yanbu/Jâmbo/Yanbu' al-Bahr
 
 ### Najd
 
-####;392;392 - Al-Arid;Al-Arid/Al'Arid
-
 ####;393;393 - Jabal Shammar;Jabal Shammar
+
+####;2332;2332 - Truba;Truba
 
 ####;2335;2335 - Tamara;Tamara
 
@@ -4254,35 +4328,37 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;2337;2337 - Unaizah;Unaizah
 
-####;2338;2338 - Hafar;Hafar/Hafar al-Batin
-
-####;2339;2339 - Yabrin;Yabrin
-
 ### Bahrain
 
 ####;394;394 - El Catif;Al-Qatif/Lahsa
 
-####;395;395 - Qatar;Qatar/Katar
+####;395;395 - Qatar;Qatar/Katar/Catar
 
 ####;396;396 - Bahrain;Bahrain/Bahrajn/Tylos/Bahreyn
-
-####;397;397 - Bani Yas;Bani Yas
-
-####;404;404 - Liwa;Liwa
-
-####;2333;2333 - Abd al-Qays;Abd al-Qays
 
 ####;2347;2347 - Hofuf;Hofuf/Hufuf
 
 ### Oman
 
-####;398;398 - Qawasim;Qawasim
-
 ####;399;399 - Suhar;Suhar
 
-####;400;400 - Muscat;Muscat/Maskat/Maskát/Masqat
+####;400;400 - Muscat;Muscat/Maskat/Maskát/Mascate/Masqat
 
 ####;403;403 - Nizwa;Nizwa
+
+### Pirate Coast
+
+####;397;397 - Bani Yas;Bani Yas
+
+####;398;398 - Qawasim;Qawasim
+
+####;404;404 - Liwa;Liwa
+
+####;2333;2333 - Abd al-Qays;Abd al-Qays
+
+### Dhofar
+
+####;401;401 - Dhofar;Dhofar
 
 ####;2341;2341 - Sharqiyah;Sharqiyah/Ash Sharqiyah
 
@@ -4292,25 +4368,33 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;389;389 - Kinda;Kinda/Kindah
 
-####;401;401 - Dhofar;Dhofar
-
 ####;402;402 - Mahra;Mahra/Mahrah
-
-####;1099;1099 - Socotra;Socotra/Sokotra/Suqutra
 
 ####;2343;2343 - Kathiri;Kathiri/Adrramyta
 
 ### Yemen
 
-####;388;388 - Aden;Aden/Adan
-
 ####;387;387 - Mokha;Mokha/Mohka/Mukha
+
+####;388;388 - Aden;Aden/Adém/Adan
 
 ####;390;390 - Sanaa;Sana'a/Saná
 
-####;391;391 - Najran;Najran
-
 ####;2344;2344 - Al Jawf;Al Jawf
+
+### ad_dahna_area
+
+####;392;392 - Al-Arid;Al-Arid/Al'Arid
+
+####;2338;2338 - Hafar;Hafar/Hafar al-Batin
+
+####;2339;2339 - Yabrin;Yabrin
+
+### Sarat
+
+####;386;386 - Asir;Asir
+
+####;391;391 - Najran;Najran
 
 ####;2345;2345 - Ahqaf;Ahqaf
 
@@ -4366,8 +4450,6 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Khorasan
 
-####;427;427 - Qumis;Qumis
-
 ####;436;436 - Birjand;Birjand
 
 ####;446;446 - Herat;Herat
@@ -4411,31 +4493,27 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ####;413;413 - Lorestan;Khorramabad
 
+####;2209;2209 - Ilam;Ilam
+
 ####;2210;2210 - Kirmanshah;Kirmanshah
 
 ####;2217;2217 - Yasuj;Yasuj
 
 ### Farsistan
 
-####;430;430 - Bushehr;Dashtistan
-
 ####;2218;2218 - Sarvestan;Shiraz
-
-####;2219;2219 - Bandar Langeh;Bandar Langeh
 
 ####;2223;2223 - Larestan;Larestan
 
+####;4171;4171 - Abarquh;Abarquh
+
 ### Iraq-e-Ajam
 
-####;414;414 - Hamadan;Hamadan
+####;427;427 - Qumis;Qumis
 
 ####;428;428 - Rey;Teheran
 
 ####;2213;2213 - Markazi;Markazi
-
-####;2212;2212 - Zanjan;Zanjan
-
-####;2215;2215 - Qazvin;Qazvin
 
 ####;2216;2216 - Semnan;Semnan
 
@@ -4449,13 +4527,11 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Azerbaijan
 
-####;416;416 - Azerbaijan;Tabriz/Azerbaycan
+####;414;414 - Hamadan;Hamadan
 
-####;424;424 - Ardabil;Ardabil
+####;2212;2212 - Zanjan;Zanjan
 
-####;2206;2206 - Urmia;Urmia
-
-####;2207;2207 - Maragheh;Maragheh
+####;2215;2215 - Qazvin;Qazvin
 
 ### Isfahan
 
@@ -4467,12 +4543,26 @@ c_loon;2974;2974 - Loon;Loon - Loon
 
 ### Kerman
 
-####;431;431 - Mogostan;Mogostan
-
 ####;432;432 - Kerman;Kerman
 
 ####;2220;2220 - Bam;Bam
 
 ####;2234;2234 - Rafsanjan;Rafsanjan
 
+### Gulf Coast
+
+####;430;430 - Bushehr;Dashtistan
+
+####;431;431 - Mogostan;Mogostan
+
+####;2219;2219 - Bandar Langeh;Bandar Langeh
+
 ####;2999;2999 - Hormuz;Hormuz/Hürmüz
+
+### Tabriz
+
+####;416;416 - Azerbaijan;Tabriz/Azerbaycan
+
+####;2206;2206 - Urmia;Urmia
+
+####;2207;2207 - Maragheh;Maragheh
