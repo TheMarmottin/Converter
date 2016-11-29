@@ -4243,57 +4243,128 @@ c_kadom;2423;2423 - Alatyr;Kadom - Alatyr
 ## Caucasia
 ### Circassia
 
-####;463;463 - Circassia;Circassia/Maikop/Çerkesya
+c_kasogs;463;463 - Circassia;Cherkezistan - Circassia
 
-####;2201;2201 - Alania;Alania/Vladikavkaz
+d_alania;2201;2201 - Alania;Duchy Alania - Alania
+c_alania;2201;2201 - Alania;Alania - Alania
+c_don_portage;2201;2201 - Alania;Terk - Alania
+c_malkhicho;2201;2201 - Alania;Malkhicho - Alania
+c_simsir;2201;2201 - Alania;Simsir - Alania
 
-####;2195;2195 - Adyghe;Adyghe/Novorissiysk
+c_tmutarakan;2195;2195 - Adyghe;Tamatarkha - Adyghe
+c_kasogs;2195;2195 - Adyghe;Cherkezistan - Adyghe
 
-####;2197;2197 - Kabardia;Kabardia/Pyatigorsk
+c_yegorlyk;2197;2197 - Kabardia;Yegorlyk - Kabardia
+c_yegorlyk;2197;2197 - Kabardia;Duplicate to increase weight
+c_malkhicho;2197;2197 - Kabardia;Malkhicho - Kabardia
 
 ### Georgia
 
-####;420;420 - Ganja;Ganja/Karabag
+c_artsakh;420;420 - Ganja;Artsakh - Ganja
+c_gardman;420;420 - Ganja;Gardman - Ganja
+c_utik;420;420 - Ganja;Utik - Ganja
+c_shirvan;420;420 - Ganja;Shirvan - Ganja
+c_arran;420;420 - Ganja;Arran - Ganja
+c_albania;420;420 - Ganja;Layzan - Ganja
 
-####;422;422 - Imereti;Imereti/Kutais
+c_imeretia;422;422 - Imereti;Imereti - Imereti
+c_racha;422;422 - Imereti;Racha - Imereti
+c_kartli;422;422 - Imereti;Kartli - Imereti
+c_kartli;422;422 - Imereti;Duplicate to increase weight
+c_kartli;422;422 - Imereti;Duplicate to increase weight
+c_samtskhe;422;422 - Imereti;Samtskhe - Imereti
 
-####;423;423 - Kartli;Kartli/Tiflis
+c_kartli;423;423 - Kartli;Kartli - Kartli
+c_tbilisi;423;423 - Kartli;Tbilisi - Kartli
+c_kakheti;423;423 - Kartli;Kakheti - Kartli
+c_kakheti;423;423 - Kartli;Duplicate to increase weight
+c_tusheti;423;423 - Kartli;Tusheti - Kartli
+c_lori;423;423 - Kartli;Lori - Kartli
+c_lori;423;423 - Kartli;Duplicate to increase weight
+c_gardman;423;423 - Kartli;Gardman - Kartli
 
-####;2203;2203 - Kahketi;Kahketi/Elisavetpol
+c_kakheti;2203;2203 - Kahketi;Kakheti - Kahketi
+c_hereti;2203;2203 - Kahketi;Hereti - Kahketi
+c_hereti;2203;2203 - Kahketi;Duplicate to increase weight
 
 ### Shirvan
 
-####;421;421 - Shirvan;Shirvan/Baku/Sirvan
+d_shirvan;421;421 - Shirvan;Duchy Shirwan - Shirvan
+c_absheron;421;421 - Shirvan;Abšaran - Shirvan
+c_absheron;421;421 - Shirvan;Duplicate to increase weight
+c_shirvan;421;421 - Shirvan;Shirvan - Shirvan
+c_shirvan;421;421 - Shirvan;Duplicate to increase weight
+c_albania;421;421 - Shirvan;Layzan - Shirvan
+c_azerbaijan;421;421 - Shirvan;Muqan - Shirvan
 
-####;424;424 - Ardabil;Ardabil
+c_azerbaijan;424;424 - Ardabil;Muqan - Ardabil
+c_azerbaijan;424;424 - Ardabil;Duplicate to increase weight
+c_tabriz;424;424 - Ardabil;Tabriz - Ardabil
 
-####;425;425 - Dagestan;Dagestan/Derbent/Dagistan
+c_derbent;425;425 - Dagestan;Derbent - Dagestan
+c_derbent;425;425 - Dagestan;Duplicate to increase weight
+c_lekia;425;425 - Dagestan;Lekia - Dagestan
+c_maskat;425;425 - Dagestan;Maskat - Dagestan
+c_maskat;425;425 - Dagestan;Duplicate to increase weight
+c_semender;425;425 - Dagestan;Semender - Dagestan
+c_semender;425;425 - Dagestan;Duplicate to increase weight
 
 ### Armenia
 
-####;419;419 - Yerevan;Yerevan/Jerevan/Erivan
+c_dwin;419;419 - Yerevan;Dwin - Yerevan
+c_varazhnunik;419;419 - Yerevan;Varazhnunik - Yerevan
+c_varazhnunik;419;419 - Yerevan;Duplicate to increase weight
+c_bagrewand;419;419 - Yerevan;Ayrarat - Yerevan
+c_suenik;419;419 - Yerevan;Suenik - Yerevan
+c_suenik;419;419 - Yerevan;Duplicate to increase weight
 
-####;2202;2202 - Melikates;Melikates
+c_artsakh;2202;2202 - Melikates;Artsakh - Melikates
+c_haband;2202;2202 - Melikates;Haband - Melikates
+c_arran;2202;2202 - Melikates;Arran - Melikates
 
-####;2204;2204 - Samtskhe;Samtskhe/Kars
+c_samtskhe;2204;2204 - Samtskhe;Samtskhe - Samtskhe
+c_javakheti;2204;2204 - Samtskhe;Javakheti - Samtskhe
+c_vanand;2204;2204 - Samtskhe;Vanand - Samtskhe
+c_vanand;2204;2204 - Samtskhe;Duplicate to increase weight
+c_ani;2204;2204 - Samtskhe;Ani - Samtskhe
+c_ani;2204;2204 - Samtskhe;Duplicate to increase weight
+c_lori;2204;2204 - Samtskhe;Lori - Samtskhe
 
-####;2205;2205 - Nakhchivan;Nakhchivan
+c_goghtn;2205;2205 - Nakhchivan;Goghtn - Nakhchivan
+c_suenik;2205;2205 - Nakhchivan;Suenik - Nakhchivan
+c_suenik;2205;2205 - Nakhchivan;Duplicate to increase weight
+c_baghk;2205;2205 - Nakhchivan;Baghk - Nakhchivan
+c_oromieh;2205;2205 - Nakhchivan;Oromieh - Nakhchivan
+c_vaspurakan;2205;2205 - Nakhchivan;Vaspurakan - Nakhchivan
 
 ### Dagestan
 
-####;2198;2198 - Khundzia;Khundzia/Grozny
+c_simsir;2198;2198 - Khundzia;Simsir - Khundzia
+c_sarir;2198;2198 - Khundzia;Sarir - Khundzia
+c_lekia;2198;2198 - Khundzia;Lekia - Khundzia
 
-####;2199;2199 - Tarki;Tarki/Petrovsk
+c_semender;2199;2199 - Tarki;Semender - Tarki
+c_semender;2199;2199 - Tarki;Duplicate to increase weight
+c_philan;2199;2199 - Tarki;Filan - Tarki
 
-####;2208;2208 - Terek;Terek
+c_don_portage;2208;2208 - Terek;Terk - Terek
+c_kuma;2208;2208 - Terek;Kuma - Terek
 
 ### Odishi
 
-####;462;462 - Mingrelia;Mingrelia/Megrelya
+c_odishi;462;462 - Mingrelia;Odishi - Mingrelia
+c_abkhazia;462;462 - Mingrelia;Abkhazia - Mingrelia
+c_svaneti;462;462 - Mingrelia;Svaneti - Mingrelia
+c_imeretia;462;462 - Mingrelia;Imereti - Mingrelia
+c_guria;462;462 - Mingrelia;Guria - Mingrelia
 
-####;1856;1856 - Abkhazia;Abkhazia/Abcházie/Abhazya
+c_abkhazia;1856;1856 - Abkhazia;Abkhazia - Abkhazia
+c_jiqeti;1856;1856 - Abkhazia;Jiket'i - Abkhazia
 
-####;2196;2196 - Guria;Guria/Batum/Çildir
+c_guria;2196;2196 - Guria;Guria - Guria
+c_klarjeti;2196;2196 - Guria;Klarjeti - Guria
+c_klarjeti;2196;2196 - Guria;Duplicate to increase weight
+c_artaani;2196;2196 - Guria;Artaani - Guria
 
 ## Arabia
 ### Tabuk
