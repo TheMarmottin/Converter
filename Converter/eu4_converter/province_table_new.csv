@@ -1721,149 +1721,201 @@ c_bremen;2971;2971 - Hoya;Bremen - Hoya
 ## Scandinavia
 ### Västra Svealand
 
-####;5;5-Varmland;Värmland/Værmeland/Wermland
+c_varmland;5;5-Varmland;Värmilland - Värmland
 
-####;8;8-Dalaskogen;Dalaskogen
+c_dalarna;8;8-Dalaskogen;Järnbäraland - Dalaskogen
 
-####;1985;1985-Narke;Närke
+c_narke;1985;1985-Narke;Nerike - Närke
 
 ### Norrland
 
-####;9;9-Halsingland;Hälsingland/Hælsingleland
+d_halsingland;9;9-Halsingland;Duchy Hälsingland - Hälsingland
+c_angermanland;9;9-Halsingland;Ångermanland - Hälsingland
+c_medelpad;9;9-Halsingland;Sunded - Hälsingland
+c_halsingland;9;9-Halsingland;Alir - Hälsingland
+c_gastrikland;9;9-Halsingland;Gästrikland - Hälsingland
 
-####;11;11-Vasterbotten;Västerbotten/Vesterboten
+c_vasterbotten;11;11-Vasterbotten;Norrland - Västerbotten
+c_vasterbotten;11;11-Vasterbotten;Duplicate to increase weight
+c_kemi;11;11-Vasterbotten;Kvänland - Västerbotten
 
-####;18;18-Lappland;Lappland
-
-####;4114;4114 - Northern Lappmarks;Jokkmokk
-
+#### Lappland (off-map)
+#### Jokkmokk (off-map)
 ### Östra Götaland
 
-####;2;2-Ostergotland;Östergötland/Øster-Gøtland
+c_ostergotland;2;2-Ostergotland;Ostrogothia - Östergötland
 
-####;3;3 - Kalmar;Kalmar
+c_more;3;3 - Kalmar;Möre - Kalmar
+c_oland;3;3 - Kalmar;Öland - Kalmar
+c_smaland;3;3 - Kalmar;Njudung - Kalmar
 
-####;4166;4166 - Tioharad;Tiohärad
+c_tjust;4166;4166 - Tioharad;Värend - Tiohärad
+c_finnveden;4166;4166 - Tioharad;Finnveden - Tiohärad
+c_smaland;4166;4166 - Tioharad;Njudung - Tiohärad
 
 ### Skåneland
 
-####;6;6-Skane;Lund/Schonen/Skåne
+c_skane;6;6-Skane;Væstær Skane - Lund
+c_skane;6;6-Skane;Duplicate to increase weight
+c_northern_skane;6;6-Skane;Nørræ Skane - Lund
 
-####;26;26-Halland;Halland
+d_halland;26;26-Halland;Duchy Halland - Halland
+c_halland;26;26-Halland;Syndræ Halland - Halland
+c_northern_halland;26;26-Halland;Nørræ Halland - Halland
 
-####;1982;1982-Blekinge;Blekinge/Bleking
+c_blekinge;1982;1982-Blekinge;Blekyngh - Blekinge
 
-####;4165;4165 - Goinge;Göinge/Gønge
+c_eastern_skane;4165;4165 - Goinge;Østær Skane - Göinge
 
 ### North Jutland
 
-####;15;15-Jylland;Vestjylland/Mitteljütland/Mittjylland
+c_central_jylland;15;15-Jylland;Warwithsysæl - Vestjylland
+c_western_jylland;15;15-Jylland;Harthæsysæl - Vestjylland
+d_jylland;15;15-Jylland;Duchy Jutland - Vestjylland
 
-####;1984;1984-Nordjylland;Nordjylland
+c_northern_jylland;1984;1984-Nordjylland;Wændlesysæl - Nordjylland
+c_northeastern_jylland;1984;1984-Nordjylland;Himbræsysæl - Nordjylland
+c_western_jylland;1984;1984-Nordjylland;Harthæsysæl - Nordjylland
 
-####;4142;4142 - Aarhus;Østjylland
+c_jylland;4142;4142 - Aarhus;Abosysæl - Østjylland
 
-####;4149;4149 - Kolding;Kolding
+c_central_jylland;4149;4149 - Kolding;Warwithsysæl - Kolding
+c_jylland;4149;4149 - Kolding;Abosysæl - Kolding
+c_western_jylland;4149;4149 - Kolding;Harthæsysæl - Kolding
 
 ### Denmark
 
-####;12;12-Sjaelland;Sjælland/Seeland/Själland
+c_sjaelland;12;12-Sjaelland;Nørræ Syaland - Sjælland
+c_western_sjaelland;12;12-Sjaelland;Væstær Syaland - Sjælland
+c_southern_sjaelland;12;12-Sjaelland;Syndræ Syaland - Sjælland
 
-####;14;14-Fyn;Fyn/Fünen
+c_fyn;14;14-Fyn;Fyun - Fyn
 
-####;1983;1983-Lolland;Lolland
+c_lolland;1983;1983-Lolland;Laland - Lolland
 
 ### Finland
 
-####;27;27-Finland;Åbo/Aabo/Abo
+c_finland;27;27-Finland;Finland - Åbo
+c_finland;27;27-Finland;Duplicate to increase weight
+d_finland;27;27-Finland;Duchy Suomi - Åbo
+c_satakunta;27;27-Finland;Satakunda - Åbo
 
-####;28;28 - Nyland;Nyland/Uusimaa/Helsingfors
+c_nyland;28;28 - Nyland;Nyland - Nyland
 
-####;29;29 -Tavastland;Tavastland/Tawastland/Tammerfors
+c_tavasts;29;29 -Tavastland;Tavastland - Tavastland
 
-####;31;31-Savolaks;Savolax/Sankt Michel
+c_savolaks;31;31-Savolaks;Savolax - Savolax
 
-####;4123;4123 - Birkaland;Pirkanmaa/Birkeland/Birkaland
+c_satakunta;4123;4123 - Birkaland;Satakunda - Pirkanmaa
 
 ### Trøndelag
 
-####;10;10-Jamtland;Jämtland/Jæmtland/Jemtland
+d_jamtland;10;10-Jamtland;Duchy Jamtaland - Jämtland
+c_jamtland;10;10-Jamtland;Jamtaland - Jämtland
+c_herjedalen;10;10-Jamtland;Herjárdalr - Jämtland
 
-####;20;20-Trondelag;Trøndelag
+c_trondelag;20;20-Trondelag;Ytriþrœndalóg - Trøndelag
+c_steinkjer;20;20-Trondelag;Innriþrœndalóg - Trøndelag
+c_nordland;20;20-Trondelag;Norðmœri - Trøndelag
 
-####;21;21-Halogaland;Hålogaland/Nordlandene
+c_halogaland;21;21-Halogaland;Hálogaland - Hålogaland
+c_halogaland;21;21-Halogaland;Duplicate to increase weight
+c_naumadal;21;21-Halogaland;Naumdœlfylki - Hålogaland
 
 ### Østlandet
 
-####;17;17-Akershus;Akershus/Aggershuus
+c_akershus;17;17-Akershus;Vingulmörk - Akershus
+c_raumrike;17;17-Akershus;Raumríkí - Akershus
+c_oppland;17;17-Akershus;Hringaríki - Akershus
+c_vestfold;17;17-Akershus;Vestfold - Akershus
 
-####;22;22-Eisdiva;Opplanda/Oplandene
+c_hedmark;22;22-Eisdiva;Heiðmørk - Opplanda
+c_raumrike;22;22-Eisdiva;Raumríkí - Opplanda
+c_gudbrandzdalar;22;22-Eisdiva;Guðbrandzdalar - Opplanda
 
-####;4143;4143 - Smalenene;Smålenene/Borgarsysla
+c_akershus;4143;4143 - Smalenene;Vingulmörk - Smålenene
 
-####;4144;4144 - Bratsberg;Bratsberg
+c_telemark;4144;4144 - Bratsberg;Þelamørk - Bratsberg
 
 ### Vestlandet
 
-####;23;23-Bergenshus;Bergenhus
+c_bergenshus;23;23-Bergenshus;Horðaland - Bergenhus
+c_sogn;23;23-Bergenshus;Sygnafylki - Bergenhus
+c_foerde;23;23-Bergenshus;Firðafylki - Bergenhus
 
-####;24;24-Agder;Stavanger/Christiansand
+c_rogaland;24;24-Agder;Rygjafylki - Stavanger
 
-####;2752;2752 - Sogn;Romsdal
+c_romsdal;2752;2752 - Sogn;Raumsdalr - Romsdal
+c_sunmore;2752;2752 - Sogn;Sunnmœri - Romsdal
+c_nordland;2752;2752 - Sogn;Norðmœri - Romsdal
 
-####;4145;4145 - Agdesiden;Agdesiden
+c_agder;4145;4145 - Agdesiden;Egðafylki - Agdesiden
 
 ### Ostrobothnia
 
-####;19;19-Osterbotten;Österbotten/Østerbotn/Nikolaistadt
+c_osterbotten;19;19-Osterbotten;Österbotten - Österbotten
 
-####;4113;4113 - Rovaniemi;Rovaniemi
+c_kemi;4113;4113 - Rovaniemi;Kvänland - Rovaniemi
 
-####;4152;4152 - Kajaani;Kainuu/Kajanaland
+c_osterbotten;4152;4152 - Kajaani;Österbotten - Kainuu
 
 ### Faroes
 
-####;1978;1978 - Shetlands;Shetland/Shetlandy/Hjaltland
+c_shetland;1978;1978 - Shetlands;Hjaltland - Shetland
 
-####;1979;1979 -Faroes;Färöarna/Faerske ostrovy/Færøerne/Færøyene
+c_faereyar;1979;1979 -Faroes;Færeyar - Färöarna
 
 ### Laponia
 
-####;315;315 - Finnmark;Finnmark/Finmarken/Pechenga
+c_finnmark;315;315 - Finnmark;Finnmörk - Finnmark
 
-####;1777;1777-Kola;Kola
+c_kandalax;1777;1777-Kola;Kantalahti - Kola
 
-####;4151;4151 - Inari;Enare/Aanaar
-
+#### Enare (off-map)
 ### Baltic Islands
 
-####;25;25-Gotland;Gotland
+c_gotland;25;25-Gotland;Gotland - Gotland
 
-####;1981;1981-Bornholm;Bornholm
+c_bornholm;1981;1981-Bornholm;Burghændæholm - Bornholm
 
 ### Västra Götaland
 
-####;7;7 - Skaraborg;Skaraborg
+c_skara;7;7 - Skaraborg;Skara - Skaraborg
 
-####;16;16-Bohuslan;Bohuslän/Bahuslehn/Båhuslen
+c_viken;16;16-Bohuslan;Ránríki - Bohuslän
 
-####;4163;4163 - Elfsborg;Elfsborg
+c_vastergotland;4163;4163 - Elfsborg;Lödöse - Elfsborg
 
-####;4164;4164 - Dal;Dal
+c_dal;4164;4164 - Dal;Dal - Dal
 
 ### Östra Svealand
 
-####;1;1-Uppland;Stockholm/Stokholm
+c_uppland;1;1-Uppland;Tiundaland - Stockholm
+c_uppland;1;1-Uppland;Duplicate to increase weight
+c_attundaland;1;1-Uppland;Attundaland - Stockholm
+c_attundaland;1;1-Uppland;Duplicate to increase weight
+c_fjadrundaland;1;1-Uppland;Fjädrundaland - Stockholm
+c_sodermanland;1;1-Uppland;Sudermannia - Stockholm
+c_sodermanland;1;1-Uppland;Duplicate to increase weight
 
-####;4;4-Bergslagen;Bergslagen
+c_vastmanland;4;4-Bergslagen;Västmanland - Bergslagen
+c_dalarna;4;4-Bergslagen;Järnbäraland - Bergslagen
+c_narke;4;4-Bergslagen;Nerike - Bergslagen
 
-####;1930;1930 - Aland;Åland/Aaland
+c_aland;1930;1930 - Aland;Åland - Åland
 
 ### Iceland
 
-####;370;370 - Reykjavik;Reykjavik
+c_southisland;370;370 - Reykjavik;Suðurland - Reykjavik
+c_southisland;370;370 - Reykjavik;Duplicate to increase weight
+c_nordisland;370;370 - Reykjavik;Norðurland - Reykjavik
+c_vestisland;370;370 - Reykjavik;Vesturland - Reykjavik
+d_iceland;370;370 - Reykjavik;Duchy Ísland - Reykjavik
 
-####;371;371 - Akureyri;Akureyri
+c_nordisland;371;371 - Akureyri;Norðurland - Akureyri
+c_nordisland;371;371 - Akureyri;Duplicate to increase weight
+c_austisland;371;371 - Akureyri;Austurland - Akureyri
+d_iceland;371;371 - Akureyri;Duchy Ísland - Akureyri
 
 ## Low Countries
 ### Wallonia
