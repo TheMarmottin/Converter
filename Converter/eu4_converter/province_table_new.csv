@@ -3567,13 +3567,11 @@ c_mali;1124;1124 - Wasuju;Manding - Joma
 c_mali;1124;1124 - Wasuju;Duplicate to increase weight
 c_sibiridugu;1124;1124 - Wasuju;Sibiridugu - Joma
 
+c_malal;2248;2248 - Do;Malal - Do
 c_mali;2248;2248 - Do;Manding - Do
 c_mali;2248;2248 - Do;Duplicate to increase weight
-c_mali;2248;2248 - Do;Duplicate to increase weight
 c_kiri;2248;2248 - Do;Kita - Do
-c_malal;2248;2248 - Do;Malal - Do
 c_bure;2248;2248 - Do;Bure - Do
-d_mali;2248;2248 - Do;Duchy Mali - Do
 
 ### Tekrur
 
@@ -3610,80 +3608,36 @@ c_gurma;2263;2263 - Haayre;Gurma - Haayre
 c_risiom;2263;2263 - Haayre;Risiom - Haayre
 
 ## Guinea
-### Benin
-
-####;1147;1147 - Benin;Benin/Benim
-
-####;2289;2289 - Ondo;Ondo
-
-####;2290;2290 - Ijebu;Ijebu
-
-####;2294;2294 - Warri;Warri
-
-### Cap Verde
-
-####;1096;1096 - Cape Verde;Cape Verde/Kapverdy/Cap-Vert/Cabo Verde
-
-####;1111;1111 - Arguin;Arguin/Arguim
-
-### Guinea
-
-####;1118;1118 - Sierra Leone;Sierra Leone/Serra Leoa
-
-####;1119;1119 - Grain Coast;Grain Coast/Peprové pobrezí
-
-####;2241;2241 - Beafada;Beafada
-
-####;2242;2242 - Karou;Karou
-
-### Gulf of Guinea
-
-####;1151;1151 - Bonny;Bonny
-
-####;1163;1163 - Calabar;Calabar
-
-####;1164;1164 - Cameroon;Cameroon/Kamerun/Camarões
-
-####;1165;1165 - Gabon;Gabon/Gabão
-
+### Benin (off-map)
+### Cap Verde (off-map)
+### Guinea (off-map)
+### Gulf of Guinea (off-map)
 ### Futa Jallon
 
-####;1114;1114 - Gabu;Gabu
+c_djolof;1114;1114 - Gabu;Djolof - Gabu
 
-####;1117;1117 - Futa Jallon;Futa Jallon
+c_cayor;1117;1117 - Futa Jallon;Cayor - Futa Jallon
+c_malal;1117;1117 - Futa Jallon;Malal - Futa Jallon
 
-####;2238;2238 - Kantor;Kantor
+c_cayor;2238;2238 - Kantor;Cayor - Kantor
+c_galam;2238;2238 - Kantor;Galam - Kantor
+c_djolof;2238;2238 - Kantor;Djolof - Kantor
 
-### West African Coast
-
-####;1126;1126 - Ivory Coast;Ivory Coast/Pobrezí Slonoviny/Costa do Marfim
-
-####;1139;1139 - Gold Coast;Gold Coast/Zlaté pobrezí/Christiansborg/Fort Elmina/Fort Dorothea/Costa do Ouro
-
-####;1141;1141 - Whydah;Whydah/Prindsensteen
-
-####;2257;2257 - Denkyira;Denkyira
-
-####;2258;2258 - Cape Coast;Cape Coast/Cap Coast/Fort Hollandia/Groß Friedrichsburg
-
+### West African Coast (off-map)
 ### Jolof
 
-####;1112;1112 - Trarza;Trarza
+c_takrur;1112;1112 - Trarza;Takrur - Trarza
 
-####;1113;1113 - Cayor;Cayor
+c_djolof;1113;1113 - Cayor;Djolof - Cayor
+c_takrur;1113;1113 - Cayor;Takrur - Cayor
 
-####;1116;1116 - Wolof;Wolof
+c_djolof;1116;1116 - Wolof;Djolof - Wolof
+c_galam;1116;1116 - Wolof;Galam - Wolof
+c_takrur;1116;1116 - Wolof;Takrur - Wolof
 
-####;2239;2239 - Siine;Siine
+c_djolof;2239;2239 - Siine;Djolof - Siine
 
-### Sao Tome
-
-####;1097;1097 - Fernando Po;Fernando Po/Fernando Pó
-
-####;1174;1174 - Walvis Bay;Ezorongondo/Walvis Bay/Walfischbucht
-
-####;1306;1306 - Sao Tomel;Sao Tome/Svatý Tomás/São Tomé
-
+### Sao Tome (off-map)
 ## Central Africa (off-map)
 ## Sahel
 ### Central Sahara
