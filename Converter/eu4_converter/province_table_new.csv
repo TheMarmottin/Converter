@@ -3474,92 +3474,140 @@ c_shash;2363;2363 - Atakent;Shâsh - Atakent
 ### Lower Niger (off-map)
 ### Kano
 
-####;1155;1155 - Kano;Kano
+c_kano;1155;1155 - Kano;Kano - Kano
+c_kano;1155;1155 - Kano;Duplicate to increase weight
+c_katsina;1155;1155 - Kano;Katsina - Kano
 
-####;2280;2280 - Biram;Biram
+c_kano;2280;2280 - Biram;Kano - Biram
+c_kano;2280;2280 - Biram;Duplicate to increase weight
+c_munio;2280;2280 - Biram;Munio - Biram
 
 #### Rano (off-map)
 ### Katsina
 
-####;1148;1148 - Gobir;Gobir
+c_gobir;1148;1148 - Gobir;Gobir - Gobir
 
-####;1149;1149 - Katsina;Katsina
+c_katsina;1149;1149 - Katsina;Katsina - Katsina
+c_katsina;1149;1149 - Katsina;Duplicate to increase weight
+c_kano;1149;1149 - Katsina;Kano - Katsina
 
-####;2279;2279 - Daura;Daura
+c_katsina;2279;2279 - Daura;Katsina - Daura
 
 ### Zazzau
 
-####;1150;1150 - Zamfara;Zamfara
+c_zamfara;1150;1150 - Zamfara;Zamfara - Zamfara
+c_zamfara;1150;1150 - Zamfara;Duplicate to increase weight
+c_yauri;1150;1150 - Zamfara;Yauri - Zamfara
 
-####;1154;1154 - Zazzau;Zazzau
+c_kano;1154;1154 - Zazzau;Kano - Zazzau
+c_kano;1154;1154 - Zazzau;Duplicate to increase weight
+c_yauri;1154;1154 - Zazzau;Yauri - Zazzau
 
-####;2278;2278 - Kebbi;Kebbi
+c_kebbi;2278;2278 - Kebbi;Kebbi - Kebbi
+c_kebbi;2278;2278 - Kebbi;Duplicate to increase weight
+c_zamfara;2278;2278 - Kebbi;Zamfara - Kebbi
 
-####;2293;2293 - Yawuri;Yawuri
+c_yauri;2293;2293 - Yawuri;Yauri - Yawuri
 
 ### Upper Volta
 
-####;1135;1135 - Yatenga;Yatenga
+c_gurma;1135;1135 - Yatenga;Gurma - Yatenga
 
 #### Gurma (off-map)
 
-####;1137;1137 - Wagadugi;Wagadugu
+c_gurma;1137;1137 - Wagadugi;Gurma - Wagadugu
 
-####;2265;2265 - Liptako;Liptako
+c_risiom;2265;2265 - Liptako;Risiom - Liptako
 
-####;2266;2266 - Bilanga;Bilanga
+c_risiom;2266;2266 - Bilanga;Risiom - Bilanga
+c_gurma;2266;2266 - Bilanga;Gurma - Bilanga
+d_mossi;2266;2266 - Bilanga;Duchy Mossi - Bilanga
 
 ### Atacora Oueme (off-map)
 ### Lower Volta (off-map)
 ### Kong
 
-####;1122;1122 - Bagoe;Bagoe
+c_sikasso;1122;1122 - Bagoe;Sikasso - Bagoe
 
 #### Kong (off-map)
 
-####;2252;2252 - Lobi;Lobi
+c_bobodyolasso;2252;2252 - Lobi;Bobo Dyulasso - Lobi
 
-####;2253;2253 - Gwiriko;Gwiriko
+c_bobodyolasso;2253;2253 - Gwiriko;Bobo Dyulasso - Gwiriko
 
 ### Massina
 
-####;1123;1123 - Segu;Segu
+c_sibiridugu;1123;1123 - Segu;Sibiridugu - Segu
+c_soso;1123;1123 - Segu;Soso - Segu
+c_kala;1123;1123 - Segu;Kala - Segu
 
-####;1131;1131 - Massina;Massina
+c_massina;1131;1131 - Massina;Massina - Massina
 
-####;2249;2249 - Sibiridugu;Sibiridugu
+c_sibiridugu;2249;2249 - Sibiridugu;Sibiridugu - Sibiridugu
+c_kala;2249;2249 - Sibiridugu;Kala - Sibiridugu
+c_sikasso;2249;2249 - Sibiridugu;Sikasso - Sibiridugu
 
-####;2250;2250 - Bendugu;Bendugu
+c_binduku;2250;2250 - Bendugu;Bingugu - Bendugu
+c_binduku;2250;2250 - Bendugu;Duplicate to increase weight
+c_binduku;2250;2250 - Bendugu;Duplicate to increase weight
+c_kala;2250;2250 - Bendugu;Kala - Bendugu
+c_sikasso;2250;2250 - Bendugu;Sikasso - Bendugu
 
 ### Manding
 
-####;1120;1120 - Bambuk;Bambuk
+d_bambuk;1120;1120 - Bambuk;Duchy Bambuk - Bambuk
+c_bambuk;1120;1120 - Bambuk;Bambuk - Bambuk
+c_bambuk;1120;1120 - Bambuk;Duplicate to increase weight
+c_malal;1120;1120 - Bambuk;Malal - Bambuk
+c_kiri;1120;1120 - Bambuk;Kita - Bambuk
 
-####;1121;1121 - Bure;Bure
+c_bure;1121;1121 - Bure;Bure - Bure
 
-####;1124;1124 - Wasuju;Joma
+c_mali;1124;1124 - Wasuju;Manding - Joma
+c_mali;1124;1124 - Wasuju;Duplicate to increase weight
+c_sibiridugu;1124;1124 - Wasuju;Sibiridugu - Joma
 
-####;2248;2248 - Do;Do
+c_mali;2248;2248 - Do;Manding - Do
+c_mali;2248;2248 - Do;Duplicate to increase weight
+c_mali;2248;2248 - Do;Duplicate to increase weight
+c_kiri;2248;2248 - Do;Kita - Do
+c_malal;2248;2248 - Do;Malal - Do
+c_bure;2248;2248 - Do;Bure - Do
+d_mali;2248;2248 - Do;Duchy Mali - Do
 
 ### Tekrur
 
-####;1115;1115 - Brakna;Brakna
+c_takrur;1115;1115 - Brakna;Takrur - Brakna
+c_silla;1115;1115 - Brakna;Silla - Brakna
+c_aoudaghost;1115;1115 - Brakna;Awdaghust - Brakna
 
-####;2237;2237 - Tekrur;Tekrur
+c_silla;2237;2237 - Tekrur;Silla - Tekrur
+c_silla;2237;2237 - Tekrur;Duplicate to increase weight
+c_silla;2237;2237 - Tekrur;Duplicate to increase weight
+c_takrur;2237;2237 - Tekrur;Takrur - Tekrur
+c_galam;2237;2237 - Tekrur;Galam - Tekrur
 
-####;2240;2240 - Galam;Galam
+c_galam;2240;2240 - Galam;Galam - Galam
+c_diafunu;2240;2240 - Galam;Diafanu - Galam
+c_bambuk;2240;2240 - Galam;Bambuk - Galam
 
-####;2244;2244 - Tagant;Tagant
+c_aoudaghost;2244;2244 - Tagant;Awdaghust - Tagant
 
 ### Jenne
 
-####;1134;1134 - Jenne;Jenne
+c_djenne;1134;1134 - Jenne;Djenné - Jenne
+c_djenne;1134;1134 - Jenne;Duplicate to increase weight
+c_binduku;1134;1134 - Jenne;Bingugu - Jenne
 
-####;2259;2259 - Bara;Sah
+c_timbuktu;2259;2259 - Bara;Timbuktu - Sah
+c_djenne;2259;2259 - Bara;Djenné - Sah
+c_mema;2259;2259 - Bara;Mema - Sah
 
-####;2261;2261 - Kala;Kala
+c_djenne;2261;2261 - Kala;Djenné - Kala
 
-####;2263;2263 - Haayre;Haayre
+c_timbuktu;2263;2263 - Haayre;Timbuktu - Haayre
+c_gurma;2263;2263 - Haayre;Gurma - Haayre
+c_risiom;2263;2263 - Haayre;Risiom - Haayre
 
 ## Guinea
 ### Benin
