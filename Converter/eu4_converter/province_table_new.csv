@@ -3470,36 +3470,15 @@ c_shash;2363;2363 - Atakent;Shâsh - Atakent
 # Far East (off-map)
 # Africa
 ## Niger
-### Adamawa Plateau
-
-####;1161;1161 - Bauchi;Bauchi
-
-####;1162;1162 - Wukari;Wukari
-
-####;1249;1249 - Yola;Yola
-
-####;2285;2285 - Marghi;Marghi
-
-### Lower Niger
-
-####;1144;1144 - Oyo;Oyo
-
-####;1145;1145 - Nupe;Nupe
-
-####;1146;1146 - Ife;Ife
-
-####;1152;1152 - Idah;Idah
-
-####;1153;1153 - Pindinga;Pindinga
-
+### Adamawa Plateau (off-map)
+### Lower Niger (off-map)
 ### Kano
 
 ####;1155;1155 - Kano;Kano
 
 ####;2280;2280 - Biram;Biram
 
-####;2281;2281 - Rano;Rano
-
+#### Rano (off-map)
 ### Katsina
 
 ####;1148;1148 - Gobir;Gobir
@@ -3522,7 +3501,7 @@ c_shash;2363;2363 - Atakent;Shâsh - Atakent
 
 ####;1135;1135 - Yatenga;Yatenga
 
-####;1136;1136 - Gurma;Gurma
+#### Gurma (off-map)
 
 ####;1137;1137 - Wagadugi;Wagadugu
 
@@ -3530,35 +3509,13 @@ c_shash;2363;2363 - Atakent;Shâsh - Atakent
 
 ####;2266;2266 - Bilanga;Bilanga
 
-### Atacora Oueme
-
-####;1140;1140 - Abomey;Abomey
-
-####;1143;1143 - Borgu;Borgu
-
-####;2291;2291 - Ketu;Ketu
-
-####;2292;2292 - Moshi;Moshi
-
-####;2295;2295 - Atakora;Atakora
-
-### Lower Volta
-
-####;1138;1138 - Kumasi;Kumasi
-
-####;2254;2254 - Bonoman;Bonoman
-
-####;2255;2255 - Gyaaman;Gyaaman
-
-####;2256;2256 - Dagbon;Dagbon
-
-####;2267;2267 - Tenkodogo;Tenkodogo
-
+### Atacora Oueme (off-map)
+### Lower Volta (off-map)
 ### Kong
 
 ####;1122;1122 - Bagoe;Bagoe
 
-####;1125;1125 - Kong;Kong
+#### Kong (off-map)
 
 ####;2252;2252 - Lobi;Lobi
 
