@@ -3208,84 +3208,30 @@ c_kadom;2423;2423 - Alatyr;Kadom - Alatyr
 ## West Siberia (off-map)
 ## Manchuria (off-map)
 ## Mongolia
-### Outer Mongolia
-
-####;717;717 - Kherlen;Kherlen
-
-####;721;721 - Setsen;Setsen
-
-####;2116;2116 - Ih Huree;Ih Huree
-
-####;2189;2189 - Tsetserleg;Tsetserleg
-
-### Inner Mongolia
-
-####;702;702 - Hohhot;Hohhot
-
-####;723;723 - Xilin Gol;Xilin Gol
-
-####;2114;2114 - Ereen;Ereen
-
-####;2115;2115 - Chahar;Chahar
-
-####;2747;2747 - Khara Narin Ula;Khara Narin Ula
-
-### Ordos
-
-####;701;701 - Ordos;Ordos
-
-####;709;709 - Alxa;Alxa
-
-####;2191;2191 - Ejin;Ejin
-
+### Outer Mongolia (off-map)
+### Inner Mongolia (off-map)
+### Ordos (off-map)
 ### South Zungaria
+#### Bechbaliq (off-map)
+#### Urumqi (off-map)
 
-####;713;713 - Bechbaliq;Bechbaliq
+c_almaliq;2120;2120 - Ili;Yulduz - Ili
+c_almaliq;2120;2120 - Ili;Duplicate to increase weight
+c_emil;2120;2120 - Ili;Emil - Ili
 
-####;715;715 - Urumqi;Urumqi/Urumçi
-
-####;2120;2120 - Ili;Ili
-
-####;2122;2122 - Hami;Hami
-
+#### Hami (off-map)
 ### North Zungaria
+#### Hoboksar (off-map)
 
-####;714;714 - Hoboksar;Hoboksar
+c_emil;2118;2118 - Urzhar;Emil - Urzhar
+c_zaysan;2118;2118 - Urzhar;Zaysan - Urzhar
+d_ayaguz;2118;2118 - Urzhar;Duchy Ayaguz - Urzhar
 
-####;2118;2118 - Urzhar;Urzhar
+c_emil;2119;2119 - Chuguchak;Emil - Chuguchak
 
-####;2119;2119 - Chuguchak;Chuguchak
-
-### Western Mongolia
-
-####;716;716 - Tannu Uriankhai;Tannu Uriankhai/Belotsarsk
-
-####;718;718 - Kobdo;Kobdo
-
-####;1065;1065 - Kuznetsk;Kuznetsk
-
-####;1066;1066 - Altai;Altai Uriankhai
-
-####;2117;2117 - Zasagt;Zasagt
-
-### Eastern Mongolia
-
-####;722;722 - Jirem;Jirem
-
-####;2109;2109 - Boduna;Boduna
-
-####;2187;2187 - Sartu;Sartu
-
-### Central Mongolia
-
-####;719;719 - Uliastai;Uliastai
-
-####;720;720 - Dorno Govi;Dornogovi
-
-####;2190;2190 - Qaraqorum;Qaraqorum
-
-####;2193;2193 - Govi;Govi
-
+### Western Mongolia (off-map)
+### Eastern Mongolia (off-map)
+### Central Mongolia (off-map)
 ## Central Asia
 ### Nogai
 
