@@ -3235,149 +3235,236 @@ c_emil;2119;2119 - Chuguchak;Emil - Chuguchak
 ## Central Asia
 ### Nogai
 
-####;465;465 - Nogay;Nogay/Nizhny-Embinsk
+c_guryev;465;465 - Nogay;Saray-Jük - Nogay
+c_guryev;465;465 - Nogay;Duplicate to increase weight
+c_buzachi;465;465 - Nogay;Buzachi - Nogay
 
-####;470;470 - Bayuly;Bayuly/Kalmykov
+c_yaik;470;470 - Bayuly;Yaik - Bayuly
 
-####;471;471 - Alimuly;Alimuly/Aralsk
+c_ustyurt;471;471 - Alimuly;Ust-Yurt - Alimuly
+c_irgiz;471;471 - Alimuly;Irgiz - Alimuly
+c_buzachi;471;471 - Alimuly;Buzachi - Alimuly
 
-####;472;472 - Jetyru;Zhetyru/Aktubinsk
+c_irgiz;472;472 - Jetyru;Irgiz - Zhetyru
+c_aqtobe;472;472 - Jetyru;Op - Zhetyru
 
-####;2366;2366 - Utva;Utva/Ilets
+c_aqtobe;2366;2366 - Utva;Op - Utva
+c_yaik;2366;2366 - Utva;Yaik - Utva
+d_yaik;2366;2366 - Utva;Duchy Yaik - Utva
 
 ### Transcaspia
 
-####;437;437 - Atak;Kopet Dag
+c_dihistan;437;437 - Atak;Dehestân - Kopet Dag
+c_farava;437;437 - Atak;Farâva - Kopet Dag
+c_uzboy;437;437 - Atak;Nisáya - Kopet Dag
 
-####;438;438 - Kara Kum;Karakum
+c_uzboy;438;438 - Kara Kum;Nisáya - Karakum
+c_uzboy;438;438 - Kara Kum;Duplicate to increase weight
+c_karasu;438;438 - Kara Kum;Karasu - Karakum
 
-####;439;439 - Mangyshlak;Mangyshlak
+c_mangyshlak;439;439 - Mangyshlak;Mangyshlak - Mangyshlak
+c_mangyshlak;439;439 - Mangyshlak;Duplicate to increase weight
+c_buzachi;439;439 - Mangyshlak;Buzachi - Mangyshlak
 
-####;443;443 - Ust Yurt;Ustyurt
+c_ustyurt;443;443 - Ust Yurt;Ust-Yurt - Ustyurt
+c_mangyshlak;443;443 - Ust Yurt;Mangyshlak - Ustyurt
+d_ustyurt;443;443 - Ust Yurt;Duchy Ust-Yurt - Ustyurt
 
-####;2349;2349 - Kizil-Su;Kizil-Su/Krasnovodsk
+c_dihistan;2349;2349 - Kizil-Su;Dehestân - Kizil-Su
+c_dihistan;2349;2349 - Kizil-Su;Duplicate to increase weight
+c_karasu;2349;2349 - Kizil-Su;Karasu - Kizil-Su
 
 ### Transoxiana
 
-####;442;442 - Bukhara;Bukhara
+c_bukhara;442;442 - Bukhara;Bukhara - Bukhara
+c_bukhara;442;442 - Bukhara;Duplicate to increase weight
+c_samarqand;442;442 - Bukhara;Samarkand - Bukhara
 
-####;453;453 - Qarshi;Qarshi
+c_nakhsheb;453;453 - Qarshi;Nakhsheb - Qarshi
+c_nakhsheb;453;453 - Qarshi;Duplicate to increase weight
+c_bukhara;453;453 - Qarshi;Bukhara - Qarshi
+c_chaghaniyan;453;453 - Qarshi;Chaghâniyân - Qarshi
+d_soghd;453;453 - Qarshi;Duchy Soghd - Qarshi
 
-####;454;454 - Samarkand;Samarkand
+c_samarqand;454;454 - Samarkand;Samarkand - Samarkand
+c_samarqand;454;454 - Samarkand;Duplicate to increase weight
+c_samarqand;454;454 - Samarkand;Duplicate to increase weight
+c_panjikend;454;454 - Samarkand;Kish - Samarkand
+c_ustrushana;454;454 - Samarkand;Ustrushana - Samarkand
 
-####;1968;1968 - Kulob;Kulob
+c_rasht;1968;1968 - Kulob;Rasht - Kulob
+c_chaghaniyan;1968;1968 - Kulob;Chaghâniyân - Kulob
+c_khuttal;1968;1968 - Kulob;Khuttal - Kulob
 
 ### Kazakhstan
 
-####;476;476 - Kypshak;Kypshak
+c_balkhash;476;476 - Kypshak;Balkhash - Kypshak
 
-####;2351;2351 - Shekty;Shekty/Irghiz
+c_irgiz;2351;2351 - Shekty;Irgiz - Shekty
 
-####;2353;2353 - Tortkara;Tortkara/Turgay
+c_turgay;2353;2353 - Tortkara;Turgay - Tortkara
+c_sibir;2353;2353 - Tortkara;Tobol - Tortkara
+d_dasht-i-qipchaq;2353;2353 - Tortkara;Duchy Dasht-e-Qipchaq - Tortkara
 
-####;2358;2358 - Altyn;Altyn
+c_turgay;2358;2358 - Altyn;Turgay - Altyn
+c_turgay;2358;2358 - Altyn;Duplicate to increase weight
+c_sarisu;2358;2358 - Altyn;Sarisu - Altyn
 
-####;2359;2359 - Baganaly;Baganaly/Kiyinsk
+c_balkhash;2359;2359 - Baganaly;Balkhash - Baganaly
 
 ### Balchash
 
-####;477;477 - Nadym;Nadym
+c_balkhash;477;477 - Nadym;Balkhash - Nadym
 
-####;478;478 - Argyn;Argyn/Semipalatinsk
+#### Argyn (off-map)
 
-####;2355;2355 - Narym;Narym/Sergiopol
+c_zaysan;2355;2355 - Narym;Zaysan - Narym
+c_ayaguz;2355;2355 - Narym;Ayaguz - Narym
+d_ayaguz;2355;2355 - Narym;Duchy Ayaguz - Narym
 
-####;2360;2360 - Tobykty;Tobykty/Karkaralinsk
+c_ayaguz;2360;2360 - Tobykty;Ayaguz - Tobykty
 
 ### Khiva
 
-####;440;440 - Qaraqalpak;Qaraqalpak
+c_kerder;440;440 - Qaraqalpak;Kerder - Qaraqalpak
 
-####;441;441 - Khiva;Khiva
+c_kath;441;441 - Khiva;Khwarezm - Khiva
+c_harazasp;441;441 - Khiva;Harazasp - Khiva
+c_harazasp;441;441 - Khiva;Duplicate to increase weight
 
-####;1973;1973 - Urgench;Urgench
+c_kath;1973;1973 - Urgench;Khwarezm - Urgench
 
-####;2362;2362 - Gurganj;Gurganj
+c_kerder;2362;2362 - Gurganj;Kerder - Gurganj
+c_kath;2362;2362 - Gurganj;Khwarezm - Gurganj
+c_kath;2362;2362 - Gurganj;Duplicate to increase weight
+c_uzboy;2362;2362 - Gurganj;Nisáya - Gurganj
+d_khwarazm;2362;2362 - Gurganj;Duchy Khorazm - Gurganj
 
-####;2370;2370 - Kungirot;Kungirot/Kungrad
+c_kerder;2370;2370 - Kungirot;Kerder - Kungirot
 
 ### Ferghana
 
-####;458;458 - Kokand;Kokand
+c_ferghana;458;458 - Kokand;Ferghana - Kokand
+c_khojand;458;458 - Kokand;Khojand - Kokand
+c_aval;458;458 - Kokand;Aval - Kokand
 
-####;460;460 - Uzkend;Uzkend
+c_ferghana;460;460 - Uzkend;Ferghana - Uzkend
+c_khaylam;460;460 - Uzkend;Khaylam - Uzkend
+c_naryn;460;460 - Uzkend;Naryn - Uzkend
 
-####;1967;1967 - Khujand;Khujand
+c_khojand;1967;1967 - Khujand;Khojand - Khujand
+c_ustrushana;1967;1967 - Khujand;Ustrushana - Khujand
+c_shash;1967;1967 - Khujand;Shâsh - Khujand
 
 ### Jetysuu
 
-####;459;459 - Taraz;Taraz/Pishpek
+c_sarisu;459;459 - Taraz;Sarisu - Taraz
+c_sarisu;459;459 - Taraz;Duplicate to increase weight
+c_balasaghnun;459;459 - Taraz;Balasaghun - Taraz
 
-####;461;461 - Almaty;Almaty/Vernyi
+c_yeti-su;461;461 - Almaty;Yetisu - Almaty
+c_yeti-su;461;461 - Almaty;Duplicate to increase weight
+c_almaliq;461;461 - Almaty;Yulduz - Almaty
 
-####;2125;2125 - Kochkor;Kochkor/Przhevalsk
+c_barskhan;2125;2125 - Kochkor;Barskhan - Kochkor
+c_barskhan;2125;2125 - Kochkor;Duplicate to increase weight
+c_barskhan;2125;2125 - Kochkor;Duplicate to increase weight
+c_balasaghnun;2125;2125 - Kochkor;Balasaghun - Kochkor
+c_balasaghnun;2125;2125 - Kochkor;Duplicate to increase weight
+c_naryn;2125;2125 - Kochkor;Naryn - Kochkor
+c_yeti-su;2125;2125 - Kochkor;Yetisu - Kochkor
 
-####;2126;2126 - Chuy;Chuy/Naryn
+c_balasaghnun;2126;2126 - Chuy;Balasaghun - Chuy
 
-####;2368;2368 - Karamegdan;Karamegdan
+c_yeti-su;2368;2368 - Karamegdan;Yetisu - Karamegdan
 
 ### Arys
 
-####;457;457 - Tashkent;Tashkent
+c_shash;457;457 - Tashkent;Shâsh - Tashkent
+c_shash;457;457 - Tashkent;Duplicate to increase weight
+d_shash;457;457 - Tashkent;Duchy Chách - Tashkent
+c_otrar;457;457 - Tashkent;Otrâr - Tashkent
+c_talas;457;457 - Tashkent;Talas - Tashkent
 
-####;2364;2364 - Talas;Talas/Fergana
+c_talas;2364;2364 - Talas;Talas - Talas
+c_balasaghnun;2364;2364 - Talas;Balasaghun - Talas
+d_zhetysu;2364;2364 - Talas;Duchy Zhetisu - Talas
 
-####;2356;2356 - Shymkent;Shymkent/Chimkent
+c_otrar;2356;2356 - Shymkent;Otrâr - Shymkent
+c_otrar;2356;2356 - Shymkent;Duplicate to increase weight
+c_sarisu;2356;2356 - Shymkent;Sarisu - Shymkent
 
 ### Lower Yik
 
-####;469;469 - Ryn;Ryn/Guriev
+c_guryev;469;469 - Ryn;Saray-Jük - Ryn
+c_guryev;469;469 - Ryn;Duplicate to increase weight
+c_itil;469;469 - Ryn;Itil - Ryn
 
-####;474;474 - Yaik;Yaik
+c_uzens;474;474 - Yaik;Usens - Yaik
 
-####;2365;2365 - Orda;Orda/Aleksandrov-gay
+c_uzens;2365;2365 - Orda;Usens - Orda
 
-####;2367;2367 - Lower Yik;Lower Yik/Glinanskaya
+c_yaik;2367;2367 - Lower Yik;Yaik - Lower Yik
 
 ### Syr Darya
 
-####;456;456 - Turkestan;Turkestan
+c_sarisu;456;456 - Turkestan;Sarisu - Turkestan
+c_sarisu;456;456 - Turkestan;Duplicate to increase weight
+c_sighnaq;456;456 - Turkestan;Sighnaq - Turkestan
 
-####;1969;1969 - Sozak;Sozak
+c_sighnaq;1969;1969 - Sozak;Sighnaq - Sozak
+c_sighnaq;1969;1969 - Sozak;Duplicate to increase weight
+c_sarisu;1969;1969 - Sozak;Sarisu - Sozak
 
-####;2352;2352 - Alty-Kuduk;Alty-Kuduk/Kazalinsk
+c_jand;2352;2352 - Alty-Kuduk;Jand - Alty-Kuduk
+c_jand;2352;2352 - Alty-Kuduk;Duplicate to increase weight
+c_turgay;2352;2352 - Alty-Kuduk;Turgay - Alty-Kuduk
 
-####;2361;2361 - Dzhaman-Kuduk;Dzhaman-Kuduk/Golodnaya steppe
+c_sarisu;2361;2361 - Dzhaman-Kuduk;Sarisu - Dzhaman-Kuduk
+c_sarisu;2361;2361 - Dzhaman-Kuduk;Duplicate to increase weight
+c_balkhash;2361;2361 - Dzhaman-Kuduk;Balkhash - Dzhaman-Kuduk
 
 ### Kashgaria
 
-####;712;712 - Aksu;Aksu
+c_aqsu;712;712 - Aksu;Aqsu - Aksu
 
-####;739;739 - Kashgar;Kashgar
+c_kashgar;739;739 - Kashgar;Kashgar - Kashgar
+c_kashgar;739;739 - Kashgar;Duplicate to increase weight
+c_kashgar;739;739 - Kashgar;Duplicate to increase weight
+c_ferghana;739;739 - Kashgar;Ferghana - Kashgar
+c_naryn;739;739 - Kashgar;Naryn - Kashgar
 
-####;2124;2124 - Yarkand;Yarkand/Jarkend
+c_kashgar;2124;2124 - Yarkand;Kashgar - Yarkand
+c_kashgar;2124;2124 - Yarkand;Duplicate to increase weight
+c_aqsu;2124;2124 - Yarkand;Aqsu - Yarkand
 
-####;2127;2127 - Yashilkul;Yashilkul
+c_ferghana;2127;2127 - Yashilkul;Ferghana - Yashilkul
+c_aval;2127;2127 - Yashilkul;Aval - Yashilkul
+d_ferghana;2127;2127 - Yashilkul;Duchy Ferghána - Yashilkul
 
 ### Altishahr
 
-####;710;710 - Hotan;Hotan
+c_khotan;710;710 - Hotan;Khotan - Hotan
 
-####;711;711 - Qarqan;Qarqan
+c_khotan;711;711 - Qarqan;Khotan - Qarqan
 
-####;2121;2121 - Kuqa;Kuqa
+c_kucha;2121;2121 - Kuqa;Kucha - Kuqa
 
 #### Qakilik (off-map)
 
-####;2192;2192 - Korla;Korla
+c_qarashahr;2192;2192 - Korla;Qarashahr - Korla
 
 ### Kyzylkum
 
-####;455;455 - Kyrzyl-Kum;Kyzylkum
+c_sighnaq;455;455 - Kyrzyl-Kum;Sighnaq - Kyzylkum
 
-####;1970;1970 - Syghnak;Syghnak/Perovsk
+c_sighnaq;1970;1970 - Syghnak;Sighnaq - Syghnak
+c_jand;1970;1970 - Syghnak;Jand - Syghnak
+c_jand;1970;1970 - Syghnak;Duplicate to increase weight
 
-####;2363;2363 - Atakent;Atakent
+c_sighnaq;2363;2363 - Atakent;Sighnaq - Atakent
+c_otrar;2363;2363 - Atakent;Otrâr - Atakent
+c_shash;2363;2363 - Atakent;Shâsh - Atakent
 
 ## Tibet (off-map)
 # Far East (off-map)
