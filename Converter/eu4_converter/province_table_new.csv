@@ -3642,111 +3642,149 @@ c_djolof;2239;2239 - Siine;Djolof - Siine
 ## Sahel
 ### Central Sahara
 
-####;774;774 - Al Junaynahr;Al-Junaynah
+c_wadai;774;774 - Al Junaynahr;Wadai - Al-Junaynah
 
-####;1219;1219 - Kordofan;Darfur
+c_uri;1219;1219 - Kordofan;Uri - Darfur
+c_uri;1219;1219 - Kordofan;Duplicate to increase weight
+c_wadai;1219;1219 - Kordofan;Wadai - Darfur
 
-####;2801;2801 - Medwa;Medwa
+c_uri;2801;2801 - Medwa;Uri - Medwa
 
-####;2802;2802 - Kobbe.txt;Kobbe
+c_uri;2802;2802 - Kobbe.txt;Uri - Kobbe
 
-####;2932;2932 - Obidos;Waddai
+c_wadai;2932;2932 - Obidos;Wadai - Waddai
 
 ### Kanem
 
-####;1158;1158 - Kanem;Kanem
+c_kanem;1158;1158 - Kanem;Kanem - Kanem
 
-####;1159;1159 - Bagirmi;Bagirmi
+c_bagirmi;1159;1159 - Bagirmi;Bagirmi - Bagirmi
 
-####;2286;2286 - Logone;Logone
+#### Logone (off-map)
 
-####;2287;2287 - Kotoko;Kotoko
+c_kagha;2287;2287 - Kotoko;Kagha - Kotoko
+c_kagha;2287;2287 - Kotoko;Duplicate to increase weight
+c_bagirmi;2287;2287 - Kotoko;Bagirmi - Kotoko
 
-####;2288;2288 - Yao;Yao
+c_bagirmi;2288;2288 - Yao;Bagirmi - Yao
 
 ### Bornu
 
-####;1157;1157 - Borno;Borno
+c_bornu;1157;1157 - Borno;Bornu - Borno
+c_kagha;1157;1157 - Borno;Kagha - Borno
+d_bornu;1157;1157 - Borno;Duchy Bornu - Borno
 
-####;1160;1160 - Mandara;Mandara
+#### Mandara (off-map)
 
-####;2282;2282 - Muniyo;Muniyo
+c_munio;2282;2282 - Muniyo;Munio - Muniyo
+c_munio;2282;2282 - Muniyo;Duplicate to increase weight
+c_bornu;2282;2282 - Muniyo;Bornu - Muniyo
 
-####;2283;2283 - Bedde;Bedde
+c_munio;2283;2283 - Bedde;Munio - Bedde
 
-####;2284;2284 - Manga;Manga
+c_bornu;2284;2284 - Manga;Bornu - Manga
 
 ### West Azbin
+#### Damagaram (off-map)
 
-####;1156;1156 - Damagaram;Damagaram
+c_agades;2272;2272 - Azbin;Agadez - Azbin
 
-####;2272;2272 - Azbin;Azbin
+c_gobir;2273;2273 - Ader;Gobir - Ader
+c_gobir;2273;2273 - Ader;Duplicate to increase weight
+c_tahoua;2273;2273 - Ader;Tahoua - Ader
 
-####;2273;2273 - Ader;Ader
+c_agades;2274;2274 - Air;Agadez - Air
 
-####;2274;2274 - Air;Air
-
-####;2276;2276 - Itesan;Itesan
+c_agades;2276;2276 - Itesan;Agadez - Itesan
+c_gobir;2276;2276 - Itesan;Gobir - Itesan
 
 ### Kurdufan
 
-####;1216;1216 - Dar Nuba;Tegali
+c_kordofan;1216;1216 - Dar Nuba;Kordofan - Tegali
 
-####;1221;1221 - Taqali;El Obeid
+c_kordofan;1221;1221 - Taqali;Kordofan - El Obeid
 
-####;2800;2800 - Kosti;Kosti
+c_kordofan;2800;2800 - Kosti;Kordofan - Kosti
 
 ### Western Sahara
 
-####;1127;1127 - Tuat;Tuat
+c_taghaza;1127;1127 - Tuat;Taghaza - Tuat
 
-####;1128;1128 - Taodeni;Taudeni
+c_taghaza;1128;1128 - Taodeni;Taghaza - Taudeni
 
-####;1129;1129 - Azawadd;Azawad
+c_araouane;1129;1129 - Azawadd;Arawân - Azawad
+c_araouane;1129;1129 - Azawadd;Duplicate to increase weight
+c_araouane;1129;1129 - Azawadd;Duplicate to increase weight
+c_tassarahla;1129;1129 - Azawadd;Tassarahla - Azawad
+c_mabruk;1129;1129 - Azawadd;Mabruk - Azawad
 
-####;1130;1130 - Tadmekka;Tadmekka
+c_tadmekka;1130;1130 - Tadmekka;Tadmekka - Tadmekka
+c_gao;1130;1130 - Tadmekka;Gao - Tadmekka
+c_mabruk;1130;1130 - Tadmekka;Mabruk - Tadmekka
 
-####;2271;2271 - Azawagh;Azawagh
-
+#### Azawagh (off-map)
 ### Dendi
 
-####;1142;1142 - Dendi;Dendi
+c_say;1142;1142 - Dendi;Say - Dendi
+c_say;1142;1142 - Dendi;Duplicate to increase weight
+c_zarma;1142;1142 - Dendi;Zarma - Dendi
 
-####;2268;2268 - Aribanda;Aribanda
+c_zarma;2268;2268 - Aribanda;Zarma - Aribanda
+c_zarma;2268;2268 - Aribanda;Duplicate to increase weight
+c_risiom;2268;2268 - Aribanda;Risiom - Aribanda
 
-####;2269;2269 - Zarmaganda;Zarmaganda
+c_zarma;2269;2269 - Zarmaganda;Zarma - Zarmaganda
+c_say;2269;2269 - Zarmaganda;Say - Zarmaganda
+c_tahoua;2269;2269 - Zarmaganda;Tahoua - Zarmaganda
 
-####;2270;2270 - Dallol;Dallol
+c_say;2270;2270 - Dallol;Say - Dallol
+c_kebbi;2270;2270 - Dallol;Kebbi - Dallol
+c_tahoua;2270;2270 - Dallol;Tahoua - Dallol
 
 ### Baghena
 
-####;2243;2243 - Termes;Termes
+c_kingui;2243;2243 - Termes;Kingui - Termes
+c_kingui;2243;2243 - Termes;Duplicate to increase weight
+c_ghana;2243;2243 - Termes;Wagadu - Termes
 
-####;2245;2245 - Wagadu;Wagadu
+c_kingui;2245;2245 - Wagadu;Kingui - Wagadu
+c_kingui;2245;2245 - Wagadu;Duplicate to increase weight
+c_sibiridugu;2245;2245 - Wagadu;Sibiridugu - Wagadu
 
-####;2246;2246 - Baghena;Baghena
+c_ghana;2246;2246 - Baghena;Wagadu - Baghena
+c_ghana;2246;2246 - Baghena;Duplicate to increase weight
+c_ghana;2246;2246 - Baghena;Duplicate to increase weight
+c_soso;2246;2246 - Baghena;Soso - Baghena
+c_awkar;2246;2246 - Baghena;Awgham - Baghena
 
-####;2247;2247 - Hodh;Hodh
+c_oualata;2247;2247 - Hodh;Walata - Hodh
 
 ### Niger Bend
 
-####;1132;1132 - Timbuktu;Timbuktu
+c_timbuktu;1132;1132 - Timbuktu;Timbuktu - Timbuktu
 
-####;1133;1133 - Gao;Gao
+c_gao;1133;1133 - Gao;Gao - Gao
 
-####;2260;2260 - Mema;Mema
+c_mema;2260;2260 - Mema;Mema - Mema
+c_mema;2260;2260 - Mema;Duplicate to increase weight
+c_timbuktu;2260;2260 - Mema;Timbuktu - Mema
 
-####;2262;2262 - Karabara;Karabara
+c_gao;2262;2262 - Karabara;Gao - Karabara
 
-####;2264;2264 - Hombori;Hombori
+c_gao;2264;2264 - Hombori;Gao - Hombori
+c_risiom;2264;2264 - Hombori;Risiom - Hombori
 
 ### East Azbin
 
-####;2275;2275 - Tenere;Tenere
+c_bilma;2275;2275 - Tenere;Kawar - Tenere
 
-####;2277;2277 - Kawar;Kawar
+c_bilma;2277;2277 - Kawar;Kawar - Kawar
+c_bilma;2277;2277 - Kawar;Duplicate to increase weight
+c_kanem;2277;2277 - Kawar;Kanem - Kawar
 
-####;2475;2475 - Djado;Djado
+c_djado;2475;2475 - Djado;Djado - Djado
+c_bilma;2475;2475 - Djado;Kawar - Djado
+d_kawar;2475;2475 - Djado;Duchy Kawar - Djado
 
 ## Horn of Africa
 ### Ajuuraan
