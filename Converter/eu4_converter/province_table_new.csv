@@ -3981,152 +3981,28 @@ c_antalo;1213;1213 - Shoa;Amhara - Shewa
 c_ifat;2791;2791 - Ankober;Ifat - Ankober
 
 ## East Africa
-### Northern Swahili Coast
-
-####;1204;1204 - Lamu;Lamu
-
-####;2774;2774 - Kismayo;Kismayo
-
-####;2796;2796 - Pate;Pate
-
-### Central Swahili Coast
-
-####;1196;1196 - Kilwa;Kilwa
-
-####;1197;1197 - Mzizima;Mzizima
-
-####;1198;1198 - Lindi;Lindi
-
-####;1199;1199 - Bagamoyo;Bagamoyo
-
-### Mozambique
-
-####;788;788 - Angoche;Angoche
-
-####;1195;1195 - Mozambique;Mozambique/Mosambik/Moçambique
-
-####;4049;4049 - Ibo;Ibo
-
-### Lower Zambezi
-
-####;1187;1187 - Sena;Sena
-
-####;1190;1190 - Zumbo;Zumbo
-
-####;1191;1191 - Tete;Tete
-
-### Upper Zambezi
-
-####;4046;4046 - Lala;Lala
-
-####;4047;4047 - Nsenga;Nsenga
-
-####;4050;4050 - Luangwa;Luangwa
-
-### Ruvuma
-
-####;4036;4036 - Wayao;Wayao
-
-####;4037;4037 - Katsekera;Katsekera
-
-####;4043;4043 - Phangwa;Phangwa
-
-####;4042;4042 - Makonde;Makonde
-
-### Ngonde
-
-####;4041;4041 - Kinga;Kinga
-
-####;4044;4044 - Ngonde;Ngonde
-
-####;4045;4045 - Tumbuka;Tumbuka
-
-### Mascarenes
-
-####;1100;1100 - Mahe;Mahe
-
-####;1102;1102 - Mauritius;Mauritius/Mauricius
-
-####;1103;1103 - Bourbon;Île Bourbon
-
-### Madagascar Highlands
-
-####;1792;1792 - Antananarivo;Merina
-
-####;4023;4023 - Tsimihety;Tsimihety
-
-####;4027;4027 - Betsileo;Betsileo
-
-### Betsimasaraka
-
-####;4021;4021 - Antankara;Antankara
-
-####;4024;4024 - Maroantsetra;Maroantsetra
-
-####;4025;4025 - Vatomandry;Vatomandry
-
-### Sakalava
-
-####;1193;1193 - Menabe;Menabe
-
-####;1194;1194 - Boina;Besalampy
-
-####;4022;4022 - Iboina;Iboina
-
-####;4031;4031 - Antsalova;Antsalova
-
-####;4032;4032 - Fiherana;Fiherana
-
-### Southern Madagascar
-
-####;4026;4026 - Antemoro;Antemoro
-
-####;4028;4028 - Mahafaly;Mahafaly
-
-####;4029;4029 - Antanosy;Antanosy
-
-####;4030;4030 - Bara;Bara
-
-### Makuana
-
-####;4034;4034 - Makua;Makua
-
-####;4035;4035 - Ngindo;Ngindo
-
-####;4048;4048 - Lomwe;Lomwe
-
-### Jubba
-
-####;2777;2777 - Bardera;Bardera
-
-####;4051;4051 - Ewaso Ngiro;Ewaso Ngiro
-
-####;4052;4052 - Dawa;Dawa
-
+### Northern Swahili Coast (off-map)
+### Central Swahili Coast (off-map)
+### Mozambique (off-map)
+### Lower Zambezi (off-map)
+### Upper Zambezi (off-map)
+### Ruvuma (off-map)
+### Ngonde (off-map)
+### Mascarenes (off-map)
+### Madagascar Highlands (off-map)
+### Betsimasaraka (off-map)
+### Sakalava (off-map)
+### Southern Madagascar (off-map)
+### Makuana (off-map)
+### Jubba (off-map)
 ### East African Islands
 
-####;1099;1099 - Socotra;Socotra/Sokotra/Socotorá/Suqutra
+c_socotra;1099;1099 - Socotra;Suqutra - Socotra
 
-####;1201;1201 - Zanzibar;Zanzibar/Zansjibar
-
-####;4020;4020 - Comoros;Comoros/Komory
-
-### Shire
-
-####;4038;4038 - Lolo;Lolo
-
-####;4039;4039 - Lundu;Lundu
-
-####;4040;4040 - Kalonga;Kalonga
-
-### Mombasa
-
-####;1200;1200 - Tanga;Tanga
-
-####;1202;1202 - Mombasa;Mombasa/Mombaça
-
-####;1203;1203 - Malindi;Malindi/Melinde
-
+#### Zanzibar (off-map)
+#### Comoros (off-map)
+### Shire (off-map)
+### Mombasa (off-map)
 ## Kongo (off-map)
 ## South Africa (off-map)
 ## Maghreb
