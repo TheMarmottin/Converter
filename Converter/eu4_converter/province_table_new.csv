@@ -3787,185 +3787,198 @@ c_bilma;2475;2475 - Djado;Kawar - Djado
 d_kawar;2475;2475 - Djado;Duchy Kawar - Djado
 
 ## Horn of Africa
-### Ajuuraan
-
-####;2776;2776 - Afgooye;Afgooye
-
-####;2780;2780 - Beledweyne;Beledweyne
-
-####;2781;2781 - Gedo;Gedo
-
-####;2785;2785 - El Buur;El Buur
-
-### Kaffa
-
-####;2757;2757 - Kaffa;Kaffa
-
-####;2758;2758 - Illubabor;Illubabor/Ennarea
-
-####;2759;2759 - Gambela;Gambela
-
-####;4158;4158 - Janjero;Janjiro
-
+### Ajuuraan (off-map)
+### Kaffa (off-map)
 ### Central Ethiopia
 
-####;1214;1214 - Awsa;Wollo
+c_antalo;1214;1214 - Awsa;Amhara - Wollo
+c_angot;1214;1214 - Awsa;Angot - Wollo
+c_ifat;1214;1214 - Awsa;Ifat - Wollo
 
-####;1223;1223 - Gojjam;Gojjam
+c_gojjam;1223;1223 - Gojjam;Gojjam - Gojjam
 
-####;1224;1224 - Gonder;Gonder
+c_begemder;1224;1224 - Gonder;Begemdir - Gonder
+c_begemder;1224;1224 - Gonder;Duplicate to increase weight
+c_begemder;1224;1224 - Gonder;Duplicate to increase weight
+c_gojjam;1224;1224 - Gonder;Gojjam - Gonder
+c_angot;1224;1224 - Gonder;Angot - Gonder
 
-####;2769;2769 - Lasta;Lasta
+c_lasta;2769;2769 - Lasta;Lasta - Lasta
+c_lasta;2769;2769 - Lasta;Duplicate to increase weight
+c_angot;2769;2769 - Lasta;Angot - Lasta
 
-####;2772;2772 - Dembiya;Dembiya
+c_gondar;2772;2772 - Dembiya;Dembiya - Dembiya
 
 ### Ifat
 
-####;1211;1211 - Harer;Harer
+c_harer;1211;1211 - Harer;Adal - Harer
 
-####;1212;1212 - Zeila;Zeila
+c_zaila;1212;1212 - Zeila;Zaila - Zeila
+c_zaila;1212;1212 - Zeila;Duplicate to increase weight
+c_mora;1212;1212 - Zeila;Mora - Zeila
 
-####;2773;2773 - Mora;Mora
+c_harer;2773;2773 - Mora;Adal - Mora
 
-####;2793;2793 - Hargeisa;Hargeisa
+c_zaila;2793;2793 - Hargeisa;Zaila - Hargeisa
+c_berbera;2793;2793 - Hargeisa;Berbera - Hargeisa
 
 ### Tigray
 
-####;1227;1227 - Tigre;Aksum
+c_aksum;1227;1227 - Tigre;Aksum - Aksum
+c_aksum;1227;1227 - Tigre;Duplicate to increase weight
+c_aksum;1227;1227 - Tigre;Duplicate to increase weight
+c_akordat;1227;1227 - Tigre;Sera'é - Aksum
+c_tigre;1227;1227 - Tigre;Tigre - Aksum
 
-####;2766;2766 - Mendefera;Mendefera
+c_akordat;2766;2766 - Mendefera;Sera'é - Mendefera
+c_akordat;2766;2766 - Mendefera;Duplicate to increase weight
+c_marya;2766;2766 - Mendefera;Marya - Mendefera
 
-####;2767;2767 - Enderta;Enderta
+c_intarta;2767;2767 - Enderta;Intarta - Enderta
+c_intarta;2767;2767 - Enderta;Duplicate to increase weight
+c_intarta;2767;2767 - Enderta;Duplicate to increase weight
+c_bur;2767;2767 - Enderta;Saho - Enderta
+c_danakil;2767;2767 - Enderta;Danakil - Enderta
 
-####;2771;2771 - Semien;Semien
+c_semien;2771;2771 - Semien;Semien - Semien
+c_tigre;2771;2771 - Semien;Tigre - Semien
+c_aksum;2771;2771 - Semien;Aksum - Semien
 
 ### Somaliland
 
-####;1209;1209 - Berbera;Berbera
+c_berbera;1209;1209 - Berbera;Berbera - Berbera
 
-####;2786;2786 - Bosaso;Bosaso
+c_busaso;2786;2786 - Bosaso;Busaso - Bosaso
 
-####;2789;2789 - Las Khorey;Las Khorey
+c_berbera;2789;2789 - Las Khorey;Berbera - Las Khorey
 
-####;2792;2792 - Togdheer;Togdheer
+#### Togdheer (off-map)
 
-####;2790;2790 - Sanaag;Sanaag
+c_berbera;2790;2790 - Sanaag;Berbera - Sanaag
 
-### Ogaden
-
-####;1207;1207 - Ogaden;Ogaden
-
-####;1208;1208 - Degehabur;Degehabur
-
-####;1210;1210 - Dawaro;Dawaro
-
-####;2778;2778 - Werder;Werder
-
-####;2779;2779 - Afder;Afder
-
-### Hadiya
-
-####;1218;1218 - Kefa;Sidamo
-
-####;2756;2756 - Welayta;Welayta
-
-####;2760;2760 - Hadiya;Hadiya
-
+### Ogaden (off-map)
+### Hadiya (off-map)
 ### Majeerteen
+#### Qardho (off-map)
+#### Garoowe (off-map)
+#### Hobyo (off-map)
+#### Galkayo (off-map)
 
-####;1206;1206 - Qardho;Qardho
+c_busaso;2788;2788 - Hafun;Busaso - Hafun
 
-####;2024;2024 - Ajuuran;Garoowe
-
-####;2783;2783 - Hobyo;Hobyo
-
-####;2784;2784 - Galkayo;Galkayo
-
-####;2788;2788 - Hafun;Hafun
-
-### Mogadishu
-
-####;1205;1205 - Mogadishu;Mogadishu/Mogadisu/Mokadischu
-
-####;2775;2775 - Merca;Merca
-
-####;2782;2782 - Warsheikh;Warsheikh
-
-####;2794;2794 - Barawa;Barawa
-
-####;2795;2795 - Meregh;Meregh
-
+### Mogadishu (off-map)
 ### Red Sea Coast
 
-####;1230;1230 - Massawa;Massawa
+c_adulis;1230;1230 - Massawa;Adulis - Massawa
+c_adulis;1230;1230 - Massawa;Duplicate to increase weight
+c_hayya;1230;1230 - Massawa;Bâdi - Massawa
 
-####;1232;1232 - Suakin;Suakin
+c_suakin;1232;1232 - Suakin;Suakin - Suakin
+c_suakin;1232;1232 - Suakin;Duplicate to increase weight
+c_suakin;1232;1232 - Suakin;Duplicate to increase weight
+c_suakin;1232;1232 - Suakin;Duplicate to increase weight
+c_maikele_bahr;1232;1232 - Suakin;Maikele Bahr - Suakin
+c_hayya;1232;1232 - Suakin;Bâdi - Suakin
+c_aydhab;1232;1232 - Suakin;Aydhab - Suakin
 
-####;2324;2324 - Halaib;Halaib
+c_aydhab;2324;2324 - Halaib;Aydhab - Halaib
+c_aydhab;2324;2324 - Halaib;Duplicate to increase weight
+c_naqis;2324;2324 - Halaib;Naqis - Halaib
 
-####;2787;2787 - Hamasien;Hamasien
+c_marya;2787;2787 - Hamasien;Marya - Hamasien
 
 ### Upper Nubia
 
-####;1222;1222 - Gezira;Gezira
+c_sennar;1222;1222 - Gezira;Sennar - Gezira
+c_sennar;1222;1222 - Gezira;Duplicate to increase weight
+c_soba;1222;1222 - Gezira;Soba - Gezira
 
-####;1226;1226 - Taka;Beja
+c_kassala;1226;1226 - Taka;Kassala - Beja
 
-####;1225;1225 - Butana;Butana
+c_wolqayt;1225;1225 - Butana;Wolqayt - Butana
 
-####;2797;2797 - Shendy;Shendy
+c_butana;2797;2797 - Shendy;Butana - Shendy
+c_atbara;2797;2797 - Shendy;Atbara - Shendy
+c_kassala;2797;2797 - Shendy;Kassala - Shendy
 
-####;2798;2798 - Soba;Soba
+c_soba;2798;2798 - Soba;Soba - Soba
+c_butana;2798;2798 - Soba;Butana - Soba
+c_alwa;2798;2798 - Soba;Alwa - Soba
 
 ### Sennar
 
-####;1217;1217 - Fazughli;Fazughli
+c_asosa;1217;1217 - Fazughli;Asosa - Fazughli
 
-####;2799;2799 - Sennar;Sennar
+c_sennar;2799;2799 - Sennar;Sennar - Sennar
 
-####;4033;4033 - Al Qadirif;Al Qadarif
+c_wolqayt;4033;4033 - Al Qadirif;Wolqayt - Al Qadarif
+c_sennar;4033;4033 - Al Qadirif;Sennar - Al Qadarif
+c_asosa;4033;4033 - Al Qadirif;Asosa - Al Qadarif
 
 ### Dongola
 
-####;1220;1220 - Dar Jaal;Bayuda
+c_makuria;1220;1220 - Dar Jaal;Makuria - Bayuda
+c_abuhammad;1220;1220 - Dar Jaal;Abu Hammad - Bayuda
+c_ghazali;1220;1220 - Dar Jaal;Al-Ghazali - Bayuda
+c_atbara;1220;1220 - Dar Jaal;Atbara - Bayuda
+c_butana;1220;1220 - Dar Jaal;Butana - Bayuda
+c_alwa;1220;1220 - Dar Jaal;Alwa - Bayuda
+d_nubia;1220;1220 - Dar Jaal;Duchy Nubia - Bayuda
 
-####;1228;1228 - Dongola;Dongola
+c_dongola;1228;1228 - Dongola;Dongola - Dongola
+c_dongola;1228;1228 - Dongola;Duplicate to increase weight
+c_dongola;1228;1228 - Dongola;Duplicate to increase weight
+c_semna;1228;1228 - Dongola;Semna - Dongola
+c_makuria;1228;1228 - Dongola;Makuria - Dongola
+c_abuhammad;1228;1228 - Dongola;Abu Hammad - Dongola
+d_nubia;1228;1228 - Dongola;Duchy Nubia - Dongola
 
-####;1229;1229 - Berber;Berber
+c_atbara;1229;1229 - Berber;Atbara - Berber
+c_maikele_bahr;1229;1229 - Berber;Maikele Bahr - Berber
+c_maikele_bahr;1229;1229 - Berber;Duplicate to increase weight
+c_abuhammad;1229;1229 - Berber;Abu Hammad - Berber
 
-### Hadiya
-
-####;1218;1218 - Kefa;Sidamo
-
-####;2756;2756 - Welayta;Welayta
-
-####;2760;2760 - Hadiya;Hadiya
-
+### Hadiya (off-map)
 ### Damot
 
-####;2762;2762 - Damot;Damot
+c_ankober;2762;2762 - Damot;Damot - Damot
 
-####;2763;2763 - Asosa;Asosa
+c_asosa;2763;2763 - Asosa;Asosa - Asosa
+c_asosa;2763;2763 - Asosa;Duplicate to increase weight
+c_ankober;2763;2763 - Asosa;Damot - Asosa
 
-####;2770;2770 - Agew;Agew
+c_matamma;2770;2770 - Agew;Agaw - Agew
 
 ### Aussa
 
-####;1215;1215 - Tajura;Tajura
+c_tadjoura;1215;1215 - Tajura;Tadjoura - Tajura
+c_tadjoura;1215;1215 - Tajura;Duplicate to increase weight
+c_tadjoura;1215;1215 - Tajura;Duplicate to increase weight
+c_danakil;1215;1215 - Tajura;Danakil - Tajura
+c_mora;1215;1215 - Tajura;Mora - Tajura
 
-####;2764;2764 - Aussa;Ausa
+c_ifat;2764;2764 - Aussa;Ifat - Ausa
+c_danakil;2764;2764 - Aussa;Danakil - Ausa
+c_harer;2764;2764 - Aussa;Adal - Ausa
 
-####;2765;2765 - Assab;Assab
+c_assab;2765;2765 - Assab;Assab - Assab
+c_assab;2765;2765 - Assab;Duplicate to increase weight
+c_bur;2765;2765 - Assab;Saho - Assab
+c_bur;2765;2765 - Assab;Duplicate to increase weight
+c_danakil;2765;2765 - Assab;Danakil - Assab
 
-####;2768;2768 - Angot;Angot
+c_danakil;2768;2768 - Angot;Danakil - Angot
+c_ifat;2768;2768 - Angot;Ifat - Angot
 
 ### Shewa
 
-####;1213;1213 - Shoa;Shewa
+c_shewa;1213;1213 - Shoa;Shewa - Shewa
+c_shewa;1213;1213 - Shoa;Duplicate to increase weight
+c_antalo;1213;1213 - Shoa;Amhara - Shewa
 
-####;2761;2761 - Arsi;Arsi
+#### Arsi (off-map)
 
-####;2791;2791 - Ankober;Ankober
+c_ifat;2791;2791 - Ankober;Ifat - Ankober
 
 ## East Africa
 ### Northern Swahili Coast
