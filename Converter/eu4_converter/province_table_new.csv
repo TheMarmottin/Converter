@@ -4008,135 +4008,198 @@ c_socotra;1099;1099 - Socotra;Suqutra - Socotra
 ## Maghreb
 ### Fezzan
 
-####;2448;2448 - Fezzan;Fezzan
+c_murzuk;2448;2448 - Fezzan;Murzuk - Fezzan
+c_zawila;2448;2448 - Fezzan;Zawila - Fezzan
+d_fezzan;2448;2448 - Fezzan;Duchy Fezzan - Fezzan
 
-####;2449;2449 - Jufra;Jufra
+c_nafusa;2449;2449 - Jufra;Nafusa - Jufra
 
-####;2474;2474 - Tajhari;Tajhari
+c_tummo;2474;2474 - Tajhari;Tumma - Tajhari
+c_tummo;2474;2474 - Tajhari;Duplicate to increase weight
+c_murzuk;2474;2474 - Tajhari;Murzuk - Tajhari
 
 ### Tunisia
 
-####;341;341 - Tunis;Tunis/Tunes/Tunus
+c_tunis;341;341 - Tunis;Tunis - Tunis
+c_tunis;341;341 - Tunis;Duplicate to increase weight
+c_tunis;341;341 - Tunis;Duplicate to increase weight
+c_medjerda;341;341 - Tunis;Súsa - Tunis
+c_kairwan;341;341 - Tunis;Kairwan - Tunis
 
-####;2454;2454 - Kairouan;Kef/Sicca Veneria
+c_kairwan;2454;2454 - Kairouan;Kairwan - Kef
+c_kairwan;2454;2454 - Kairouan;Duplicate to increase weight
+c_bizerte;2454;2454 - Kairouan;Banzart - Kef
 
-####;2455;2455 - Bizerte;Bizerte/Hippo Diarrhytus
+c_bizerte;2455;2455 - Bizerte;Banzart - Bizerte
+c_bizerte;2455;2455 - Bizerte;Duplicate to increase weight
+c_tunis;2455;2455 - Bizerte;Tunis - Bizerte
 
-####;2473;2473 - Souss;Sousse/Susa/Hadrumetum
+c_medjerda;2473;2473 - Souss;Súsa - Sousse
+c_sfax;2473;2473 - Souss;Sfax - Sousse
+c_kairwan;2473;2473 - Souss;Kairwan - Sousse
 
 ### Djerba
 
-####;353;353 - Gabes;Tataouine/Tacape
+c_gabes;353;353 - Gabes;Gabes - Tataouine
+c_zawila;353;353 - Gabes;Zawila - Tataouine
 
-####;2453;2453 - Sfax;Sfax/Thaenae
+c_sfax;2453;2453 - Sfax;Sfax - Sfax
+c_gabes;2453;2453 - Sfax;Gabes - Sfax
 
-####;2954;2954 - Djerba;Djerba/Dzerba/Meninx
+c_djerba;2954;2954 - Djerba;Djerba - Djerba
 
 ### Kabylia
 
-####;339;339 - Bejaia;Kabylia/Saldae/Kabiliye
+c_bejaija;339;339 - Bejaia;Bidjâya - Kabylia
+c_beni_yanni;339;339 - Bejaia;Jîjil - Kabylia
+c_setif;339;339 - Bejaia;Kabylia - Kabylia
 
-####;340;340 - Constantine;Constantine/Constantina/Cirta/Konstantin/Qusantinah
+c_constantine;340;340 - Constantine;Qustantiniyya - Constantine
+c_constantine;340;340 - Constantine;Duplicate to increase weight
+c_tabassa;340;340 - Constantine;Tabassa - Constantine
 
-####;1882;1882 - Bone;Annaba/Hippo Regius
+c_annaba;1882;1882 - Bone;Búna - Annaba
+c_annaba;1882;1882 - Bone;Duplicate to increase weight
+c_tabassa;1882;1882 - Bone;Tabassa - Annaba
 
 ### Algiers
 
-####;336;336 - Tlemcen;Tlemcen/Tala Imsan/Pomaria/Tilimsan
+c_tlemcen;336;336 - Tlemcen;Tilimsân - Tlemcen
+c_orania;336;336 - Tlemcen;Wahrân - Tlemcen
+d_tlemcen;336;336 - Tlemcen;Duchy Tilimsan - Tlemcen
 
-####;337;337 - Oran;Oran/Wehran/Vahran
+c_orania;337;337 - Oran;Wahrân - Oran
 
-####;338;338 - Al-Djazair;Mitidja/Algeria/Cezayir/Mitija
+c_al_djazair;338;338 - Al-Djazair;Al-Jazâir - Mitidja
 
-####;2461;2461 - Dahra;Dahra/Murustaga
+c_snassen;2461;2461 - Dahra;Tanas - Dahra
+c_snassen;2461;2461 - Dahra;Duplicate to increase weight
+c_al_djazair;2461;2461 - Dahra;Al-Jazâir - Dahra
 
-####;2465;2465 - Oudja;Oujda
+c_tlemcen;2465;2465 - Oudja;Tilimsân - Oujda
+c_tlemcen;2465;2465 - Oudja;Duplicate to increase weight
+c_hanyan;2465;2465 - Oudja;Hunayn - Oujda
 
 ### High Plains
 
-####;2459;2459 - Titteri;Titteri/Media
+c_lemdiyya;2459;2459 - Titteri;Achir - Titteri
+c_lemdiyya;2459;2459 - Titteri;Duplicate to increase weight
+c_ouled_nail;2459;2459 - Titteri;Bou Sa'ada - Titteri
 
-####;2462;2462 - Ouarsenis;Ouarsenis
+c_atlas_mnt;2462;2462 - Ouarsenis;Tâhart - Ouarsenis
+c_atlas_mnt;2462;2462 - Ouarsenis;Duplicate to increase weight
+c_lemdiyya;2462;2462 - Ouarsenis;Achir - Ouarsenis
 
-####;2463;2463 - Maaskar;Kasdir
+c_atlas_mnt;2463;2463 - Maaskar;Tâhart - Kasdir
 
 ### North Sahara
 
-####;352;352 - Gafsa;Gafsa/Justiniania/Capsa/Kafsa/Qafsah
+c_qashtiliya;352;352 - Gafsa;Qashtiliya - Gafsa
+c_nafzawa;352;352 - Gafsa;Jerid - Gafsa
+d_qamuda;352;352 - Gafsa;Duchy Qamuda - Gafsa
 
-####;2450;2450 - Ghadames;Ghadames/Cydamus
+c_ghadames;2450;2450 - Ghadames;Ghadamés - Ghadames
 
-####;2456;2456 - Touggourt;Touggourt
+c_wargla;2456;2456 - Touggourt;Wargla - Touggourt
+c_arigh;2456;2456 - Touggourt;Arigh - Touggourt
 
-####;2457;2457 - Mzab;Mzab
+c_wargla;2457;2457 - Mzab;Wargla - Mzab
+c_wargla;2457;2457 - Mzab;Duplicate to increase weight
+c_mzab;2457;2457 - Mzab;Al-Aghwat - Mzab
 
-####;2472;2472 - Ouargla;Ouargla
+c_wargla;2472;2472 - Ouargla;Wargla - Ouargla
+c_wargla;2472;2472 - Ouargla;Duplicate to increase weight
+c_ghadames;2472;2472 - Ouargla;Ghadamés - Ouargla
 
 ### Tafilalt
 
-####;346;346 - Figuig;Tafilalt/Tafilate
+c_sijilmasa;346;346 - Figuig;Sijilmasa - Tafilalt
 
-####;349;349 - Atlas;Figuig
+c_figuig;349;349 - Atlas;Figuig - Figuig
+c_figuig;349;349 - Atlas;Duplicate to increase weight
+c_sijilmasa;349;349 - Atlas;Sijilmasa - Figuig
+c_sa;349;349 - Atlas;Sa - Figuig
 
-####;2460;2460 - Saoura;Saoura
+c_sijilmasa;2460;2460 - Saoura;Sijilmasa - Saoura
+c_sijilmasa;2460;2460 - Saoura;Duplicate to increase weight
+c_figuig;2460;2460 - Saoura;Figuig - Saoura
 
 ### Sus
 
-####;348;348 - Sus;Sus
+c_sous;348;348 - Sus;Tafilalet - Sus
+c_draa;348;348 - Sus;Draa - Sus
+c_tharasset;348;348 - Sus;Tarúdant - Sus
 
-####;2464;2464 - Ouarzazate;Ouarzazate
+c_sous;2464;2464 - Ouarzazate;Tafilalet - Ouarzazate
 
-####;2466;2466 - Draa;Draa
+c_draa;2466;2466 - Draa;Draa - Draa
+c_sous;2466;2466 - Draa;Tafilalet - Draa
+c_sijilmasa;2466;2466 - Draa;Sijilmasa - Draa
 
 ### Central Morocco
 
-####;343;343 - Fez;Fez
+c_fes;343;343 - Fez;Fâs - Fez
+c_el_rif;343;343 - Fez;El-Rîf - Fez
+c_sa;343;343 - Fez;Sa - Fez
 
-####;344;344 - Marrakech;Marrakech/Marrakés/Marraquexe
+c_marrakech;344;344 - Marrakech;Marrâkush - Marrakech
 
-####;2467;2467 - Meknes;Meknes
+c_fes;2467;2467 - Meknes;Fâs - Meknes
 
-####;2468;2468 - Tadla;Tadla
+c_marrakech;2468;2468 - Tadla;Marrâkush - Tadla
 
 ### Ouled Nail
 
-####;350;350 - Aures;Laghouat
+c_mzab;350;350 - Aures;Al-Aghwat - Laghouat
+c_ouled_nail;350;350 - Aures;Bou Sa'ada - Laghouat
 
-####;351;351 - Biskra;Biskra/Vescera
+c_biskra;351;351 - Biskra;Biskra - Biskra
+c_arigh;351;351 - Biskra;Arigh - Biskra
+c_tabassa;351;351 - Biskra;Tabassa - Biskra
 
-####;2458;2458 - Kabylia;Hodna
+c_tell_atlas;2458;2458 - Kabylia;Tabna - Hodna
 
 ### North Morocco
 
-####;334;334 - Tangiers;Tangiers/Tanger/Tânger/Tingis/Tanca
+c_tangiers;334;334 - Tangiers;Tandja - Tangiers
 
-####;335;335 - Mellila;Melilla/Melilha/Rusadir
+c_nakur;335;335 - Mellila;Nakur - Melilla
 
-####;1751;1751 - Ceuta;Ceuta/Sebtah/Septa
+c_cebta;1751;1751 - Ceuta;Sebta - Ceuta
+c_cebta;1751;1751 - Ceuta;Duplicate to increase weight
+c_cebta;1751;1751 - Ceuta;Duplicate to increase weight
+c_nakur;1751;1751 - Ceuta;Nakur - Ceuta
+c_el_rif;1751;1751 - Ceuta;El-Rîf - Ceuta
 
 ### Southern Morocco
 
-####;347;347 - Ifni;Ifni
+c_ifni;347;347 - Ifni;Ifni - Ifni
 
-####;1110;1110 - Rio de Oro;Agadir
+c_ifni;1110;1110 - Rio de Oro;Ifni - Agadir
+c_tharasset;1110;1110 - Rio de Oro;Tarúdant - Agadir
+c_draa;1110;1110 - Rio de Oro;Draa - Agadir
 
-####;2470;2470 - Haha;Haha
+c_anti-atlas;2470;2470 - Haha;Tinmallâl - Haha
 
 ### Gharb
 
-####;342;342 - Toubkhal;Gharb/Rabatum
+c_sala;342;342 - Toubkhal;Sala - Gharb
+c_fes;342;342 - Toubkhal;Fâs - Gharb
+c_infa;342;342 - Toubkhal;Ribât al-Fath - Gharb
 
-####;345;345 - Safi;Abda
+c_massat;345;345 - Safi;Asfî - Abda
+c_anti-atlas;345;345 - Safi;Tinmallâl - Abda
+c_marrakech;345;345 - Safi;Marrâkush - Abda
 
-####;2469;2469 - Dukkala;Dukkala/Mazagão
+c_infa;2469;2469 - Dukkala;Ribât al-Fath - Dukkala
 
 ### Tripolitania
 
-####;354;354 - Tripolitania;Tripoli/Trables/Tripolis/Trablusgarp
+c_tripolitana;354;354 - Tripolitania;Tripolitana - Tripoli
 
-####;2451;2451 - Thubaqt;Thubaqt/Thubactis
+c_leptis_magna;2451;2451 - Thubaqt;Leptis Magna - Thubaqt
 
-####;2452;2452 - Zuwarah;Zuwarah
+c_zawiya;2452;2452 - Zuwarah;Zawiya - Zuwarah
 
 ## Egypt
 ### Libyan Desert
