@@ -4204,65 +4204,131 @@ c_zawiya;2452;2452 - Zuwarah;Zawiya - Zuwarah
 ## Egypt
 ### Libyan Desert
 
-####;1233;1233 - Kharga;Kharga/Megale
+c_kharija;1233;1233 - Kharga;Kharija - Kharga
+c_dakhila;1233;1233 - Kharga;Dakhila - Kharga
+d_alwahat;1233;1233 - Kharga;Duchy Al Wahát - Kharga
 
-####;2318;2318 - Al Wahat;Al Wahat
+c_bahriya;2318;2318 - Al Wahat;Bahriya - Al Wahat
+c_quattara;2318;2318 - Al Wahat;Sîwa - Al Wahat
+c_dakhila;2318;2318 - Al Wahat;Dakhila - Al Wahat
 
-####;2325;2325 - Tarrana;Tarrana/Paraetonium
+c_al_alamayn;2325;2325 - Tarrana;Sullum - Tarrana
+c_quattara;2325;2325 - Tarrana;Sîwa - Tarrana
+d_alexandria;2325;2325 - Tarrana;Duchy Iskandariya - Tarrana
 
-####;2326;2326 - Bardiyah;Bardiyah/Bardia/Petra Megale/Petras Maior/Bardiya
+c_tobruk;2326;2326 - Bardiyah;Tubrúk - Bardiyah
+c_al_alamayn;2326;2326 - Bardiyah;Sullum - Bardiyah
+c_quattara;2326;2326 - Bardiyah;Sîwa - Bardiyah
 
 ### Gharbia
 
-####;358;358 - Alexandria;Alexandria/Alexandrie/Aleksandreia/Iskenderiye/Iskandariyya
+c_alexandria;358;358 - Alexandria;Iskandarîya - Alexandria
+c_alexandria;358;358 - Alexandria;Duplicate to increase weight
+c_quattara;358;358 - Alexandria;Sîwa - Alexandria
 
-####;362;362 - Rosetta;Rosetta/Roseta/Rashid
+c_gabiyaha;362;362 - Rosetta;Nastarâwa - Rosetta
+c_gabiyaha;362;362 - Rosetta;Duplicate to increase weight
+c_buhairya;362;362 - Rosetta;Hawf Gharbî - Rosetta
+c_delta;362;362 - Rosetta;Dimyât - Rosetta
+c_bilbays;362;362 - Rosetta;Bilbays - Rosetta
 
-####;2316;2316 - Al Gharbia;Al Gharbia/Gharbeyya
+c_manupura;2316;2316 - Al Gharbia;Manúf - Al Gharbia
+c_manupura;2316;2316 - Al Gharbia;Duplicate to increase weight
+c_bilbays;2316;2316 - Al Gharbia;Bilbays - Al Gharbia
+c_cairo;2316;2316 - Al Gharbia;Cairo - Al Gharbia
+c_gizeh;2316;2316 - Al Gharbia;Gîza - Al Gharbia
+c_fayyum;2316;2316 - Al Gharbia;Fayyum - Al Gharbia
+c_buhairya;2316;2316 - Al Gharbia;Hawf Gharbî - Al Gharbia
 
 ### Sharqiya
 
-####;363;363 - Damietta;Damietta/Tamiathis/Damieta/Dumyat
+c_delta;363;363 - Damietta;Dimyât - Damietta
+c_pelusia;363;363 - Damietta;Ushmún Tannâh - Damietta
+c_pelusia;363;363 - Damietta;Duplicate to increase weight
+c_bilbays;363;363 - Damietta;Bilbays - Damietta
+c_bilbays;363;363 - Damietta;Duplicate to increase weight
+c_el-arish;363;363 - Damietta;El-Arish - Damietta
+d_damietta;363;363 - Damietta;Duchy Dumiyát - Damietta
 
-####;365;365 - Sinai;Sinai/Sinaj/Sina
+c_sinai;365;365 - Sinai;Nekhel - Sinai
+c_eilat;365;365 - Sinai;Jabal Katrina - Sinai
+d_sinai;365;365 - Sinai;Duchy Sinai - Sinai
 
-####;2315;2315 - Suez;Suez/Suesia/as-Suways
+c_sinai;2315;2315 - Suez;Nekhel - Suez
+c_sarqihya;2315;2315 - Suez;Quzlum - Suez
+c_eilat;2315;2315 - Suez;Jabal Katrina - Suez
 
 ### Central Egypt
 
-####;359;359 - Faiyum;Faiyum/Arsinoë/Fayoum
+c_fayyum;359;359 - Faiyum;Fayyum - Faiyum
+c_fayyum;359;359 - Faiyum;Duplicate to increase weight
+c_bahnasa;359;359 - Faiyum;Bahnasa - Faiyum
+c_bahriya;359;359 - Faiyum;Bahriya - Faiyum
+d_alwahat;359;359 - Faiyum;Duchy Al Wahát - Faiyum
 
-####;361;361 - Cairo;Cairo/Káhira/Cairus/Kahire/Qahirah
+c_cairo;361;361 - Cairo;Cairo - Cairo
+c_cairo;361;361 - Cairo;Duplicate to increase weight
+c_cairo;361;361 - Cairo;Duplicate to increase weight
+c_itfih;361;361 - Cairo;Itfih - Cairo
+c_sarqihya;361;361 - Cairo;Quzlum - Cairo
+c_gizeh;361;361 - Cairo;Gîza - Cairo
+d_cairo;361;361 - Cairo;Duchy Qáhira - Cairo
 
-####;2317;2317 - Minya;Minya/Antinopolis
+c_manfalut;2317;2317 - Minya;Manfalut - Minya
+c_manfalut;2317;2317 - Minya;Duplicate to increase weight
+c_bahnasa;2317;2317 - Minya;Bahnasa - Minya
+c_bahnasa;2317;2317 - Minya;Duplicate to increase weight
+c_itfih;2317;2317 - Minya;Itfih - Minya
+c_bahriya;2317;2317 - Minya;Bahriya - Minya
 
-####;2319;2319 - Asyut;Asyut/Lytkopolis/Lycopolis
+c_asyut;2319;2319 - Asyut;Asyut - Asyut
+c_asyut;2319;2319 - Asyut;Duplicate to increase weight
+c_ikhmin;2319;2319 - Asyut;Ikhmin - Asyut
 
-####;2320;2320 - Ras Gharib;Ras Gharib/Mons Porphirites/Ras Gareb
-
+#### Ras Gharib (off-map)
 ### Upper Egypt
 
-####;360;360 - Qena;Qena/Kaine/Maximianopolis/Circe/Qina
+c_qus;360;360 - Qena;Qus - Qena
+c_qus;360;360 - Qena;Duplicate to increase weight
+c_ikhmin;360;360 - Qena;Ikhmin - Qena
 
-####;1231;1231 - Aswan;Aswan/Syene
+c_aswan;1231;1231 - Aswan;Aswan - Aswan
+c_aswan;1231;1231 - Aswan;Duplicate to increase weight
+c_qus;1231;1231 - Aswan;Qus - Aswan
 
-####;2321;2321 - Queseer;Queseer/Leucos Limen/Qusayr
+c_quena;2321;2321 - Queseer;Qusayr - Queseer
 
 ### Lower Nubia
 
-####;1234;1234 - Qasr Ibrim;Qasr Ibrim
+c_qasribrim;1234;1234 - Qasr Ibrim;Qasr Ibrim - Qasr Ibrim
+c_qasribrim;1234;1234 - Qasr Ibrim;Duplicate to increase weight
+c_aswan;1234;1234 - Qasr Ibrim;Aswan - Qasr Ibrim
 
-####;2322;2322 - Wadi Halfa;Wadi Halfa
+c_nubia;2322;2322 - Wadi Halfa;Nubia - Wadi Halfa
+c_nubia;2322;2322 - Wadi Halfa;Duplicate to increase weight
+c_semna;2322;2322 - Wadi Halfa;Semna - Wadi Halfa
 
-####;2323;2323 - Sahra an Nubyah;Sahra an Nübyah
+c_naqis;2323;2323 - Sahra an Nubyah;Naqis - Sahra an Nübyah
+c_maikele_bahr;2323;2323 - Sahra an Nubyah;Maikele Bahr - Sahra an Nübyah
+d_aydhab;2323;2323 - Sahra an Nubyah;Duchy Aydhab - Sahra an Nübyah
 
 ### Cyrenaica
 
-####;355;355 - Sirt;Sirt/Syrtis
+c_syrte;355;355 - Sirt;Syrte - Sirt
+c_syrte;355;355 - Sirt;Duplicate to increase weight
+c_waddan;355;355 - Sirt;Waddan - Sirt
 
-####;356;356 - Benghazi;Benghazi/Bengazi/Berenice/Bingazi/Bangazi
+c_benghazi;356;356 - Benghazi;Barqa - Benghazi
+c_benghazi;356;356 - Benghazi;Duplicate to increase weight
+c_ajadabiya;356;356 - Benghazi;Adjadabiya - Benghazi
+c_senoussi;356;356 - Benghazi;Awjîla - Benghazi
+d_cyrenaica;356;356 - Benghazi;Duchy Barqa - Benghazi
 
-####;357;357 - Darnah;Darnah/Derna/Darnis
+c_tobruk;357;357 - Darnah;Tubrúk - Darnah
+c_tobruk;357;357 - Darnah;Duplicate to increase weight
+c_benghazi;357;357 - Darnah;Barqa - Darnah
+c_senoussi;357;357 - Darnah;Awjîla - Darnah
+d_cyrenaica;357;357 - Darnah;Duchy Barqa - Darnah
 
 # South America (off-map)
 # North America (off-map)
