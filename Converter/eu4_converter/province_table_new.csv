@@ -4846,99 +4846,155 @@ c_artaani;2196;2196 - Guria;Artaani - Guria
 
 ### Hejaz
 
-####;384;384 - Medina;Medina/Medîne/Medine/Madinah
+c_medina;384;384 - Medina;Madinah - Medina
+c_medina;384;384 - Medina;Duplicate to increase weight
+c_hail;384;384 - Medina;Hail - Medina
 
-####;385;385 - Mecca;Mecca/Mékke/Mekke/Makkah
+c_mecca;385;385 - Mecca;Makkah - Mecca
 
-####;2330;2330 - Ma'din Sulaym;Ma'din Sulaym
+c_halaban;2330;2330 - Ma'din Sulaym;Ranyah - Ma'din Sulaym
+c_halaban;2330;2330 - Ma'din Sulaym;Duplicate to increase weight
+c_medina;2330;2330 - Ma'din Sulaym;Madinah - Ma'din Sulaym
 
-####;2331;2331 - Jeddah;Jeddah/Dsjidda
+c_mecca;2331;2331 - Jeddah;Makkah - Jeddah
 
-####;2329;2329 - Yanbu;Yanbu/Jâmbo/Yanbu' al-Bahr
+c_yanbu;2329;2329 - Yanbu;Yanbu - Yanbu
+c_yanbu;2329;2329 - Yanbu;Duplicate to increase weight
+c_yanbu;2329;2329 - Yanbu;Duplicate to increase weight
+c_mecca;2329;2329 - Yanbu;Makkah - Yanbu
+c_medina;2329;2329 - Yanbu;Madinah - Yanbu
 
 ### Najd
 
-####;393;393 - Jabal Shammar;Jabal Shammar
+c_hail;393;393 - Jabal Shammar;Hail - Jabal Shammar
+c_hail;393;393 - Jabal Shammar;Duplicate to increase weight
+c_al_jawf;393;393 - Jabal Shammar;Fayd - Jabal Shammar
 
-####;2332;2332 - Truba;Truba
+c_halaban;2332;2332 - Truba;Ranyah - Truba
+c_halaban;2332;2332 - Truba;Duplicate to increase weight
+c_halaban;2332;2332 - Truba;Duplicate to increase weight
+c_mecca;2332;2332 - Truba;Makkah - Truba
+c_asir;2332;2332 - Truba;Asir - Truba
 
-####;2335;2335 - Tamara;Tamara
+c_halaban;2335;2335 - Tamara;Ranyah - Tamara
 
-####;2336;2336 - Falaj;Falaj
+c_hajr;2336;2336 - Falaj;Al-Yamamah - Falaj
 
-####;2337;2337 - Unaizah;Unaizah
+c_hajr;2337;2337 - Unaizah;Al-Yamamah - Unaizah
+c_halaban;2337;2337 - Unaizah;Ranyah - Unaizah
+d_nefoud;2337;2337 - Unaizah;Duchy Najd - Unaizah
 
 ### Bahrain
 
-####;394;394 - El Catif;Al-Qatif/Lahsa
+c_damman;394;394 - El Catif;Al-Qatif - Al-Qatif
 
-####;395;395 - Qatar;Qatar/Katar/Catar
+c_qatar;395;395 - Qatar;Qatar - Qatar
+c_al_hasa;395;395 - Qatar;Al-Ahsa - Qatar
+d_amman;395;395 - Qatar;Duchy Bahrayn - Qatar
 
-####;396;396 - Bahrain;Bahrain/Bahrajn/Tylos/Bahreyn
+c_bahrein;396;396 - Bahrain;Bahrayn - Bahrain
 
-####;2347;2347 - Hofuf;Hofuf/Hufuf
+c_al_hasa;2347;2347 - Hofuf;Al-Ahsa - Hofuf
+c_damman;2347;2347 - Hofuf;Al-Qatif - Hofuf
+d_amman;2347;2347 - Hofuf;Duchy Bahrayn - Hofuf
 
 ### Oman
 
-####;399;399 - Suhar;Suhar
+c_suhar;399;399 - Suhar;Suhar - Suhar
 
-####;400;400 - Muscat;Muscat/Maskat/Maskát/Mascate/Masqat
+c_muscat;400;400 - Muscat;Masqat - Muscat
+c_muscat;400;400 - Muscat;Duplicate to increase weight
+c_hajar;400;400 - Muscat;Nizwa - Muscat
 
-####;403;403 - Nizwa;Nizwa
+c_hajar;403;403 - Nizwa;Nizwa - Nizwa
 
 ### Pirate Coast
 
-####;397;397 - Bani Yas;Bani Yas
+c_dhu_zabi;397;397 - Bani Yas;Julfar - Bani Yas
+c_dhu_zabi;397;397 - Bani Yas;Duplicate to increase weight
+c_qatar;397;397 - Bani Yas;Qatar - Bani Yas
 
-####;398;398 - Qawasim;Qawasim
+c_dhu_zabi;398;398 - Qawasim;Julfar - Qawasim
+c_suhar;398;398 - Qawasim;Suhar - Qawasim
+d_oman;398;398 - Qawasim;Duchy Uman - Qawasim
 
-####;404;404 - Liwa;Liwa
+#### Liwa (off-map)
 
-####;2333;2333 - Abd al-Qays;Abd al-Qays
+c_qatar;2333;2333 - Abd al-Qays;Qatar - Abd al-Qays
 
 ### Dhofar
 
-####;401;401 - Dhofar;Dhofar
+c_dhofar;401;401 - Dhofar;Zufar - Dhofar
 
-####;2341;2341 - Sharqiyah;Sharqiyah/Ash Sharqiyah
+c_duqm;2341;2341 - Sharqiyah;Duqm - Sharqiyah
+c_hajar;2341;2341 - Sharqiyah;Nizwa - Sharqiyah
+d_oman;2341;2341 - Sharqiyah;Duchy Uman - Sharqiyah
 
-####;2342;2342 - Wusta;Wusta
+c_dhofar;2342;2342 - Wusta;Zufar - Wusta
+c_duqm;2342;2342 - Wusta;Duqm - Wusta
+d_oman;2342;2342 - Wusta;Duchy Uman - Wusta
 
 ### Hadramut
 
-####;389;389 - Kinda;Kinda/Kindah
+c_kathiri;389;389 - Kinda;Hadramawt - Kinda
 
-####;402;402 - Mahra;Mahra/Mahrah
+c_mahra;402;402 - Mahra;Mahra - Mahra
+c_mahra;402;402 - Mahra;Duplicate to increase weight
+c_kathiri;402;402 - Mahra;Hadramawt - Mahra
 
-####;2343;2343 - Kathiri;Kathiri/Adrramyta
+c_kathiri;2343;2343 - Kathiri;Hadramawt - Kathiri
 
 ### Yemen
 
-####;387;387 - Mokha;Mokha/Mohka/Mukha
+c_bayda;387;387 - Mokha;al-Ma'afir - Mokha
+c_bayda;387;387 - Mokha;Duplicate to increase weight
+c_bayda;387;387 - Mokha;Duplicate to increase weight
+c_tihama;387;387 - Mokha;Tihama - Mokha
+c_taizz;387;387 - Mokha;Taizz - Mokha
+c_shibam;387;387 - Mokha;Kawkaban - Mokha
+c_aden;387;387 - Mokha;Aden - Mokha
 
-####;388;388 - Aden;Aden/Adém/Adan
+c_aden;388;388 - Aden;Aden - Aden
+c_aden;388;388 - Aden;Duplicate to increase weight
+c_aden;388;388 - Aden;Duplicate to increase weight
+c_sanaa;388;388 - Aden;Sanaa - Aden
+c_taizz;388;388 - Aden;Taizz - Aden
+c_kathiri;388;388 - Aden;Hadramawt - Aden
 
-####;390;390 - Sanaa;Sana'a/Saná
+c_sanaa;390;390 - Sanaa;Sanaa - Sana'a
+c_sanaa;390;390 - Sanaa;Duplicate to increase weight
+c_sanaa;390;390 - Sanaa;Duplicate to increase weight
+c_shibam;390;390 - Sanaa;Kawkaban - Sana'a
+c_taizz;390;390 - Sanaa;Taizz - Sana'a
+c_rafha;390;390 - Sanaa;Sadah - Sana'a
+d_sanaa;390;390 - Sanaa;Duchy Sanaa - Sana'a
 
-####;2344;2344 - Al Jawf;Al Jawf
+c_sanaa;2344;2344 - Al Jawf;Sanaa - Al Jawf
+c_sanaa;2344;2344 - Al Jawf;Duplicate to increase weight
+c_rafha;2344;2344 - Al Jawf;Sadah - Al Jawf
 
 ### ad_dahna_area
 
-####;392;392 - Al-Arid;Al-Arid/Al'Arid
+c_hajr;392;392 - Al-Arid;Al-Yamamah - Al-Arid
 
-####;2338;2338 - Hafar;Hafar/Hafar al-Batin
+c_rummah;2338;2338 - Hafar;Hafar - Hafar
 
-####;2339;2339 - Yabrin;Yabrin
+c_al_hasa;2339;2339 - Yabrin;Al-Ahsa - Yabrin
+c_al_hasa;2339;2339 - Yabrin;Duplicate to increase weight
+c_hajr;2339;2339 - Yabrin;Al-Yamamah - Yabrin
 
 ### Sarat
 
-####;386;386 - Asir;Asir
+c_asir;386;386 - Asir;Asir - Asir
 
-####;391;391 - Najran;Najran
+c_rafha;391;391 - Najran;Sadah - Najran
+c_asir;391;391 - Najran;Asir - Najran
 
-####;2345;2345 - Ahqaf;Ahqaf
+#### Ahqaf (off-map)
 
-####;2346;2346 - Jazan;Jazan
+c_tihama;2346;2346 - Jazan;Tihama - Jazan
+c_asir;2346;2346 - Jazan;Asir - Jazan
+c_rafha;2346;2346 - Jazan;Sadah - Jazan
 
 # Persia
 ## Khorasan
