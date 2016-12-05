@@ -4577,61 +4577,137 @@ c_famagusta;321;321 - Cyprus;Ammokhostos - Cyprus
 ## Mashriq
 ### Syria
 
-####;378;378 - Tripoli;Tarabulus/Trábulos/Trablus/Tarabulus al-Sham
+c_tripoli;378;378 - Tripoli;Tripoli - Tarabulus
+c_gibelet;378;378 - Tripoli;Gibelet - Tarabulus
+c_tortosa;378;378 - Tripoli;Tortosa - Tarabulus
+c_monferrand;378;378 - Tripoli;Monferrand - Tarabulus
+c_masyaf;378;378 - Tripoli;Masyaf - Tarabulus
+c_saone;378;378 - Tripoli;Saone - Tarabulus
+c_baalbek;378;378 - Tripoli;Bekaa - Tarabulus
 
-####;382;382 - Damascus;Damascus/Damasek/Damâsk/Damasco/Sham/Dimashq
+c_damascus;382;382 - Damascus;Ghutah - Damascus
+c_syria;382;382 - Damascus;Bathaniyya - Damascus
+c_suwaida;382;382 - Damascus;Hauran - Damascus
 
-####;1855;1855 - Sidon;Sidon/Seide/Sayda
+c_tyrus;1855;1855 - Sidon;Sidon - Sidon
+c_acre;1855;1855 - Sidon;Acre - Sidon
+c_acre;1855;1855 - Sidon;Duplicate to increase weight
+c_beirut;1855;1855 - Sidon;Beirut - Sidon
+c_safed;1855;1855 - Sidon;Toron - Sidon
+c_tiberias;1855;1855 - Sidon;Tiberias - Sidon
+c_baalbek;1855;1855 - Sidon;Bekaa - Sidon
 
 ### Palestine
 
-####;364;364 - Gaza;Gaza/Gazze/Ghazzah
+c_darum;364;364 - Gaza;Darom - Gaza
+c_ascalon;364;364 - Gaza;Ascalon - Gaza
+c_hebron;364;364 - Gaza;St-Abraham - Gaza
+c_el-arish;364;364 - Gaza;El-Arish - Gaza
 
-####;379;379 - Jerusalem;Jerusalem/Jeruzalém/Jerusalém/Hierosolyma/Kudus/al-Quds
+c_jerusalem;379;379 - Jerusalem;Jérusalem - Jerusalem
+c_jerusalem;379;379 - Jerusalem;Duplicate to increase weight
+c_hebron;379;379 - Jerusalem;St-Abraham - Jerusalem
 
-####;380;380 - Al Karak;Al Karak/Idumea/El Karak/Karak
+c_kerak;380;380 - Al Karak;Kerak - Al Karak
+c_monreal;380;380 - Al Karak;Monreal - Al Karak
+c_petra;380;380 - Al Karak;Elim - Al Karak
+c_amman;380;380 - Al Karak;Balqa - Al Karak
+c_maan;380;380 - Al Karak;Maan - Al Karak
 
-####;381;381 - Ajlun;Ajlun/Peraea/Dera
+c_madaba;381;381 - Ajlun;Jarash - Ajlun
+c_amman;381;381 - Ajlun;Balqa - Ajlun
+c_kerak;381;381 - Ajlun;Kerak - Ajlun
+c_az_zarqa;381;381 - Ajlun;Azraq - Ajlun
+d_jordan;381;381 - Ajlun;Duchy al-Urdunn - Ajlun
 
-####;1854;1854 - Nablus;Nablus/Flavia Neapolis/Naablus
+c_beersheb;1854;1854 - Nablus;Naples - Nablus
+c_jerusalem;1854;1854 - Nablus;Jérusalem - Nablus
+c_ibelin;1854;1854 - Nablus;Ibelin - Nablus
+c_jaffa;1854;1854 - Nablus;Jaffa - Nablus
+c_caesarea;1854;1854 - Nablus;Caesarea - Nablus
 
 ### Rakka
 
-####;405;405 - Tadmor;Tadmor/Palmyra
+c_palmyra;405;405 - Tadmor;Palmyra - Tadmor
+c_salamiyah;405;405 - Tadmor;Salamiyah - Tadmor
+d_homs;405;405 - Tadmor;Duchy Hims - Tadmor
 
-####;407;407 - Ar Raqqa;Ar Raqqa/Kallinikos/Callinicum/Rakka/Ar-Raqqah
+c_asas;407;407 - Ar Raqqa;Ar-Raqqah - Ar Raqqa
+c_manbij;407;407 - Ar Raqqa;Manbij - Ar Raqqa
+c_harran;407;407 - Ar Raqqa;Harran - Ar Raqqa
+c_edessa;407;407 - Ar Raqqa;Edessa - Ar Raqqa
+c_mardin;407;407 - Ar Raqqa;Mardin - Ar Raqqa
+c_bira;407;407 - Ar Raqqa;Nasîbîn - Ar Raqqa
+c_al_bichri;407;407 - Ar Raqqa;Rahba - Ar Raqqa
 
-####;1849;1849 - Hama;Hama/Epiphania/Hamah
+c_hama;1849;1849 - Hama;Hama - Hama
+c_hama;1849;1849 - Hama;Duplicate to increase weight
+c_homs;1849;1849 - Hama;Hims - Hama
+c_homs;1849;1849 - Hama;Duplicate to increase weight
+c_kafrtab;1849;1849 - Hama;Kafr-Tab - Hama
+c_kafrtab;1849;1849 - Hama;Duplicate to increase weight
+c_salamiyah;1849;1849 - Hama;Salamiyah - Hama
+c_archa;1849;1849 - Hama;Berzieh - Hama
 
-####;2314;2314 - Rahba;Rahba/Circesium
+c_al_bichri;2314;2314 - Rahba;Rahba - Rahba
+c_asas;2314;2314 - Rahba;Ar-Raqqah - Rahba
+c_palmyra;2314;2314 - Rahba;Palmyra - Rahba
 
 ### Al Jazira
 
-####;406;406 - As Sahiliyah;As Sahiliyah/Dura Europus
+c_deir;406;406 - As Sahiliyah;Anbar - As Sahiliyah
+c_deir;406;406 - As Sahiliyah;Duplicate to increase weight
+c_al_bichri;406;406 - As Sahiliyah;Rahba - As Sahiliyah
 
-####;2308;2308 - Cizre;Cizre/Gazarta/Jazirat Ibn Umar
+c_al_jazira;2308;2308 - Cizre;Jazîrat ibn 'Umar - Cizre
+c_amadiya;2308;2308 - Cizre;Amadiyah - Cizre
+c_bira;2308;2308 - Cizre;Nasîbîn - Cizre
 
-####;2310;2310 - Tikrit;Tikrit/Tagritum
+c_druz;2310;2310 - Tikrit;Takrit - Tikrit
+c_euphrates;2310;2310 - Tikrit;Samarrah - Tikrit
+c_deir;2310;2310 - Tikrit;Anbar - Tikrit
 
-####;2309;2309 - Sinjar;Sinjar/Singara
+c_sinjar;2309;2309 - Sinjar;Sinjar - Sinjar
+c_sinjar;2309;2309 - Sinjar;Duplicate to increase weight
+c_mosul;2309;2309 - Sinjar;Mosul - Sinjar
 
 ### Iraq Arabi
 
-####;409;409 - Hillah;Hillah/Helle/Kerbela
+c_tadmor;409;409 - Hillah;Al-Hillah - Hillah
+c_karbala;409;409 - Hillah;Karbala - Hillah
+c_baghdad;409;409 - Hillah;Baghdad - Hillah
+c_kufa;409;409 - Hillah;Al-Kufah - Hillah
 
-####;410;410 - Baghdad;Baghdad/Bagdád/Bagdade/Bagdatum/Bagdad
+c_baghdad;410;410 - Baghdad;Baghdad - Baghdad
+c_al_amarah;410;410 - Baghdad;Nahrawan - Baghdad
+d_baghdad;410;410 - Baghdad;Duchy Baghdad - Baghdad
 
-####;2311;2311 - Samawah;Samawah
+c_tadmor;2311;2311 - Samawah;Al-Hillah - Samawah
+c_al_nasiryah;2311;2311 - Samawah;Al-Batihah - Samawah
+c_al_nadjaf;2311;2311 - Samawah;Qadisiyyah - Samawah
+c_kufa;2311;2311 - Samawah;Al-Kufah - Samawah
 
-####;2312;2312 - Wasit;Wasit
+c_tigris;2312;2312 - Wasit;Wasit - Wasit
+c_tigris;2312;2312 - Wasit;Duplicate to increase weight
+c_al_amarah;2312;2312 - Wasit;Nahrawan - Wasit
 
 ### Basra
 
-####;408;408 - Basra;Basra/Básra/Basrah
+c_basra;408;408 - Basra;Basrah - Basra
+c_basra;408;408 - Basra;Duplicate to increase weight
+c_tigris;408;408 - Basra;Wasit - Basra
 
-####;412;412 - Khuzestan;Khuzestan/Susiana
+c_ahwaz;412;412 - Khuzestan;Ahwaz - Khuzestan
+c_ahwaz;412;412 - Khuzestan;Duplicate to increase weight
+c_ahwaz;412;412 - Khuzestan;Duplicate to increase weight
+c_basra;412;412 - Khuzestan;Basrah - Khuzestan
+c_idhaj;412;412 - Khuzestan;Idhaj - Khuzestan
+c_arrajan;412;412 - Khuzestan;Arrajan - Khuzestan
+d_ahwaz;412;412 - Khuzestan;Duchy Ahwáz - Khuzestan
 
-####;2340;2340 - Grane;Grane
+c_basra;2340;2340 - Grane;Basrah - Grane
+c_basra;2340;2340 - Grane;Duplicate to increase weight
+c_damman;2340;2340 - Grane;Al-Qatif - Grane
 
 ## Caucasia
 ### Circassia
