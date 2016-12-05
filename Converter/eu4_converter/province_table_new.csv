@@ -4337,95 +4337,242 @@ d_cyrenaica;357;357 - Darnah;Duchy Barqa - Darnah
 ## Anatolia
 ### Hüdavendigar
 
-####;316;316 - Kocaeli;Kocaeli/Troas
+c_nikomedeia;316;316 - Kocaeli;Nikomedeia - Kocaeli
+c_nikaea;316;316 - Kocaeli;Nikaia - Kocaeli
+c_chrysopolis;316;316 - Kocaeli;Skoutarion - Kocaeli
 
-####;317;317 - Hudavendigar;Hüdavendigar/Mysia
+c_prusa;317;317 - Hudavendigar;Prousa - Hüdavendigar
+c_prusa;317;317 - Hudavendigar;Duplicate to increase weight
+c_sangarios;317;317 - Hudavendigar;Sangários - Hüdavendigar
+c_sangarios;317;317 - Hudavendigar;Duplicate to increase weight
+c_nikaea;317;317 - Hudavendigar;Nikaia - Hüdavendigar
+c_akhyraous;317;317 - Hudavendigar;Mysía - Hüdavendigar
+d_opsikon;317;317 - Hudavendigar;Duchy Opsikion - Hüdavendigar
 
-####;322;322 - Kutahya;Kütahya/Cotyaeum
+c_dorylaion;322;322 - Kutahya;Dorylaion - Kütahya
+c_dorylaion;322;322 - Kutahya;Duplicate to increase weight
+c_polybotos;322;322 - Kutahya;Phrygía - Kütahya
 
-####;326;326 - Ankara;Ankara/Galatia
+c_ankyra;326;326 - Ankara;Ankyra - Ankara
+c_ankyra;326;326 - Ankara;Duplicate to increase weight
+c_gangra;326;326 - Ankara;Gangra - Ankara
 
-####;2296;2296 - Biga;Biga/Abydus
+c_abydos;2296;2296 - Biga;Troád - Biga
+c_abydos;2296;2296 - Biga;Duplicate to increase weight
+c_akhyraous;2296;2296 - Biga;Mysía - Biga
+c_akhyraous;2296;2296 - Biga;Duplicate to increase weight
+c_kyzikos;2296;2296 - Biga;Kyzikos - Biga
+c_adramyttion;2296;2296 - Biga;Aiolía - Biga
 
 ### Aydin
 
-####;318;318 - Sugla;Sugla/Smyrna/Aydin
+c_smyrna;318;318 - Sugla;Smyrna - Sugla
+c_smyrna;318;318 - Sugla;Duplicate to increase weight
+c_adramyttion;318;318 - Sugla;Aiolía - Sugla
+c_ephesos;318;318 - Sugla;Ionía - Sugla
 
-####;319;319 - Mentese;Mentese/Mylasa
+c_ephesos;319;319 - Mentese;Ionía - Mentese
+c_ephesos;319;319 - Mentese;Duplicate to increase weight
+c_laodikeia;319;319 - Mentese;Karía - Mentese
+c_laodikeia;319;319 - Mentese;Duplicate to increase weight
+c_mylasa;319;319 - Mentese;Mylasa - Mentese
+c_mylasa;319;319 - Mentese;Duplicate to increase weight
+c_lykia;319;319 - Mentese;Lykía - Mentese
 
-####;2297;2297 - Saruhan;Saruhan/Lydia
+c_thyateira;2297;2297 - Saruhan;Lydía - Saruhan
+c_thyateira;2297;2297 - Saruhan;Duplicate to increase weight
+c_philadelphia;2297;2297 - Saruhan;Philadelpheia - Saruhan
+c_philadelphia;2297;2297 - Saruhan;Duplicate to increase weight
+c_polybotos;2297;2297 - Saruhan;Phrygía - Saruhan
+c_polybotos;2297;2297 - Saruhan;Duplicate to increase weight
+c_akhyraous;2297;2297 - Saruhan;Mysía - Saruhan
 
-####;2298;2298 - Tekke;Tekke/Attalea/Teke
+c_attaleia;2298;2298 - Tekke;Attáleia - Tekke
+c_lykia;2298;2298 - Tekke;Lykía - Tekke
 
-####;2348;2348 - Chios;Chios/Scio/Sakiz
+c_chios;2348;2348 - Chios;Chios - Chios
+c_lesbos;2348;2348 - Chios;Nisia Aigaiou - Chios
+d_aegean_islands;2348;2348 - Chios;Duchy Aigaiou Pelàgous - Chios
 
 ### Karaman
 
-####;323;323 - Konya;Konya/Iconium
+c_ikonion;323;323 - Konya;Ikonion - Konya
+c_ikonion;323;323 - Konya;Duplicate to increase weight
+c_amorion;323;323 - Konya;Amorion - Konya
+c_amorion;323;323 - Konya;Duplicate to increase weight
+c_nyssa;323;323 - Konya;Nyssa - Konya
+c_nyssa;323;323 - Konya;Duplicate to increase weight
+c_archelais;323;323 - Konya;Archelaïs - Konya
 
-####;324;324 - Karaman;Karaman/Lycaonia
+c_laranda;324;324 - Karaman;Laranda - Karaman
+c_ikonion;324;324 - Karaman;Ikonion - Karaman
+c_tyana;324;324 - Karaman;Tyana - Karaman
+c_archelais;324;324 - Karaman;Archelaïs - Karaman
 
-####;1848;1848 - Hamid;Hamid/Caria
+c_sozopolis;1848;1848 - Hamid;Pisidía - Hamid
+c_sozopolis;1848;1848 - Hamid;Duplicate to increase weight
+c_polybotos;1848;1848 - Hamid;Phrygía - Hamid
 
 ### Aleppo
 
-####;327;327 - Adana;Adana/Cilicia
+c_adana;327;327 - Adana;Adana - Adana
+c_sis;327;327 - Adana;Sision - Adana
+c_tarsos;327;327 - Adana;Tarsos - Adana
 
-####;377;377 - Aleppo;Aleppo/Beroea
+c_aleppo;377;377 - Aleppo;Halab - Aleppo
+c_aleppo;377;377 - Aleppo;Duplicate to increase weight
+c_archa;377;377 - Aleppo;Berzieh - Aleppo
+c_hazart;377;377 - Aleppo;Hazart - Aleppo
+c_aintab;377;377 - Aleppo;Ravendal - Aleppo
+c_tell_bashir;377;377 - Aleppo;Turbessel - Aleppo
 
-####;2302;2302 - Icel;Içel/Pamphylia
+c_seleukeia;2302;2302 - Icel;Seleukeia - Içel
+c_seleukeia;2302;2302 - Icel;Duplicate to increase weight
+c_anamur;2302;2302 - Icel;Anemourion - Içel
+c_anamur;2302;2302 - Icel;Duplicate to increase weight
+c_attaleia;2302;2302 - Icel;Attáleia - Içel
 
-####;2313;2313 - Antioch;Antioch/Antiochie/Antâki/Antiocheia/Antioque/Antakya/Antakiya
+c_antiocheia;2313;2313 - Antioch;Antioch - Antioch
+c_antiocheia;2313;2313 - Antioch;Duplicate to increase weight
+c_antiocheia;2313;2313 - Antioch;Duplicate to increase weight
+c_saone;2313;2313 - Antioch;Saone - Antioch
+c_saone;2313;2313 - Antioch;Duplicate to increase weight
+c_alexandretta;2313;2313 - Antioch;Alexandrou - Antioch
+c_teluch;2313;2313 - Antioch;Marash - Antioch
+c_adana;2313;2313 - Antioch;Adana - Antioch
+d_antioch;2313;2313 - Antioch;Duchy Principauté d'Antioche - Antioch
 
 ### Rum
 
-####;329;329 - Sivas;Sivas/Sebastea
+c_sebastia;329;329 - Sivas;Sebasteia - Sivas
+c_sebastia;329;329 - Sivas;Duplicate to increase weight
+c_tzamandos;329;329 - Sivas;Tzamandos - Sivas
+c_tzamandos;329;329 - Sivas;Duplicate to increase weight
+c_tephrike;329;329 - Sivas;Tephrike - Sivas
+c_koloneia;329;329 - Sivas;Koloneia - Sivas
+d_sebasteia;329;329 - Sivas;Duchy Sebasteias - Sivas
 
-####;1846;1846 - Amasya;Amasya/Amasea
+c_amasia;1846;1846 - Amasya;Amaseia - Amasya
+c_amasia;1846;1846 - Amasya;Duplicate to increase weight
+c_eukhaita;1846;1846 - Amasya;Euchaita - Amasya
 
-####;2300;2300 - Bozok;Bozok/Cappadocia
+c_galatia;2300;2300 - Bozok;Galatía - Bozok
+c_galatia;2300;2300 - Bozok;Duplicate to increase weight
+c_eukhaita;2300;2300 - Bozok;Euchaita - Bozok
 
-####;2304;2304 - Canik;Canik/Chaldia
+c_amisos;2304;2304 - Canik;Amisos - Canik
+c_amisos;2304;2304 - Canik;Duplicate to increase weight
+c_chaldea;2304;2304 - Canik;Chaldia - Canik
+c_chaldea;2304;2304 - Canik;Duplicate to increase weight
+c_neokaisareia;2304;2304 - Canik;Neokaisareia - Canik
 
 ### Kastamonu
 
-####;325;325 - Kastamonu;Kastamonu/Paphlagonia
+c_paphlagonia;325;325 - Kastamonu;Paphlagonia - Kastamonu
+c_paphlagonia;325;325 - Kastamonu;Duplicate to increase weight
+c_amastris;325;325 - Kastamonu;Amastris - Kastamonu
+c_eukhaita;325;325 - Kastamonu;Euchaita - Kastamonu
+c_gangra;325;325 - Kastamonu;Gangra - Kastamonu
 
-####;328;328 - Sinop;Sinop/Sinope
+c_sinope;328;328 - Sinop;Sinópe - Sinop
+c_amastris;328;328 - Sinop;Amastris - Sinop
+c_eukhaita;328;328 - Sinop;Euchaita - Sinop
 
-####;2299;2299 - Bolu;Bolu/Bithynia
+c_vithynion;2299;2299 - Bolu;Vithynion - Bolu
+c_herakleia;2299;2299 - Bolu;Herakleia - Bolu
 
 ### Erzurum
 
-####;330;330 - Trebizond;Trebizond/Trapezus/Trabzon
+c_trapezous;330;330 - Trebizond;Trapezous - Trebizond
+c_trapezous;330;330 - Trebizond;Duplicate to increase weight
+c_trapezous;330;330 - Trebizond;Duplicate to increase weight
+c_chaldea;330;330 - Trebizond;Chaldia - Trebizond
+c_chaldea;330;330 - Trebizond;Duplicate to increase weight
+c_rizaion;330;330 - Trebizond;Rizaion - Trebizond
+c_rizaion;330;330 - Trebizond;Duplicate to increase weight
+c_koloneia;330;330 - Trebizond;Koloneia - Trebizond
+d_trebizond;330;330 - Trebizond;Duchy Chaldia - Trebizond
 
-####;331;331 - Erzurum;Erzurum/Ærzerûm
+c_theodosiopolis;331;331 - Erzurum;Karin - Erzurum
+c_theodosiopolis;331;331 - Erzurum;Duplicate to increase weight
+c_theodosiopolis;331;331 - Erzurum;Duplicate to increase weight
+c_tao;331;331 - Erzurum;Tao - Erzurum
+c_tao;331;331 - Erzurum;Duplicate to increase weight
+c_sper;331;331 - Erzurum;Sper - Erzurum
+c_manzikert;331;331 - Erzurum;Manazkert - Erzurum
+c_vanand;331;331 - Erzurum;Vanand - Erzurum
 
-####;2305;2305 - Erzincan;Erzincan/Acilisene
+c_karin;2305;2305 - Erzincan;Yerznka - Erzincan
+c_karin;2305;2305 - Erzincan;Duplicate to increase weight
+c_karin;2305;2305 - Erzincan;Duplicate to increase weight
+c_dzopk;2305;2305 - Erzincan;Ašmušat - Erzincan
+c_dzopk;2305;2305 - Erzincan;Duplicate to increase weight
+c_dzopk;2305;2305 - Erzincan;Duplicate to increase weight
+c_charpete;2305;2305 - Erzincan;Charpete - Erzincan
+c_charpete;2305;2305 - Erzincan;Duplicate to increase weight
+c_charpete;2305;2305 - Erzincan;Duplicate to increase weight
+c_koloneia;2305;2305 - Erzincan;Koloneia - Erzincan
+c_manzikert;2305;2305 - Erzincan;Manazkert - Erzincan
 
 ### North Kurdistan
 
-####;418;418 - Diyarbakir;Diyarbakir/Diarbekr/Amida/Diyarbekir/Diyar al-Bakr
+c_amida;418;418 - Diyarbakir;Amida - Diyarbakir
+c_amida;418;418 - Diyarbakir;Duplicate to increase weight
+c_mardin;418;418 - Diyarbakir;Mardin - Diyarbakir
+c_mardin;418;418 - Diyarbakir;Duplicate to increase weight
+c_hisn_kayf;418;418 - Diyarbakir;Hisn Kayf - Diyarbakir
+c_dzopk;418;418 - Diyarbakir;Ašmušat - Diyarbakir
+d_amida;418;418 - Diyarbakir;Duchy Amid - Diyarbakir
 
-####;2306;2306 - Mush;Mush/Taraunitis
+c_taron;2306;2306 - Mush;Tarawn - Mush
+c_taron;2306;2306 - Mush;Duplicate to increase weight
+c_hisn_kayf;2306;2306 - Mush;Hisn Kayf - Mush
+c_hisn_kayf;2306;2306 - Mush;Duplicate to increase weight
+c_bznunik;2306;2306 - Mush;Bznunik - Mush
+c_manzikert;2306;2306 - Mush;Manazkert - Mush
+c_persarmenia;2306;2306 - Mush;Rstunik - Mush
 
-####;2307;2307 - Van;Van/Arsissa
+c_vaspurakan;2307;2307 - Van;Vaspurakan - Van
+c_vaspurakan;2307;2307 - Van;Duplicate to increase weight
+c_bagrewand;2307;2307 - Van;Ayrarat - Van
+c_bagrewand;2307;2307 - Van;Duplicate to increase weight
+c_persarmenia;2307;2307 - Van;Rstunik - Van
+c_manzikert;2307;2307 - Van;Manazkert - Van
+c_bznunik;2307;2307 - Van;Bznunik - Van
 
 ### Dulkadir
 
-####;332;332 - Marash;Marash/Germanicia/Mar'ash
+c_lykandos;332;332 - Marash;Lykandos - Marash
+c_lykandos;332;332 - Marash;Duplicate to increase weight
+c_lykandos;332;332 - Marash;Duplicate to increase weight
+c_tzamandos;332;332 - Marash;Tzamandos - Marash
+c_teluch;332;332 - Marash;Marash - Marash
+c_sis;332;332 - Marash;Sision - Marash
+c_kaisun;332;332 - Marash;Kaisun - Marash
 
-####;2301;2301 - Kayseri;Kayseri/Caesarea
+c_kaisereia;2301;2301 - Kayseri;Kaisareia - Kayseri
+c_kaisereia;2301;2301 - Kayseri;Duplicate to increase weight
+c_lykandos;2301;2301 - Kayseri;Lykandos - Kayseri
 
-####;2303;2303 - Malatya;Malatya/Melitene/Urfa
+c_melitene;2303;2303 - Malatya;Melitene - Malatya
+c_melitene;2303;2303 - Malatya;Duplicate to increase weight
+c_melitene;2303;2303 - Malatya;Duplicate to increase weight
+c_tephrike;2303;2303 - Malatya;Tephrike - Malatya
+c_tephrike;2303;2303 - Malatya;Duplicate to increase weight
+c_kaisun;2303;2303 - Malatya;Kaisun - Malatya
+c_charpete;2303;2303 - Malatya;Charpete - Malatya
 
 ### Eastern Mediterranean Islands
 
-####;163;163 - Crete;Crete/Kreta/Kréta/Creta
+d_krete;163;163 - Crete;Duchy Kretes - Crete
+c_chandax;163;163 - Crete;Khándax - Crete
+c_kaneia;163;163 - Crete;Chaneia - Crete
 
-####;320;320 - Rhodes;Rhodes/Rod/Rhodos/Rhodus/Rodos
+c_rhodos;320;320 - Rhodes;Dodekánisa - Rhodes
 
-####;321;321 - Cyprus;Cyprus/Cipar/Kypr/Kibris
+c_nicosia;321;321 - Cyprus;Nikosia - Cyprus
+c_limisol;321;321 - Cyprus;Lemesos - Cyprus
+c_famagusta;321;321 - Cyprus;Ammokhostos - Cyprus
 
 ## Mashriq
 ### Syria
