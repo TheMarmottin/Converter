@@ -138,6 +138,8 @@ c_gurjaratra;508;508 - Kashmir;Gurjarata - Kashmir
 c_nandana;508;508 - Kashmir;Nandana - Kashmir
 
 c_vakhan;2073;2073 - Baltistan;Vakhân - Baltistan
+c_kabul;2073;2073 - Baltistan;Vakhân - Baltistan
+c_purushapura;2073;2073 - Baltistan;Vakhân - Baltistan
 
 #### Ladakh (off-map)
 ## Western India
@@ -277,11 +279,13 @@ c_navasarika;517;517 - Surat;Navasarika - Surat
 c_debul;504;504 - Thatta;Debul - Thatta
 
 c_siwistan;505;505 - Sehwan;Siwistan - Sehwan
+c_siwistan;505;505 - Sehwan;Siwistan - Sehwan
+c_ranikot;505;505 - Sehwan;Ranikot - Sehwan
 c_ranikot;505;505 - Sehwan;Ranikot - Sehwan
 c_aror;505;505 - Sehwan;Aror - Sehwan
 c_kandail;505;505 - Sehwan;Kandail - Sehwan
 
-d_bhakkar;2072;2072 - Bhakkar;Duchy Bhakkar - Bhakkar
+c_bhakkar;2072;2072 - Bhakkar;Bhakkar - Bhakkar
 c_bhakkar;2072;2072 - Bhakkar;Bhakkar - Bhakkar
 c_vijnot;2072;2072 - Bhakkar;Vijnot - Bhakkar
 c_kandail;2072;2072 - Bhakkar;Kandail - Bhakkar
