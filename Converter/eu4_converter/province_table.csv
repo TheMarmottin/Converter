@@ -338,7 +338,7 @@ c_bayeux;168;168 - Normandie;Bayeux - Normandie
 c_coustance;168;168 - Normandie;Cherbourg - Normandie
 c_avranches;168;168 - Normandie;Avranches - Normandie
 c_mortain;168;168 - Normandie;Mortain - Normandie
-c_jersey;168;168 - Normandie;Mortain - Normandie
+c_jersey;168;168 - Normandie;Channel Isles - Normandie
 
 d_alencon;1879;1879 - Alencon;Duchy Alençon - Alencon
 c_alencon;1879;1879 - Alencon;Alençon - Alencon
@@ -1047,7 +1047,7 @@ c_devon;233;233 - Cornwall;Devon - Cornwall
 
 c_winchester;234;234 - Hampshire;Winchester - Hampshire
 c_wiltshire;234;234 - Hampshire;Wiltshire - Hampshire
-c_wight;234;234 - Hampshire;Wiltshire - Hampshire
+c_wight;234;234 - Hampshire;Wight - Hampshire
 
 d_canterbury;235;235 - Kent;Duchy Kent - Kent
 c_kent;235;235 - Kent;Kent - Kent
@@ -1055,7 +1055,7 @@ c_sussex;235;235 - Kent;Sussex - Kent
 
 c_somerset;4130;4130 - Somerset;Somerset - Somerset
 c_dorset;4130;4130 - Somerset;Dorset - Somerset
-d_somerset;4130;4130 - Somerset;Dorset - Somerset
+d_somerset;4130;4130 - Somerset;Duchy Wessex - Somerset
 
 ### East Anglia
 
@@ -1544,7 +1544,7 @@ c_wolgast;2994;2994 - Greifswald;Gützkow - Greifswald
 c_wolgast;2994;2994 - Greifswald;Duplicate to increase weight
 c_wolgast;2994;2994 - Greifswald;Duplicate to increase weight
 c_stettin;2994;2994 - Greifswald;Stettin - Greifswald
-c_szvuine;2994;2994 - Greifswald;Stettin - Greifswald
+c_szvuine;2994;2994 - Greifswald;Swine - Greifswald
 
 ### Bohemia
 
@@ -1577,8 +1577,8 @@ c_litomerice;2970;2970 - Hradecko;Litomerice - Hradecko
 c_belgard;48;48 - Kolberg;Belgard - Kolberg
 
 c_stettin;1858;1858 - Stettin;Stettin - Stettin
-c_stettin;1858;1858 - Stettin;Stettin - Stettin
-c_szvuine;1858;1858 - Stettin;Stettin - Stettin
+c_stettin;1858;1858 - Stettin;Duplicate to increase weight
+c_szvuine;1858;1858 - Stettin;Swine - Stettin
 
 c_slupsk;2995;2995 - Stolp;Schlawe-Stolp - Stolp
 
@@ -1801,8 +1801,8 @@ c_western_sjaelland;12;12-Sjaelland;Væstær Syaland - Sjælland
 c_southern_sjaelland;12;12-Sjaelland;Syndræ Syaland - Sjælland
 
 c_fyn;14;14-Fyn;Fyun - Fyn
-c_fyn;14;14-Fyn;Fyun - Fyn
-c_samsoe;14;14-Fyn;Fyun - Fyn
+c_fyn;14;14-Fyn;Duplicate to increase weight
+c_samsoe;14;14-Fyn;Samsø - Fyn
 
 c_lolland;1983;1983-Lolland;Laland - Lolland
 
@@ -1980,7 +1980,7 @@ c_zeeland;96;96 - Zeeland;Zeeland - Zeeland
 
 c_holland;97;97 - Holland;Holland - Holland
 c_holland;97;97 - Holland;Duplicate to increase weight
-c_westfriesland;97;97 - Holland;Friesland - Holland
+c_westfriesland;97;97 - Holland;Westfriesland - Holland
 
 c_sticht;98;98 - Utrecht;Sticht - Utrecht
 
@@ -1996,8 +1996,8 @@ c_oversticht;99;99 - Gelre;Oversticht - Gelre
 c_oversticht;99;99 - Gelre;Duplicate to increase weight
 
 c_frisia;100;100 - Friesland;Friesland - Friesland
-c_frisia;100;100 - Friesland;Friesland - Friesland
-c_westfriesland;100;100 - Friesland;Friesland - Friesland
+c_frisia;100;100 - Friesland;Duplicate to increase weight
+c_westfriesland;100;100 - Friesland;Westfriesland - Friesland
 
 c_ostfriesland;1931;1931 - East Frisia;Ostfriesland - East Frisia
 
@@ -4300,7 +4300,10 @@ c_asyut;2319;2319 - Asyut;Asyut - Asyut
 c_asyut;2319;2319 - Asyut;Duplicate to increase weight
 c_ikhmin;2319;2319 - Asyut;Ikhmin - Asyut
 
-#### Ras Gharib (off-map)
+c_quena;2320;2320 - Ras Gharib;Ras Gharib
+c_asyut;2320;2320 - Ras Gharib;Ras Gharib
+c_sarqihya;2320;2320 - Ras Gharib;Ras Gharib
+
 ### Upper Egypt
 
 c_qus;360;360 - Qena;Qus - Qena
@@ -4853,17 +4856,17 @@ c_artaani;2196;2196 - Guria;Artaani - Guria
 ## Arabia
 ### Tabuk
 
-c_tabuk;383;383 - Tabuk;Tabuk
-c_hijaz;383;383 - Tabuk;Tabuk
-c_hijaz;383;383 - Tabuk;Tabuk
+c_tabuk;383;383 - Tabuk;Tabuk - Tabuk
+c_hijaz;383;383 - Tabuk;Al-Ula - Tabuk
+c_hijaz;383;383 - Tabuk;Duplicate to increase weight
 
-c_maan;2327;2327 - Maan;Maan/Ma'an
-c_maan;2327;2327 - Maan;Maan/Ma'an
-c_tabuk;2327;2327 - Maan;Maan/Ma'an
+c_maan;2327;2327 - Maan;Maan - Maan
+c_maan;2327;2327 - Maan;Duplicate to increase weight
+c_tabuk;2327;2327 - Maan;Tabuk - Maan
 
-c_hijaz;2328;2328 - Tayma;Tayma/Taima
-c_hail;2328;2328 - Tayma;Tayma/Taima
-c_ar_ar;2328;2328 - Tayma;Tayma/Taima
+c_hijaz;2328;2328 - Tayma;Al-Ula - Tayma
+c_hail;2328;2328 - Tayma;Hail - Tayma
+c_ar_ar;2328;2328 - Tayma;Al-Jawf - Tayma
 
 ### Hejaz
 
@@ -4939,7 +4942,9 @@ c_dhu_zabi;398;398 - Qawasim;Julfar - Qawasim
 c_suhar;398;398 - Qawasim;Suhar - Qawasim
 d_oman;398;398 - Qawasim;Duchy Uman - Qawasim
 
-#### Liwa (off-map)
+c_dhu_zabi;404;404 - Liwa;Liwa
+c_qatar;404;404 - Liwa;Liwa
+c_hajar;404;404 - Liwa;Liwa
 
 c_qatar;2333;2333 - Abd al-Qays;Qatar - Abd al-Qays
 
@@ -5011,7 +5016,10 @@ c_asir;386;386 - Asir;Asir - Asir
 c_rafha;391;391 - Najran;Sadah - Najran
 c_asir;391;391 - Najran;Asir - Najran
 
-#### Ahqaf (off-map)
+c_kathiri;2345;2345 - Ahqaf;Ahqaf
+c_kathiri;2345;2345 - Ahqaf;Ahqaf
+c_sanaa;2345;2345 - Ahqaf;Ahqaf
+c_rafha;2345;2345 - Ahqaf;Ahqaf
 
 c_tihama;2346;2346 - Jazan;Tihama - Jazan
 c_asir;2346;2346 - Jazan;Asir - Jazan
