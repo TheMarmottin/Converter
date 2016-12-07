@@ -4300,9 +4300,9 @@ c_asyut;2319;2319 - Asyut;Asyut - Asyut
 c_asyut;2319;2319 - Asyut;Duplicate to increase weight
 c_ikhmin;2319;2319 - Asyut;Ikhmin - Asyut
 
-c_quena;2320;2320 - Ras Gharib;Ras Gharib
-c_asyut;2320;2320 - Ras Gharib;Ras Gharib
-c_sarqihya;2320;2320 - Ras Gharib;Ras Gharib
+c_quena;2320;2320 - Ras Gharib;Qusayr - Ras Gharib
+c_asyut;2320;2320 - Ras Gharib;Asyut - Ras Gharib
+c_sarqihya;2320;2320 - Ras Gharib;Quzlum - Ras Gharib
 
 ### Upper Egypt
 
@@ -4942,9 +4942,9 @@ c_dhu_zabi;398;398 - Qawasim;Julfar - Qawasim
 c_suhar;398;398 - Qawasim;Suhar - Qawasim
 d_oman;398;398 - Qawasim;Duchy Uman - Qawasim
 
-c_dhu_zabi;404;404 - Liwa;Liwa
-c_qatar;404;404 - Liwa;Liwa
-c_hajar;404;404 - Liwa;Liwa
+c_dhu_zabi;404;404 - Liwa;Julfar - Liwa
+c_qatar;404;404 - Liwa;Qatar - Liwa
+c_hajar;404;404 - Liwa;Nizwa - Liwa
 
 c_qatar;2333;2333 - Abd al-Qays;Qatar - Abd al-Qays
 
@@ -5016,10 +5016,10 @@ c_asir;386;386 - Asir;Asir - Asir
 c_rafha;391;391 - Najran;Sadah - Najran
 c_asir;391;391 - Najran;Asir - Najran
 
-c_kathiri;2345;2345 - Ahqaf;Ahqaf
-c_kathiri;2345;2345 - Ahqaf;Ahqaf
-c_sanaa;2345;2345 - Ahqaf;Ahqaf
-c_rafha;2345;2345 - Ahqaf;Ahqaf
+c_kathiri;2345;2345 - Ahqaf;Hadramawt - Ahqaf
+c_kathiri;2345;2345 - Ahqaf;Duplicate to increase weight
+c_sanaa;2345;2345 - Ahqaf;Sanaa - Ahqaf
+c_rafha;2345;2345 - Ahqaf;Sadah - Ahqaf
 
 c_tihama;2346;2346 - Jazan;Tihama - Jazan
 c_asir;2346;2346 - Jazan;Asir - Jazan
