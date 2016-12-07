@@ -338,6 +338,7 @@ c_bayeux;168;168 - Normandie;Bayeux - Normandie
 c_coustance;168;168 - Normandie;Cherbourg - Normandie
 c_avranches;168;168 - Normandie;Avranches - Normandie
 c_mortain;168;168 - Normandie;Mortain - Normandie
+c_jersey;168;168 - Normandie;Mortain - Normandie
 
 d_alencon;1879;1879 - Alencon;Duchy Alençon - Alencon
 c_alencon;1879;1879 - Alencon;Alençon - Alencon
@@ -1046,6 +1047,7 @@ c_devon;233;233 - Cornwall;Devon - Cornwall
 
 c_winchester;234;234 - Hampshire;Winchester - Hampshire
 c_wiltshire;234;234 - Hampshire;Wiltshire - Hampshire
+c_wight;234;234 - Hampshire;Wiltshire - Hampshire
 
 d_canterbury;235;235 - Kent;Duchy Kent - Kent
 c_kent;235;235 - Kent;Kent - Kent
@@ -1053,6 +1055,7 @@ c_sussex;235;235 - Kent;Sussex - Kent
 
 c_somerset;4130;4130 - Somerset;Somerset - Somerset
 c_dorset;4130;4130 - Somerset;Dorset - Somerset
+d_somerset;4130;4130 - Somerset;Dorset - Somerset
 
 ### East Anglia
 
@@ -1539,7 +1542,9 @@ c_brandenburg;2993;2993 - Uckermark;Brandenburg - Uckermark
 
 c_wolgast;2994;2994 - Greifswald;Gützkow - Greifswald
 c_wolgast;2994;2994 - Greifswald;Duplicate to increase weight
+c_wolgast;2994;2994 - Greifswald;Duplicate to increase weight
 c_stettin;2994;2994 - Greifswald;Stettin - Greifswald
+c_szvuine;2994;2994 - Greifswald;Stettin - Greifswald
 
 ### Bohemia
 
@@ -1572,6 +1577,8 @@ c_litomerice;2970;2970 - Hradecko;Litomerice - Hradecko
 c_belgard;48;48 - Kolberg;Belgard - Kolberg
 
 c_stettin;1858;1858 - Stettin;Stettin - Stettin
+c_stettin;1858;1858 - Stettin;Stettin - Stettin
+c_szvuine;1858;1858 - Stettin;Stettin - Stettin
 
 c_slupsk;2995;2995 - Stolp;Schlawe-Stolp - Stolp
 
@@ -1794,6 +1801,8 @@ c_western_sjaelland;12;12-Sjaelland;Væstær Syaland - Sjælland
 c_southern_sjaelland;12;12-Sjaelland;Syndræ Syaland - Sjælland
 
 c_fyn;14;14-Fyn;Fyun - Fyn
+c_fyn;14;14-Fyn;Fyun - Fyn
+c_samsoe;14;14-Fyn;Fyun - Fyn
 
 c_lolland;1983;1983-Lolland;Laland - Lolland
 
@@ -1971,7 +1980,7 @@ c_zeeland;96;96 - Zeeland;Zeeland - Zeeland
 
 c_holland;97;97 - Holland;Holland - Holland
 c_holland;97;97 - Holland;Duplicate to increase weight
-c_frisia;97;97 - Holland;Friesland - Holland
+c_westfriesland;97;97 - Holland;Friesland - Holland
 
 c_sticht;98;98 - Utrecht;Sticht - Utrecht
 
@@ -1987,6 +1996,8 @@ c_oversticht;99;99 - Gelre;Oversticht - Gelre
 c_oversticht;99;99 - Gelre;Duplicate to increase weight
 
 c_frisia;100;100 - Friesland;Friesland - Friesland
+c_frisia;100;100 - Friesland;Friesland - Friesland
+c_westfriesland;100;100 - Friesland;Friesland - Friesland
 
 c_ostfriesland;1931;1931 - East Frisia;Ostfriesland - East Frisia
 
@@ -4842,11 +4853,17 @@ c_artaani;2196;2196 - Guria;Artaani - Guria
 ## Arabia
 ### Tabuk
 
-####;383;383 - Tabuk;Tabuk
+c_tabuk;383;383 - Tabuk;Tabuk
+c_hijaz;383;383 - Tabuk;Tabuk
+c_hijaz;383;383 - Tabuk;Tabuk
 
-####;2327;2327 - Maan;Maan/Ma'an
+c_maan;2327;2327 - Maan;Maan/Ma'an
+c_maan;2327;2327 - Maan;Maan/Ma'an
+c_tabuk;2327;2327 - Maan;Maan/Ma'an
 
-####;2328;2328 - Tayma;Tayma/Taima
+c_hijaz;2328;2328 - Tayma;Tayma/Taima
+c_hail;2328;2328 - Tayma;Tayma/Taima
+c_ar_ar;2328;2328 - Tayma;Tayma/Taima
 
 ### Hejaz
 

@@ -12,10 +12,12 @@ import print_time
 def main():
     parser = ck2parser.SimpleParser(ck2parser.rootpath / 'SWMH-BETA/SWMH')
     ck2localize = ck2parser.get_localisation(parser.moddirs)
-    title_key = {title: 'PROV{}'.format(prov) for prov, title, _ in ck2parser.get_provinces(parser)}
+    title_key = {title: 'PROV{}'.format(prov)
+                 for prov, title, _ in ck2parser.get_provinces(parser)}
     parser.moddirs = []
 
-    eu4root = pathlib.Path('/cygdrive/c/SteamLibrary/steamapps/common/Europa Universalis IV')
+    eu4root = pathlib.Path('/cygdrive/c/SteamLibrary/steamapps/common/'
+                           'Europa Universalis IV')
     localize = {}
     for path in (eu4root / 'localisation').glob('*_l_english.yml'):
         with path.open(encoding='utf-8-sig') as f:
@@ -23,7 +25,9 @@ def main():
                 match = re.fullmatch(r'\s*([^#\s:]+):\d?\s*"(.*)"[^"]*', line)
                 if match:
                     localize[match.group(1)] = match.group(2)
-    areas, regions, superregions = {}, collections.OrderedDict(), collections.OrderedDict()
+    areas = {}
+    regions = collections.OrderedDict()
+    superregions = collections.OrderedDict()
     for n, v in parser.parse_file(eu4root / 'map/area.txt'):
         areas[n.val] = [v2.val for v2 in v if isinstance(v2, ck2parser.Number)]
     with (eu4root / 'map/region.txt').open(encoding='cp1252') as f:
@@ -57,17 +61,19 @@ def main():
 
     off_map = [set(), set(), set(), set()]
     prov_mappings = collections.defaultdict(list)
-    errors = []
+    errors = set()
+    unmapped_counties = set(title_key)
     try:
-        with open('province_table_new.csv', encoding='cp1252') as f:
+        with open('province_table.csv', encoding='cp1252') as f:
             for line in f:
                 match = re.match(r'([^#;]*);([^#;]*)', line)
                 if match:
                     ck2title = match.group(1)
                     eu4id = int(match.group(2))
-                    if not any(ck2title in x
-                               for x in [title_key, ck2localize, errors]):
-                        errors.append(ck2title)
+                    if (ck2title not in title_key and
+                        ck2title not in ck2localize):
+                        errors.add(ck2title)
+                    unmapped_counties.discard(ck2title)
                     prov_mappings[eu4id].append(ck2title)
                 else:
                     match = re.match(r'(#+) ([^;]*) \(off-map\)', line)
@@ -78,8 +84,12 @@ def main():
 
     if errors:
         print('Invalid titles:')
-        print(*errors)
+        print(*sorted(errors))
         raise SystemExit()
+
+    if unmapped_counties:
+        print('Unmapped counties:')
+        print(*sorted(unmapped_counties))
 
     prev = None
 
@@ -97,7 +107,8 @@ def main():
             return
         write_line('## {}'.format(localize[region_name]))
         for area_name in regions[region_name]:
-            localize[area_name] = localize.get(area_name, area_name) # unlocalized ad_dahna_area etc.
+            # unlocalized ad_dahna_area etc.
+            localize[area_name] = localize.get(area_name, area_name)
             if localize[area_name] in off_map[2]:
                 write_line('### {} (off-map)'.format(localize[area_name]))
                 continue
@@ -122,10 +133,11 @@ def main():
                         write_line('{};{};{};{}'.format(
                             ck2title, province, history[province], comment))
                 else:
-                    write_line('####;{};{};{}'.format(
-                        province, history[province], '/'.join(names[province])))
+                    write_line('####;{};{};{}'.format(province,
+                               history[province], '/'.join(names[province])))
 
-    with open('province_table_new.csv', 'w', encoding='cp1252', newline='\r\n') as f:
+    with open('province_table.csv', 'w', encoding='cp1252',
+              newline='\r\n') as f:
         print('# CK2TITLE;EU4ID;Filename;Comment', file=f)
         for region_name in orphan_regions:
             write_region(region_name)
