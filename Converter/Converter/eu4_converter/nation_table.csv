@@ -1,0 +1,589 @@
+# CK2TITLE;EU4TAG;EU4FILE;Comment
+
+# Scandinavia
+
+e_scandinavia;SCA;Scandinavia;Scandinavia Empire
+k_sweden;SWE;Sweden;Sweden Kingdom
+k_denmark;DAN;Denmark;Denmark Kingdom
+k_norway;NOR;Norway;Norway Kingdom
+k_finland;FIN;Finland;Finland Kingdom
+k_sapmi;SMI;Sami;Sápmi Kingdom
+d_sapmi;SMI;Sami;Sápmi Duchy
+c_lappland;SMI;Sami;Sápmi County
+d_kola;SMI;Sami;Kola Sami Duchy
+d_finland;FIN;Finland;Finland Duchy
+c_finland;FIN;Finland;Finland County
+d_holstein;SHL;Holstein;Holstein Duchy
+c_holstein;SHL;Holstein;Holstein County
+d_gotland;GOT;Gotland;Gotland Duchy
+c_gotland;GOT;Gotland;Gotland County
+d_karelia;KRL;Karelia;Karelia Duchy
+k_iceland;ICE;Iceland;Iceland Kingdom
+d_iceland;ICE;Iceland;Iceland Duchy
+c_dithmarschen;DTT;Ditmarschen;Ditmarschen County
+
+# Balkans
+
+e_byzantium;BYZ;ByzantineEmpire;Byzantium Empire
+e_bulgaria;BUL;Bulgaria;Bulgaria Empire
+k_bulgaria;BUL;Bulgaria;Bulgaria Kingdom
+k_croatia;CRO;Croatia;Croatia Kingdom
+d_croatia;CRO;Croatia;Croatia Duchy
+k_byzantium;GRE;Greece;Greece Kingdom
+k_serbia;SER;Serbia;Serbia Kingdom
+k_hungary;HUN;Hungary;Hungary Kingdom
+k_ottoman;TUR;Ottoman Empire;Ottoman Kingdom
+d_osmanli;TUR;Ottoman Empire;Ottoman Duchy
+d_achaia;ACH;Principality of Achaia;Achaia Duchy
+d_athens;ATH;Duchy of Athens;Athens Duchy
+c_atheniai;ATH;Duchy of Athens;Athens County
+k_bosnia;BOS;Bosnia;Bosnia Kingdom
+d_bosnia;BOS;Bosnia;Bosnia Duchy
+k_candia;CRT;Crete;Crete Kingdom
+d_krete;CRT;Crete;Crete Duchy
+k_cyprus;CYP;Cyprus;Cyprus Kingdom
+d_cyprus;CYP;Cyprus;Cyprus Duchy
+k_epirus;EPI;Despotate of Epirus;Epirus Kingdom
+d_epirus;EPI;Despotate of Epirus;Epirus Duchy
+c_epeiros;EPI;Despotate of Epirus;Epirus County
+d_knights_hospitaler;KNI;The Knights;Knights Hospitaler
+d_transylvania;TRA;Transylvania;Transylvania Duchy
+k_wallachia;WAL;Wallachia;Wallachia Kingdom
+d_wallachia;WAL;Wallachia;Wallachia Duchy
+d_aegean_islands;NAX;Naxos;Naxos Duchy
+c_naxos;NAX;Naxos;Naxos County
+k_ragusa;RAG;Ragusa;Ragusa Kingdom
+d_ragusa;RAG;Ragusa;Ragusa Duchy
+c_ragusa;RAG;Ragusa;Ragusa County
+c_albania;ALB;Albania;Albania County
+d_dyrrachion;ALB;Albania;Albania Duchy
+c_arbanon;ALB;Albania;Albania County
+d_cephalonia;CEP;Corfu;Corfu Duchy
+c_cephalonia;CEP;Corfu;Corfu County
+c_corfu;CEP;Corfu;Corfu County
+d_slovakia;SLO;Nyitra;Slovakia Duchy
+d_nyitra;SLO;Nyitra;Slovakia Duchy
+c_nitra;SLO;Nyitra;Slovakia County
+d_dioclea;MON;Montenegro;Montenegro Duchy
+c_zeta;MON;Montenegro;Montenegro County
+k_achaea;MOE;Morea;Morea Kingdom
+c_monemvasia;MOE;Morea;Morea County
+
+# British Isles
+
+e_britannia;GBR;Great Britain;Great Britain
+k_england;ENG;England;England Kingdom
+k_ireland;IRE;Ireland;Ireland Kingdom
+k_scotland;SCO;Scotland;Scotland Kingdom
+k_wales;WLS;Wales;Wales Kingdom
+d_cornwall;CRN;Cornwall;Cornwall Duchy
+c_cornwall;CRN;Cornwall;Cornwall County
+d_northumberland;NOL;Northumberland;Northumberland Duchy
+c_northumberland;NOL;Northumberland;Northumberland County
+d_connacht;CNN;Clanricarde;Clanricarde Duchy
+d_leinster;LEI;Leinster;Leinster Duchy
+d_thomond;MNS;Munster;Munster Duchy
+d_munster;MNS;Munster;Munster Duchy
+c_tyrone;TYR;Tyrone;Tyrone County
+d_oneill;TYR;Tyrone;Tyrone Duchy
+c_connacht;CNN;Clanricarde;Clanricarde County
+c_leinster;LEI;Leinster;Leinster County
+d_meath;MTH;Meath;Meath Duchy
+d_ulster;ULS;Ulster;Ulster Duchy
+c_ulster;ULS;Ulster;Ulster County
+c_desmond;DMS;Desmond;Desmond County
+c_kildare;KID;Kildare;Kildare County
+d_moray;HSC;Highlands;Highlands Duchy
+
+# Eastern Europe
+
+k_lithuania;LIT;Lithuania;Lithuania Kingdom
+k_poland;POL;Poland;Poland Kingdom
+d_krakow;KRA;Krakow;Krakow Duchy
+c_krakowskie;KRA;Krakow;Krakow County
+d_mazovia;MAZ;Mazovia;Mazovia Duchy
+d_prussia;PRU;Prussia;Prussia Duchy
+d_courland;KUR;Courland;Kurland Duchy
+d_teutonic_order;TEU;Teutonic Order;Teutonic Order
+c_danzig;DNZ;Danzig;Danzig County
+c_toreida;RIG;Riga;Riga County
+c_zemigalians;RIG;Riga;Riga County
+k_ruthenia;KIE;Kiev;Kiev Kingdom
+d_kiev;KIE;Kiev;Kiev Duchy
+c_kiev;KIE;Kiev;Kiev County
+d_chernigov;CHR;Chernigov;Chernigov Duchy
+c_chernigov;CHR;Chernigov;Chernigov County
+c_achaia;ACH;Principality of Achaia;Achaia County
+k_dacia;WAL;Wallachia;Wallachia Kingdom
+k_moldau;MOL;Moldavia;Moldau Kingdom
+d_moldau;MOL;Moldavia;Moldau Duchy
+d_lithuanians;LIT;Lithuania;Lithuania Duchy
+c_kurs;KUR;Courland;Kurland County
+d_esthonia;EST;Estonia;Estonia Duchy
+k_terra;LVA;Livonia;Livonia Kingdom
+d_livonia;LVA;Livonia;Livonia Duchy
+
+# France
+
+e_france;FRA;France;Francia Empire
+k_france;FRA;France;France Kingdom
+k_brittany;BRI;Brittany;Brittany Kingdom
+d_brittany;BRI;Brittany;Brittany Duchy
+d_alsace;ALS;Alsace;Alsace Duchy
+c_armagnac;AMG;Armangnac;Armangnac County
+d_auvergne;AUV;Auvergne;Auvergne Duchy
+c_auvergne;AUV;Auvergne;Auvergne County
+k_burgundy;BUR;Burgundy;Burgundy Kingdom
+d_burgundy;BUR;Burgundy;Burgundy Duchy
+d_champagne;CHP;Champagne;Champagne Duchy
+d_corsica;COR;Corsica;Corsica Duchy
+c_corsica;COR;Corsica;Corsica County
+d_dauphine;DAU;Dauphine ;Dauphine Duchy
+d_foix;FOI;Foix;Foix Duchy
+c_foix;FOI;Foix;Foix County
+d_nevers;NEV;Nevers;Nevers Duchy
+c_nevers;NEV;Nevers;Nevers County
+d_normandy;NRM;Normandy;Normandy Duchy
+d_orleans;ORL;Orleans;Orleans Duchy
+c_orleans;ORL;Orleans;Orleans County
+d_provence;PRO;Provence;Provence Duchy
+c_provence;PRO;Provence;Provence County
+k_toulouse;TOU;Toulouse;Toulouse Kingdom
+d_toulouse;TOU;Toulouse;Toulouse Duchy
+c_toulouse;TOU;Toulouse;Toulouse County
+d_berry;BER;Berry;Berry Duchy
+c_venaissin;AVI;Avignon;Venaissin County
+d_bourbon;BOU;Bourbonnais;Bourbonnais Duchy
+c_bourbon;BOU;Bourbonnais;Bourbonnais County
+c_boulogne;PIC;Picardy;Picardy County
+d_alencon;ALE;Alencon;Alencon Duchy
+c_alencon;ALE;Alencon;Alencon County
+d_gascogne;GUY;Gascony;Gascony Duchy
+
+# HRE
+
+c_anhalt;ANH;Anhalt;Anhalt County
+d_baden;BAD;Baden;Baden Duchy
+c_baden;BAD;Baden;Baden County
+k_bavaria;BAV;Bavaria;Bavaria Kingdom
+k_emf_bavaria;BAV;Bavaria;Bavaria Kingdom
+d_bavaria;BAV;Bavaria;Bavaria Duchy
+k_bohemia;BOH;Bohemia;Bohemia Kingdom
+d_bohemia;BOH;Bohemia;Bohemia Duchy
+d_brandenburg;BRA;Brandenburg;Brandenburg Duchy
+c_brandenburg;BRA;Brandenburg;Brandenburg County
+d_bremen;BRE;Bremen;Bremen Duchy
+c_bremen;BRE;Bremen;Bremen County
+d_brunswick;BRU;Brunswick;Brunswick Duchy
+e_germany;GER;Germany;Germany Empire
+k_germany;GER;Germany;Germany Kingdom
+k_austria;HAB;Austria;Austria Kingdom
+d_osterreich;HAB;Austria;Austria Duchy
+c_hamburg;HAM;Hamburg;Hamburg County
+e_hre;HLR;Holy Roman Empire;Holy Roman Empire
+e_hre_french;HLR;Holy Roman Empire;Holy Roman Empire
+k_upper_lorraine;LOR;Lorraine;Lorraine Kingdom
+d_upper_lorraine;LOR;Lorraine;Lorraine Duchy
+c_lorraine;LOR;Lorraine;Lorraine County
+c_luneburg;LUN;Luneburg;Luneburg County
+d_mainz;MAI;Mainz;Mainz Duchy
+c_mainz;MAI;Mainz;Mainz County
+d_meissen;MEI;Meissen;Meissen Duchy
+c_meissen;MEI;Meissen;Meissen County
+c_mecklemburg;MKL;Mecklenburg;Mecklenburg County
+d_bishopmunster;MUN;Munster;Munster Duchy
+c_munster;MUN;Munster;Munster County
+c_oldenburg;OLD;Oldenburg;Oldenburg County
+k_pomerania;POM;Pommern;Pommerania Kingdom
+d_pommerania;POM;Pommern;Pommerania Duchy
+d_saxewittenberg;SAX;Saxony;Saxony Duchy
+d_saxony;SAX;Saxony;Saxony Duchy
+d_silesia;SIL;Silesia;Silesia Duchy
+d_salzburg;SLZ;Salzburg;Salzburg Duchy
+c_salzburg;SLZ;Salzburg;Salzburg County
+d_thuringia;THU;Thuringia;Thuringia Duchy
+c_thuringen;THU;Thuringia;Thuringia County
+d_tyrol;TIR;Tyrol;Tirol Duchy
+c_tirol;TIR;Tyrol;Tirol County
+d_trier;TRI;Trier;Trier Duchy
+c_trier;TRI;Trier;Trier County
+c_ulm;ULM;Ulm;Ulm County
+c_wurzburg;WBG;Wurzburg;Wurzburg County
+c_wurttemberg;WUR;Wurttemberg;Wurttemberg County
+d_koln;KOL;Cologne;Koln Duchy
+c_koln;KOL;Cologne;Koln County
+c_braunschweig;BRU;Brunswick;Brunswick County
+c_osterreich;HAB;Austria;Austria County
+d_mecklemburg;MKL;Mecklenburg;Mecklenburg Duchy
+d_berg;KLE;Kleves;Kleve Duchy
+c_kleve;KLE;Kleves;Kleve County
+c_ostfriesland;EFR;East Frisia;Ostfriesland County
+d_swiss;SWI;Switzerland;Switzerland
+c_nassau;NSA;Nassau;Nassau County
+d_augsburg;AUG;Augsburg;Augsburg Duchy
+c_augsburg;AUG;Augsburg;Augsburg County
+c_kempten;AUG;Augsburg;Augsburg County
+c_celle;HAN;Hannover;Hannover County
+c_nurnberg;NUM;Nuremberg;Nuremberg County
+c_aachen;AAC;Aachen;Aachen County
+d_hessen;HES;Hessen;Hessen Duchy
+c_hessen;HES;Hessen;Hessen County
+d_magdeburg;MAG;Magdeburg;Magdeburg Duchy
+c_magdeburg;MAG;Magdeburg;Magdeburg County
+d_lauenburg;LAU;Lauenburg;Lauenburg Duchy
+c_lauenburg;LAU;Lauenburg;Lauenburg County
+c_ansbach;ANS;Ansbach;Ansbach County
+d_styria;STY;Styria;Styria Duchy
+c_steiermark;STY;Styria;Styria County
+d_pfalz;PAL;Palatinate;Palatinate Duchy
+c_pfalz;PAL;Palatinate;Palatinate County
+
+# Spain
+
+k_aragon;ARA;Aragon;Aragon Kingdom
+d_aragon;ARA;Aragon;Aragon Duchy
+k_castille;CAS;Castile;Castile Kingdom
+d_castilla;CAS;Castile;Castile Duchy
+d_granada;GRA;Granada;Granada Duchy
+c_granada;GRA;Granada;Granada County
+k_navarra;NAV;Navarra;Navarra Kingdom
+d_navarra;NAV;Navarra;Navarra Duchy
+c_navarra;NAV;Navarra;Navarra County
+k_portugal;POR;Portugal;Portugal Kingdom
+d_porto;POR;Portugal;Portugal Duchy
+e_spain;SPA;Spain;Spain Empire
+k_spanish_galicia;GAL;Galicia;Galicia Kingdom
+d_galicia;GAL;Galicia;Galicia Duchy
+k_leon;LON;Leon;León Kingdom
+d_leon;LON;Leon;León Duchy
+c_leon;LON;Leon;León County
+k_andalusia;ADU;Andalusia;Andalusia Kingdom
+k_catalunya;CAT;Catalunya;Catalunya Kingdom
+d_barcelona;CAT;Catalunya;Catalunya Duchy
+c_barcelona;CAT;Catalunya;Catalunya County
+
+# Italy
+
+d_aquileia;AQU;Aquileia;Aquileia Duchy
+c_aquileia;AQU;Aquileia;Aquileia County
+d_ferrara;FER;Ferrara;Ferrara Duchy
+c_ferrara;FER;Ferrara;Ferrara County
+k_genoa;GEN;Genoa;Genoa Kingdom
+d_genoa;GEN;Genoa;Genoa Duchy
+e_italy;ITA;Italy;Italy Empire
+k_italy;ITA;Italy;Italy Kingdom
+d_mantua;MAN;Mantua;Mantua Duchy
+c_mantua;MAN;Mantua;Mantua County
+d_modena;MOD;Modena;Modena Duchy
+c_modena;MOD;Modena;Modena County
+k_naples;NAP;Naples;Naples Kingdom
+k_papal_state;PAP;Papal;Papal State Kingdom
+d_parma;PAR;Parma;Parma Duchy
+c_parma;PAR;Parma;Parma County
+k_pisa;PIS;Pisa;Pisa Kingdom
+d_pisa;PIS;Pisa;Pisa Duchy
+c_pisa;PIS;Pisa;Pisa Pisa
+d_sardinia;SAR;Sardinia;Sardinia Duchy
+d_savoie;SAV;Savoy;Savoy Duchy
+k_sicily;SIC;Sicily;Sicily Kingdom
+k_trinacria;SIC;Sicily;Sicily Kingdom
+d_sicily;SIC;Sicily;Sicily Duchy
+d_siena;SIE;Siena;Siena County
+c_siena;SIE;Siena;Siena County
+d_toscana;TUS;Tuscany;Tuscany Duchy
+d_urbino;URB;Urbino;Urbino Duchy
+c_urbino;URB;Urbino;Urbino County
+k_venice;VEN;Venice;Venice Kingdom
+d_venice;VEN;Venice;Venice Duchy
+c_venezia;VEN;Venice;Venice County
+c_genoa;GEN;Genoa;Genoa County
+c_savoie;SAV;Savoy;Savoy County
+d_lombardia;MLO;Milan;Milan Duchy
+d_milano;MLO;Milan;Milan
+d_monferrato;MFA;Montferrat;Monferrato Duchy
+c_monferrato;MFA;Montferrat;Monferrato County
+d_lucca;LUC;Lucca;Lucca Duchy
+c_lucca;LUC;Lucca;Lucca County
+c_malta;JAI;Malta;Malta County
+c_firenze;LAN;Florence;Florence County
+c_lombardia;MLO;Milan;Milan County
+
+# Low Countries
+
+d_brabant;BRB;Brabant;Brabant Duchy
+c_brabant;BRB;Brabant;Brabant County
+k_flanders;FLA;Flanders;Flanders Kingdom
+d_flanders;FLA;Flanders;Flanders Duchy
+d_gelre;GEL;Gelre;Gelre Duchy
+c_gelre;GEL;Gelre;Gelre County
+d_hainaut;HAI;Hainaut;Hainaut Duchy
+c_hainaut;HAI;Hainaut;Hainaut County
+d_holland;HOL;Holland;Holland Duchy
+c_holland;HOL;Holland;Holland County
+d_liege;LIE;Liege;Liege Duchy
+c_liege;LIE;Liege;Liege County
+d_luxembourg;LUX;Luxembourgh;Luxembourg Duchy
+c_luxembourg;LUX;Luxembourgh;Luxembourg County
+k_frisia;FRI;Friesland;Friesland Kingdom
+d_frisia;FRI;Friesland;Friesland Duchy
+c_frisia;FRI;Friesland;Friesland County
+d_utrecht;UTR;Utrecht;Utrecht Duchy
+c_sticht;UTR;Utrecht;Utrecht County
+
+# Russia
+
+k_armenia;ARM;Armenia;Armenia Kingdom
+k_bagratid_grand_principality;ARM;Armenia;Armenia Kingdom
+d_armenia;ARM;Armenia;Armenia Duchy
+k_taurica;CRI;Crimea;Crimea Kingdom
+d_crimea;CRI;Crimea;Crimea Duchy
+c_crimea;CRI;Crimea;Crimea Duchy
+k_georgia;GEO;Georgia;Georgia Kingdom
+e_golden_horde;GLH;Golden Horde;Golden Horde Empire
+k_vladimir;MOS;Muscowy;Muscowy Kingdom
+d_moskva;MOS;Muscowy;Muscowy Duchy
+c_moskva;MOS;Muscowy;Muscowy County
+k_novgorod;NOV;Novgorod;Novgorod Kingdom
+d_novgorod;NOV;Novgorod;Novgorod Duchy
+c_novgorod;NOV;Novgorod;Novgorod County
+c_pskov;PSK;Pskov;Pskov County
+e_russia;RUS;Russia;Russia Empire
+d_ryazan;RYA;Ryazan;Ryazan Duchy
+c_ryazan;RYA;Ryazan;Ryazan Ryazan
+d_tver;TVE;Tver;Tver Duchy
+c_tver;TVE;Tver;Tver County
+d_yaroslavl;YAR;Yaroslavl;Yaroslavl Duchy
+c_yaroslavl;YAR;Yaroslavl;Yaroslavl County
+k_polotsk;PLT;Polotsk;Polotsk Kingdom
+d_polotsk;PLT;Polotsk;Polotsk Duchy
+c_polotsk;PLT;Polotsk;Polotsk County
+k_perm;PRM;Perm;Perm Kingdom
+d_perm;PRM;Perm;Perm Duchy
+c_perm;PRM;Perm;Perm County
+d_zaporizhia;ZAZ;Zaporozhie;Zaporozhie Duchy
+c_lukomorie;ZAZ;Zaporozhie;Zaporozhie County
+c_theodoro;FEO;Theodoro;Theodoro County
+c_theodosia;FEO;Theodoro;Theodoro County
+d_bashkirs;BSH;Bashkiria;Bashkiria Duchy
+c_bashkirs;BSH;Bashkiria;Bashkiria County
+k_galicia;VOL;Volyn;Volyn (Galicia-Volhynia) Kingdom
+d_volhynia;VOL;Volyn;Volyn Duchy
+c_mozhaysk;OKA;Oka;Oka County
+d_zichia;CIR;Circassia;Circassia Duchy
+c_kasogs;CIR;Circassia;Circassia County
+c_lekia;GAZ;Gazikumukh;Gazikumukh County
+
+# Arabia
+
+k_oman;OMA;Oman;Oman Kingdom
+d_oman;OMA;Oman;Oman Duchy
+d_medina;HED;The Hedjaz;Hedjaz Duchy
+c_hijaz;HED;The Hedjaz;Hedjaz County
+d_amman;ALH;Haasa;Haasa Duchy
+c_al_hasa;ALH;Haasa;Haasa County
+e_arabia;ARB;Arabia;Arabia Empire
+k_arabia;ARB;Arabia;Arabia Kingdom
+d_hormuz;ORM;Ormuz;Hormuz Duchy
+c_hormuz;ORM;Ormuz;Hormuz County
+d_nefoud;NAJ;Najd;Najd Duchy
+c_hajr;NAJ;Najd;Najd County
+k_yemen;ADE;Aden;Aden Kingdom
+d_sanaa;ADE;Aden;Aden Duchy
+
+# Asia Minor
+
+k_aydin;AYD;Aydin;Aydin Kingdom
+d_aydin;AYD;Aydin;Aydin Duchy
+k_candar;CND;Candar;Candar Kingdom
+d_candar;CND;Candar;Candar Duchy
+k_mesopotamia;IRQ;Iraq;Iraq Kingdom
+k_karaman;KAR;Karaman;Karaman Kingdom
+d_karaman;KAR;Karaman;Karaman Duchy
+k_syria;SYR;Syria;Syria Kingdom
+d_syria;SYR;Syria;Syria Duchy
+c_syria;SYR;Syria;Syria County
+k_trebizond;TRE;Trebizond;Trebizond Kingdom
+d_trebizond;TRE;Trebizond;Trebizond Duchy
+k_saruhan;SRU;Saruhan;Saruhan Kingdom
+d_saruhan;SRU;Saruhan;Saruhan Duchy
+k_mentese;MEN;Mentese;Mentese Kingdom
+d_mentese;MEN;Mentese;Mentese Duchy
+k_imereti;IME;Imereti;Imereti Kingdom
+d_imeretia;IME;Imereti;Imereti Duchy
+c_imeretia;IME;Imereti;Imereti County
+k_caucasian_albania;SRV;Shirvan;Shirvan Kingdom
+d_shirvan;SRV;Shirvan;Shirvan Duchy
+c_shirvan;SRV;Shirvan;Shirvan County
+k_eretnid;ERE;Eretna;Eretna Kingdom
+d_eretnid;ERE;Eretna;Eretna Duchy
+
+# Maghreb
+d_mamluks;MAM;Mameluks;Burgi (Mamluks)
+d_fes;FEZ;Fez;Fez Duchy
+c_fes;FEZ;Fez;Fez County
+d_tripolitania;TRP;Tripoli;Tripoli Duchy
+c_tripolitana;TRP;Tripoli;Tripoli County
+d_alger;ALG;Algiers;Algiers Duchy
+k_maghreb;MOR;Morocco;Morocco Kingdom
+d_marrakech;MOR;Morocco;Morocco Duchy
+k_egypt;EGY;Egypt;Egypt Kingdom
+k_africa;TUN;Tunisia;Tunis Kingdom
+d_tunis;TUN;Tunisia;Tunis Duchy
+c_tunis;TUN;Tunisia;Tunis County
+c_al_djazair;ALG;Algiers;Algiers County
+d_kabylia;KBA;Kabylia;Kabylia Duchy
+d_mzab;MZB;Mzab;Mzab Duchy
+c_mzab;MZB;Mzab;Mzab County
+d_tlemcen;TLC;Tlemcen;Tlemcen Duchy
+c_tlemcen;TLC;Tlemcen;Tlemcen County
+k_fezzan;FZA;Fezzan;Fezzan Kingdom
+d_fezzan;FZA;Fezzan;Fezzan Duchy
+c_tharasset;SOS;Sus;Sus County
+c_sous;TFL;Tafilalt;Tafilalt County
+d_tabarestan;TAB;Tabarestan;Tabarestan Duchy
+d_mazandaran;TAB;Tabarestan;Tabarestan Duchy
+c_tabaristan;TAB;Tabarestan;Tabarestan County
+k_germiyan;GRM;Germiyan;Germiyan Kingdom
+d_germiyan;GRM;Germiyan;Germiyan Duchy
+
+# Central Asia
+
+k_khiva;KHI;Khiva;Khiva Kingdom
+d_khiva;KHI;Khiva;Khiva Duchy
+c_khiva;KHI;Khiva;Khiva County
+d_sibir;SIB;Sibir;Sibir Duchy
+c_sibir;SIB;Sibir;Sibir County
+c_kazakh;KZH;Khazak Horde;Kazakh County
+c_bukhara;BUK;Bukhara;Bukhara County
+c_qazan;KAZ;Kazan;Qazan County
+e_chagatai;CHG;Chagatai Khanate;Chagatai Khanate
+
+# Persia
+
+k_khorasan;KHO;Khorasan;Khorasan Kingdom
+d_khorasan;KHO;Khorasan;Khorasan Duchy
+c_tus;KHO;Khorasan;Khorasan County
+e_persia;PER;Persia;Persia Empire
+k_persia;PER;Persia;Persia Kingdom
+d_fars;PER;Persia;Persia Duchy
+e_timurids;TIM;Timurid Empire;Timurid Empire
+
+# Americas
+
+e_mexikha;AZT;Aztec Empire;Aztec Empire
+
+
+# Africa
+
+e_mali;MAL;Mali;Mali Empire
+k_mali;MAL;Mali;Mali Kingdom
+d_mali;MAL;Mali;Mali Duchy
+c_mali;MAL;Mali;Mali County
+e_abyssinia;ETH;Ethiopia;Ethiopia Empire
+k_abyssinia;ETH;Ethiopia;Ethiopia Kingdom
+k_alodia;ALO;Alodia;Alodia Kingdom
+d_alodia;ALO;Alodia;Alodia Duchy
+c_alwa;ALO;Alodia;Alodia County
+d_sennar;ALO;Alodia;Alodia Duchy
+c_alodia;ALO;Alodia;Alodia County
+k_makuria;MAK;Makuria;Makuria Kingdom
+c_makuria;MAK;Makuria;Makuria County
+k_songhay;SON;Songhai;Songhay Kingdom
+d_songhay;SON;Songhai;Songhay Duchy
+d_afar;AFA;Afar;Afar Duchy
+c_harer;HAR;Harar;Harar County
+d_timbuktu;TMB;Timbuktu;Timbuktu Duchy
+c_timbuktu;TMB;Timbuktu;Timbuktu County
+d_semien;BTI;Semien;Semien Duchy
+c_semien;BTI;Semien;Semien County
+d_wolof;JOL;Jolof;Jolof Duchy
+c_djolof;JOL;Jolof;Jolof County
+k_adal;ADA;Adal;Adal Kingdom
+k_hausaland;HAU;Hausa;Hausa Kingdom
+c_djenne;JNN;Jenne;Jenne County
+d_kano;KAN;Kano;Kano Duchy
+c_kano;KAN;Kano;Kano County
+c_katsina;KTS;Katsina;Katsina County
+d_mossi;MSI;Mossi;Mossi Duchy
+d_air;AIR;Air;Air Duchy
+d_darfur;DAR;Darfur;Darfur Duchy
+k_kanem;KBO;KanemBornu;Kanem Bornu Kingdom
+c_masin;ZAF;Zafunu;Zafunu (Macina) County
+k_blemmyes;BEJ;Beja;Beja Kingdom
+d_damot;DAM;Damot;Damot Duchy
+c_ankober;DAM;Damot;Damot County
+c_shewa;SOA;Shewa;Shewa County
+
+# Mongols
+
+e_mongol_empire;KHA;MongolKhanate;Mongol Khanate
+
+# India
+
+e_bengal;BNG;Bengal;Bengal Empire
+k_bengal;BNG;Bengal;Bengal Kingdom
+k_orissa;ORI;Orissa;Orissa Kingdom
+k_lanka;CEY;Ceylon;Lanka Kingdom
+d_lanka;CEY;Ceylon;Lanka Duchy
+k_gujarat;GUJ;Gujarat;Gujarat Kingdom
+d_gurjara_mandala;GUJ;Gujarat;Gujarat Duchy
+k_malwa;MLW;Malwa;Malwa Kingdom
+k_sindh;SND;Sind;Sindh Kingdom
+e_rajastan;DLH;Delhi;Delhi Empire
+k_delhi;DLH;Delhi;Delhi Kingdom
+k_gondwana;GDW;Gondwana;Gondwana Kingdom
+d_jangladesh;JAN;Jangaldesh;Jangaldesh Kingdom
+e_india;HIN;Hindustan;Hindustan Empire
+k_afghanistan;AFG;Afghanistan;Afghanistan Kingdom
+k_baluchistan;BAL;Baluchistan;Baluchistan Kingdom
+d_baloch;BAL;Baluchistan;Baluchistan Duchy
+d_baluchistan;BAL;Baluchistan;Baluchistan Duchy
+c_delhi;DLH;Delhi;Delhi County
+k_punjab;PUN;Punjab;Punjab Kingdom
+k_karnata;KRK;Carnatic;Karnata Kingdom
+c_gwalior;GWA;Gwalior;Gwalior County
+c_jaunpur;JNP;Jaunpur;Jaunpur County
+c_venadu;VND;Venad;Venadu County
+c_kasmira;KSH;Kashmir;Kasmira County
+d_vidharba;BRR;Berar;Berar Duchy
+e_deccan;DEC;Deccan;Deccan Empire
+c_madurai;MAD;Madurai;Madurai County
+d_multan;MUL;Multan;Multan Duchy
+c_multan;MUL;Multan;Multan County
+d_jharkand;NGP;Jharkhand;Jharkhand Duchy
+c_jharkand;NGP;Jharkhand;Jharkhand County
+c_maldives;DGL;Maldives;Maldives County
+k_andhra;YOR;Andhra;Andhra Kingdom
+c_burhanpur;KHD;Khandesh;Khandesh County
+d_jejakabhukti;BND;Bundelkhand;Bundelkhand Duchy
+c_katehar;RMP;Rohilkandh;Rohilkandh County
+c_ludrava;JSL;Jaisalmer;Jaisalmer County
+d_maru;MAW;Marwar;Marwar Duchy
+d_medapata;MER;Mewar;Mewar Duchy
+c_medapata;MER;Mewar;Mewar County
+c_nagauda;NGA;Nagaur;Nagaur County
+
+# Additional
+
+d_lubeck;HSA;Hansa;Hanseatic League
+c_lubeck;HSA;Hansa;Hanseatic League
+d_barleduc;BAR;Bar;Bar Duchy
+c_bar;BAR;Bar;Bar County
+d_smolensk;SMO;Smolensk;Smolensk Duchy
+c_smolensk;SMO;Smolensk;Smolensk County
+d_nizhny_novgorod;NZH;Nizhny Novgorod;Nizhny Novgorod Duchy
+c_nizhny_novgorod;NZH;Nizhny Novgorod;Nizhny Novgorod County
+k_jerusalem;KOJ;Jerusalem;Jerusalem Kingdom
+d_jerusalem;KOJ;Jerusalem;Jerusalem Duchy
+c_jerusalem;KOJ;Jerusalem;Jerusalem County
+e_poland;PLC;TheCommonwealth;Commonwealth
+d_jomsvikings;JOM;Jomsvikings;Jomsvikings Special Case
+d_hashshashin;HAH;Hashshashin;Hashshashin Special Case
+e_roman_empire;ROM;RomanEmpire;Roman Empire Special Case
+k_israel;ISR;Israel;Kingdom of Israel Special Case
+d_knights_templar;TEM;KnightsTemplar;Knights Templar Special Case
+c_yarkand;KAS;Yarkand;Yarkand County
+
+;NOG;Nogai;Nogai exists in EU4, not CK2
+;AST;Astrakhan;Astrakhan exists in EU4, not CK2
+;MUG;Mughal;Mughal exists in EU4, not CK2

@@ -1,0 +1,10 @@
+#1071 - Tara
+
+culture = siberian
+religion = tengri_pagan_reformed
+capital = "Qizil Tura"
+trade_goods = unknown
+hre = no
+base_tax = 3
+manpower = 3
+discovered_by = nomad_group

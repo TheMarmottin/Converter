@@ -1,0 +1,14 @@
+#Ume, Åsele, Piteå Lappmarks
+
+capital = "Arvidsjaur"
+culture = sapmi
+religion = finnish_pagan_reformed
+hre = no
+base_tax = 1
+trade_goods = unknown
+manpower = 1
+native_hostileness = 1
+native_size = 3
+native_ferocity = 2
+discovered_by = eastern
+discovered_by = western

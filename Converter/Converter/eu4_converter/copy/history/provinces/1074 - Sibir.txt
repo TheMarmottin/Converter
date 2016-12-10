@@ -1,0 +1,10 @@
+#1074 - Sibir
+
+culture = ostyaki
+religion = tengri_pagan_reformed
+capital = "Qashliq"
+trade_goods = unknown
+hre = no
+base_tax = 2
+manpower = 2
+discovered_by = nomad_group

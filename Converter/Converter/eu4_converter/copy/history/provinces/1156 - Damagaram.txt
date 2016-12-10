@@ -1,0 +1,13 @@
+#1156 - Damagaram
+
+culture = tuareg
+religion = shamanism #Fetishism
+capital = "Mashina"
+manpower = 1
+trade_goods = unknown
+hre = no
+base_tax = 1
+
+
+
+discovered_by = sub_saharan

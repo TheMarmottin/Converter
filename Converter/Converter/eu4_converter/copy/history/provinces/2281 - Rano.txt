@@ -1,0 +1,13 @@
+# No previous file for Rano
+
+culture = hausa 
+religion = shamanism #Fetishism
+capital = "Rano"
+trade_goods = unknown
+hre = no
+base_tax = 2
+manpower = 1
+
+
+
+discovered_by = sub_saharan

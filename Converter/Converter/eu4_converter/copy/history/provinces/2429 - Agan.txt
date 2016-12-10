@@ -1,0 +1,13 @@
+#2429 - Agan
+
+culture = ostyaki
+religion = tengri_pagan_reformed
+capital = "Variegansk"
+trade_goods = unknown
+hre = no
+base_tax = 1
+manpower = 1
+
+
+
+discovered_by = nomad_group
