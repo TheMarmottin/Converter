@@ -17,11 +17,19 @@ decisions = {
 		effect = {
 			hidden_tooltip = {
 				set_global_flag = converter_ready
-			}
-			#convert pagans to Fetishism, for convenience
-			any_playable_ruler = {
-				limit = { religion = pagan }
-				religion = west_african_pagan
+				#convert pagans to Fetishism, for convenience
+				any_province = { 
+					limit = { religion = pagan }
+					religion = west_african_pagan
+				}
+				e_hip = {
+					holder_scope = {
+						any_character = {
+							limit = { religion = pagan }
+							religion = west_african_pagan
+						}
+					}
+				}
 			}
 		}
 		revoke_allowed = {
