@@ -315,7 +315,6 @@ c_daman;529;529 - North Konkan;Daman - North Konkan
 c_rennes;169;169 - Armor;Roazhon - Armor
 c_porhoet;169;169 - Armor;Porhoët - Armor
 c_penthievre;169;169 - Armor;Turnagoued - Armor
-c_tregor;169;169 - Armor;Trégor - Armor
 
 c_french_leon;170;170 - Finistere;Leon - Finistère
 c_cornouaille;170;170 - Finistere;Gernev - Finistère
@@ -3540,16 +3539,7 @@ d_mossi;2266;2266 - Bilanga;Duchy Mossi - Bilanga
 
 ### Atacora Oueme (off-map)
 ### Lower Volta (off-map)
-### Kong
-
-c_sikasso;1122;1122 - Bagoe;Sikasso - Bagoe
-
-#### Kong (off-map)
-
-c_bobodyolasso;2252;2252 - Lobi;Bobo Dyulasso - Lobi
-
-c_bobodyolasso;2253;2253 - Gwiriko;Bobo Dyulasso - Gwiriko
-
+### Kong (off-map)
 ### Massina
 
 c_sibiridugu;1123;1123 - Segu;Sibiridugu - Segu
@@ -3641,7 +3631,7 @@ c_djolof;2238;2238 - Kantor;Djolof - Kantor
 ### West African Coast (off-map)
 ### Jolof
 
-c_takrur;1112;1112 - Trarza;Takrur - Trarza
+c_akjoujt;1112;1112 - Trarza;Takrur - Trarza
 
 c_djolof;1113;1113 - Cayor;Djolof - Cayor
 c_takrur;1113;1113 - Cayor;Takrur - Cayor
@@ -3729,13 +3719,11 @@ c_taghaza;1128;1128 - Taodeni;Taghaza - Taudeni
 
 c_araouane;1129;1129 - Azawadd;Arawân - Azawad
 c_araouane;1129;1129 - Azawadd;Duplicate to increase weight
-c_araouane;1129;1129 - Azawadd;Duplicate to increase weight
 c_tassarahla;1129;1129 - Azawadd;Tassarahla - Azawad
-c_mabruk;1129;1129 - Azawadd;Mabruk - Azawad
 
 c_tadmekka;1130;1130 - Tadmekka;Tadmekka - Tadmekka
-c_gao;1130;1130 - Tadmekka;Gao - Tadmekka
-c_mabruk;1130;1130 - Tadmekka;Mabruk - Tadmekka
+c_tadmekka;1130;1130 - Tadmekka;Tadmekka - Tadmekka
+c_tessalit;1130;1130 - Tadmekka;Mabruk - Tadmekka
 
 #### Azawagh (off-map)
 ### Dendi
@@ -3934,11 +3922,9 @@ c_asosa;4033;4033 - Al Qadirif;Asosa - Al Qadarif
 
 c_makuria;1220;1220 - Dar Jaal;Makuria - Bayuda
 c_abuhammad;1220;1220 - Dar Jaal;Abu Hammad - Bayuda
-c_ghazali;1220;1220 - Dar Jaal;Al-Ghazali - Bayuda
 c_atbara;1220;1220 - Dar Jaal;Atbara - Bayuda
 c_butana;1220;1220 - Dar Jaal;Butana - Bayuda
 c_alwa;1220;1220 - Dar Jaal;Alwa - Bayuda
-d_nubia;1220;1220 - Dar Jaal;Duchy Nubia - Bayuda
 
 c_dongola;1228;1228 - Dongola;Dongola - Dongola
 c_dongola;1228;1228 - Dongola;Duplicate to increase weight
@@ -4266,6 +4252,7 @@ c_el-arish;363;363 - Damietta;El-Arish - Damietta
 d_damietta;363;363 - Damietta;Duchy Dumiyát - Damietta
 
 c_sinai;365;365 - Sinai;Nekhel - Sinai
+c_eilat;365;365 - Sinai;Jabal Katrina - Sinai
 c_eilat;365;365 - Sinai;Jabal Katrina - Sinai
 d_sinai;365;365 - Sinai;Duchy Sinai - Sinai
 
@@ -4640,7 +4627,7 @@ d_jordan;381;381 - Ajlun;Duchy al-Urdunn - Ajlun
 
 c_beersheb;1854;1854 - Nablus;Naples - Nablus
 c_jerusalem;1854;1854 - Nablus;Jérusalem - Nablus
-c_ibelin;1854;1854 - Nablus;Ibelin - Nablus
+c_ascalon;1854;1854 - Nablus;Ibelin - Nablus
 c_jaffa;1854;1854 - Nablus;Jaffa - Nablus
 c_caesarea;1854;1854 - Nablus;Caesarea - Nablus
 
@@ -5071,10 +5058,8 @@ c_tokharestan;451;451 - Kabul;Tokharestân - Kabul
 c_badakhshan;452;452 - Badakhshan;Badakhshân - Badakhshan
 c_badakhshan;452;452 - Badakhshan;Duplicate to increase weight
 c_badakhshan;452;452 - Badakhshan;Duplicate to increase weight
-c_vakhan;452;452 - Badakhshan;Vakhân - Badakhshan
 c_kabul;452;452 - Badakhshan;Kâbul - Badakhshan
 c_khuttal;452;452 - Badakhshan;Khuttal - Badakhshan
-d_khottal;452;452 - Badakhshan;Duchy Khatlón - Badakhshan
 
 c_bannu;578;578 - Roh;Bannu - Roh
 c_bannu;578;578 - Roh;Duplicate to increase weight
