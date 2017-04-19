@@ -87,7 +87,9 @@ c_sthanisvara;510;510 - Sirhind;Sthanisvara - Sirhind
 
 c_sarasvati;2065;2065 - Bhattiana;Sarasvati - Bhattiana
 c_sarasvati;2065;2065 - Bhattiana;Duplicate to increase weight
+c_sarasvati;2065;2065 - Bhattiana;Duplicate to increase weight
 c_tribandapura;2065;2065 - Bhattiana;Tribandapura - Bhattiana
+c_reni;2065;2065 - Bhattiana;Reni - Bhattiana
 
 c_trigarta;2075;2075 - Doaba;Trigarta - Doaba
 c_trigarta;2075;2075 - Doaba;Duplicate to increase weight
@@ -150,24 +152,22 @@ c_reni;512;512 - Jangladesh;Reni - Jangladesh
 c_reni;512;512 - Jangladesh;Duplicate to increase weight
 c_vikramapura;512;512 - Jangladesh;Vikramapura - Jangladesh
 c_vikramapura;512;512 - Jangladesh;Duplicate to increase weight
-c_nagauda;512;512 - Jangladesh;Nagauda - Jangladesh
 c_karur;512;512 - Jangladesh;Karur - Jangladesh
 
 c_ludrava;513;513 - Jaisalmer;Ludrava - Jaisalmer
 c_ludrava;513;513 - Jaisalmer;Duplicate to increase weight
 c_vikramapura;513;513 - Jaisalmer;Vikramapura - Jaisalmer
 
-d_maru;514;514 - Marwar;Duchy Maru - Marwar
 c_mandavyapura;514;514 - Marwar;Mandavyapura - Marwar
-c_ludrava;514;514 - Marwar;Ludrava - Marwar
+c_mandavyapura;514;514 - Marwar;Duplicate to increase weight
 c_satyapura;514;514 - Marwar;Satyapura - Marwar
+c_satyapura;514;514 - Marwar;Duplicate to increase weight
 c_medantaka;514;514 - Marwar;Medantaka - Marwar
-c_vikramapura;514;514 - Marwar;Vikramapura - Marwar
 
 c_nagauda;2066;2066 - Nagaur;Nagauda - Nagaur
 c_nagauda;2066;2066 - Nagaur;Duplicate to increase weight
+c_nagauda;2066;2066 - Nagaur;Duplicate to increase weight
 c_ajayameru;2066;2066 - Nagaur;Ajayameru - Nagaur
-c_vikramapura;2066;2066 - Nagaur;Vikramapura - Nagaur
 c_medantaka;2066;2066 - Nagaur;Medantaka - Nagaur
 
 c_godwad;2067;2067 - Gorwar;Godwad - Gorwar
@@ -208,7 +208,6 @@ c_vairata;519;519 - Dhundar;Vairata - Dhundar
 c_mathura;519;519 - Dhundar;Mathura - Dhundar
 
 c_mathura;520;520 - Mewat;Mathura - Mewat
-c_tribandapura;520;520 - Mewat;Tribandapura - Mewat
 c_vairata;520;520 - Mewat;Vairata - Mewat
 
 c_vairata;2064;2064 - Shekhawati;Vairata - Shekhawati
