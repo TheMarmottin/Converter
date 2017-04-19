@@ -87,6 +87,10 @@ def main():
         print(*sorted(errors))
         raise SystemExit()
 
+    # expected unmapped counties:
+    # 	c_ainazawa c_djanet c_elgolea c_ghat c_hoggar c_idjil c_ilizi c_masin
+    # 	c_ouadane c_roufra c_tagant c_tazerbo c_tindouf c_tuat c_wallen
+
     if unmapped_counties:
         print('Unmapped counties:')
         print(*sorted(unmapped_counties))
