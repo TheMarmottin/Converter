@@ -267,18 +267,22 @@ c_barcelona;CAT;Catalunya;Catalunya County
 d_aquileia;AQU;Aquileia;Aquileia Duchy
 c_aquileia;AQU;Aquileia;Aquileia County
 d_ferrara;FER;Ferrara;Ferrara Duchy
+d_ferrara_republic;FER;Ferrara;Ferrara Duchy
 c_ferrara;FER;Ferrara;Ferrara County
 k_genoa;GEN;Genoa;Genoa Kingdom
 d_genoa;GEN;Genoa;Genoa Duchy
 e_italy;ITA;Italy;Italy Empire
 k_italy;ITA;Italy;Italy Kingdom
 d_mantua;MAN;Mantua;Mantua Duchy
+d_mantua_republic;MAN;Mantua;Mantua Duchy
 c_mantua;MAN;Mantua;Mantua County
 d_modena;MOD;Modena;Modena Duchy
+d_modena_republic;MOD;Modena;Modena Duchy
 c_modena;MOD;Modena;Modena County
 k_naples;NAP;Naples;Naples Kingdom
 k_papal_state;PAP;Papal;Papal State Kingdom
 d_parma;PAR;Parma;Parma Duchy
+d_parma_republic;PAR;Parma;Parma Duchy
 c_parma;PAR;Parma;Parma County
 k_pisa;PIS;Pisa;Pisa Kingdom
 d_pisa;PIS;Pisa;Pisa Duchy
@@ -289,6 +293,7 @@ k_sicily;SIC;Sicily;Sicily Kingdom
 k_trinacria;SIC;Sicily;Sicily Kingdom
 d_sicily;SIC;Sicily;Sicily Duchy
 d_siena;SIE;Siena;Siena County
+d_siena_republic;SIE;Siena;Siena County
 c_siena;SIE;Siena;Siena County
 d_toscana;TUS;Tuscany;Tuscany Duchy
 d_urbino;URB;Urbino;Urbino Duchy
@@ -299,12 +304,15 @@ c_venezia;VEN;Venice;Venice County
 c_genoa;GEN;Genoa;Genoa County
 c_savoie;SAV;Savoy;Savoy County
 d_lombardia;MLO;Milan;Milan Duchy
+d_milano_republic;MLO;Milan;Milan Duchy
 d_milano;MLO;Milan;Milan
 d_monferrato;MFA;Montferrat;Monferrato Duchy
 c_monferrato;MFA;Montferrat;Monferrato County
 d_lucca;LUC;Lucca;Lucca Duchy
+d_lucca_republic;LUC;Lucca;Lucca Duchy
 c_lucca;LUC;Lucca;Lucca County
 c_malta;JAI;Malta;Malta County
+d_firenze_republic;LAN;Florence;Florence Duchy
 c_firenze;LAN;Florence;Florence County
 c_lombardia;MLO;Milan;Milan County
 
