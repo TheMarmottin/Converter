@@ -796,10 +796,8 @@ c_guipuzcoa;210;210 - Navarra;Guipúzcoa - Navarra
 ## Italy
 ### Venetia
 
-d_verona;108;108 - Verona;Duchy Verona - Verona
 c_verona;108;108 - Verona;Verona - Verona
-c_verona;108;108 - Verona;Duplicate to increase weight
-c_bassano;108;108 - Verona;Vicenza - Verona
+c_vicenza;108;108 - Verona;Vicenza - Verona
 c_padova;108;108 - Verona;Padua - Verona
 
 c_aquileia;111;111 - Friuli;Aquileia - Friuli
@@ -810,84 +808,91 @@ c_treviso;1774;1774 - Treviso;Treviso - Treviso
 
 ### Lombardy
 
-d_lombardia;104;104 - Milan;Duchy Milan - Milan
 c_lombardia;104;104 - Milan;Milano - Milan
-c_lombardia;104;104 - Milan;Duplicate to increase weight
-c_bergamo;104;104 - Milan;Bergamo - Milan
-c_como;104;104 - Milan;Como - Milan
-c_grisons;104;104 - Milan;Ticino - Milan
+c_lombardia;104;104 - Milan;Milano - Milan
+c_lombardia;104;104 - Milan;Milano - Milan
+c_seprio;104;104 - Milan;Bergamo - Milan
+c_valassina;104;104 - Milan;Como - Milan
 
 c_brescia;107;107 - Brescia;Brescia - Brescia
-c_brescia;107;107 - Brescia;Duplicate to increase weight
-c_brescia;107;107 - Brescia;Duplicate to increase weight
-c_como;107;107 - Brescia;Como - Brescia
 c_bergamo;107;107 - Brescia;Bergamo - Brescia
+c_valassina;107;107 - Brescia;Como - Brescia
 
-d_mantua;109;109 - Mantua;Duchy Mantua - Mantua
 c_mantua;109;109 - Mantua;Mantua - Mantua
-c_novellara;109;109 - Mantua;Novellara - Mantua
+c_mantua;109;109 - Mantua;Mantua - Mantua
+c_sabionetta;109;109 - Mantua;Novellara - Mantua
 
 c_cremona;1862;1862 - Cremona;Cremona - Cremona
+c_cremona;1862;1862 - Cremona;Cremona - Cremona
+c_lombardia;1862;1862 - Cremona;Cremona - Cremona
 
-c_novara;2979;2979 - Novarra;Novara - Novara
-c_sepiro;2979;2979 - Novarra;Sepiro - Novara
-c_pavia;2979;2979 - Novarra;Pavia - Novara
-c_bobbio;2979;2979 - Novarra;Bobbio - Novara
+c_pombia;2979;2979 - Novarra;Novara - Novara
+c_pavia;2979;2979 - Novarra;Sepiro - Novara
+c_vercelli;2979;2979 - Novarra;Pavia - Novara
 
 ### Piedmont
 
-d_susa;103;103 - Piedmont;Duchy Piemonte - Piedmont
 c_piemonte;103;103 - Piedmont;Susa - Piedmont
-c_piemonte;103;103 - Piedmont;Duplicate to increase weight
-c_ivrea;103;103 - Piedmont;Ivrea - Piedmont
+c_vercelli;103;103 - Piedmont;Duplicate to increase weight
+c_grisons;103;103 - Piedmont;Ivrea - Piedmont
 
 c_saluzzo;1875;1875 - Turin;Saluzzo - Cuneo
+c_ceva;1875;1875 - Turin;Saluzzo - Cuneo
+c_piemonte;1875;1875 - Turin;Saluzzo - Cuneo
 
 c_monferrato;2981;2981 - Montferrat;Monferrato - Montferrat
+c_monferrato;2981;2981 - Montferrat;Monferrato - Montferrat
+c_bosco;2981;2981 - Montferrat;Monferrato - Montferrat
 
 ### Tuscany
 
 c_pisa;115;115 - Pisa;Pisa - Pisa
+c_pisa;115;115 - Pisa;Pisa - Pisa
+c_biserno;115;115 - Pisa;Pisa - Pisa
 
 c_firenze;116;116 - Firenze;Florence - Firenze
-c_guidi;116;116 - Firenze;Guidi - Firenze
+c_firenze;116;116 - Firenze;Florence - Firenze
+c_prato;116;116 - Firenze;Guidi - Firenze
 
 c_siena;117;117 - Siena;Siena - Siena
-c_siena;117;117 - Siena;Duplicate to increase weight
-c_siena;117;117 - Siena;Duplicate to increase weight
-c_orbetello;117;117 - Siena;Santa Fiora - Siena
-c_orbetello;117;117 - Siena;Duplicate to increase weight
+c_siena;117;117 - Siena;Siena - Siena
+c_scialenga;117;117 - Siena;Duplicate to increase weight
 c_piombino;117;117 - Siena;Grosseto - Siena
-c_volterra;117;117 - Siena;Volterra - Siena
+c_orbetello;117;117 - Siena;Volterra - Siena
 
 c_arezzo;2978;2978 - Arezzo;Arezzo - Arezzo
-c_arezzo;2978;2978 - Arezzo;Duplicate to increase weight
-c_firenze;2978;2978 - Arezzo;Florence - Arezzo
-c_guidi;2978;2978 - Arezzo;Guidi - Arezzo
+c_casentino;2978;2978 - Arezzo;Duplicate to increase weight
+c_modigliana;2978;2978 - Arezzo;Florence - Arezzo
 
-d_lucca;2980;2980 - Lucca;Duchy Lucca - Lucca
 c_lucca;2980;2980 - Lucca;Lucca - Lucca
-c_lucca;2980;2980 - Lucca;Duplicate to increase weight
-c_malaspina;2980;2980 - Lucca;Malaspina - Lucca
+c_lucca;2980;2980 - Lucca;Lucca - Lucca
+c_lucca;2980;2980 - Lucca;Lucca - Lucca
+c_pisa;2980;2980 - Lucca;Malaspina - Lucca
+c_pisa;2980;2980 - Lucca;Malaspina - Lucca
+c_luni;2980;2980 - Lucca;Duplicate to increase weight
 
 ### Liguria
 
 c_genoa;101;101 - Genoa;Genova - Genoa
+c_genoa;101;101 - Genoa;Genova - Genoa
+c_genoa;101;101 - Genoa;Genova - Genoa
+c_gavi;101;101 - Genoa;Genova - Genoa
+c_bosco;101;101 - Genoa;Genova - Genoa
 
 c_nice;102;102 - Nice;Nissa - Nice
 
-d_savona;2992;2992 - Albenga;Duchy Savona - Albenga
-c_savona;2992;2992 - Albenga;Savona - Albenga
+c_finale;2992;2992 - Albenga;Finale - Albenga
+c_finale;2992;2992 - Albenga;Finale - Albenga
 c_finale;2992;2992 - Albenga;Finale - Albenga
 c_ventimiglia;2992;2992 - Albenga;Ventimiglia - Albenga
+c_bosco;2992;2992 - Albenga;Ventimiglia - Albenga
 
 ### Western Mediterranean Islands
 
 c_malta;126;126 - Malta;Malta - Malta
 
-d_sardinia;127;127 - Sassari;Duchy Sardinia - Sassari
 c_logudoro;127;127 - Sassari;Logudoro - Sassari
-c_logudoro;127;127 - Sassari;Duplicate to increase weight
+c_logudoro;127;127 - Sassari;Logudoro - Sassari
 c_gallura;127;127 - Sassari;Gallura - Sassari
 
 d_mallorca;333;333 - The Baleares;Duchy Mallorca - The Baleares
@@ -896,55 +901,51 @@ c_mallorca;333;333 - The Baleares;Duplicate to increase weight
 c_menorca;333;333 - The Baleares;Menorca - The Baleares
 c_eivissa;333;333 - The Baleares;Eivissa - The Baleares
 
-d_corsica;1247;1247 - Corsica;Duchy Corsica - Corsica
 c_corsica;1247;1247 - Corsica;Cinarca - Corsica
-c_terradicomune;1247;1247 - Corsica;Terra di Comune - Corsica
-c_corse;1247;1247 - Corsica;Capo di Corse - Corsica
+c_corsica;1247;1247 - Corsica;Cinarca - Corsica
+c_cinarca;1247;1247 - Corsica;Capo di Corse - Corsica
 
 d_sardinia;2986;2986 - Cagliari;Duchy Sardinia - Cagliari
 c_cagliari;2986;2986 - Cagliari;Cagliari - Cagliari
-c_cagliari;2986;2986 - Cagliari;Duplicate to increase weight
 c_arborea;2986;2986 - Cagliari;Arborea - Cagliari
 
 ### Sicily
 
 c_messina;124;124 - Messina;Messina - Messina
 c_messina;124;124 - Messina;Duplicate to increase weight
-c_messina;124;124 - Messina;Duplicate to increase weight
-c_enna;124;124 - Messina;Castru Jani - Messina
-c_palermo;124;124 - Messina;Palermu - Messina
 c_siracusa;124;124 - Messina;Sarausa - Messina
+c_siracusa;124;124 - Messina;Sarausa - Messina
+c_trapani;124;124 - Messina;Castru Jani - Messina
 
 c_palermo;125;125 - Palermo;Palermu - Palermo
-c_trapani;125;125 - Palermo;Tràpani - Palermo
+c_palermo;125;125 - Palermo;Palermu - Palermo
+c_palermo;125;125 - Palermo;Palermu - Palermo
 c_agrigento;125;125 - Palermo;Girgenti - Palermo
+c_trapani;125;125 - Palermo;Tràpani - Palermo
 
 c_siracusa;2982;2982 - Syracuse;Sarausa - Syracuse
 c_modica;2982;2982 - Syracuse;Muòrica - Syracuse
-c_modica;2982;2982 - Syracuse;Duplicate to increase weight
+c_trapani;2982;2982 - Syracuse;Duplicate to increase weight
+c_agrigento;2982;2982 - Syracuse;Duplicate to increase weight
+d_sicily;2982;2982 - Syracuse;Duplicate to increase weight
 
 ### Naples
 
-d_alvito;120;120 - Abbruzzi;Duchy Alvito - Abruzzi
-c_alvito;120;120 - Abbruzzi;Alvito - Abruzzi
-c_celano;120;120 - Abbruzzi;Celano - Abruzzi
-c_manopello;120;120 - Abbruzzi;Manopello - Abruzzi
-c_chieti;120;120 - Abbruzzi;Teate - Abruzzi
-c_alife;120;120 - Abbruzzi;Alife - Abruzzi
-c_aprutium;120;120 - Abbruzzi;Abruzzo - Abruzzi
-c_fermo;120;120 - Abbruzzi;Fermo - Abruzzi
+c_aprutium;120;120 - Abbruzzi;Duchy Alvito - Abruzzi
+c_manopello;120;120 - Abbruzzi;Alvito - Abruzzi
+c_marsi;120;120 - Abbruzzi;Celano - Abruzzi
+c_molise;120;120 - Abbruzzi;Manopello - Abruzzi
+d_atri;120;120 - Abbruzzi;Manopello - Abruzzi
 
-d_napoli;121;121 - Napoli;Duchy Napoli - Napoli
 c_napoli;121;121 - Napoli;Napoli - Napoli
-c_aversa;121;121 - Napoli;Aversa - Napoli
+c_napoli;121;121 - Napoli;Napoli - Napoli
 c_capua;121;121 - Napoli;Capua - Napoli
-c_gaeta;121;121 - Napoli;Gaeta - Napoli
-c_sangermano;121;121 - Napoli;Aquino - Napoli
-c_benevento;121;121 - Napoli;Benevento - Napoli
+c_capua;121;121 - Napoli;Capua - Napoli
+c_fondi;121;121 - Napoli;Gaeta - Napoli
+c_alife;121;121 - Napoli;Aquino - Napoli
+c_aquino;121;121 - Napoli;Benevento - Napoli
 
-d_salerno;2983;2983 - Salerno;Duchy Salerno - Salerno
 c_salerno;2983;2983 - Salerno;Salerno - Salerno
-c_salerno;2983;2983 - Salerno;Duplicate to increase weight
 c_benevento;2983;2983 - Salerno;Benevento - Salerno
 c_amalfi;2983;2983 - Salerno;Amalfi - Salerno
 
@@ -959,29 +960,30 @@ c_marsico;1934;1934 - Lucania;Marsico - Lucania
 c_gravina;1934;1934 - Lucania;Gravina - Lucania
 
 c_consenza;2984;2984 - Costenza;Tarsia - Cosenza
+c_consenza;2984;2984 - Costenza;Tarsia - Cosenza
+c_consenza;2984;2984 - Costenza;Tarsia - Cosenza
+c_marsico;2984;2984 - Costenza;Tarsia - Cosenza
+c_gravina;2984;2984 - Costenza;Tarsia - Cosenza
 
 ### Apulia
 
 d_tarent;122;122 - Apulia;Duchy Principato di Taranto - Salento
 c_taranto;122;122 - Apulia;Taranto - Salento
-c_conversano;122;122 - Apulia;Conversano - Salento
 c_lecce;122;122 - Apulia;Lecce - Salento
 
-c_bari;1933;1933 - Bari;Bari - Bari
-c_andria;1933;1933 - Bari;Andria - Bari
+d_bari;1933;1933 - Bari;Bari - Bari
+c_bari;1933;1933 - Bari;Andria - Bari
 c_apulia;1933;1933 - Bari;Melfi - Bari
 
 c_foggia;2985;2985 - Capitanata;Monte Sant'Angelo - Capitanata
-c_larino;2985;2985 - Capitanata;Larino - Capitanata
-c_molise;2985;2985 - Capitanata;Molise - Capitanata
-c_benevento;2985;2985 - Capitanata;Benevento - Capitanata
-c_apulia;2985;2985 - Capitanata;Melfi - Capitanata
+c_foggia;2985;2985 - Capitanata;Monte Sant'Angelo - Capitanata
+c_loritello;2985;2985 - Capitanata;Monte Sant'Angelo - Capitanata
 
 ### Emilia-Romagna
 
 c_parma;105;105 - Parma;Parma - Parma
 c_piacenza;105;105 - Parma;Piacenza - Parma
-c_malaspina;105;105 - Parma;Malaspina - Parma
+d_parma;105;105 - Parma;Piacenza - Parma
 
 d_modena;106;106 - Modena;Duchy Modena e Reggio - Modena
 c_modena;106;106 - Modena;Modena - Modena
@@ -990,31 +992,41 @@ c_reggionellemilia;106;106 - Modena;Reggio nell Emilia - Modena
 
 d_ferrara;113;113 - Ferrara;Duchy Ferrara - Ferrara
 c_ferrara;113;113 - Ferrara;Ferrara - Ferrara
-c_rovigo;113;113 - Ferrara;Rovigo - Ferrara
+c_este;113;113 - Ferrara;Rovigo - Ferrara
 
 c_ravenna;114;114 - Romagna;Ravenna - Romagna
+c_ravenna;114;114 - Romagna;Ravenna - Romagna
 c_bologna;114;114 - Romagna;Bologna - Romagna
-c_forli;114;114 - Romagna;Forli - Romagna
+c_bologna;114;114 - Romagna;Bologna - Romagna
+c_bertinoro;114;114 - Romagna;Forli - Romagna
+c_bertinoro;114;114 - Romagna;Forli - Romagna
+c_bagnacavallo;114;114 - Romagna;Forli - Romagna
 
 ### Central Italy
 
 c_roma;118;118 - Roma;Roma - Roma
 c_roma;118;118 - Roma;Duplicate to increase weight
 c_roma;118;118 - Roma;Duplicate to increase weight
-d_latium;118;118 - Roma;Duchy Latium - Roma
+c_roma;118;118 - Roma;Duplicate to increase weight
+c_roma;118;118 - Roma;Duplicate to increase weight
 c_tusculum;118;118 - Roma;Tusculum - Roma
-c_nerola;118;118 - Roma;Nerola - Roma
-c_viterbo;118;118 - Roma;Viterbo - Roma
+c_tusculum;118;118 - Roma;Tusculum - Roma
+c_segni;118;118 - Roma;Nerola - Roma
+c_segni;118;118 - Roma;Nerola - Roma
 c_orvieto;118;118 - Roma;Orvieto - Roma
+c_orvieto;118;118 - Roma;Orvieto - Roma
+c_ceccano;118;118 - Roma;Viterbo - Roma
+c_sabina;118;118 - Roma;Viterbo - Roma
 
-d_ancona;119;119 - Ancona;Duchy Marche - Ancona
 c_ancona;119;119 - Ancona;Ancona - Ancona
-c_fermo;119;119 - Ancona;Fermo - Ancona
+c_ancona;119;119 - Ancona;Ancona - Ancona
 c_camerino;119;119 - Ancona;Camerino - Ancona
 
 c_spoleto;2976;2976 - Umbria;Spoleto - Umbria
-c_perugia;2976;2976 - Umbria;Perugia - Umbria
-c_urbino;2976;2976 - Umbria;Urbino - Umbria
+c_marsciano;2976;2976 - Umbria;Perugia - Umbria
+c_borgovalle;2976;2976 - Umbria;Urbino - Umbria
+c_sabina;2976;2976 - Umbria;Urbino - Umbria
+d_spoleto;2976;2976 - Umbria;Urbino - Umbria
 
 c_urbino;2977;2977 - Urbino;Urbino - Urbino
 c_montefeltro;2977;2977 - Urbino;Montefeltro - Urbino
