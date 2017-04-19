@@ -1,6 +1,5 @@
 # CK2TITLE;EU4ID;Filename;Comment
 
-## Caribbeans (off-map)
 # India
 ## Bengal (off-map)
 ## Hindustan
@@ -604,6 +603,12 @@ d_valencia;220;220 - Valencia;Duchy Valencia - València
 c_valencia;220;220 - Valencia;Valencia - València
 c_castellon;220;220 - Valencia;Castellon - València
 
+d_mallorca;333;333 - The Baleares;Duchy Mallorca - The Baleares
+c_mallorca;333;333 - The Baleares;Mallorca - The Baleares
+c_mallorca;333;333 - The Baleares;Duplicate to increase weight
+c_menorca;333;333 - The Baleares;Menorca - The Baleares
+c_eivissa;333;333 - The Baleares;Eivissa - The Baleares
+
 c_denia;1750;1750 - Alicante;Denia - Alicante
 c_denia;1750;1750 - Alicante;Duplicate to increase weight
 c_murcia;1750;1750 - Alicante;Murcia - Alicante
@@ -729,8 +734,8 @@ c_ciudad_rodrigo;216;216 - Salamanca;Ciudad Rodrigo - Salamanca
 c_badajoz;218;218 - Badajoz;Badajoz - Badajoz
 c_aracena;218;218 - Badajoz;Mérida - Badajoz
 
-c_plasencia;1747;1747 - Caceres;Plasencia - Caceres
-c_alcantara;1747;1747 - Caceres;Alcantara - Caceres
+c_plasencia;1747;1747 - Caceres;Plasencia - Extremadura
+c_alcantara;1747;1747 - Caceres;Alcantara - Extremadura
 
 ### Alentejo
 
@@ -824,10 +829,6 @@ c_cremona;1862;1862 - Cremona;Camisano - Cremona
 c_cremona;1862;1862 - Cremona;Duplicate to increase weight
 c_lombardia;1862;1862 - Cremona;Burgaria - Cremona
 
-c_pombia;2979;2979 - Novarra;Pombia - Novara
-c_pavia;2979;2979 - Novarra;Pavia - Novara
-c_vercelli;2979;2979 - Novarra;Vercelli - Novara
-
 ### Piedmont
 
 c_piemonte;103;103 - Piedmont;Susa - Piedmont
@@ -837,6 +838,10 @@ c_grisons;103;103 - Piedmont;Aosta - Piedmont
 c_saluzzo;1875;1875 - Turin;Auriate - Cuneo
 c_ceva;1875;1875 - Turin;Ceva - Cuneo
 c_piemonte;1875;1875 - Turin;Susa - Cuneo
+
+c_pombia;2979;2979 - Novarra;Pombia - Novara
+c_pavia;2979;2979 - Novarra;Pavia - Novara
+c_vercelli;2979;2979 - Novarra;Vercelli - Novara
 
 c_monferrato;2981;2981 - Montferrat;Asti - Montferrat
 c_monferrato;2981;2981 - Montferrat;Duplicate to increase weight
@@ -887,17 +892,9 @@ c_bosco;2992;2992 - Albenga;Bosco - Albenga
 
 ### Western Mediterranean Islands
 
-c_malta;126;126 - Malta;Malta - Malta
-
 c_logudoro;127;127 - Sassari;Logudoro - Sassari
 c_logudoro;127;127 - Sassari;Duplicate to increase weight
 c_gallura;127;127 - Sassari;Gallura - Sassari
-
-d_mallorca;333;333 - The Baleares;Duchy Mallorca - The Baleares
-c_mallorca;333;333 - The Baleares;Mallorca - The Baleares
-c_mallorca;333;333 - The Baleares;Duplicate to increase weight
-c_menorca;333;333 - The Baleares;Menorca - The Baleares
-c_eivissa;333;333 - The Baleares;Eivissa - The Baleares
 
 c_corsica;1247;1247 - Corsica;Rogliano - Corsica
 c_corsica;1247;1247 - Corsica;Duplicate to increase weight
@@ -921,19 +918,29 @@ c_palermo;125;125 - Palermo;Duplicate to increase weight
 c_agrigento;125;125 - Palermo;Butera - Palermo
 c_trapani;125;125 - Palermo;Aderno - Palermo
 
+c_malta;126;126 - Malta;Malta - Malta
+
 c_siracusa;2982;2982 - Syracuse;Paterno - Syracuse
 c_modica;2982;2982 - Syracuse;Modica - Syracuse
 c_trapani;2982;2982 - Syracuse;Aderno - Syracuse
 c_agrigento;2982;2982 - Syracuse;Butera - Syracuse
 d_sicily;2982;2982 - Syracuse;Duchy Sicilia - Syracuse
 
-### Naples
+### Lazio-Campania
 
-c_aprutium;120;120 - Abbruzzi;Aprutio - Abruzzi
-c_manopello;120;120 - Abbruzzi;Manopello - Abruzzi
-c_marsi;120;120 - Abbruzzi;Marsica - Abruzzi
-c_molise;120;120 - Abbruzzi;Molise - Abruzzi
-d_atri;120;120 - Abbruzzi;Duchy Atri - Abruzzi
+c_roma;118;118 - Roma;Roma - Roma
+c_roma;118;118 - Roma;Duplicate to increase weight
+c_roma;118;118 - Roma;Duplicate to increase weight
+c_roma;118;118 - Roma;Duplicate to increase weight
+c_roma;118;118 - Roma;Duplicate to increase weight
+c_tusculum;118;118 - Roma;Tusculum - Roma
+c_tusculum;118;118 - Roma;Duplicate to increase weight
+c_segni;118;118 - Roma;Segni - Roma
+c_segni;118;118 - Roma;Duplicate to increase weight
+c_orvieto;118;118 - Roma;Vico - Roma
+c_orvieto;118;118 - Roma;Duplicate to increase weight
+c_ceccano;118;118 - Roma;Ceccano - Roma
+c_sabina;118;118 - Roma;Sabina - Roma
 
 c_napoli;121;121 - Napoli;Acerra - Napoli
 c_napoli;121;121 - Napoli;Duplicate to increase weight
@@ -1002,23 +1009,15 @@ c_bagnacavallo;114;114 - Romagna;Bagnacavallo - Romagna
 
 ### Central Italy
 
-c_roma;118;118 - Roma;Roma - Roma
-c_roma;118;118 - Roma;Duplicate to increase weight
-c_roma;118;118 - Roma;Duplicate to increase weight
-c_roma;118;118 - Roma;Duplicate to increase weight
-c_roma;118;118 - Roma;Duplicate to increase weight
-c_tusculum;118;118 - Roma;Tusculum - Roma
-c_tusculum;118;118 - Roma;Duplicate to increase weight
-c_segni;118;118 - Roma;Segni - Roma
-c_segni;118;118 - Roma;Duplicate to increase weight
-c_orvieto;118;118 - Roma;Vico - Roma
-c_orvieto;118;118 - Roma;Duplicate to increase weight
-c_ceccano;118;118 - Roma;Ceccano - Roma
-c_sabina;118;118 - Roma;Sabina - Roma
-
 c_ancona;119;119 - Ancona;Ancona - Ancona
 c_ancona;119;119 - Ancona;Duplicate to increase weight
 c_camerino;119;119 - Ancona;Camerino - Ancona
+
+c_aprutium;120;120 - Abbruzzi;Aprutio - Abruzzi
+c_manopello;120;120 - Abbruzzi;Manopello - Abruzzi
+c_marsi;120;120 - Abbruzzi;Marsica - Abruzzi
+c_molise;120;120 - Abbruzzi;Molise - Abruzzi
+d_atri;120;120 - Abbruzzi;Duchy Atri - Abruzzi
 
 c_spoleto;2976;2976 - Umbria;Assisi - Umbria
 c_marsciano;2976;2976 - Umbria;Marsciano - Umbria
@@ -1769,6 +1768,8 @@ c_more;3;3 - Kalmar;Möre - Kalmar
 c_oland;3;3 - Kalmar;Öland - Kalmar
 c_smaland;3;3 - Kalmar;Njudung - Kalmar
 
+c_gotland;25;25-Gotland;Gotland - Gotland
+
 c_tjust;4166;4166 - Tioharad;Värend - Tiohärad
 c_finnveden;4166;4166 - Tioharad;Finnveden - Tiohärad
 c_smaland;4166;4166 - Tioharad;Njudung - Tiohärad
@@ -1812,6 +1813,8 @@ c_southern_sjaelland;12;12-Sjaelland;Syndræ Syaland - Sjælland
 c_fyn;14;14-Fyn;Fyun - Fyn
 c_fyn;14;14-Fyn;Duplicate to increase weight
 c_samsoe;14;14-Fyn;Samsø - Fyn
+
+c_bornholm;1981;1981-Bornholm;Burghændæholm - Bornholm
 
 c_lolland;1983;1983-Lolland;Laland - Lolland
 
@@ -1894,12 +1897,6 @@ c_finnmark;315;315 - Finnmark;Finnmörk - Finnmark
 c_kandalax;1777;1777-Kola;Kantalahti - Kola
 
 #### Enare (off-map)
-### Baltic Islands
-
-c_gotland;25;25-Gotland;Gotland - Gotland
-
-c_bornholm;1981;1981-Bornholm;Burghændæholm - Bornholm
-
 ### Västra Götaland
 
 c_skara;7;7 - Skaraborg;Skara - Skaraborg
@@ -2179,22 +2176,19 @@ c_atzele;273;273 - Latgalia;Atzele - Latgalia
 c_lettigalians;273;273 - Latgalia;Tholowa - Latgalia
 c_selija;273;273 - Latgalia;Sèlija - Latgalia
 
-c_dorpat;1834;1834 - Dorpat;Ugaunia - Dorpat
-c_dorpat;1834;1834 - Dorpat;Duplicate to increase weight
-c_dorpat;1834;1834 - Dorpat;Duplicate to increase weight
-c_atzele;1834;1834 - Dorpat;Atzele - Dorpat
-c_vaiga;1834;1834 - Dorpat;Vaiga - Dorpat
-
 ### Estonia
-
-c_koporje;34;34-Ingermanland;Koporje - Ingermanland
-c_porkhov;34;34-Ingermanland;Porhov - Ingermanland
 
 c_reval;36;36 - Estland;Harria - Reval
 c_reval;36;36 - Estland;Duplicate to increase weight
 c_jarva;36;36 - Estland;Järva - Reval
 c_laanemaa;36;36 - Estland;Rotalia - Reval
 c_laanemaa;36;36 - Estland;Duplicate to increase weight
+
+c_dorpat;1834;1834 - Dorpat;Ugaunia - Dorpat
+c_dorpat;1834;1834 - Dorpat;Duplicate to increase weight
+c_dorpat;1834;1834 - Dorpat;Duplicate to increase weight
+c_atzele;1834;1834 - Dorpat;Atzele - Dorpat
+c_vaiga;1834;1834 - Dorpat;Vaiga - Dorpat
 
 c_narva;1842;1842 - Narva;Vironia - Narva
 c_narva;1842;1842 - Narva;Duplicate to increase weight
@@ -2391,12 +2385,9 @@ c_romny;313;313 - Soroka;Latša - Soroka
 c_romny;313;313 - Soroka;Duplicate to increase weight
 c_trans-portage;313;313 - Soroka;Pomorye - Soroka
 
-d_ustyg;1755;1755 - Ustyug;Duchy Ustjug - Ustyug
-c_veliky_ustug;1755;1755 - Ustyug;Veliky Ustjug - Ustyug
-c_veliky_ustug;1755;1755 - Ustyug;Duplicate to increase weight
-c_syrj;1755;1755 - Ustyug;Jemva - Ustyug
-c_galich_mersky;1755;1755 - Ustyug;Galich Mersky - Ustyug
-c_bjarmia;1755;1755 - Ustyug;Pinega - Ustyug
+c_karelen;1776;1776-Karelia;Karjala - White Karelia
+c_karelen;1776;1776-Karelia;Duplicate to increase weight
+c_trans-portage;1776;1776-Karelia;Pomorye - White Karelia
 
 c_ugra;1955;1955 - Kholmogory;Mozyn - Kholmogory
 c_bjarmia;1955;1955 - Kholmogory;Pinega - Kholmogory
@@ -2424,6 +2415,9 @@ c_viipuri;30;30-Viborg;Viipuri - Viborg
 c_vodi;33;33-Neva;Ingria - Neva
 c_vodi;33;33-Neva;Duplicate to increase weight
 c_novgorod;33;33-Neva;Novgorod - Neva
+
+c_koporje;34;34-Ingermanland;Koporje - Ingermanland
+c_porkhov;34;34-Ingermanland;Porhov - Ingermanland
 
 c_bezhetsky_verh;1961;1961 - Ladoga;Ladoga - Ladoga
 
@@ -2475,10 +2469,6 @@ c_kexholm;32;32-Keksholm;Kexholm - Kexholm
 c_kola;309;309 - Olonets;Olonec - Olonets
 c_kola;309;309 - Olonets;Duplicate to increase weight
 c_zaozerye;309;309 - Olonets;Tudozerskij - Olonets
-
-c_karelen;1776;1776-Karelia;Karjala - White Karelia
-c_karelen;1776;1776-Karelia;Duplicate to increase weight
-c_trans-portage;1776;1776-Karelia;Pomorye - White Karelia
 
 c_kexholm;4124;4124 - Kovero;Kexholm - Karelia
 
@@ -2999,7 +2989,7 @@ c_arbanon;4175;4175 - Lezhe;Arbër - Lezhë
 c_arbanon;4175;4175 - Lezhe;Duplicate to increase weight
 c_zeta;4175;4175 - Lezhe;Crna Gora - Lezhë
 
-## Crimea
+## Pontic Steppe
 ### Crimea
 
 c_crimea;284;284 - Crimea;Qirim - Crimea
@@ -3010,7 +3000,7 @@ c_korchev;285;285 - Kaffa;Kerch - Caffa
 c_theodoro;2410;2410 - Theodoro;Doros - Theodoro
 c_cherson;2410;2410 - Theodoro;Cherson - Theodoro
 
-c_tmutarakan;2447;2447 - Mantrega;Tamatarkha - Mantrega
+c_tmutarakan;2447;2447 - Mantrega;Tamatarkha - Matrega
 
 ### Lower Don
 
@@ -3101,6 +3091,13 @@ c_ural;1078;1078 - Middle Urals;Chusovaya - Tura
 c_perm;1077;1077 - Solikamsk;Viser - Solikamsk
 c_mansia;1077;1077 - Solikamsk;Polum - Solikamsk
 c_ural;1077;1077 - Solikamsk;Chusovaya - Solikamsk
+
+d_ustyg;1755;1755 - Ustyug;Duchy Ustjug - Ustyug
+c_veliky_ustug;1755;1755 - Ustyug;Veliky Ustjug - Ustyug
+c_veliky_ustug;1755;1755 - Ustyug;Duplicate to increase weight
+c_syrj;1755;1755 - Ustyug;Jemva - Ustyug
+c_galich_mersky;1755;1755 - Ustyug;Galich Mersky - Ustyug
+c_bjarmia;1755;1755 - Ustyug;Pinega - Ustyug
 
 c_zyriane;1963;1963 - Cherdyn;Ežva - Cherdyn
 c_zyriane;1963;1963 - Cherdyn;Duplicate to increase weight
@@ -3240,10 +3237,9 @@ c_kadom;2423;2423 - Alatyr;Kadom - Alatyr
 #### Urumqi (off-map)
 
 c_yulduz;2120;2120 - Ili;Yulduz - Ili
-c_yulduz;2120;2120 - Ili;Duplicate to increase weight
-c_emil;2120;2120 - Ili;Emil - Ili
 
-#### Hami (off-map)
+c_emil;4208;4208 - Qurqara-usu;Emil - Qurqara-usu
+
 ### North Zungaria
 #### Hoboksar (off-map)
 
@@ -3253,9 +3249,12 @@ d_ayaguz;2118;2118 - Urzhar;Duchy Ayaguz - Urzhar
 
 c_emil;2119;2119 - Chuguchak;Emil - Chuguchak
 
-### Western Mongolia (off-map)
+### Kobdo (off-map)
 ### Eastern Mongolia (off-map)
-### Central Mongolia (off-map)
+### Gobi (off-map)
+### Uliastai (off-map)
+### Turpan-Kumul (off-map)
+### Tannu Uriankhai (off-map)
 ## Central Asia
 ### Nogai
 
@@ -3450,8 +3449,6 @@ c_balkhash;2361;2361 - Dzhaman-Kuduk;Balkhash - Dzhaman-Kuduk
 
 ### Kashgaria
 
-c_aqsu;712;712 - Aksu;Aqsu - Aksu
-
 c_kashgar;739;739 - Kashgar;Kashgar - Kashgar
 c_kashgar;739;739 - Kashgar;Duplicate to increase weight
 c_kashgar;739;739 - Kashgar;Duplicate to increase weight
@@ -3459,25 +3456,32 @@ c_ferghana;739;739 - Kashgar;Ferghana - Kashgar
 c_naryn;739;739 - Kashgar;Naryn - Kashgar
 
 c_kashgar;2124;2124 - Yarkand;Kashgar - Yarkand
-c_kashgar;2124;2124 - Yarkand;Duplicate to increase weight
-c_aqsu;2124;2124 - Yarkand;Aqsu - Yarkand
 
 c_ferghana;2127;2127 - Yashilkul;Ferghana - Yashilkul
 c_aval;2127;2127 - Yashilkul;Aval - Yashilkul
 d_ferghana;2127;2127 - Yashilkul;Duchy Ferghána - Yashilkul
 
-### Altishahr
+c_aqsu;4209;4209 - Maralbexi;Aqsu - Maralbexi
+c_aqsu;4209;4209 - Maralbexi;Duplicate to increase weight
+c_kashgar;4209;4209 - Maralbexi;Kashgar - Maralbexi
+
+c_kashgar;4210;4210 - Yangi Hissar;Kashgar - Yangi Hissar
+
+### Central Altishahr
+
+c_aqsu;712;712 - Aksu;Aqsu - Aksu
+
+c_kucha;2121;2121 - Kuqa;Kucha - Kuqa
+
+c_qarashahr;2192;2192 - Korla;Qarashahr - Korla
+
+### Shanshan
 
 c_khotan;710;710 - Hotan;Khotan - Hotan
 
 c_khotan;711;711 - Qarqan;Khotan - Qarqan
 
-c_kucha;2121;2121 - Kuqa;Kucha - Kuqa
-
 #### Qakilik (off-map)
-
-c_qarashahr;2192;2192 - Korla;Qarashahr - Korla
-
 ### Kyzylkum
 
 c_sighnaq;455;455 - Kyrzyl-Kum;Sighnaq - Kyzylkum
@@ -3870,7 +3874,6 @@ c_berbera;2789;2789 - Las Khorey;Berbera - Las Khorey
 c_berbera;2790;2790 - Sanaag;Berbera - Sanaag
 
 ### Ogaden (off-map)
-### Hadiya (off-map)
 ### Majeerteen
 #### Qardho (off-map)
 #### Garoowe (off-map)
@@ -4006,12 +4009,6 @@ c_ifat;2791;2791 - Ankober;Ifat - Ankober
 ### Southern Madagascar (off-map)
 ### Makuana (off-map)
 ### Jubba (off-map)
-### East African Islands
-
-c_socotra;1099;1099 - Socotra;Suqutra - Socotra
-
-#### Zanzibar (off-map)
-#### Comoros (off-map)
 ### Shire (off-map)
 ### Mombasa (off-map)
 ## Kongo (off-map)
@@ -4965,6 +4962,8 @@ c_mahra;402;402 - Mahra;Mahra - Mahra
 c_mahra;402;402 - Mahra;Duplicate to increase weight
 c_kathiri;402;402 - Mahra;Hadramawt - Mahra
 
+c_socotra;1099;1099 - Socotra;Suqutra - Socotra
+
 c_kathiri;2343;2343 - Kathiri;Hadramawt - Kathiri
 
 ### Yemen
@@ -4996,7 +4995,7 @@ c_sanaa;2344;2344 - Al Jawf;Sanaa - Al Jawf
 c_sanaa;2344;2344 - Al Jawf;Duplicate to increase weight
 c_rafha;2344;2344 - Al Jawf;Sadah - Al Jawf
 
-### ad_dahna_area
+### ad-Dahna
 
 c_hajr;392;392 - Al-Arid;Al-Yamamah - Al-Arid
 
