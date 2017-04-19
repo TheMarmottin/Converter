@@ -5,6 +5,7 @@ import csv
 import pathlib
 import re
 import ck2parser
+import localpaths
 import print_time
 
 
@@ -16,8 +17,7 @@ def main():
                  for prov, title, _ in ck2parser.get_provinces(parser)}
     parser.moddirs = []
 
-    eu4root = pathlib.Path('/cygdrive/c/Program Files (x86)/Steam/steamapps/'
-                           'common/Europa Universalis IV')
+    eu4root = localpaths.eu4dir
     localize = {}
     for path in (eu4root / 'localisation').glob('*_l_english.yml'):
         with path.open(encoding='utf-8-sig') as f:
