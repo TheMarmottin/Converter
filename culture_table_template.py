@@ -5,12 +5,13 @@ import csv
 import pathlib
 import re
 import ck2parser
+import localpaths
 import print_time
 
 
 @print_time.print_time
 def main():
-    eu4root = pathlib.Path('/cygdrive/c/SteamLibrary/steamapps/common/Europa Universalis IV')
+    eu4root = localpaths.eu4dir
     swmh = ck2parser.rootpath / 'SWMH-BETA/SWMH'
     parser = ck2parser.SimpleParser(swmh)
 
@@ -98,14 +99,15 @@ def main():
                                  line)
             if match:
                 ck2, eu4, custom, name = match.groups()
-                if custom == '0':
-                    if '#' in name:
-                        name = (eu4localize[eu4] + ' # ' +
-                                name.split('#', maxsplit=1)[1].strip())
-                    else:
-                        name = eu4localize[eu4]
-                culture_table.append([ck2, eu4, custom, name])
-                unmapped_cultures.remove(ck2)
+                if ck2 in unmapped_cultures:
+                    if custom == '0':
+                        if '#' in name:
+                            name = (eu4localize[eu4] + ' # ' +
+                                    name.split('#', maxsplit=1)[1].strip())
+                        else:
+                            name = eu4localize[eu4]
+                    culture_table.append([ck2, eu4, custom, name])
+                    unmapped_cultures.remove(ck2)
 
     culture_table.sort(key=lambda x: (
         culture_groups.index(group_of_culture[x[1]]),

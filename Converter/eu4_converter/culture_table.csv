@@ -50,14 +50,13 @@ lombard;lombard;0;Lombard
 italian;lombard;0;Lombard
 tuscan;tuscan;0;Tuscan
 sardinian;sardinian;0;Sardinian
-corsican;sardinian;0;Sardinian
-central_italian;romagnan;0;Romagnan
 ligurian;ligurian;0;Ligurian
 venetian;venetian;0;Venetian
-southern_italian;neapolitan;0;Neapolitan
 neapolitan;neapolitan;0;Neapolitan
 langobardisch;neapolitan;0;Neapolitan
 arpitan;piedmontese;0;Piedmontese
+umbrian;umbrian;0;Umbrian
+laziale;umbrian;0;Umbrian
 sicilian;sicilian;0;Sicilian
 roman;roman;0;Roman
 
@@ -131,7 +130,6 @@ prussian;old_prussian;1;Old Prussian
 # Byzantine
 
 greek;greek;0;Greek
-sicilian_greek;greek;0;Greek
 east_gothic;goths;0;Gothic
 
 # Caucasian
