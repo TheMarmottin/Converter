@@ -137,7 +137,7 @@ c_sakala;508;508 - Kashmir;Sakala - Kashmir
 c_gurjaratra;508;508 - Kashmir;Gurjarata - Kashmir
 c_nandana;508;508 - Kashmir;Nandana - Kashmir
 
-c_vakhan;2073;2073 - Baltistan;Vakhân - Baltistan
+c_badakhshan;2073;2073 - Baltistan;Vakhân - Baltistan
 c_kabul;2073;2073 - Baltistan;Kâbul - Baltistan
 c_purushapura;2073;2073 - Baltistan;Purushapura - Baltistan
 
@@ -437,7 +437,6 @@ c_bugey;205;205 - Savoie;Bresse - Savoie
 c_bugey;205;205 - Savoie;Duplicate to increase weight
 c_geneve;205;205 - Savoie;Genève - Savoie
 c_geneve;205;205 - Savoie;Duplicate to increase weight
-c_aosta;205;205 - Savoie;Aosta - Savoie
 c_chablais;205;205 - Savoie;Chablais - Savoie
 
 ### Lorraine
@@ -3241,8 +3240,8 @@ c_kadom;2423;2423 - Alatyr;Kadom - Alatyr
 #### Bechbaliq (off-map)
 #### Urumqi (off-map)
 
-c_almaliq;2120;2120 - Ili;Yulduz - Ili
-c_almaliq;2120;2120 - Ili;Duplicate to increase weight
+c_yulduz;2120;2120 - Ili;Yulduz - Ili
+c_yulduz;2120;2120 - Ili;Duplicate to increase weight
 c_emil;2120;2120 - Ili;Emil - Ili
 
 #### Hami (off-map)
@@ -3281,7 +3280,7 @@ d_yaik;2366;2366 - Utva;Duchy Yaik - Utva
 ### Transcaspia
 
 c_dihistan;437;437 - Atak;Dehestân - Kopet Dag
-c_farava;437;437 - Atak;Farâva - Kopet Dag
+c_abivard;437;437 - Atak;Farâva - Kopet Dag
 c_uzboy;437;437 - Atak;Nisáya - Kopet Dag
 
 c_uzboy;438;438 - Kara Kum;Nisáya - Karakum
@@ -3386,21 +3385,21 @@ c_shash;1967;1967 - Khujand;Shâsh - Khujand
 
 c_sarisu;459;459 - Taraz;Sarisu - Taraz
 c_sarisu;459;459 - Taraz;Duplicate to increase weight
-c_balasaghnun;459;459 - Taraz;Balasaghun - Taraz
+c_balasaghun;459;459 - Taraz;Balasaghun - Taraz
 
 c_yeti-su;461;461 - Almaty;Yetisu - Almaty
 c_yeti-su;461;461 - Almaty;Duplicate to increase weight
-c_almaliq;461;461 - Almaty;Yulduz - Almaty
+c_yulduz;461;461 - Almaty;Yulduz - Almaty
 
 c_barskhan;2125;2125 - Kochkor;Barskhan - Kochkor
 c_barskhan;2125;2125 - Kochkor;Duplicate to increase weight
 c_barskhan;2125;2125 - Kochkor;Duplicate to increase weight
-c_balasaghnun;2125;2125 - Kochkor;Balasaghun - Kochkor
-c_balasaghnun;2125;2125 - Kochkor;Duplicate to increase weight
+c_balasaghun;2125;2125 - Kochkor;Balasaghun - Kochkor
+c_balasaghun;2125;2125 - Kochkor;Duplicate to increase weight
 c_naryn;2125;2125 - Kochkor;Naryn - Kochkor
 c_yeti-su;2125;2125 - Kochkor;Yetisu - Kochkor
 
-c_balasaghnun;2126;2126 - Chuy;Balasaghun - Chuy
+c_balasaghun;2126;2126 - Chuy;Balasaghun - Chuy
 
 c_yeti-su;2368;2368 - Karamegdan;Yetisu - Karamegdan
 
@@ -3413,7 +3412,7 @@ c_otrar;457;457 - Tashkent;Otrâr - Tashkent
 c_talas;457;457 - Tashkent;Talas - Tashkent
 
 c_talas;2364;2364 - Talas;Talas - Talas
-c_balasaghnun;2364;2364 - Talas;Balasaghun - Talas
+c_balasaghun;2364;2364 - Talas;Balasaghun - Talas
 d_zhetysu;2364;2364 - Talas;Duchy Zhetisu - Talas
 
 c_otrar;2356;2356 - Shymkent;Otrâr - Shymkent
@@ -5038,7 +5037,7 @@ c_merv;445;445 - Merv;Merv - Merv
 c_merv;445;445 - Merv;Duplicate to increase weight
 c_sarakhs;445;445 - Merv;Sarakhs - Merv
 
-c_farava;2350;2350 - Konjikala;Farâva - Konjikala
+c_abivard;2350;2350 - Konjikala;Farâva - Konjikala
 
 ### Balkh
 
@@ -5144,7 +5143,7 @@ d_herat;446;446 - Herat;Duchy Herát - Herat
 c_bakharz;2221;2221 - Mashhad;Bâkharz - Mashhad
 c_nishapur;2221;2221 - Mashhad;Nishâpur - Mashhad
 c_tus;2221;2221 - Mashhad;Tus - Mashhad
-c_farava;2221;2221 - Mashhad;Farâva - Mashhad
+c_abivard;2221;2221 - Mashhad;Farâva - Mashhad
 c_sarakhs;2221;2221 - Mashhad;Sarakhs - Mashhad
 
 c_nishapur;2235;2235 - Sabzevar;Nishâpur - Sabzevar
@@ -5153,7 +5152,7 @@ c_arghiyan;2235;2235 - Sabzevar;Arghiyân - Sabzevar
 
 c_arghiyan;2236;2236 - Bojnord;Arghiyân - Bojnord
 c_arghiyan;2236;2236 - Bojnord;Duplicate to increase weight
-c_farava;2236;2236 - Bojnord;Farâva - Bojnord
+c_abivard;2236;2236 - Bojnord;Farâva - Bojnord
 c_dihistan;2236;2236 - Bojnord;Dehestân - Bojnord
 c_tus;2236;2236 - Bojnord;Tus - Bojnord
 c_gurgan;2236;2236 - Bojnord;Gurgân - Bojnord
