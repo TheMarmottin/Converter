@@ -138,8 +138,8 @@ c_sakala;508;508 - Kashmir;Sakala - Kashmir
 c_gurjaratra;508;508 - Kashmir;Gurjarata - Kashmir
 c_nandana;508;508 - Kashmir;Nandana - Kashmir
 
-c_badakhshan;2073;2073 - Baltistan;Badakhshân - Baltistan
-c_kabul;2073;2073 - Baltistan;Kâbul - Baltistan
+c_badakhshan;2073;2073 - Baltistan;Badakhshán - Baltistan
+c_kabul;2073;2073 - Baltistan;Kábul - Baltistan
 c_purushapura;2073;2073 - Baltistan;Purushapura - Baltistan
 
 #### Ladakh (off-map)
@@ -3277,8 +3277,8 @@ d_yaik;2366;2366 - Utva;Duchy Yaik - Utva
 
 ### Transcaspia
 
-c_dihistan;437;437 - Atak;Dehestân - Kopet Dag
-c_abivard;437;437 - Atak;Abîvard - Kopet Dag
+c_dihistan;437;437 - Atak;Dehestán - Kopet Dag
+c_abivard;437;437 - Atak;Abívard - Kopet Dag
 c_uzboy;437;437 - Atak;Nisáya - Kopet Dag
 
 c_uzboy;438;438 - Kara Kum;Nisáya - Karakum
@@ -3293,7 +3293,7 @@ c_ustyurt;443;443 - Ust Yurt;Ust-Yurt - Ustyurt
 c_mangyshlak;443;443 - Ust Yurt;Mangyshlak - Ustyurt
 d_ustyurt;443;443 - Ust Yurt;Duchy Ust-Yurt - Ustyurt
 
-c_dihistan;2349;2349 - Kizil-Su;Dehestân - Kizil-Su
+c_dihistan;2349;2349 - Kizil-Su;Dehestán - Kizil-Su
 c_dihistan;2349;2349 - Kizil-Su;Duplicate to increase weight
 c_karasu;2349;2349 - Kizil-Su;Karasu - Kizil-Su
 
@@ -3306,7 +3306,7 @@ c_samarqand;442;442 - Bukhara;Samarkand - Bukhara
 c_nakhsheb;453;453 - Qarshi;Nakhsheb - Qarshi
 c_nakhsheb;453;453 - Qarshi;Duplicate to increase weight
 c_bukhara;453;453 - Qarshi;Bukhara - Qarshi
-c_chaghaniyan;453;453 - Qarshi;Chaghâniyân - Qarshi
+c_chaghaniyan;453;453 - Qarshi;Chaghániyán - Qarshi
 d_soghd;453;453 - Qarshi;Duchy Soghd - Qarshi
 
 c_samarqand;454;454 - Samarkand;Samarkand - Samarkand
@@ -3316,7 +3316,7 @@ c_panjikend;454;454 - Samarkand;Kish - Samarkand
 c_ustrushana;454;454 - Samarkand;Ustrushana - Samarkand
 
 c_rasht;1968;1968 - Kulob;Rasht - Kulob
-c_chaghaniyan;1968;1968 - Kulob;Chaghâniyân - Kulob
+c_chaghaniyan;1968;1968 - Kulob;Chaghániyán - Kulob
 c_khuttal;1968;1968 - Kulob;Khuttal - Kulob
 
 ### Kazakhstan
@@ -3377,7 +3377,7 @@ c_naryn;460;460 - Uzkend;Naryn - Uzkend
 
 c_khojand;1967;1967 - Khujand;Khojand - Khujand
 c_ustrushana;1967;1967 - Khujand;Ustrushana - Khujand
-c_shash;1967;1967 - Khujand;Shâsh - Khujand
+c_shash;1967;1967 - Khujand;Shásh - Khujand
 
 ### Jetysuu
 
@@ -3403,17 +3403,17 @@ c_yeti-su;2368;2368 - Karamegdan;Yetisu - Karamegdan
 
 ### Arys
 
-c_shash;457;457 - Tashkent;Shâsh - Tashkent
+c_shash;457;457 - Tashkent;Shásh - Tashkent
 c_shash;457;457 - Tashkent;Duplicate to increase weight
 d_shash;457;457 - Tashkent;Duchy Chách - Tashkent
-c_otrar;457;457 - Tashkent;Otrâr - Tashkent
+c_otrar;457;457 - Tashkent;Otrár - Tashkent
 c_talas;457;457 - Tashkent;Talas - Tashkent
 
 c_talas;2364;2364 - Talas;Talas - Talas
 c_balasaghun;2364;2364 - Talas;Balasaghun - Talas
 d_zhetysu;2364;2364 - Talas;Duchy Zhetisu - Talas
 
-c_otrar;2356;2356 - Shymkent;Otrâr - Shymkent
+c_otrar;2356;2356 - Shymkent;Otrár - Shymkent
 c_otrar;2356;2356 - Shymkent;Duplicate to increase weight
 c_sarisu;2356;2356 - Shymkent;Sarisu - Shymkent
 
@@ -3491,8 +3491,8 @@ c_jand;1970;1970 - Syghnak;Jand - Syghnak
 c_jand;1970;1970 - Syghnak;Duplicate to increase weight
 
 c_sighnaq;2363;2363 - Atakent;Sighnaq - Atakent
-c_otrar;2363;2363 - Atakent;Otrâr - Atakent
-c_shash;2363;2363 - Atakent;Shâsh - Atakent
+c_otrar;2363;2363 - Atakent;Otrár - Atakent
+c_shash;2363;2363 - Atakent;Shásh - Atakent
 
 ## Tibet (off-map)
 # Far East (off-map)
@@ -3731,7 +3731,7 @@ c_taghaza;1127;1127 - Tuat;Taghaza - Tuat
 
 c_taghaza;1128;1128 - Taodeni;Taghaza - Taudeni
 
-c_araouane;1129;1129 - Azawadd;Arawân - Azawad
+c_araouane;1129;1129 - Azawadd;Arawán - Azawad
 c_araouane;1129;1129 - Azawadd;Duplicate to increase weight
 c_tassarahla;1129;1129 - Azawadd;Tassarahla - Azawad
 
@@ -3887,14 +3887,14 @@ c_busaso;2788;2788 - Hafun;Busaso - Hafun
 
 c_adulis;1230;1230 - Massawa;Adulis - Massawa
 c_adulis;1230;1230 - Massawa;Duplicate to increase weight
-c_hayya;1230;1230 - Massawa;Bâdi - Massawa
+c_hayya;1230;1230 - Massawa;Bádi - Massawa
 
 c_suakin;1232;1232 - Suakin;Suakin - Suakin
 c_suakin;1232;1232 - Suakin;Duplicate to increase weight
 c_suakin;1232;1232 - Suakin;Duplicate to increase weight
 c_suakin;1232;1232 - Suakin;Duplicate to increase weight
 c_maikele_bahr;1232;1232 - Suakin;Maikele Bahr - Suakin
-c_hayya;1232;1232 - Suakin;Bâdi - Suakin
+c_hayya;1232;1232 - Suakin;Bádi - Suakin
 c_aydhab;1232;1232 - Suakin;Aydhab - Suakin
 
 c_aydhab;2324;2324 - Halaib;Aydhab - Halaib
@@ -4058,8 +4058,8 @@ c_djerba;2954;2954 - Djerba;Djerba - Djerba
 
 ### Kabylia
 
-c_bejaija;339;339 - Bejaia;Bidjâya - Kabylia
-c_beni_yanni;339;339 - Bejaia;Jîjil - Kabylia
+c_bejaija;339;339 - Bejaia;Bidjáya - Kabylia
+c_beni_yanni;339;339 - Bejaia;Jíjil - Kabylia
 c_setif;339;339 - Bejaia;Kabylia - Kabylia
 
 c_constantine;340;340 - Constantine;Qustantiniyya - Constantine
@@ -4072,19 +4072,19 @@ c_tabassa;1882;1882 - Bone;Tabassa - Annaba
 
 ### Algiers
 
-c_tlemcen;336;336 - Tlemcen;Tilimsân - Tlemcen
-c_orania;336;336 - Tlemcen;Wahrân - Tlemcen
+c_tlemcen;336;336 - Tlemcen;Tilimsán - Tlemcen
+c_orania;336;336 - Tlemcen;Wahrán - Tlemcen
 d_tlemcen;336;336 - Tlemcen;Duchy Tilimsan - Tlemcen
 
-c_orania;337;337 - Oran;Wahrân - Oran
+c_orania;337;337 - Oran;Wahrán - Oran
 
-c_al_djazair;338;338 - Al-Djazair;Al-Jazâir - Mitidja
+c_al_djazair;338;338 - Al-Djazair;Al-Jazáir - Mitidja
 
 c_snassen;2461;2461 - Dahra;Tanas - Dahra
 c_snassen;2461;2461 - Dahra;Duplicate to increase weight
-c_al_djazair;2461;2461 - Dahra;Al-Jazâir - Dahra
+c_al_djazair;2461;2461 - Dahra;Al-Jazáir - Dahra
 
-c_tlemcen;2465;2465 - Oudja;Tilimsân - Oujda
+c_tlemcen;2465;2465 - Oudja;Tilimsán - Oujda
 c_tlemcen;2465;2465 - Oudja;Duplicate to increase weight
 c_hanyan;2465;2465 - Oudja;Hunayn - Oujda
 
@@ -4094,11 +4094,11 @@ c_lemdiyya;2459;2459 - Titteri;Achir - Titteri
 c_lemdiyya;2459;2459 - Titteri;Duplicate to increase weight
 c_ouled_nail;2459;2459 - Titteri;Bou Sa'ada - Titteri
 
-c_atlas_mnt;2462;2462 - Ouarsenis;Tâhart - Ouarsenis
+c_atlas_mnt;2462;2462 - Ouarsenis;Táhart - Ouarsenis
 c_atlas_mnt;2462;2462 - Ouarsenis;Duplicate to increase weight
 c_lemdiyya;2462;2462 - Ouarsenis;Achir - Ouarsenis
 
-c_atlas_mnt;2463;2463 - Maaskar;Tâhart - Kasdir
+c_atlas_mnt;2463;2463 - Maaskar;Táhart - Kasdir
 
 ### North Sahara
 
@@ -4146,15 +4146,15 @@ c_sijilmasa;2466;2466 - Draa;Sijilmasa - Draa
 
 ### Central Morocco
 
-c_fes;343;343 - Fez;Fâs - Fez
-c_el_rif;343;343 - Fez;El-Rîf - Fez
+c_fes;343;343 - Fez;Fás - Fez
+c_el_rif;343;343 - Fez;El-Ríf - Fez
 c_sa;343;343 - Fez;Sa - Fez
 
-c_marrakech;344;344 - Marrakech;Marrâkush - Marrakech
+c_marrakech;344;344 - Marrakech;Marrákush - Marrakech
 
-c_fes;2467;2467 - Meknes;Fâs - Meknes
+c_fes;2467;2467 - Meknes;Fás - Meknes
 
-c_marrakech;2468;2468 - Tadla;Marrâkush - Tadla
+c_marrakech;2468;2468 - Tadla;Marrákush - Tadla
 
 ### Ouled Nail
 
@@ -4177,7 +4177,7 @@ c_cebta;1751;1751 - Ceuta;Sebta - Ceuta
 c_cebta;1751;1751 - Ceuta;Duplicate to increase weight
 c_cebta;1751;1751 - Ceuta;Duplicate to increase weight
 c_nakur;1751;1751 - Ceuta;Nakur - Ceuta
-c_el_rif;1751;1751 - Ceuta;El-Rîf - Ceuta
+c_el_rif;1751;1751 - Ceuta;El-Ríf - Ceuta
 
 ### Southern Morocco
 
@@ -4187,19 +4187,19 @@ c_ifni;1110;1110 - Rio de Oro;Ifni - Agadir
 c_tharasset;1110;1110 - Rio de Oro;Tarúdant - Agadir
 c_draa;1110;1110 - Rio de Oro;Draa - Agadir
 
-c_anti-atlas;2470;2470 - Haha;Tinmallâl - Haha
+c_anti-atlas;2470;2470 - Haha;Tinmallál - Haha
 
 ### Gharb
 
 c_sala;342;342 - Toubkhal;Sala - Gharb
-c_fes;342;342 - Toubkhal;Fâs - Gharb
-c_infa;342;342 - Toubkhal;Ribât al-Fath - Gharb
+c_fes;342;342 - Toubkhal;Fás - Gharb
+c_infa;342;342 - Toubkhal;Ribát al-Fath - Gharb
 
-c_massat;345;345 - Safi;Asfî - Abda
-c_anti-atlas;345;345 - Safi;Tinmallâl - Abda
-c_marrakech;345;345 - Safi;Marrâkush - Abda
+c_massat;345;345 - Safi;Asfí - Abda
+c_anti-atlas;345;345 - Safi;Tinmallál - Abda
+c_marrakech;345;345 - Safi;Marrákush - Abda
 
-c_infa;2469;2469 - Dukkala;Ribât al-Fath - Dukkala
+c_infa;2469;2469 - Dukkala;Ribát al-Fath - Dukkala
 
 ### Tripolitania
 
@@ -4217,41 +4217,41 @@ c_dakhila;1233;1233 - Kharga;Dakhila - Kharga
 d_alwahat;1233;1233 - Kharga;Duchy Al-Wahát - Kharga
 
 c_bahriya;2318;2318 - Al Wahat;Bahriya - Al Wahat
-c_quattara;2318;2318 - Al Wahat;Sîwa - Al Wahat
+c_quattara;2318;2318 - Al Wahat;Síwa - Al Wahat
 c_dakhila;2318;2318 - Al Wahat;Dakhila - Al Wahat
 
 c_al_alamayn;2325;2325 - Tarrana;Sullum - Tarrana
-c_quattara;2325;2325 - Tarrana;Sîwa - Tarrana
+c_quattara;2325;2325 - Tarrana;Síwa - Tarrana
 d_alexandria;2325;2325 - Tarrana;Duchy Iskandariya - Tarrana
 
 c_tobruk;2326;2326 - Bardiyah;Tubrúk - Bardiyah
 c_al_alamayn;2326;2326 - Bardiyah;Sullum - Bardiyah
-c_quattara;2326;2326 - Bardiyah;Sîwa - Bardiyah
+c_quattara;2326;2326 - Bardiyah;Síwa - Bardiyah
 
 ### Gharbia
 
-c_alexandria;358;358 - Alexandria;Iskandarîya - Alexandria
+c_alexandria;358;358 - Alexandria;Iskandaríya - Alexandria
 c_alexandria;358;358 - Alexandria;Duplicate to increase weight
-c_quattara;358;358 - Alexandria;Sîwa - Alexandria
+c_quattara;358;358 - Alexandria;Síwa - Alexandria
 
-c_gabiyaha;362;362 - Rosetta;Nastarâwa - Rosetta
+c_gabiyaha;362;362 - Rosetta;Nastaráwa - Rosetta
 c_gabiyaha;362;362 - Rosetta;Duplicate to increase weight
-c_buhairya;362;362 - Rosetta;Hawf Gharbî - Rosetta
-c_delta;362;362 - Rosetta;Dimyât - Rosetta
+c_buhairya;362;362 - Rosetta;Hawf Gharbí - Rosetta
+c_delta;362;362 - Rosetta;Dimyát - Rosetta
 c_bilbays;362;362 - Rosetta;Bilbays - Rosetta
 
 c_manupura;2316;2316 - Al Gharbia;Manúf - Al Gharbia
 c_manupura;2316;2316 - Al Gharbia;Duplicate to increase weight
 c_bilbays;2316;2316 - Al Gharbia;Bilbays - Al Gharbia
 c_cairo;2316;2316 - Al Gharbia;Cairo - Al Gharbia
-c_gizeh;2316;2316 - Al Gharbia;Gîza - Al Gharbia
+c_gizeh;2316;2316 - Al Gharbia;Gíza - Al Gharbia
 c_fayyum;2316;2316 - Al Gharbia;Fayyum - Al Gharbia
-c_buhairya;2316;2316 - Al Gharbia;Hawf Gharbî - Al Gharbia
+c_buhairya;2316;2316 - Al Gharbia;Hawf Gharbí - Al Gharbia
 
 ### Sharqiya
 
-c_delta;363;363 - Damietta;Dimyât - Damietta
-c_pelusia;363;363 - Damietta;Ushmún Tannâh - Damietta
+c_delta;363;363 - Damietta;Dimyát - Damietta
+c_pelusia;363;363 - Damietta;Ushmún Tannáh - Damietta
 c_pelusia;363;363 - Damietta;Duplicate to increase weight
 c_bilbays;363;363 - Damietta;Bilbays - Damietta
 c_bilbays;363;363 - Damietta;Duplicate to increase weight
@@ -4280,7 +4280,7 @@ c_cairo;361;361 - Cairo;Duplicate to increase weight
 c_cairo;361;361 - Cairo;Duplicate to increase weight
 c_itfih;361;361 - Cairo;Itfih - Cairo
 c_sarqihya;361;361 - Cairo;Quzlum - Cairo
-c_gizeh;361;361 - Cairo;Gîza - Cairo
+c_gizeh;361;361 - Cairo;Gíza - Cairo
 d_cairo;361;361 - Cairo;Duchy Qáhira - Cairo
 
 c_manfalut;2317;2317 - Minya;Manfalut - Minya
@@ -4333,13 +4333,13 @@ c_waddan;355;355 - Sirt;Waddan - Sirt
 c_benghazi;356;356 - Benghazi;Barqa - Benghazi
 c_benghazi;356;356 - Benghazi;Duplicate to increase weight
 c_ajadabiya;356;356 - Benghazi;Adjadabiya - Benghazi
-c_senoussi;356;356 - Benghazi;Awjîla - Benghazi
+c_senoussi;356;356 - Benghazi;Awjíla - Benghazi
 d_cyrenaica;356;356 - Benghazi;Duchy Barqa - Benghazi
 
 c_tobruk;357;357 - Darnah;Tubrúk - Darnah
 c_tobruk;357;357 - Darnah;Duplicate to increase weight
 c_benghazi;357;357 - Darnah;Barqa - Darnah
-c_senoussi;357;357 - Darnah;Awjîla - Darnah
+c_senoussi;357;357 - Darnah;Awjíla - Darnah
 d_cyrenaica;357;357 - Darnah;Duchy Barqa - Darnah
 
 # South America (off-map)
@@ -4452,7 +4452,7 @@ c_saone;2313;2313 - Antioch;Duplicate to increase weight
 c_alexandretta;2313;2313 - Antioch;Alexandrou - Antioch
 c_teluch;2313;2313 - Antioch;Marash - Antioch
 c_adana;2313;2313 - Antioch;Adana - Antioch
-d_antioch;2313;2313 - Antioch;Duchy Principauté d'Antioche - Antioch
+d_antioch;2313;2313 - Antioch;Duchy Antioche - Antioch
 
 ### Rum
 
@@ -4649,7 +4649,7 @@ c_manbij;407;407 - Ar Raqqa;Manbij - Ar Raqqa
 c_harran;407;407 - Ar Raqqa;Harran - Ar Raqqa
 c_edessa;407;407 - Ar Raqqa;Edessa - Ar Raqqa
 c_mardin;407;407 - Ar Raqqa;Mardin - Ar Raqqa
-c_bira;407;407 - Ar Raqqa;Nasîbîn - Ar Raqqa
+c_bira;407;407 - Ar Raqqa;Nasíbín - Ar Raqqa
 c_al_bichri;407;407 - Ar Raqqa;Rahba - Ar Raqqa
 
 c_hama;1849;1849 - Hama;Hama - Hama
@@ -4671,9 +4671,9 @@ c_deir;406;406 - As Sahiliyah;Anbar - As Sahiliyah
 c_deir;406;406 - As Sahiliyah;Duplicate to increase weight
 c_al_bichri;406;406 - As Sahiliyah;Rahba - As Sahiliyah
 
-c_al_jazira;2308;2308 - Cizre;Jazîrat ibn 'Umar - Cizre
+c_al_jazira;2308;2308 - Cizre;Jazírat ibn 'Umar - Cizre
 c_amadiya;2308;2308 - Cizre;Amadiyah - Cizre
-c_bira;2308;2308 - Cizre;Nasîbîn - Cizre
+c_bira;2308;2308 - Cizre;Nasíbín - Cizre
 
 c_druz;2310;2310 - Tikrit;Takrit - Tikrit
 c_euphrates;2310;2310 - Tikrit;Samarrah - Tikrit
@@ -5025,7 +5025,7 @@ c_rafha;2346;2346 - Jazan;Sadah - Jazan
 ## Khorasan
 ### Merv
 
-c_amol;444;444 - Charjuy;Âmol - Charjuy
+c_amol;444;444 - Charjuy;Ámol - Charjuy
 c_amol;444;444 - Charjuy;Duplicate to increase weight
 c_amol;444;444 - Charjuy;Duplicate to increase weight
 c_merv;444;444 - Charjuy;Merv - Charjuy
@@ -5035,24 +5035,24 @@ c_merv;445;445 - Merv;Merv - Merv
 c_merv;445;445 - Merv;Duplicate to increase weight
 c_sarakhs;445;445 - Merv;Sarakhs - Merv
 
-c_abivard;2350;2350 - Konjikala;Abîvard - Konjikala
+c_abivard;2350;2350 - Konjikala;Abívard - Konjikala
 
 ### Balkh
 
 c_balkh;450;450 - Balkh;Balkh - Balkh
-c_tokharestan;450;450 - Balkh;Tokharestân - Balkh
+c_tokharestan;450;450 - Balkh;Tokharestán - Balkh
 d_balkh;450;450 - Balkh;Duchy Balkh - Balkh
 
-c_talekan;2227;2227 - Kunduz;Tâlekân - Kunduz
+c_talekan;2227;2227 - Kunduz;Tálekán - Kunduz
 c_talekan;2227;2227 - Kunduz;Duplicate to increase weight
 c_khuttal;2227;2227 - Kunduz;Khuttal - Kunduz
 
-c_guzgan;2228;2228 - Maymana;Guzgân - Maymana
+c_guzgan;2228;2228 - Maymana;Guzgán - Maymana
 c_guzgan;2228;2228 - Maymana;Duplicate to increase weight
 c_guzgan;2228;2228 - Maymana;Duplicate to increase weight
 c_guzgan;2228;2228 - Maymana;Duplicate to increase weight
-c_gharchistan;2228;2228 - Maymana;Gharchistân - Maymana
-c_rivsharan;2228;2228 - Maymana;Rivshârân - Maymana
+c_gharchistan;2228;2228 - Maymana;Gharchistán - Maymana
+c_rivsharan;2228;2228 - Maymana;Rívshárán - Maymana
 c_merv;2228;2228 - Maymana;Merv - Maymana
 c_balkh;2228;2228 - Maymana;Balkh - Maymana
 
@@ -5060,37 +5060,37 @@ c_balkh;2228;2228 - Maymana;Balkh - Maymana
 
 c_ghazna;448;448 - Gazni;Ghazna - Gazni
 
-c_kabul;451;451 - Kabul;Kâbul - Kabul
+c_kabul;451;451 - Kabul;Kábul - Kabul
 c_ghazna;451;451 - Kabul;Ghazna - Kabul
-c_tokharestan;451;451 - Kabul;Tokharestân - Kabul
+c_tokharestan;451;451 - Kabul;Tokharestán - Kabul
 
-c_badakhshan;452;452 - Badakhshan;Badakhshân - Badakhshan
+c_badakhshan;452;452 - Badakhshan;Badakhshán - Badakhshan
 c_badakhshan;452;452 - Badakhshan;Duplicate to increase weight
 c_badakhshan;452;452 - Badakhshan;Duplicate to increase weight
-c_kabul;452;452 - Badakhshan;Kâbul - Badakhshan
+c_kabul;452;452 - Badakhshan;Kábul - Badakhshan
 c_khuttal;452;452 - Badakhshan;Khuttal - Badakhshan
 
 c_bannu;578;578 - Roh;Bannu - Roh
 c_bannu;578;578 - Roh;Duplicate to increase weight
 c_bannu;578;578 - Roh;Duplicate to increase weight
 c_purushapura;578;578 - Roh;Purushapura - Roh
-c_lamghan;578;578 - Roh;Lamghân - Roh
+c_lamghan;578;578 - Roh;Lamghán - Roh
 
-c_kabul;2226;2226 - Jalalabad;Kâbul - Jalalabad
+c_kabul;2226;2226 - Jalalabad;Kábul - Jalalabad
 c_kabul;2226;2226 - Jalalabad;Duplicate to increase weight
-c_lamghan;2226;2226 - Jalalabad;Lamghân - Jalalabad
+c_lamghan;2226;2226 - Jalalabad;Lamghán - Jalalabad
 
 ### Ghor
 
-c_rukhadj;447;447 - Kandahar;Rukhâdj - Kandahar
+c_rukhadj;447;447 - Kandahar;Rukhádj - Kandahar
 c_rukhadj;447;447 - Kandahar;Duplicate to increase weight
 c_zamindavar;447;447 - Kandahar;Zamindavar - Kandahar
-c_rudbar;447;447 - Kandahar;Rúdbâr - Kandahar
+c_rudbar;447;447 - Kandahar;Rúdbár - Kandahar
 d_sistan;447;447 - Kandahar;Duchy Sístán - Kandahar
 
 c_ghor;449;449 - Ghor;Ghór - Ghor
 c_ghor;449;449 - Ghor;Duplicate to increase weight
-c_rivsharan;449;449 - Ghor;Rivshârân - Ghor
+c_rivsharan;449;449 - Ghor;Rívshárán - Ghor
 
 c_ghor;2225;2225 - Bamyan;Ghór - Bamyan
 c_zamindavar;2225;2225 - Bamyan;Zamindavar - Bamyan
@@ -5098,66 +5098,66 @@ c_ghazna;2225;2225 - Bamyan;Ghazna - Bamyan
 
 ### Sistan
 
-c_sistan;435;435 - Sistan;Sîstân - Zaranj
+c_sistan;435;435 - Sistan;Sístán - Zaranj
 
 c_farah;2224;2224 - Ferah;Farrah - Ferah
 c_farah;2224;2224 - Ferah;Duplicate to increase weight
 c_farah;2224;2224 - Ferah;Duplicate to increase weight
-c_qohistan;2224;2224 - Ferah;Qohistân - Ferah
+c_qohistan;2224;2224 - Ferah;Qohistán - Ferah
 c_qohistan;2224;2224 - Ferah;Duplicate to increase weight
-c_sistan;2224;2224 - Ferah;Sîstân - Ferah
-c_badghis;2224;2224 - Ferah;Bâdghîs - Ferah
+c_sistan;2224;2224 - Ferah;Sístán - Ferah
+c_badghis;2224;2224 - Ferah;Bádghís - Ferah
 
 c_zamindavar;2229;2229 - Bust;Zamindavar - Bust
-c_sistan;2229;2229 - Bust;Sîstân - Bust
+c_sistan;2229;2229 - Bust;Sístán - Bust
 c_farah;2229;2229 - Bust;Farrah - Bust
-c_rudbar;2229;2229 - Bust;Rúdbâr - Bust
+c_rudbar;2229;2229 - Bust;Rúdbár - Bust
 d_sistan;2229;2229 - Bust;Duchy Sístán - Bust
 
-c_rudbar;2230;2230 - Chagai;Rúdbâr - Chagai
+c_rudbar;2230;2230 - Chagai;Rúdbár - Chagai
 c_rudbar;2230;2230 - Chagai;Duplicate to increase weight
 c_rudbar;2230;2230 - Chagai;Duplicate to increase weight
-c_sistan;2230;2230 - Chagai;Sîstân - Chagai
+c_sistan;2230;2230 - Chagai;Sístán - Chagai
 c_mashkel;2230;2230 - Chagai;Mashkél - Chagai
 
 ### Khorasan
 
-c_qohistan;436;436 - Birjand;Qohistân - Birjand
+c_qohistan;436;436 - Birjand;Qohistán - Birjand
 
-c_badghis;446;446 - Herat;Bâdghîs - Herat
+c_badghis;446;446 - Herat;Bádghís - Herat
 c_badghis;446;446 - Herat;Duplicate to increase weight
 c_badghis;446;446 - Herat;Duplicate to increase weight
 c_badghis;446;446 - Herat;Duplicate to increase weight
-c_ganj-rustaq;446;446 - Herat;Ganj Rustâq - Herat
+c_ganj-rustaq;446;446 - Herat;Ganj Rustáq - Herat
 c_ganj-rustaq;446;446 - Herat;Duplicate to increase weight
 c_ganj-rustaq;446;446 - Herat;Duplicate to increase weight
 c_ganj-rustaq;446;446 - Herat;Duplicate to increase weight
 c_merv;446;446 - Herat;Merv - Herat
 c_sarakhs;446;446 - Herat;Sarakhs - Herat
-c_bakharz;446;446 - Herat;Bâkharz - Herat
-c_qohistan;446;446 - Herat;Qohistân - Herat
+c_bakharz;446;446 - Herat;Bákharz - Herat
+c_qohistan;446;446 - Herat;Qohistán - Herat
 d_herat;446;446 - Herat;Duchy Herát - Herat
 
-c_bakharz;2221;2221 - Mashhad;Bâkharz - Mashhad
-c_nishapur;2221;2221 - Mashhad;Nishâpur - Mashhad
+c_bakharz;2221;2221 - Mashhad;Bákharz - Mashhad
+c_nishapur;2221;2221 - Mashhad;Nishápur - Mashhad
 c_tus;2221;2221 - Mashhad;Tus - Mashhad
-c_abivard;2221;2221 - Mashhad;Abîvard - Mashhad
+c_abivard;2221;2221 - Mashhad;Abívard - Mashhad
 c_sarakhs;2221;2221 - Mashhad;Sarakhs - Mashhad
 
-c_nishapur;2235;2235 - Sabzevar;Nishâpur - Sabzevar
+c_nishapur;2235;2235 - Sabzevar;Nishápur - Sabzevar
 c_nishapur;2235;2235 - Sabzevar;Duplicate to increase weight
-c_arghiyan;2235;2235 - Sabzevar;Arghiyân - Sabzevar
+c_arghiyan;2235;2235 - Sabzevar;Arghiyán - Sabzevar
 
-c_arghiyan;2236;2236 - Bojnord;Arghiyân - Bojnord
+c_arghiyan;2236;2236 - Bojnord;Arghiyán - Bojnord
 c_arghiyan;2236;2236 - Bojnord;Duplicate to increase weight
-c_abivard;2236;2236 - Bojnord;Abîvard - Bojnord
-c_dihistan;2236;2236 - Bojnord;Dehestân - Bojnord
+c_abivard;2236;2236 - Bojnord;Abívard - Bojnord
+c_dihistan;2236;2236 - Bojnord;Dehestán - Bojnord
 c_tus;2236;2236 - Bojnord;Tus - Bojnord
-c_gurgan;2236;2236 - Bojnord;Gurgân - Bojnord
+c_gurgan;2236;2236 - Bojnord;Gurgán - Bojnord
 
 ### Makran
 
-c_makran;434;434 - Quhistan;Makran - Quhistan
+c_makran;434;434 - Quhistan;Tiz - Quhistan
 
 c_pandjgur;575;575 - Eastern Makran;Pandjgúr - Gwadar
 
@@ -5169,16 +5169,16 @@ c_mashkel;2232;2232 - Kharan;Mashkél - Kharan
 c_mashkel;2232;2232 - Kharan;Duplicate to increase weight
 c_pandjgur;2232;2232 - Kharan;Pandjgúr - Kharan
 
-c_makran;2233;2233 - Western Makran;Makran - Chabahar
+c_makran;2233;2233 - Western Makran;Tiz - Chabahar
 
 ### Kalat
 
-c_turan;576;576 - Kalat;Turân - Kalat
+c_turan;576;576 - Kalat;Turán - Kalat
 c_sibi;576;576 - Kalat;Sibi - Kalat
 c_pandjgur;576;576 - Kalat;Pandjgúr - Kalat
 
 c_wana;577;577 - Quetta;Bori - Quetta
-c_rukhadj;577;577 - Quetta;Rukhâdj - Quetta
+c_rukhadj;577;577 - Quetta;Rukhádj - Quetta
 c_sibi;577;577 - Quetta;Sibi - Quetta
 
 c_sibi;2068;2068 - Siwistan;Sibi - Siwi
@@ -5238,7 +5238,7 @@ c_shiraz;2218;2218 - Sarvestan;Shiraz - Shiraz
 
 c_darabjird;2223;2223 - Larestan;Darabjird - Larestan
 c_darabjird;2223;2223 - Larestan;Duplicate to increase weight
-c_sirjan;2223;2223 - Larestan;Sîrjân - Larestan
+c_sirjan;2223;2223 - Larestan;Sírján - Larestan
 
 c_yazd;4171;4171 - Abarquh;Yazd - Abarquh
 
@@ -5246,10 +5246,10 @@ c_yazd;4171;4171 - Abarquh;Yazd - Abarquh
 
 c_kumis;427;427 - Qumis;Kúmis - Qumis
 c_kumis;427;427 - Qumis;Duplicate to increase weight
-c_biyar;427;427 - Qumis;Biyâr - Qumis
-c_gurgan;427;427 - Qumis;Gurgân - Qumis
-c_arghiyan;427;427 - Qumis;Arghiyân - Qumis
-c_nishapur;427;427 - Qumis;Nishâpur - Qumis
+c_biyar;427;427 - Qumis;Biyár - Qumis
+c_gurgan;427;427 - Qumis;Gurgán - Qumis
+c_arghiyan;427;427 - Qumis;Arghiyán - Qumis
+c_nishapur;427;427 - Qumis;Nishápur - Qumis
 d_khoar;427;427 - Qumis;Duchy Khoar - Qumis
 
 c_rayy;428;428 - Rey;Rayy - Teheran
@@ -5270,9 +5270,9 @@ c_mazandaran;426;426 - Mazandaran;Mazandaran - Mazandaran
 c_ruyan;426;426 - Mazandaran;Ruyan - Mazandaran
 d_tabarestan;426;426 - Mazandaran;Duchy Tabarestán - Mazandaran
 
-c_gurgan;2214;2214 - Golestan;Gurgân - Golestan
+c_gurgan;2214;2214 - Golestan;Gurgán - Golestan
 c_gurgan;2214;2214 - Golestan;Duplicate to increase weight
-c_dihistan;2214;2214 - Golestan;Dehestân - Golestan
+c_dihistan;2214;2214 - Golestan;Dehestán - Golestan
 
 ### Azerbaijan
 
@@ -5284,7 +5284,7 @@ c_kharraqan;2212;2212 - Zanjan;Kharraqan - Zanjan
 c_kharraqan;2212;2212 - Zanjan;Duplicate to increase weight
 c_hamadan;2212;2212 - Zanjan;Hamadan - Zanjan
 
-c_qazwin;2215;2215 - Qazvin;Kazvîn - Qazvin
+c_qazwin;2215;2215 - Qazvin;Kazvín - Qazvin
 c_rayy;2215;2215 - Qazvin;Rayy - Qazvin
 c_rayy;2215;2215 - Qazvin;Duplicate to increase weight
 c_kharraqan;2215;2215 - Qazvin;Kharraqan - Qazvin
@@ -5296,24 +5296,24 @@ c_hamadan;2215;2215 - Qazvin;Hamadan - Qazvin
 c_esfahan;429;429 - Isfahan;Isfahan - Isfahan
 c_esfahan;429;429 - Isfahan;Duplicate to increase weight
 c_yazd;429;429 - Isfahan;Yazd - Isfahan
-c_mafaza;429;429 - Isfahan;Mafâza - Isfahan
+c_mafaza;429;429 - Isfahan;Mafáza - Isfahan
 
 c_yazd;433;433 - Yazd;Yazd - Yazd
-c_mafaza;433;433 - Yazd;Mafâza - Yazd
+c_mafaza;433;433 - Yazd;Mafáza - Yazd
 
-c_mafaza;2222;2222 - Ardakan;Mafâza - Ardakan
+c_mafaza;2222;2222 - Ardakan;Mafáza - Ardakan
 
 ### Kerman
 
-c_kerman;432;432 - Kerman;Kermân - Kerman
+c_kerman;432;432 - Kerman;Kermán - Kerman
 
 c_jiruft;2220;2220 - Bam;Jiruft - Bam
-c_kerman;2220;2220 - Bam;Kermân - Bam
+c_kerman;2220;2220 - Bam;Kermán - Bam
 d_kerman;2220;2220 - Bam;Duchy Kermán - Bam
 
-c_sirjan;2234;2234 - Rafsanjan;Sîrjân - Rafsanjan
+c_sirjan;2234;2234 - Rafsanjan;Sírján - Rafsanjan
 c_yazd;2234;2234 - Rafsanjan;Yazd - Rafsanjan
-c_mafaza;2234;2234 - Rafsanjan;Mafâza - Rafsanjan
+c_mafaza;2234;2234 - Rafsanjan;Mafáza - Rafsanjan
 
 ### Gulf Coast
 
@@ -5324,8 +5324,8 @@ c_siraf;430;430 - Bushehr;Irahistan - Dashtistan
 d_fars;430;430 - Bushehr;Duchy Párs - Dashtistan
 
 c_hormuz;431;431 - Mogostan;Hormuz - Mogostan
-c_makran;431;431 - Mogostan;Makran - Mogostan
-c_sirjan;431;431 - Mogostan;Sîrjân - Mogostan
+c_makran;431;431 - Mogostan;Tiz - Mogostan
+c_sirjan;431;431 - Mogostan;Sírján - Mogostan
 
 c_larestan;2219;2219 - Bandar Langeh;Larestan - Bandar Langeh
 c_larestan;2219;2219 - Bandar Langeh;Duplicate to increase weight

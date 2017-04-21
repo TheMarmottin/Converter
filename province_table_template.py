@@ -47,7 +47,7 @@ def main():
         history[num] = path.stem
     names = collections.defaultdict(list)
     for path in (eu4root / 'common/province_names').iterdir():
-        with path.open() as f:
+        with path.open(encoding='cp1252') as f:
             for line in f:
                 match = re.fullmatch(r' *(\d+) *= *"([^"]*)"\n?', line)
                 if match and match.group(2) not in names[int(match.group(1))]:
