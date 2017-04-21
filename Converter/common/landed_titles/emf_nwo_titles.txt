@@ -1,0 +1,46 @@
+k_emf_lower_lorraine = {
+	color = { 255 204 20 }
+	color2 = { 255 204 0 }
+	capital = 117
+	culture = dutch
+	catholic = 4000
+	norse_pagan_reformed = 50
+	allow = { title_king_basic_allow = yes }
+}
+k_emf_saxony = {
+	color = { 78 98 40 }
+	color2 = { 220 220 20 }
+	capital = 258
+	culture = german
+	catholic = 2500
+	norse_pagan_reformed = 200
+	slavic_pagan_reformed = 200
+	baltic_pagan_reformed = 50
+	allow = { title_king_basic_allow = yes }
+}
+k_emf_franconia = {
+	color = { 130 100 100 }
+	color2 = { 220 220 20 }
+	capital = 123
+	culture = german
+	catholic = 4000
+	allow = { title_king_basic_allow = yes }
+}
+k_emf_bavaria = {
+	color = { 56 67 158 }
+	color2 = { 220 220 20 }
+	capital = 360
+	culture = german
+	catholic = 3000
+	slavic_pagan_reformed = 50
+	allow = { title_king_basic_allow = yes }
+	dynasty_title_names = no
+}
+k_emf_schwaben = {
+	color = { 57 142 157 }
+	color2 = { 220 220 20 }
+	capital = 249
+	culture = german
+	catholic = 3000
+	allow = { title_king_basic_allow = yes }
+}

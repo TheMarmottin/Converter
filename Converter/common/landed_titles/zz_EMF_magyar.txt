@@ -1,0 +1,18 @@
+k_hungary = {
+	allow = {
+		hidden_tooltip = {
+			OR = {
+				ai = no
+				NOT = { culture = hungarian }
+				is_tribal = no
+				has_global_flag = emf_conquest_hungary_completed
+			}
+		}
+	}
+	dynasty_title_names = no
+}
+k_magyar = {
+	title = GYULA
+	title_female = GYULUN
+	title_prefix = CONFEDERATION_OF
+}

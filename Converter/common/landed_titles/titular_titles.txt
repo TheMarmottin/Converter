@@ -1,0 +1,688 @@
+d_oxford = {
+	color = { 99 68 5 }
+	capital = 22
+}
+d_chester = {
+	color = { 121 29 29 }
+	capital = 59
+}
+d_gloucester = {
+	color = { 57 21 209 }
+	capital = 21
+}
+b_zussow = {}
+b_kolbatz = {}
+d_yaroslavl = {
+	color = { 178 192 134 }
+	capital = 572
+	dynasty_title_names = no
+}
+d_vitebsk = {
+	color = { 196 33 55 }
+	capital = 417
+}
+d_cheremisa = {
+	color = { 188 115 43 }
+	color2 = { 255 255 255 }
+	capital = 590
+	allow = { always = no }
+}
+d_pronsk = {
+	color = { 23 132 81 }
+	capital = 577
+}
+d_socotra = {
+	color = { 142 255 85 }
+	color2 = { 255 255 255 }
+	capital = 1552
+	dignity = 10
+}
+d_aosta = {
+	color = { 120 170 220 }
+	color2 = { 255 255 255 }
+	capital = 246
+	culture = arpitan
+}
+e_ulm = {
+	color = { 110 110 110 }
+	capital = 252
+	title = ULM
+	foa = ULM_FOA
+	short_name = yes
+	allow = {
+		has_landed_title = c_ulm
+		c_ferrara = { owner_under_ROOT = yes }
+		prestige = 2000
+		title_emperor_basic_allow = yes
+	}
+}
+e_khazaria = {
+	color = { 200 157 81 }
+	capital = 620
+	allow = {
+		hidden_tooltip = {
+			OR = {
+				ai = no
+				religion_group = jewish_group
+				religion = tengri_pagan
+				religion = tengri_pagan_reformed
+			}
+		}
+		has_landed_title = k_khazaria
+		FROM = { is_de_jure_title = yes }
+		title_emperor_basic_allow = yes
+	}
+}
+e_khitan = {
+	color = { 130 10 50 }
+	capital = 1572
+	short_name = yes
+	allow = {
+		FROM = {
+			OR = {
+				has_holder = yes
+				is_de_jure_title = yes
+			}
+		}
+		title_emperor_basic_allow = yes
+	}
+}
+k_qipchaq = {
+	color = { 45 92 150 }
+	color2 = { 255 255 255 }
+	capital = 619
+	dynasty_title_names = no
+	culture = cuman
+	allow = { title_king_basic_allow = yes }
+}
+k_cuman = {
+	color = { 166 76 99 }
+	color2 = { 255 255 255 }
+	capital = 557
+	dynasty_title_names = no
+	culture = cuman
+	allow = { title_king_basic_allow = yes }
+}
+k_pechenegs = {
+	color = { 79 116 79 }
+	color2 = { 255 255 255 }
+	capital = 618
+	dynasty_title_names = no
+	culture = pecheneg
+	allow = { title_king_basic_allow = yes }
+}
+k_qangar = {
+	color = { 45 99 180 }
+	color2 = { 255 255 255 }
+	dynasty_title_names = no
+	capital = 557
+	culture = pecheneg
+	allow = { title_king_basic_allow = yes }
+}
+k_uzes = {
+	color = { 220 158 121 }
+	color2 = { 255 255 255 }
+	dynasty_title_names = no
+	capital = 895
+	culture = oghuz
+	allow = { title_king_basic_allow = yes }
+}
+d_black_caps = {
+	color = { 189 121 13 }
+	color2 = { 255 255 255 }
+	dynasty_title_names = no
+	capital = 544
+	culture = oghuz
+	allow = {
+		OR = {
+			culture = oghuz
+			culture = pecheneg
+		}
+	}
+}
+e_kaleva = {
+	color = { 144 157 181 }
+	capital = 381
+	allow = {
+		culture_group = finno_ugric
+		has_landed_title = k_finland
+		has_landed_title = k_terra
+		title_emperor_basic_allow = yes
+	}
+}
+k_geats = {
+	color = { 208 191 99 }
+	capital = 293
+	allow = {
+		independent = yes
+		OR = {
+			AND = {
+				has_landed_title = d_vastergotland
+				has_landed_title = d_ostergotland
+				lower_real_tier_than = king
+			}
+			AND = {
+				d_vastergotland = { owner_under_ROOT = yes }
+				d_ostergotland = { owner_under_ROOT = yes }
+				OR = {
+					has_landed_title = k_denmark
+					has_landed_title = k_sweden
+					has_landed_title = k_norway
+				}
+				prestige = 1500
+			}
+		}
+		title_king_basic_allow = yes
+	}
+}
+e_germany = {
+	color = { 190 200 190 }
+	color2 = { 220 220 20 }
+	capital = 121
+	culture = german
+	allow = {
+		FROM = {
+			OR = {
+				has_holder = yes
+				is_de_jure_title = yes
+			}
+		}
+		title_emperor_basic_allow = yes
+	}
+	dynasty_title_names = no
+}
+k_avaria = {
+	color = { 250 120 90 }
+	culture = avar
+	capital = 444
+	allow = { always = no }
+}
+k_lombardy = {
+	color = { 234 217 110 }
+	culture = lombard
+	capital = 234
+	allow = { always = no }
+}
+d_lauenburg = {
+	capital = 1098
+	color = { 77 127 196 }
+	color2 = { 255 255 255 }
+	allow = {
+		c_lauenburg = { owner_under_ROOT = yes }
+		NOT = { tier = emperor }
+	}
+	dynasty_title_names = no
+}
+d_sangermano = {
+	capital = 1318
+	color = { 77 127 196 }
+	color2 = { 255 255 255 }
+	short_name = yes
+	allow = {
+		religion_group = christian
+		is_theocracy = yes
+		piety = 500
+	}
+}
+k_salerno = {
+	color = { 0 132 250 }
+	culture = langobardisch
+	capital = 336
+	short_name = yes
+	allow = {
+		hidden_tooltip = {
+			OR = {
+				ai = no
+				culture = langobardisch
+			}
+		}
+		religion_group = christian
+		has_landed_title = d_salerno
+		title_king_basic_allow = yes
+	}
+}
+d_krain = {
+	color = { 4 33 122 }
+	culture = german
+	capital = 457
+	title = MARGRAVE
+	title_female = MARGRAVINE
+	foa = MARGRAVE_FOA
+	title_prefix = MARGRAVE_OF
+	allow = {
+		culture_group = central_germanic
+		religion_group = christian
+		has_landed_title = c_celje
+		has_landed_title = c_krain
+	}
+}
+d_austrialombardic = {
+	color = { 4 33 122 }
+	culture = langobardisch
+	capital = 319
+	allow = {
+		culture = langobardisch
+		religion_group = christian
+		has_landed_title = d_verona
+		has_landed_title = d_aquileia
+	}
+}
+d_neustria = {
+	color = { 4 33 11 }
+	culture = langobardisch
+	capital = 234
+	dignity = 15
+	allow = {
+		culture = langobardisch
+		religion_group = christian
+		has_landed_title = d_parma
+		has_landed_title = d_modena
+		has_landed_title = d_ivrea
+		has_landed_title = d_monferrato
+	}
+}
+d_tuscia = {
+	color = { 250 241 220 }
+	culture = langobardisch
+	capital = 323
+	allow = {
+		culture = langobardisch
+		religion_group = christian
+		has_landed_title = d_lucca
+		has_landed_title = d_toscana
+	}
+}
+k_duklja = {
+	color = { 224 186 36 }
+	culture = serbian
+	capital = 469
+	allow = {
+		k_serbia = { has_holder = no }
+		title_king_basic_allow = yes
+	}
+}
+k_austria = {
+	color = { 188 0 7 }
+	culture = german
+	capital = 449
+	title = ADA
+	foa = ADA_FOA
+	title_prefix = ADA_OF
+	allow = {
+		hidden_tooltip = {
+			OR = {
+				ai = no
+				culture_group = central_germanic
+			}
+		}
+		religion_group = christian
+		has_landed_title = d_osterreich
+		has_landed_title = d_carinthia
+		title_king_basic_allow = yes
+	}
+	dynasty_title_names = no
+}
+d_smaland = {
+	color = { 88 138 70 }
+	capital = 298
+	allow = {
+		OR = {
+			has_landed_title = c_smaland
+			has_landed_title = c_tjust
+			has_landed_title = c_finnveden
+		}
+		lower_tier_than = king
+	}
+}
+e_occitania = {
+	color = { 230 0 70 }
+	color2 = { 255 255 255 }
+	capital = 214
+	culture = occitan
+	dignity = 100
+	allow = {
+		OR = {
+			culture = occitan
+			culture = catalan
+		}
+		religion_group = christian
+		title_emperor_basic_allow = yes
+	}
+}
+k_flanders = {
+	color = { 255 120 0 }
+	color2 = { 255 255 255 }
+	capital = 78
+	allow = {
+		has_landed_title = d_flanders
+		OR = {
+			has_landed_title = c_brugge
+			has_landed_title = c_gent
+			has_landed_title = c_yperen
+			has_landed_title = c_lille
+			has_landed_title = c_tournai
+		}
+		lower_tier_than = king
+		title_king_basic_allow = yes
+	}
+	dynasty_title_names = no
+}
+d_narbonne = {
+	color = { 0 20 188 }
+	color2 = { 255 255 255 }
+	capital = 214
+	culture = occitan
+	allow = { always = no }
+}
+d_paulicians = {
+	color = { 78 33 125 }
+	capital = 944
+	allow = {
+		OR = {
+			culture = greek
+			culture = armenian
+		}
+		religion = paulician
+	}
+}
+k_armenia_minor = {
+	color = { 14 30 131 }
+	culture = armenian
+	capital = 735
+	allow = {
+		hidden_tooltip = {
+			OR = {
+				ai = no
+				culture = armenian
+			}
+		}
+		religion_group = christian
+		title_king_basic_allow = yes
+	}
+}
+d_pagania = {
+	color = { 114 230 1 }
+	capital = 1330
+	allow = {
+		OR = {
+			culture = serbian
+			culture = croatian
+		}
+		religion = slavic_pagan
+	}
+}
+d_rhodos = {
+	color = { 144 230 19 }
+	capital = 483
+	title = CAESAR
+	foa = CAESAR_FOA
+	title_prefix = CAESAR_OF
+	allow = {
+		OR = {
+			culture = greek
+			culture = frankish
+		}
+		religion_group = christian
+		has_landed_title = c_rhodos
+	}
+}
+d_amiralarab = {
+	color = { 217 96 63 }
+	capital = 730
+	title = AMIR_AL_ARAB
+	allow = {
+		culture = bedouin_arabic
+		religion_group = muslim
+	}
+}
+d_norman_apulia = {
+	color = { 124 30 77 }
+	capital = 347
+	name_tier = count
+	allow = {
+		culture = frankish
+		religion_group = christian
+	}
+}
+e_chagatai = {
+	color = { 200 200 200 }
+	color2 = { 0 250 250 }
+	capital = 1571
+	culture = mongol
+	religion = tengri_pagan
+	allow = { title_emperor_basic_allow = yes }
+	dynasty_title_names = no
+}
+d_tiflis = {
+	color = { 104 20 12 }
+	capital = 1357
+	allow = { religion_group = muslim }
+}
+k_vaspurakan = {
+	color = { 175 5 102 }
+	culture = armenian
+	capital = 682
+	allow = {
+		culture = armenian
+		religion_group = christian
+		title_king_basic_allow = yes
+	}
+}
+d_vanand = {
+	color = { 155 100 7 }
+	culture = armenian
+	capital = 1088
+	allow = {
+		culture = armenian
+		religion_group = christian
+	}
+}
+d_mingrelia = {
+	color = { 25 183 33 }
+	culture = georgian
+	capital = 1081
+	allow = {
+		culture = georgian
+		religion_group = christian
+	}
+}
+d_theodoro = {
+	color = { 82 199 44 }
+	culture = east_gothic
+	capital = 1699
+	allow = { culture = east_gothic }
+}
+d_meshketi = {
+	color = { 99 152 44 }
+	culture = georgian
+	capital = 1350
+	allow = {
+		culture = georgian
+		religion_group = christian
+	}
+}
+k_abkhazia = {
+	color = { 99 175 4 }
+	capital = 601
+	title = MEPE
+	foa = MEPE_FOA
+	title_prefix = MEPE_OF
+	allow = {
+		OR = {
+			culture = greek
+			culture = armenian
+			culture = georgian
+		}
+		religion_group = christian
+		title_king_basic_allow = yes
+	}
+}
+k_imereti = {
+	color = { 99 175 4 }
+	capital = 601
+	title = MEPE
+	foa = MEPE_FOA
+	title_prefix = MEPE_OF
+	allow = {
+		culture = georgian
+		religion_group = christian
+		title_king_basic_allow = yes
+	}
+	dynasty_title_names = no
+}
+k_kakheti = {
+	color = { 194 110 67 }
+	capital = 676
+	title = MEPE
+	foa = MEPE_FOA
+	title_prefix = MEPE_OF
+	allow = {
+		culture = georgian
+		religion_group = christian
+		title_king_basic_allow = yes
+	}
+}
+k_iberia = {
+	color = { 44 215 119 }
+	capital = 679
+	title = MEPE
+	foa = MEPE_FOA
+	title_prefix = MEPE_OF
+	allow = {
+		OR = {
+			culture = greek
+			culture = armenian
+			culture = georgian
+		}
+		religion_group = christian
+		title_king_basic_allow = yes
+	}
+}
+d_dahlak = {
+	color = { 255 164 17 }
+	capital = 1509
+	allow = { always = no }
+}
+d_sadah = {
+	color = { 155 114 99 }
+	capital = 865
+	allow = {
+		OR = {
+			culture = bedouin_arabic
+			culture = egyptian_arabic
+			culture = levantine_arabic
+			culture = ethiopian
+			culture = beja
+			culture = afar
+			culture = somali
+		}
+		religion_group = muslim
+	}
+}
+d_sharif_medina = {
+	color = { 71 159 102 }
+	capital = 718
+	allow = {
+		OR = {
+			culture = bedouin_arabic
+			culture = egyptian_arabic
+			culture = levantine_arabic
+			culture = ethiopian
+			culture = beja
+			culture = afar
+			culture = somali
+		}
+		religion_group = muslim
+	}
+}
+d_sharif_mecca = {
+	color = { 188 6 133 }
+	capital = 719
+	allow = {
+		OR = {
+			culture = bedouin_arabic
+			culture = egyptian_arabic
+			culture = levantine_arabic
+			culture = ethiopian
+			culture = beja
+			culture = afar
+			culture = somali
+		}
+		religion_group = muslim
+	}
+}
+d_siraf = {
+	color = { 40 200 200 }
+	capital = 1594
+	allow = {
+		OR = {
+			culture = persian
+			culture = pahlavi
+			culture = bedouin_arabic
+		}
+		is_republic = yes
+	}
+}
+e_wendish_empire = {
+	color = { 65 25 125 }
+	capital = 441
+	short_name = yes
+	allow = {
+		OR = {
+			religion = catholic
+			religion = slavic_pagan
+			religion = slavic_pagan_reformed
+		}
+		OR = {
+			culture_group = west_slavic
+			culture = karantanci
+			culture = croatian
+		}
+		has_landed_title = k_moravia
+		OR = {
+			has_landed_title = k_poland
+			has_landed_title = k_pomerania
+			has_landed_title = k_bohemia
+			has_landed_title = k_hungary
+		}
+		FROM = {
+			OR = {
+				has_holder = yes
+				is_de_jure_title = yes
+			}
+		}
+		title_emperor_basic_allow = yes
+	}
+}
+d_breifne = {
+	color = { 54 135 39 }
+	color2 = { 136 0 21 }
+	capital = 8
+}
+d_thomond = {
+	color = { 30 100 80 }
+	color2 = { 255 255 255 }
+	capital = 13
+	dynasty_title_names = no
+}
+d_ossory = {
+	color = { 60 200 10 }
+	color2 = { 255 255 255 }
+	capital = 12
+}
+d_oneill = {
+	color = { 70 106 21 }
+	color2 = { 255 255 255 }
+	capital = 4
+	dynasty_title_names = no
+}
+d_airgialla = {
+	color = { 30 180 20 }
+	color2 = { 251 140 17 }
+	capital = 7
+}
+d_asturias = {
+	color = { 19 83 180 }
+	color2 = { 0 0 0 }
+	capital = 155
+}
