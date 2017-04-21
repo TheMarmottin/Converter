@@ -1,0 +1,2814 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+Rome;Rome;;;;;;;;;;;;;x
+Jomsborg;Jomsborg;;;;;;;;;;;;;x
+Finland;Finland Proper;;;;;;;;;;;;;x
+Tavastland;Tavastia;;;;;;;;;;;;;x
+Satakunda;Satakunta;;;;;;;;;;;;;x
+Savolax;Savonia;;;;;;;;;;;;;x
+PROV908;Rub‘ al Khali;;;;;;;;;;;;;x
+d_socotra;Socotra;;;;;;;;;;;;;x
+d_yaik;Ural;;;;;;;;;;;;;x
+d_yaik_adj;Ural;;;;;;;;;;;;;x
+c_guryev_adj;Saray-Jük;;;;;;;;;;;;;x
+c_sirjan_adj;Sirjan;;;;;;;;;;;;;x
+c_ghazna_adj;Ghazni;;;;;;;;;;;;;x
+c_kabul_adj;Kabul;;;;;;;;;;;;;x
+c_khuttal_adj;Khuttalan;;;;;;;;;;;;;x
+c_sibir_adj;Tobol;;;;;;;;;;;;;x
+c_otrar_adj;Otrar;;;;;;;;;;;;;x
+c_turgay_adj;Turgai;;;;;;;;;;;;;x
+c_balkhash_adj;Balkhash;;;;;;;;;;;;;x
+c_socotra_adj;Socotran;;;;;;;;;;;;;x
+e_rajastan;Rajasthan;;;;;;;;;;;;;x
+k_sindh;Sindh;;;;;;;;;;;;;x
+d_sauvira;Sauvira;;;;;;;;;;;;;x
+d_bhakkar;Bhakkar;;;;;;;;;;;;;x
+k_punjab;Punjab;;;;;;;;;;;;;x
+d_multan;Multan;;;;;;;;;;;;;x
+d_lahore;Lahore;;;;;;;;;;;;;x
+d_gandhara;Gandhara;;;;;;;;;;;;;x
+k_delhi;Delhi;;;;;;;;;;;;;x
+d_kuru;Kuru;;;;;;;;;;;;;x
+d_haritanaka;Haryana;;;;;;;;;;;;;x
+d_mathura;Mathura;;;;;;;;;;;;;x
+d_vodamayutja;Budaun;;;;;;;;;;;;;x
+k_gujarat;Gujarat;;;;;;;;;;;;;x
+d_gurjara_mandala;Gujarat;;;;;;;;;;;;;x
+d_anartta;Anarta;;;;;;;;;;;;;x
+d_saurashtra;Saurashtra;;;;;;;;;;;;;x
+d_lata;Lata;;;;;;;;;;;;;x
+k_rajputana;Rajputana;;;;;;;;;;;;;x
+d_maru;Marwar;;;;;;;;;;;;;x
+d_jangladesh;Jangladesh;;;;;;;;;;;;;x
+d_stravani;Stravani;;;;;;;;;;;;;x
+d_medapata;Mewar;;;;;;;;;;;;;x
+d_ajmer;Ajmer;;;;;;;;;;;;;x
+k_malwa;Malwa;;;;;;;;;;;;;x
+d_dadhipadra;Avanti;;;;;;;;;;;;;x
+d_akara_dasarna;Dasharna;;;;;;;;;;;;;x
+d_anupa;Anupa;;;;;;;;;;;;;x
+k_kosala;Kosala;;;;;;;;;;;;;x
+d_kanyakubja;Kannauj;;;;;;;;;;;;;x
+d_saryupara;Saryupara;;;;;;;;;;;;;x
+d_jejakabhukti;Bundelkhand;;;;;;;;;;;;;x
+c_kanyakubja_adj;Kannauj;;;;;;;;;;;;;x
+c_lakhnau_adj;Lucknow;;;;;;;;;;;;;x
+c_kalpi_adj;Kalpi;;;;;;;;;;;;;x
+c_bharauli_adj;Barauli;;;;;;;;;;;;;x
+c_prayaga_adj;Allahabad;;;;;;;;;;;;;x
+c_asni_adj;Asni;;;;;;;;;;;;;x
+c_naimisa_adj;Naimisha;;;;;;;;;;;;;x
+c_sravasti_adj;Sravasti;;;;;;;;;;;;;x
+c_ayodhya_adj;Ayodhya;;;;;;;;;;;;;x
+c_mahoba_adj;Mahoba;;;;;;;;;;;;;x
+c_kalanjara_adj;Kalanjara;;;;;;;;;;;;;x
+c_damoh_adj;Damoh;;;;;;;;;;;;;x
+c_gurgi_adj;Gurgi;;;;;;;;;;;;;x
+c_delhi_adj;Delhi;;;;;;;;;;;;;x
+c_hastinapura_adj;Hastinapur;;;;;;;;;;;;;x
+c_sthanisvara_adj;Thanesar;;;;;;;;;;;;;x
+c_hisar_adj;Hisar;;;;;;;;;;;;;x
+c_tribandapura_adj;Tribandapura;;;;;;;;;;;;;x
+c_sarasvati_adj;Saraswati;;;;;;;;;;;;;x
+c_mathura_adj;Mathura;;;;;;;;;;;;;x
+c_kol_adj;Aligarh;;;;;;;;;;;;;x
+c_sripatha_adj;Bayana;;;;;;;;;;;;;x
+c_vodamayutja_adj;Budaun;;;;;;;;;;;;;x
+c_sambhal_adj;Sambhal;;;;;;;;;;;;;x
+c_katehar_adj;Rohilkhand;;;;;;;;;;;;;x
+c_dadhipadra_adj;Dahod;;;;;;;;;;;;;x
+c_dhara_adj;Dhar;;;;;;;;;;;;;x
+c_dasapura_adj;Mandsaur;;;;;;;;;;;;;x
+c_ujjayini_adj;Ujjain;;;;;;;;;;;;;x
+c_sarangpur_adj;Sarangpur;;;;;;;;;;;;;x
+c_vidisa_adj;Vidisha;;;;;;;;;;;;;x
+c_chanderi_adj;Chanderi;;;;;;;;;;;;;x
+c_candhoba_adj;Candhoba;;;;;;;;;;;;;x
+c_mandapika_adj;Mandu;;;;;;;;;;;;;x
+c_asirgarh_adj;Asirgarh;;;;;;;;;;;;;x
+c_burhanpur_adj;Burhanpur;;;;;;;;;;;;;x
+c_thalner_adj;Thalner;;;;;;;;;;;;;x
+c_sarasvata_mandala_adj;Sarasvata;;;;;;;;;;;;;x
+c_khetaka_adj;Kheda;;;;;;;;;;;;;x
+c_mohadavasaka_adj;Modasa;;;;;;;;;;;;;x
+c_dhamalpur_adj;Dhrol;;;;;;;;;;;;;x
+c_dvaraka_adj;Dwarka;;;;;;;;;;;;;x
+c_kutch_adj;Kutch;;;;;;;;;;;;;x
+c_bhumilka_adj;Bilkha;;;;;;;;;;;;;x
+c_somnath_adj;Somnath;;;;;;;;;;;;;x
+c_vardhamana_adj;Wadhwan;;;;;;;;;;;;;x
+c_valabhi_adj;Vallabhi;;;;;;;;;;;;;x
+c_navasarika_adj;Navsari;;;;;;;;;;;;;x
+c_daman_adj;Daman;;;;;;;;;;;;;x
+c_vadodara_adj;Vadodara;;;;;;;;;;;;;x
+c_mandavyapura_adj;Mandore;;;;;;;;;;;;;x
+c_medantaka_adj;Merta;;;;;;;;;;;;;x
+c_godwad_adj;Gorwar;;;;;;;;;;;;;x
+c_vikramapura_adj;Bikampur;;;;;;;;;;;;;x
+c_reni_adj;Taranagar;;;;;;;;;;;;;x
+c_nagauda_adj;Nagaur;;;;;;;;;;;;;x
+c_ludrava_adj;Lodhruva;;;;;;;;;;;;;x
+c_vijnot_adj;Vijnot;;;;;;;;;;;;;x
+c_satyapura_adj;Sanchore;;;;;;;;;;;;;x
+c_medapata_adj;Mewar;;;;;;;;;;;;;x
+c_chitrakut_adj;Chittorgarh;;;;;;;;;;;;;x
+c_kota_adj;Kota;;;;;;;;;;;;;x
+c_ajayameru_adj;Ajmer;;;;;;;;;;;;;x
+c_ranthambore_adj;Ranthambore;;;;;;;;;;;;;x
+c_vairata_adj;Bairat;;;;;;;;;;;;;x
+c_debul_adj;Debal;;;;;;;;;;;;;x
+c_sonda_adj;Sodha;;;;;;;;;;;;;x
+c_mansura_adj;Mansura;;;;;;;;;;;;;x
+c_ranikot_adj;Ranikot;;;;;;;;;;;;;x
+c_siwistan_adj;Siwistan;;;;;;;;;;;;;x
+c_bhakkar_adj;Bhakkar;;;;;;;;;;;;;x
+c_aror_adj;Aror;;;;;;;;;;;;;x
+c_rajanpur_adj;Rajanpur;;;;;;;;;;;;;x
+c_sibi_adj;Sibi;;;;;;;;;;;;;x
+c_multan_adj;Multan;;;;;;;;;;;;;x
+c_kafirkot_adj;Kafir Kot;;;;;;;;;;;;;x
+c_uch_adj;Uch;;;;;;;;;;;;;x
+c_karur_adj;Kahror Pacca;;;;;;;;;;;;;x
+c_karor_adj;Karor;;;;;;;;;;;;;x
+c_bannu_adj;Bannu;;;;;;;;;;;;;x
+c_lahur_adj;Lahore;;;;;;;;;;;;;x
+c_dipalpur_adj;Dipalpur;;;;;;;;;;;;;x
+c_bhera_adj;Bhera;;;;;;;;;;;;;x
+c_shorkot_adj;Shorkot;;;;;;;;;;;;;x
+c_sakala_adj;Sagala;;;;;;;;;;;;;x
+c_trigarta_adj;Trigarta;;;;;;;;;;;;;x
+c_gurjaratra_adj;Gujrat;;;;;;;;;;;;;x
+c_udabhanda_adj;Muzaffarabad;;;;;;;;;;;;;x
+c_purushapura_adj;Peshawar;;;;;;;;;;;;;x
+c_nandana_adj;Nandana;;;;;;;;;;;;;x
+c_kasmira_adj;Kasmira;;;;;;;;;;;;;x
+c_wana_adj;Loralai;;;;;;;;;;;;;x
+c_kandail_adj;Kandail;;;;;;;;;;;;;x
+title_imperial_eunuch;Parakoimomenos;;;;;;;;;;;;;x
+title_imperial_eunuch_desc;The parakoimomenos, “the one who sleeps beside the Emperor’s chamber,” is a prestigious office at the Imperial Court reserved for eunuchs, who are valued for their perceived loyalty and discretion.;;;;;;;;;;;;;x
+title_court_eunuch;Court Eunuch;;;;;;;;;;;;;x
+title_court_eunuch_desc;Eunuchs perform many valued court functions and can be trusted in the presence of women.;;;;;;;;;;;;;x
+title_hermetics_apprentice;Apprentice;;;;;;;;;;;;;x
+title_hermetics_apprentice_desc;Hermetic scholars may chose an apprentice. In exchange for tutoring, the apprentice will take care of one’s laboratory and assist during experiments.;;;;;;;;;;;;;x
+temple_baron_female_christian;Bishop;;;;;;;;;;;;;x
+hospital_building_1;Sickhouse;;;;;;;;;;;;;x
+hospital_building_1_desc;A basic building to house the sick.;;;;;;;;;;;;;x
+hospital_building_2;Expanded Sickhouse;;;;;;;;;;;;;x
+hospital_building_2_desc;An expanded building to house more patients.;;;;;;;;;;;;;x
+hospital_building_3;Separated Wards;;;;;;;;;;;;;x
+hospital_building_3_desc;Treatment can be made more efficient by separating the sick based on their type of ailment.;;;;;;;;;;;;;x
+hospital_building_4;Extended Wards;;;;;;;;;;;;;x
+hospital_building_4_desc;Larger wards to treat more patients.;;;;;;;;;;;;;x
+hospital_building_5;Extensive Hospital Complex;;;;;;;;;;;;;x
+hospital_building_5_desc;An extensive project of rebuilding to expand and rationalize the layout of the hospital.;;;;;;;;;;;;;x
+leper_colony_1;Leper Colony;;;;;;;;;;;;;x
+leper_colony_building_desc;By isolating the sick the general population feels safer. Out of sight, out of mind.;;;;;;;;;;;;;x
+title_court_physician;Court Physician;;;;;;;;;;;;;x
+title_court_physician_desc;Responsible for the well-being of your courtiers, the Court Physician will attempt to diagnose and cure any ailments which affect your court. Court Physicians are typically learned individuals with education in medicinal arts.;;;;;;;;;;;;;x
+c_galloway_adj_saxon;;;;;;;;;;;;;;x
+d_galloway_adj_saxon;;;;;;;;;;;;;;x
+chapel_1;Chapel;;;;;;;;;;;;;x
+chapel_building_desc;An integral part of any hospital is the chapel. This grand structure can also serve as an infirmary when times are dire.;;;;;;;;;;;;;x
+pharmacology_laboratory_1;Pharmacology Laboratory;;;;;;;;;;;;;x
+pharmacology_laboratory_building_desc;Physicians and scholars work day and night in the pharmacology laboratory in order to distill new cures for common ailments.;;;;;;;;;;;;;x
+translation_house_1;Translation House;;;;;;;;;;;;;x
+translation_house_building_desc;By having scholars work with translating the languages of pilgrims and travelers it allows us to communicate more efficiently.;;;;;;;;;;;;;x
+library_1;Library;;;;;;;;;;;;;x
+library_building_desc;A large library filled with tomes of medicine and the healing arts.;;;;;;;;;;;;;x
+observatory_1;Observatory;;;;;;;;;;;;;x
+observatory_building_desc;The observatory serves to attract scholars to the hospital. With more scholars, more research is being done.;;;;;;;;;;;;;x
+soup_kitchen_1;Soup Kitchen;;;;;;;;;;;;;x
+soup_kitchen_building_desc;One of the first responsibilities of the hospital is to house and feed the needy. The poor, the traveler, the downtrodden and the outcast – they are all welcome to partake of the hospitals generosity.;;;;;;;;;;;;;x
+pilgrims_inn_1;Pilgrim’s Inn;;;;;;;;;;;;;x
+pilgrims_inn_building_desc;By constructing an inn dedicated to housing pilgrims we show the world that we care about their pious pursuits.;;;;;;;;;;;;;x
+medical_academy_1;Medical Academy;;;;;;;;;;;;;x
+medical_academy_building_desc;In the medical academy the next generation of scholars is being trained. Who knows? The next generation might be the one to finally cure the common cold.;;;;;;;;;;;;;x
+tribal_count_female;Chieftess;;;;;;;;;;;;;x
+tribal_baron;Chief;;;;;;;;;;;;;x
+tribal_baron_female;Chieftess;;;;;;;;;;;;;x
+d_norrland;Hälsingland;;;;;;;;;;;;;x
+d_norrland_adj;Hälsingland;;;;;;;;;;;;;x
+AUSTRASIA;Austrasia;;;;;;;;;;;;;x
+AUSTRASIA_ADJ;Austrasian;;;;;;;;;;;;;x
+mesoamerican;Mesoamerican;;;;;;;;;;;;;x
+nahuatl;Nahua;;;;;;;;;;;;;x
+aztec;Aztec;;;;;;;;;;;;;x
+e_mexikha;Aztec Empire;;;;;;;;;;;;;x
+e_mexikha_adj;Aztec;;;;;;;;;;;;;x
+emperor_nahuatl;Huetlatoani;;;;;;;;;;;;;x
+emperor_female_nahuatl;Huetlatoani;;;;;;;;;;;;;x
+king_nahuatl;King;;;;;;;;;;;;;x
+king_female_nahuatl;Queen;;;;;;;;;;;;;x
+duke_nahuatl;Huecalpixqui;;;;;;;;;;;;;x
+duke_female_nahuatl;Huecalpixqui;;;;;;;;;;;;;x
+count_nahuatl;Calpixqui;;;;;;;;;;;;;x
+count_female_nahuatl;Calpixqui;;;;;;;;;;;;;x
+baron_nahuatl;Lord;;;;;;;;;;;;;x
+baron_female_nahuatl;Lady;;;;;;;;;;;;;x
+job_chancellor_aztec;Cihuacoatl;;;;;;;;;;;;;x
+job_marshal_aztec;Tlacateccatl;;;;;;;;;;;;;x
+job_treasurer_aztec;Petlacalcatl;;;;;;;;;;;;;x
+job_spymaster_aztec;Tillancalqui;;;;;;;;;;;;;x
+job_spiritual_aztec;Sahagún;;;;;;;;;;;;;x
+RETTYPE_CUL_NAHUA;Jaguar Warrior;;;;;;;;;;;;;x
+ca_keep_1;Keep;;;;;;;;;;;;;x
+ca_keep_2;Keep;;;;;;;;;;;;;x
+ca_keep_3;Keep;;;;;;;;;;;;;x
+ca_keep_4;Keep;;;;;;;;;;;;;x
+ca_keep_5;Keep;;;;;;;;;;;;;x
+ca_keep_6;Keep;;;;;;;;;;;;;x
+ca_militia_barracks_1;Militia Training Ground;;;;;;;;;;;;;x
+ca_militia_barracks_2;Militia Training Ground;;;;;;;;;;;;;x
+ca_militia_barracks_3;Militia Training Ground;;;;;;;;;;;;;x
+ca_militia_barracks_4;Militia Training Ground;;;;;;;;;;;;;x
+ca_training_grounds_1;Training Grounds;;;;;;;;;;;;;x
+ca_training_grounds_2;Training Grounds;;;;;;;;;;;;;x
+ca_training_grounds_3;Training Grounds;;;;;;;;;;;;;x
+ct_marketplace_1;Town Market;;;;;;;;;;;;;x
+ct_marketplace_2;City Guild Hall;;;;;;;;;;;;;x
+ct_marketplace_3;Toll Booth;;;;;;;;;;;;;x
+ct_marketplace_4;Court;;;;;;;;;;;;;x
+ct_marketplace_5;Assay Office;;;;;;;;;;;;;x
+ct_marketplace_6;Fair;;;;;;;;;;;;;x
+tp_monastery_1;Church;;;;;;;;;;;;;x
+tp_monastery_2;Church;;;;;;;;;;;;;x
+tp_monastery_3;Church;;;;;;;;;;;;;x
+tp_monastery_4;Cathedral;;;;;;;;;;;;;x
+tp_monastery_5;Cathedral;;;;;;;;;;;;;x
+tp_monastery_6;Cathedral;;;;;;;;;;;;;x
+tp_town_1;Church Town;;;;;;;;;;;;;x
+tp_town_2;Church Town;;;;;;;;;;;;;x
+tp_town_3;Church Town;;;;;;;;;;;;;x
+tp_town_4;Church Town;;;;;;;;;;;;;x
+tp_town_5;Church Town;;;;;;;;;;;;;x
+tp_town_6;Church Town;;;;;;;;;;;;;x
+english;English;;;;;;;;;;;;;x
+occitan;Occitan;;;;;;;;;;;;;x
+lettigallish;Latgalian;;;;;;;;;;;;;x
+north_germanic;North Germanic;;;;;;;;;;;;;x
+central_germanic;Central Germanic;;;;;;;;;;;;;x
+west_germanic;West Germanic;;;;;;;;;;;;;x
+latin;Latin;;;;;;;;;;;;;x
+byzantine;Byzantine;;;;;;;;;;;;;x
+celtic;Celtic;;;;;;;;;;;;;x
+finno_ugric;Finno-Ugric;;;;;;;;;;;;;x
+baltic;Baltic;;;;;;;;;;;;;x
+altaic;Altaic;;;;;;;;;;;;;x
+arabic;Arabic;;;;;;;;;;;;;x
+east_slavic;East Slavic;;;;;;;;;;;;;x
+west_slavic;West Slavic;;;;;;;;;;;;;x
+south_slavic;South Slavic;;;;;;;;;;;;;x
+magyar;Hungarian;;;;;;;;;;;;;x
+iranian;Iranian;;;;;;;;;;;;;x
+east_african;East African;;;;;;;;;;;;;x
+emperor;Emperor;;;;;;;;;;;;;x
+king;King;;;;;;;;;;;;;x
+duke;Duke;;;;;;;;;;;;;x
+count;Count;;;;;;;;;;;;;x
+baron;Baron;;;;;;;;;;;;;x
+emperor_female;Empress;;;;;;;;;;;;;x
+king_female;Queen;;;;;;;;;;;;;x
+duke_female;Duchess;;;;;;;;;;;;;x
+count_female;Countess;;;;;;;;;;;;;x
+baron_female;Baroness;;;;;;;;;;;;;x
+temple_king_christian;King-Bishop;;;;;;;;;;;;;x
+temple_king_orthodox;King-Bishop;;;;;;;;;;;;;x
+temple_king_muslim;Caliph;;;;;;;;;;;;;x
+temple_duke_christian;Prince-Archbishop;;;;;;;;;;;;;x
+temple_duke_orthodox;Prince-Archbishop;;;;;;;;;;;;;x
+temple_duke_sunni;Grand Mufti;;;;;;;;;;;;;x
+temple_duke_shiite;Grand Ayatollah;;;;;;;;;;;;;x
+temple_duke_pagan_group;Archpriest;;;;;;;;;;;;;x
+temple_count_christian;Prince-Bishop;;;;;;;;;;;;;x
+temple_count_orthodox;Metropolitan;;;;;;;;;;;;;x
+temple_count_sunni;Sheikh;;;;;;;;;;;;;x
+temple_count_shiite;Ayatollah;;;;;;;;;;;;;x
+temple_count_pagan_group;High Priest;;;;;;;;;;;;;x
+temple_baron_christian;Bishop;;;;;;;;;;;;;x
+temple_baron_sunni;Mufti;;;;;;;;;;;;;x
+temple_baron_shiite;Mullah;;;;;;;;;;;;;x
+temple_baron_pagan_group;Priest;;;;;;;;;;;;;x
+temple_baron_tengri_pagan;Shaman;;;;;;;;;;;;;x
+temple_baron_tengri_pagan_reformed;Shaman;;;;;;;;;;;;;x
+temple_baron_finnish_pagan;Shaman;;;;;;;;;;;;;x
+temple_baron_finnish_pagan_reformed;Shaman;;;;;;;;;;;;;x
+city_emperor;Grand Prince;;;;;;;;;;;;;x
+city_king_latin;Doge;;;;;;;;;;;;;x
+city_king_byzantine;Doge;;;;;;;;;;;;;x
+city_king_muslim;Wali-Malik;;;;;;;;;;;;;x
+city_duke_latin;Doge;;;;;;;;;;;;;x
+city_duke_byzantine;Doge;;;;;;;;;;;;;x
+city_duke_muslim;Wali-Emir;;;;;;;;;;;;;x
+city_count;Lord Mayor;;;;;;;;;;;;;x
+city_count_muslim;Wâli;;;;;;;;;;;;;x
+city_baron;Mayor;;;;;;;;;;;;;x
+city_count_female;Lady Mayor;;;;;;;;;;;;;x
+city_baron_female;Mayor;;;;;;;;;;;;;x
+empire_of;Empire of;;;;;;;;;;;;;x
+kingdom_of;Kingdom of;;;;;;;;;;;;;x
+duchy_of;Duchy of;;;;;;;;;;;;;x
+county_of;County of;;;;;;;;;;;;;x
+barony_of;Barony of;;;;;;;;;;;;;x
+city_empire_of;Principality of;;;;;;;;;;;;;x
+city_kingdom_of;Most Serene Republic of;;;;;;;;;;;;;x
+city_duchy_of;Republic of;;;;;;;;;;;;;x
+city_county_of;Grand City of;;;;;;;;;;;;;x
+city_barony_of;City of;;;;;;;;;;;;;x
+temple_kingdom_of_catholic;Theocracy of;;;;;;;;;;;;;x
+temple_kingdom_of_orthodox;Patriarchate of;;;;;;;;;;;;;x
+temple_kingdom_of_muslim;Caliphate of;;;;;;;;;;;;;x
+temple_kingdom_of_pagan_group;Theocracy of;;;;;;;;;;;;;x
+temple_duchy_of_christian;Prince-Archbishopric of;;;;;;;;;;;;;x
+temple_duchy_of_muslim;Theocracy of;;;;;;;;;;;;;x
+temple_duchy_of_pagan_group;Theocracy of;;;;;;;;;;;;;x
+temple_duchy_of_jewish;Theocracy of;;;;;;;;;;;;;x
+temple_county_of_christian;Prince-Bishopric of;;;;;;;;;;;;;x
+temple_county_of_muslim;Sheikhdom of;;;;;;;;;;;;;x
+temple_county_of_pagan_group;Theocracy of;;;;;;;;;;;;;x
+temple_barony_of_christian;Bishopric of;;;;;;;;;;;;;x
+temple_barony_of_muslim;Mosque of;;;;;;;;;;;;;x
+temple_barony_of_pagan_group;Temple of;;;;;;;;;;;;;x
+emperor_altaic;Khagan;;;;;;;;;;;;;x
+emperor_female_altaic;Khatun;;;;;;;;;;;;;x
+king_altaic;Khan;;;;;;;;;;;;;x
+king_female_altaic;Khanum;;;;;;;;;;;;;x
+kingdom_of_altaic;Khanate of;;;;;;;;;;;;;x
+baron_arabic;Wâli;;;;;;;;;;;;;x
+barony_of_arabic;Wilayah of;;;;;;;;;;;;;x
+count_arabic;Sheikh;;;;;;;;;;;;;x
+county_of_arabic;Sheikhdom of;;;;;;;;;;;;;x
+duke_arabic;Emir;;;;;;;;;;;;;x
+duke_female_arabic;Emira;;;;;;;;;;;;;x
+king_arabic;Sultan;;;;;;;;;;;;;x
+king_female_arabic;Sultana;;;;;;;;;;;;;x
+kingdom_of_arabic;Sultanate of;;;;;;;;;;;;;x
+baron_turkish;Timariot;;;;;;;;;;;;;x
+barony_of_turkish;Timar of;;;;;;;;;;;;;x
+count_turkish;Bey;;;;;;;;;;;;;x
+county_of_turkish;Beylik of;;;;;;;;;;;;;x
+duke_turkish;Beylerbey;;;;;;;;;;;;;x
+duchy_of_turkish;State of;;;;;;;;;;;;;x
+king_turkish;Sultan;;;;;;;;;;;;;x
+kingdom_of_turkish;Sultanate of;;;;;;;;;;;;;x
+emperor_turkish;Padishah;;;;;;;;;;;;;x
+emperor_iranian;Shahanshah;;;;;;;;;;;;;x
+count_mongol;Chief;;;;;;;;;;;;;x
+county_of_mongol;Chiefdom of;;;;;;;;;;;;;x
+duke_female_mongol;High Chieftess;;;;;;;;;;;;;x
+duchy_of_mongol;High Chiefdom of;;;;;;;;;;;;;x
+duke_norse;Jarl;;;;;;;;;;;;;x
+count_pagan_group;Chief;;;;;;;;;;;;;x
+d_uppland;Uppland;;;;;;;;;;;;;x
+d_uppland_adj;Upplandic;;;;;;;;;;;;;x
+c_uppland_adj;Upplandic;;;;;;;;;;;;;x
+c_vastergotland_adj;Västergötlandic;;;;;;;;;;;;;x
+c_ostergotland_adj;Östergötlandic;;;;;;;;;;;;;x
+c_sodermanland_adj;Södermanlandic;;;;;;;;;;;;;x
+c_gotland_adj;Gotlandic;;;;;;;;;;;;;x
+c_smaland_adj;Värend;;;;;;;;;;;;;x
+e_rebels;Rebels;;;;;;;;;;;;;x
+e_rebels_adj;Rebel;;;;;;;;;;;;;x
+e_pirates;Pirates;;;;;;;;;;;;;x
+e_latin_empire_adj;Latin;;;;;;;;;;;;;x
+c_kaisereia_adj;Caesarean;;;;;;;;;;;;;x
+c_galatia_adj;Galatian;;;;;;;;;;;;;x
+c_amisos_adj;Amisus;;;;;;;;;;;;;x
+c_sinope_adj;Sinopean;;;;;;;;;;;;;x
+c_paphlagonia_adj;Paphlagonian;;;;;;;;;;;;;x
+c_herakleia_adj;Eregli;;;;;;;;;;;;;x
+c_ankyra_adj;Ankaran;;;;;;;;;;;;;x
+c_nikaea_adj;Nicaean;;;;;;;;;;;;;x
+c_nikomedeia_adj;Nicomedian;;;;;;;;;;;;;x
+c_kyzikos_adj;Cyzicus;;;;;;;;;;;;;x
+c_dorylaion_adj;Dorylaeum;;;;;;;;;;;;;x
+c_ikonion_adj;Ikonion;;;;;;;;;;;;;x
+c_smyrna_adj;Smyrnan;;;;;;;;;;;;;x
+c_abydos_adj;Abydos;;;;;;;;;;;;;x
+c_euboia_adj;Euboeote;;;;;;;;;;;;;x
+c_kaliopolis_adj;Kallipolis;;;;;;;;;;;;;x
+c_thessalonike_adj;Thessalonian;;;;;;;;;;;;;x
+c_epeiros_adj;Epirote;;;;;;;;;;;;;x
+c_arta_adj;Arta;;;;;;;;;;;;;x
+c_cephalonia_adj;Cephalonian;;;;;;;;;;;;;x
+c_hellas_adj;Hellenic;;;;;;;;;;;;;x
+c_atheniai_adj;Athenian;;;;;;;;;;;;;x
+c_achaia_adj;Achaean;;;;;;;;;;;;;x
+c_korinthos_adj;Corinthian;;;;;;;;;;;;;x
+c_methone_adj;Methoni;;;;;;;;;;;;;x
+c_theodosia_adj;Feodosian;;;;;;;;;;;;;x
+c_cherson_adj;Chersonesus;;;;;;;;;;;;;x
+c_attaleia_adj;Attalean;;;;;;;;;;;;;x
+c_rhodos_adj;Rhodian;;;;;;;;;;;;;x
+c_lykia_adj;Lycian;;;;;;;;;;;;;x
+c_gastrikland_adj;Gästrikland;;;;;;;;;;;;;x
+c_aland_adj;Ålandic;;;;;;;;;;;;;x
+d_ostergotland;Östergötland;;;;;;;;;;;;;x
+d_ostergotland_adj;Östergötlandic;;;;;;;;;;;;;x
+c_narke_adj;Närke;;;;;;;;;;;;;x
+d_vastergotland;Västergötland;;;;;;;;;;;;;x
+d_vastergotland_adj;Västergötlandic;;;;;;;;;;;;;x
+c_dal_adj;Dal;;;;;;;;;;;;;x
+c_viken_adj;Viken;;;;;;;;;;;;;x
+c_vasterbotten_adj;Västerbotten;;;;;;;;;;;;;x
+c_angermanland_adj;Ångermanlandic;;;;;;;;;;;;;x
+c_medelpad_adj;Medelpad;;;;;;;;;;;;;x
+c_halsingland_adj;Hälsingland;;;;;;;;;;;;;x
+c_dalarna_adj;Dalecarlian;;;;;;;;;;;;;x
+c_varmland_adj;Värmlandic;;;;;;;;;;;;;x
+c_vastmanland_adj;Västmanland;;;;;;;;;;;;;x
+d_smaland;Småland;;;;;;;;;;;;;x
+d_smaland_adj;Smålandic;;;;;;;;;;;;;x
+c_oland_adj;Ölandic;;;;;;;;;;;;;x
+c_hamburg_adj;Hamburg;;;;;;;;;;;;;x
+c_lubeck_adj;Lübeck;;;;;;;;;;;;;x
+c_holstein_adj;Holstein;;;;;;;;;;;;;x
+c_bremen_adj;Bremian;;;;;;;;;;;;;x
+c_oldenburg_adj;Oldenburg;;;;;;;;;;;;;x
+c_osnabruck_adj;Osnabrück;;;;;;;;;;;;;x
+c_munster_adj;Münster;;;;;;;;;;;;;x
+c_gottingen_adj;Göttingen;;;;;;;;;;;;;x
+c_rostock_adj;Rostock;;;;;;;;;;;;;x
+c_werle_adj;Werle;;;;;;;;;;;;;x
+c_rugen_adj;Rügen;;;;;;;;;;;;;x
+c_celle_adj;Celle;;;;;;;;;;;;;x
+c_luneburg_adj;Lüneburgian;;;;;;;;;;;;;x
+c_braunschweig_adj;Brunswickian;;;;;;;;;;;;;x
+c_altmark_adj;Altmark;;;;;;;;;;;;;x
+c_anhalt_adj;Anhaltian;;;;;;;;;;;;;x
+d_meissen;Meissen;;;;;;;;;;;;;x
+d_meissen_adj;Meissen;;;;;;;;;;;;;x
+c_meissen_adj;Meissen;;;;;;;;;;;;;x
+c_weimar_adj;Weimarian;;;;;;;;;;;;;x
+c_plauen_adj;Plauen;;;;;;;;;;;;;x
+c_thuringen_adj;Thuringian;;;;;;;;;;;;;x
+c_nassau_adj;Nassau;;;;;;;;;;;;;x
+d_holland;Holland;;;;;;;;;;;;;x
+d_holland_adj;Holland;;;;;;;;;;;;;x
+c_frisia_adj;Frisian;;;;;;;;;;;;;x
+c_holland_adj;Holland;;;;;;;;;;;;;x
+c_westfriesland_adj;West Frisian;;;;;;;;;;;;;x
+c_zeeland_adj;Zeelandic;;;;;;;;;;;;;x
+d_gelre;Guelders;;;;;;;;;;;;;x
+c_ostfriesland_adj;East Frisian;;;;;;;;;;;;;x
+c_gelre_adj;Guelders;;;;;;;;;;;;;x
+c_sticht_adj;Nedersticht;;;;;;;;;;;;;x
+d_brabant;Brabant;;;;;;;;;;;;;x
+d_brabant_adj;Brabant;;;;;;;;;;;;;x
+c_brabant_adj;Brabant;;;;;;;;;;;;;x
+c_hainaut_adj;Hainautian;;;;;;;;;;;;;x
+c_breda_adj;Breda;;;;;;;;;;;;;x
+d_luxembourg;Luxembourg;;;;;;;;;;;;;x
+d_luxembourg_adj;Luxembourgian;;;;;;;;;;;;;x
+c_luxembourg_adj;Luxembourgian;;;;;;;;;;;;;x
+c_loon_adj;Loon;;;;;;;;;;;;;x
+c_liege_adj;Liège;;;;;;;;;;;;;x
+c_koln_adj;Colognian;;;;;;;;;;;;;x
+c_julich_adj;Jülich;;;;;;;;;;;;;x
+c_trier_adj;Trier;;;;;;;;;;;;;x
+c_kleve_adj;Cleves;;;;;;;;;;;;;x
+c_mainz_adj;Mainz;;;;;;;;;;;;;x
+c_leiningen_adj;Leiningen;;;;;;;;;;;;;x
+c_bamberg_adj;Bamberg;;;;;;;;;;;;;x
+c_pfalz_adj;Palatine;;;;;;;;;;;;;x
+c_metz_adj;Metz;;;;;;;;;;;;;x
+c_verdun_adj;Verdun;;;;;;;;;;;;;x
+c_lorraine_adj;Lorrainian;;;;;;;;;;;;;x
+c_saintois_adj;Saintois;;;;;;;;;;;;;x
+d_baden;Baden;;;;;;;;;;;;;x
+d_baden_adj;Baden;;;;;;;;;;;;;x
+c_baden_adj;Baden;;;;;;;;;;;;;x
+c_breisgau_adj;Breisgau;;;;;;;;;;;;;x
+d_alsace;Alsace;;;;;;;;;;;;;x
+d_alsace_adj;Alsatian;;;;;;;;;;;;;x
+c_nordgau_adj;Nordgau;;;;;;;;;;;;;x
+c_sundgau_adj;Sundgau;;;;;;;;;;;;;x
+c_tirol_adj;Tyrolean;;;;;;;;;;;;;x
+c_trent_adj;Tridentine;;;;;;;;;;;;;x
+c_st_gallen_adj;St. Gallen;;;;;;;;;;;;;x
+c_innsbruck_adj;Innsbruck;;;;;;;;;;;;;x
+c_schwaben_adj;Swabian;;;;;;;;;;;;;x
+c_ulm_adj;Ulm;;;;;;;;;;;;;x
+c_furstenberg_adj;Fürstenbergian;;;;;;;;;;;;;x
+c_wurttemberg_adj;Württembergian;;;;;;;;;;;;;x
+c_kempten_adj;Kempten;;;;;;;;;;;;;x
+c_oberbayern_adj;Upper Bavarian;;;;;;;;;;;;;x
+c_salzburg_adj;Salzburgian;;;;;;;;;;;;;x
+c_niederbayern_adj;Lower Bavarian;;;;;;;;;;;;;x
+c_nurnberg_adj;Nurembergian;;;;;;;;;;;;;x
+c_passau_adj;Passau;;;;;;;;;;;;;x
+c_znojmo_adj;Znojmo;;;;;;;;;;;;;x
+c_osterreich_adj;Austrian;;;;;;;;;;;;;x
+c_steiermark_adj;Styrian;;;;;;;;;;;;;x
+c_wolgast_adj;Wolgast;;;;;;;;;;;;;x
+c_stettin_adj;Szczecin;;;;;;;;;;;;;x
+d_pomeralia;Pomerelia;;;;;;;;;;;;;x
+d_pomeralia_adj;Pomerelian;;;;;;;;;;;;;x
+c_chelminskie_adj;Chelmno;;;;;;;;;;;;;x
+c_slupsk_adj;Slupskian;;;;;;;;;;;;;x
+c_lubusz_adj;Lubusz;;;;;;;;;;;;;x
+c_gnieznienskie_adj;Gniezno;;;;;;;;;;;;;x
+c_poznanskie_adj;Poznan;;;;;;;;;;;;;x
+c_kaliskie_adj;Kalisz;;;;;;;;;;;;;x
+c_lower_silesia_adj;Lower Silesian;;;;;;;;;;;;;x
+c_upper_silesia_adj;Upper Silesian;;;;;;;;;;;;;x
+c_opole_adj;Opolian;;;;;;;;;;;;;x
+c_cieszyn_adj;Cieszyn;;;;;;;;;;;;;x
+c_krakowskie_adj;Cracovian;;;;;;;;;;;;;x
+c_sacz_adj;Stary Sacz;;;;;;;;;;;;;x
+c_sandomierskie_adj;Sandomierz;;;;;;;;;;;;;x
+c_sieradzko-leczyckie_adj;Sieradz-Leczyca;;;;;;;;;;;;;x
+c_kujawy_adj;Kujavian;;;;;;;;;;;;;x
+c_scalovia_adj;Scalovian;;;;;;;;;;;;;x
+c_plock_adj;Plockian;;;;;;;;;;;;;x
+c_czersk_adj;Czersk;;;;;;;;;;;;;x
+c_west_dvina_adj;Daugava;;;;;;;;;;;;;x
+d_vitebsk;Vitebsk;;;;;;;;;;;;;x
+d_vitebsk_adj;Vitebsk;;;;;;;;;;;;;x
+d_courland;Courland;;;;;;;;;;;;;x
+d_courland_adj;Courlandian;;;;;;;;;;;;;x
+c_zemigalians_adj;Semigallian;;;;;;;;;;;;;x
+c_kurs_adj;Courlandian;;;;;;;;;;;;;x
+d_samogitia;Samogitia;;;;;;;;;;;;;x
+d_samogitia_adj;Samogitian;;;;;;;;;;;;;x
+c_zhmud_adj;Lithuanian;;;;;;;;;;;;;x
+c_lettigalians_adj;Latgalian;;;;;;;;;;;;;x
+c_livs_adj;Livonian;;;;;;;;;;;;;x
+c_dorpat_adj;Tartu;;;;;;;;;;;;;x
+c_osel_adj;Oeselian;;;;;;;;;;;;;x
+c_reval_adj;Tallinn;;;;;;;;;;;;;x
+c_reval_adj_swedish;Revalian;;;;;;;;;;;;;x
+c_reval_adj_danish;Revalian;;;;;;;;;;;;;x
+c_reval_adj_norwegian;Revalian;;;;;;;;;;;;;x
+c_reval_adj_german;Revalian;;;;;;;;;;;;;x
+c_narva_adj;Narva;;;;;;;;;;;;;x
+c_vodi_adj;Ingrian;;;;;;;;;;;;;x
+d_karelia;Karelia;;;;;;;;;;;;;x
+d_karelia_adj;Karelian;;;;;;;;;;;;;x
+c_kexholm_adj;Priozersk;;;;;;;;;;;;;x
+c_savolaks_adj;Savonian;;;;;;;;;;;;;x
+c_kemi_adj;Kemi;;;;;;;;;;;;;x
+c_kola_adj;Kola;;;;;;;;;;;;;x
+c_kandalax_adj;Kandalakshan;;;;;;;;;;;;;x
+c_nyland_adj;Uusimaa;;;;;;;;;;;;;x
+c_finland_adj;Finnish;;;;;;;;;;;;;x
+c_tavasts_adj;Tavastian;;;;;;;;;;;;;x
+c_satakunta_adj;Satakunta;;;;;;;;;;;;;x
+c_osterbotten_adj;Ostrobothnian;;;;;;;;;;;;;x
+c_velikiye_luki_adj;Velikiye Luki;;;;;;;;;;;;;x
+d_yaroslavl;Yaroslavl;;;;;;;;;;;;;x
+d_yaroslavl_adj;Yaroslavian;;;;;;;;;;;;;x
+d_ryazan;Ryazan;;;;;;;;;;;;;x
+d_cheremisa;Mari;;;;;;;;;;;;;x
+d_cheremisa_adj;Mari;;;;;;;;;;;;;x
+c_yaik_adj;Ural;;;;;;;;;;;;;x
+c_torki_adj;Oghuz;;;;;;;;;;;;;x
+c_belgorod_adj;Belgorodian;;;;;;;;;;;;;x
+c_birlad_adj;Bârlad;;;;;;;;;;;;;x
+c_aqtobe_adj;Aktobe;;;;;;;;;;;;;x
+c_turnu_adj;Turnu;;;;;;;;;;;;;x
+c_tirgoviste_adj;Târgoviste;;;;;;;;;;;;;x
+c_severin_adj;Severin;;;;;;;;;;;;;x
+c_sarpa_adj;Sarpa;;;;;;;;;;;;;x
+c_yegorlyk_adj;Yegorlyk;;;;;;;;;;;;;x
+c_kuma_adj;Kuma;;;;;;;;;;;;;x
+c_mangyshlak_adj;Mangyshlak;;;;;;;;;;;;;x
+c_bukhara_adj;Bukharan;;;;;;;;;;;;;x
+c_merv_adj;Mervian;;;;;;;;;;;;;x
+c_dihistan_adj;Dehistan;;;;;;;;;;;;;x
+c_gurgan_adj;Gorgan;;;;;;;;;;;;;x
+c_nishapur_adj;Nishapur;;;;;;;;;;;;;x
+c_qohistan_adj;Quhistan;;;;;;;;;;;;;x
+c_mazandaran_adj;Mazandaranian;;;;;;;;;;;;;x
+c_esfahan_adj;Isfahan;;;;;;;;;;;;;x
+c_yazd_adj;Yazd;;;;;;;;;;;;;x
+c_shiraz_adj;Shiraz;;;;;;;;;;;;;x
+c_hormuz_adj;Hormuz;;;;;;;;;;;;;x
+c_kerman_adj;Kerman;;;;;;;;;;;;;x
+c_qom_adj;Qom;;;;;;;;;;;;;x
+c_hamadan_adj;Hamadan;;;;;;;;;;;;;x
+c_rayy_adj;Ray;;;;;;;;;;;;;x
+c_balkh_adj;Balkhan;;;;;;;;;;;;;x
+c_qazwin_adj;Qazvin;;;;;;;;;;;;;x
+c_kermanshah_adj;Kermanshah;;;;;;;;;;;;;x
+c_luristan_adj;Lorestanian;;;;;;;;;;;;;x
+c_tigris_adj;Tigris;;;;;;;;;;;;;x
+c_al_amarah_adj;Amarah;;;;;;;;;;;;;x
+c_al_nasiryah_adj;Nasiriyah;;;;;;;;;;;;;x
+c_kufa_adj;Kufan;;;;;;;;;;;;;x
+c_rummah_adj;Wadi al-Rummah;;;;;;;;;;;;;x
+c_basra_adj;Basran;;;;;;;;;;;;;x
+c_damman_adj;Dammam;;;;;;;;;;;;;x
+c_al_hasa_adj;Al-Ahsa;;;;;;;;;;;;;x
+c_bahrein_adj;Bahraini;;;;;;;;;;;;;x
+c_al_nadjaf_adj;Najaf;;;;;;;;;;;;;x
+c_ar_ar_adj;Sakakah;;;;;;;;;;;;;x
+c_madaba_adj;Madaba;;;;;;;;;;;;;x
+c_az_zarqa_adj;Zarqa;;;;;;;;;;;;;x
+d_baghdad;Baghdad;;;;;;;;;;;;;x
+d_baghdad_adj;Baghdadian;;;;;;;;;;;;;x
+c_karbala_adj;Karbala;;;;;;;;;;;;;x
+c_baghdad_adj;Baghdadian;;;;;;;;;;;;;x
+c_deir_adj;Deir ez-Zor;;;;;;;;;;;;;x
+c_kirkuk_adj;Kirkuk;;;;;;;;;;;;;x
+c_mosul_adj;Mosul;;;;;;;;;;;;;x
+c_al_bichri_adj;Jabal Bishri;;;;;;;;;;;;;x
+c_sinjar_adj;Sinjar;;;;;;;;;;;;;x
+c_oromieh_adj;Urmian;;;;;;;;;;;;;x
+c_gilan_adj;Gilan;;;;;;;;;;;;;x
+c_tabriz_adj;Tabrizian;;;;;;;;;;;;;x
+c_shirvan_adj;Shirvan;;;;;;;;;;;;;x
+c_azerbaijan_adj;Azerbaijani;;;;;;;;;;;;;x
+c_vaspurakan_adj;Vaspurakan;;;;;;;;;;;;;x
+c_dwin_adj;Dvin;;;;;;;;;;;;;x
+c_ani_adj;Ani;;;;;;;;;;;;;x
+c_amida_adj;Amidan;;;;;;;;;;;;;x
+d_edessa;Edessa;;;;;;;;;;;;;x
+d_edessa_adj;Edessan;;;;;;;;;;;;;x
+c_edessa_adj;Edessan;;;;;;;;;;;;;x
+c_tell_bashir_adj;Turbessel;;;;;;;;;;;;;x
+c_aintab_adj;Gaziantepian;;;;;;;;;;;;;x
+c_koloneia_adj;Shebinkarahisar;;;;;;;;;;;;;x
+c_melitene_adj;Malatyan;;;;;;;;;;;;;x
+c_lykandos_adj;Lykandian;;;;;;;;;;;;;x
+c_tarsos_adj;Tarsus;;;;;;;;;;;;;x
+c_adana_adj;Adana;;;;;;;;;;;;;x
+c_teluch_adj;Marash;;;;;;;;;;;;;x
+c_seleukeia_adj;Seleucian;;;;;;;;;;;;;x
+c_theodosiopolis_adj;Karin;;;;;;;;;;;;;x
+c_trapezous_adj;Trabzonian;;;;;;;;;;;;;x
+c_chaldea_adj;Chaldian;;;;;;;;;;;;;x
+c_kartli_adj;Kartlian;;;;;;;;;;;;;x
+c_tao_adj;Taoian;;;;;;;;;;;;;x
+c_guria_adj;Gurian;;;;;;;;;;;;;x
+c_kakheti_adj;Kakhetian;;;;;;;;;;;;;x
+c_albania_adj;Caucasian Albanian;;;;;;;;;;;;;x
+c_derbent_adj;Derbentian;;;;;;;;;;;;;x
+c_imeretia_adj;Imeretian;;;;;;;;;;;;;x
+c_abkhazia_adj;Abkhazian;;;;;;;;;;;;;x
+c_galaz_adj;Galati;;;;;;;;;;;;;x
+c_zeta_adj;Zetan;;;;;;;;;;;;;x
+d_slavonia;Slavonia;;;;;;;;;;;;;x
+d_slavonia_adj;Slavonian;;;;;;;;;;;;;x
+c_varadzin_adj;Varaždin;;;;;;;;;;;;;x
+c_vas_adj;Vas;;;;;;;;;;;;;x
+c_sopron_adj;Sopronian;;;;;;;;;;;;;x
+d_ungvar;Uzhhorod;;;;;;;;;;;;;x
+c_abauj_adj;Abaúj;;;;;;;;;;;;;x
+c_heves_adj;Heves;;;;;;;;;;;;;x
+c_istria_adj;Istrian;;;;;;;;;;;;;x
+c_krain_adj;Carniolan;;;;;;;;;;;;;x
+c_karnten_adj;Carinthian;;;;;;;;;;;;;x
+c_aquileia_adj;Aquileian;;;;;;;;;;;;;x
+c_padova_adj;Paduan;;;;;;;;;;;;;x
+c_lombardia_adj;Lombard;;;;;;;;;;;;;x
+d_ferrara_adj;Ferrara;;;;;;;;;;;;;x
+d_spoleto;Spoleto;;;;;;;;;;;;;x
+d_spoleto_adj;Spoletine;;;;;;;;;;;;;x
+d_sardinia;Sardinia;;;;;;;;;;;;;x
+d_sardinia_adj;Sardinian;;;;;;;;;;;;;x
+d_benevento;Benevento;;;;;;;;;;;;;x
+d_benevento_adj;Beneventan;;;;;;;;;;;;;x
+d_salerno_adj;Salernitan;;;;;;;;;;;;;x
+c_consenza_adj;Catanzaro;;;;;;;;;;;;;x
+c_nice_adj;Niçois;;;;;;;;;;;;;x
+c_provence_adj;Provençal;;;;;;;;;;;;;x
+c_venaissin_adj;Venaissin;;;;;;;;;;;;;x
+d_savoie;Savoy;;;;;;;;;;;;;x
+d_savoie_adj;Savoyard;;;;;;;;;;;;;x
+c_savoie_adj;Savoyard;;;;;;;;;;;;;x
+c_valais_adj;Valais;;;;;;;;;;;;;x
+c_geneve_adj;Genevan;;;;;;;;;;;;;x
+d_dauphine;Dauphiné;;;;;;;;;;;;;x
+c_lyon_adj;Lyonnais;;;;;;;;;;;;;x
+c_forez_adj;Forez;;;;;;;;;;;;;x
+c_chalons_adj;Chalon;;;;;;;;;;;;;x
+c_neuchatel_adj;Neuchâtel;;;;;;;;;;;;;x
+c_bern_adj;Bern;;;;;;;;;;;;;x
+c_schwyz_adj;Schwyz;;;;;;;;;;;;;x
+c_aargau_adj;Aargau;;;;;;;;;;;;;x
+c_besancon_adj;Besançon;;;;;;;;;;;;;x
+k_france;France;;;;;;;;;;;;;x
+k_france_adj;French;;;;;;;;;;;;;x
+c_montpellier_adj;Montpellier;;;;;;;;;;;;;x
+c_viviers_adj;Vivarais;;;;;;;;;;;;;x
+c_narbonne_adj;Narbonnese;;;;;;;;;;;;;x
+c_toulouse_adj;Toulouse;;;;;;;;;;;;;x
+c_rouergue_adj;Rouergue;;;;;;;;;;;;;x
+d_gascogne;Gascony;;;;;;;;;;;;;x
+d_gascogne_adj;Gascon;;;;;;;;;;;;;x
+c_foix_adj;Foix;;;;;;;;;;;;;x
+c_bearn_adj;Béarn;;;;;;;;;;;;;x
+c_armagnac_adj;Armagnac;;;;;;;;;;;;;x
+c_labourd_adj;Labourd;;;;;;;;;;;;;x
+c_albret_adj;Albret;;;;;;;;;;;;;x
+c_bordeaux_adj;Bordelais;;;;;;;;;;;;;x
+c_agen_adj;Agen;;;;;;;;;;;;;x
+c_perigord_adj;Périgord;;;;;;;;;;;;;x
+c_angouleme_adj;Angoulême;;;;;;;;;;;;;x
+c_auvergne_adj;Auvergnese;;;;;;;;;;;;;x
+c_gevaudan_adj;Gévaudan;;;;;;;;;;;;;x
+c_macon_adj;Mâcon;;;;;;;;;;;;;x
+c_dijon_adj;Dijon;;;;;;;;;;;;;x
+c_nevers_adj;Nevers;;;;;;;;;;;;;x
+c_charolais_adj;Charolais;;;;;;;;;;;;;x
+d_bourbon;Bourbon;;;;;;;;;;;;;x
+c_limousin_adj;Limousin;;;;;;;;;;;;;x
+c_la_marche_adj;Marche;;;;;;;;;;;;;x
+d_poitou;Poitou;;;;;;;;;;;;;x
+c_lusignan_adj;Lusignan;;;;;;;;;;;;;x
+c_saintonge_adj;Saintonge;;;;;;;;;;;;;x
+c_poitiers_adj;Poitiers;;;;;;;;;;;;;x
+c_thouars_adj;Thouars;;;;;;;;;;;;;x
+d_berry;Berry;;;;;;;;;;;;;x
+d_berry_adj;Berry;;;;;;;;;;;;;x
+c_tourraine_adj;Touraine;;;;;;;;;;;;;x
+c_nantes_adj;Nantes;;;;;;;;;;;;;x
+c_vannes_adj;Vannes;;;;;;;;;;;;;x
+c_cornouaille_adj;Cornouaille;;;;;;;;;;;;;x
+c_french_leon_adj;Léon;;;;;;;;;;;;;x
+c_penthievre_adj;Penthièvre;;;;;;;;;;;;;x
+c_rennes_adj;Rennes;;;;;;;;;;;;;x
+d_anjou;Anjou;;;;;;;;;;;;;x
+d_anjou_adj;Angevin;;;;;;;;;;;;;x
+c_anjou_adj;Angevin;;;;;;;;;;;;;x
+c_vendome_adj;Vendôme;;;;;;;;;;;;;x
+c_maine_adj;Maine;;;;;;;;;;;;;x
+d_normandy;Normandy;;;;;;;;;;;;;x
+d_normandy_adj;Norman;;;;;;;;;;;;;x
+c_evreux_adj;Évreux;;;;;;;;;;;;;x
+c_avranches_adj;Avranches;;;;;;;;;;;;;x
+c_vexin_adj;Norman Vexin;;;;;;;;;;;;;x
+c_arques_adj;Arques;;;;;;;;;;;;;x
+c_eu_adj;Eu;;;;;;;;;;;;;x
+d_orleans;Orléans;;;;;;;;;;;;;x
+d_orleans_adj;Orléans;;;;;;;;;;;;;x
+c_blois_adj;Blois;;;;;;;;;;;;;x
+c_orleans_adj;Orléans;;;;;;;;;;;;;x
+c_chartres_adj;Chartres;;;;;;;;;;;;;x
+c_sens_adj;Sens;;;;;;;;;;;;;x
+c_auxerre_adj;Auxerre;;;;;;;;;;;;;x
+c_reims_adj;Reimsian;;;;;;;;;;;;;x
+d_valois;Valois;;;;;;;;;;;;;x
+c_ile_de_france_adj;Île-de-France;;;;;;;;;;;;;x
+c_vermandois_adj;Vermandois;;;;;;;;;;;;;x
+c_amiens_adj;Amiens;;;;;;;;;;;;;x
+d_flanders;Flanders;;;;;;;;;;;;;x
+d_flanders_adj;Flemish;;;;;;;;;;;;;x
+c_boulogne_adj;Boulognian;;;;;;;;;;;;;x
+c_guines_adj;Guînes;;;;;;;;;;;;;x
+c_yperen_adj;Ypres;;;;;;;;;;;;;x
+c_brugge_adj;Bruges;;;;;;;;;;;;;x
+c_gent_adj;Ghentian;;;;;;;;;;;;;x
+c_navarra_adj;Navarran;;;;;;;;;;;;;x
+c_najera_adj;Nájeran;;;;;;;;;;;;;x
+c_albarracin_adj;Albarracín;;;;;;;;;;;;;x
+c_alto_aragon_adj;High Aragonian;;;;;;;;;;;;;x
+c_zaragoza_adj;Zaragozan;;;;;;;;;;;;;x
+c_calatayud_adj;Calatayud;;;;;;;;;;;;;x
+d_barcelona;Barcelona;;;;;;;;;;;;;x
+d_barcelona_adj;Barcelonian;;;;;;;;;;;;;x
+c_barcelona_adj;Barcelonian;;;;;;;;;;;;;x
+c_urgell_adj;Urgell;;;;;;;;;;;;;x
+c_rosello_adj;Roussillon;;;;;;;;;;;;;x
+c_empuries_adj;Empúries;;;;;;;;;;;;;x
+c_lleida_adj;Lleida;;;;;;;;;;;;;x
+c_tarragona_adj;Tarragonan;;;;;;;;;;;;;x
+c_castellon_adj;Castelló;;;;;;;;;;;;;x
+c_valencia_adj;Valencian;;;;;;;;;;;;;x
+c_denia_adj;Dénian;;;;;;;;;;;;;x
+c_mallorca_adj;Majorcan;;;;;;;;;;;;;x
+c_menorca_adj;Minorcan;;;;;;;;;;;;;x
+c_viscaya_adj;Biscayan;;;;;;;;;;;;;x
+c_burgos_adj;Burgosian;;;;;;;;;;;;;x
+c_valladolid_adj;Valladolidian;;;;;;;;;;;;;x
+c_soria_adj;Sorian;;;;;;;;;;;;;x
+c_toledo_adj;Toledan;;;;;;;;;;;;;x
+c_molina_adj;Molina;;;;;;;;;;;;;x
+c_cuenca_adj;Cuencan;;;;;;;;;;;;;x
+c_cordoba_adj;Cordoban;;;;;;;;;;;;;x
+c_la_mancha_adj;La Mancha;;;;;;;;;;;;;x
+c_calatrava_adj;Calatravan;;;;;;;;;;;;;x
+c_almansa_adj;Almansa;;;;;;;;;;;;;x
+c_murcia_adj;Murcian;;;;;;;;;;;;;x
+c_granada_adj;Granadan;;;;;;;;;;;;;x
+c_almeria_adj;Almerían;;;;;;;;;;;;;x
+c_malaga_adj;Malagan;;;;;;;;;;;;;x
+c_sevilla_adj;Sevillan;;;;;;;;;;;;;x
+c_cadiz_adj;Cádiz;;;;;;;;;;;;;x
+c_algeciras_adj;Algeciran;;;;;;;;;;;;;x
+c_aracena_adj;Aracena;;;;;;;;;;;;;x
+c_niebla_adj;Niebla;;;;;;;;;;;;;x
+d_asturias;Asturias;;;;;;;;;;;;;x
+d_asturias_adj;Asturian;;;;;;;;;;;;;x
+c_asturias_de_oviedo_adj;Oviedan;;;;;;;;;;;;;x
+c_asturias_de_santillana_adj;Asturias de Santillana;;;;;;;;;;;;;x
+c_coruna_adj;A Coruña;;;;;;;;;;;;;x
+c_santiago_adj;Santiagan;;;;;;;;;;;;;x
+c_astorga_adj;Astorga;;;;;;;;;;;;;x
+c_leon_adj;Leonese;;;;;;;;;;;;;x
+c_zamora_adj;Zamoran;;;;;;;;;;;;;x
+c_salamanca_adj;Salamancan;;;;;;;;;;;;;x
+c_plasencia_adj;Plasencian;;;;;;;;;;;;;x
+c_alcantara_adj;Alcántaran;;;;;;;;;;;;;x
+c_caceres_adj;Cáceres;;;;;;;;;;;;;x
+c_badajoz_adj;Badajoz;;;;;;;;;;;;;x
+d_porto;Portugal;;;;;;;;;;;;;x
+d_porto_adj;Portuguese;;;;;;;;;;;;;x
+c_porto_adj;Porto;;;;;;;;;;;;;x
+c_braganza_adj;Braganzan;;;;;;;;;;;;;x
+c_castelo_branco_adj;Castelo Branco;;;;;;;;;;;;;x
+c_coimbra_adj;Coimbran;;;;;;;;;;;;;x
+c_lisboa_adj;Lisboner;;;;;;;;;;;;;x
+c_evora_adj;Évoran;;;;;;;;;;;;;x
+c_alcacer_do_sal_adj;Alcácer;;;;;;;;;;;;;x
+c_mertola_adj;Mértolan;;;;;;;;;;;;;x
+c_silves_adj;Silves;;;;;;;;;;;;;x
+c_faro_adj;Faro;;;;;;;;;;;;;x
+c_canarias_adj;Canarian;;;;;;;;;;;;;x
+c_makuria_adj;Makurian;;;;;;;;;;;;;x
+c_nubia_adj;Nubian;;;;;;;;;;;;;x
+d_sinai;Sinai;;;;;;;;;;;;;x
+d_sinai_adj;Sinaitic;;;;;;;;;;;;;x
+c_sinai_adj;Sinaitic;;;;;;;;;;;;;x
+c_eilat_adj;Eilatian;;;;;;;;;;;;;x
+c_el-arish_adj;Arish;;;;;;;;;;;;;x
+c_maan_adj;Ma’an;;;;;;;;;;;;;x
+c_tabuk_adj;Tabuk;;;;;;;;;;;;;x
+c_petra_adj;Petra;;;;;;;;;;;;;x
+c_al_jawf_adj;Al-Jawf;;;;;;;;;;;;;x
+c_hijaz_adj;Hejazi;;;;;;;;;;;;;x
+c_medina_adj;Medinan;;;;;;;;;;;;;x
+c_mecca_adj;Meccan;;;;;;;;;;;;;x
+c_asir_adj;‘Asir;;;;;;;;;;;;;x
+c_rafha_adj;Rafha;;;;;;;;;;;;;x
+c_hail_adj;Ha’il;;;;;;;;;;;;;x
+c_hajr_adj;Hajr;;;;;;;;;;;;;x
+c_halaban_adj;Halaban;;;;;;;;;;;;;x
+c_bayda_adj;Al Bayda;;;;;;;;;;;;;x
+c_sanaa_adj;Sana’a;;;;;;;;;;;;;x
+c_taizz_adj;Taizian;;;;;;;;;;;;;x
+c_aden_adj;Adenian;;;;;;;;;;;;;x
+c_kathiri_adj;Kathiri;;;;;;;;;;;;;x
+c_dhu_zabi_adj;Abu Dhabian;;;;;;;;;;;;;x
+c_hajar_adj;Al Hajar;;;;;;;;;;;;;x
+c_muscat_adj;Muscatian;;;;;;;;;;;;;x
+c_duqm_adj;Duqm;;;;;;;;;;;;;x
+c_dhofar_adj;Dhofar;;;;;;;;;;;;;x
+c_mahra_adj;Al Mahrah;;;;;;;;;;;;;x
+k_abyssinia;Abyssinia;;;;;;;;;;;;;x
+k_abyssinia_adj;Abyssinian;;;;;;;;;;;;;x
+c_busaso_adj;Bosaso;;;;;;;;;;;;;x
+c_berbera_adj;Berbera;;;;;;;;;;;;;x
+c_harer_adj;Harari;;;;;;;;;;;;;x
+c_tadjoura_adj;Tadjoura;;;;;;;;;;;;;x
+d_axum;Aksum;;;;;;;;;;;;;x
+d_axum_adj;Aksumite;;;;;;;;;;;;;x
+c_aksum_adj;Axumite;;;;;;;;;;;;;x
+c_akordat_adj;Agordat;;;;;;;;;;;;;x
+c_kassala_adj;Kassala;;;;;;;;;;;;;x
+c_hayya_adj;Hayya;;;;;;;;;;;;;x
+c_atbara_adj;Atbara;;;;;;;;;;;;;x
+c_sennar_adj;Sennar;;;;;;;;;;;;;x
+d_gondar;Gondar;;;;;;;;;;;;;x
+d_gondar_adj;Gondarine;;;;;;;;;;;;;x
+c_asosa_adj;Asosa;;;;;;;;;;;;;x
+c_ankober_adj;Ankober;;;;;;;;;;;;;x
+c_gondar_adj;Gondarine;;;;;;;;;;;;;x
+c_antalo_adj;Hintalo;;;;;;;;;;;;;x
+c_matamma_adj;Al-Matamma;;;;;;;;;;;;;x
+k_jerusalem;Jerusalem;;;;;;;;;;;;;x
+k_jerusalem_adj;Jerusalemite;;;;;;;;;;;;;x
+d_oultrejourdain;Oultrejordain;;;;;;;;;;;;;x
+d_oultrejourdain_adj;Oultrejordain;;;;;;;;;;;;;x
+c_monreal_adj;Montreal;;;;;;;;;;;;;x
+c_kerak_adj;Kerak;;;;;;;;;;;;;x
+c_darum_adj;Deir al-Balah;;;;;;;;;;;;;x
+c_jaffa_adj;Jaffan;;;;;;;;;;;;;x
+c_ascalon_adj;Ashkelonian;;;;;;;;;;;;;x
+c_beersheb_adj;Nablus;;;;;;;;;;;;;x
+d_jerusalem;Jerusalem;;;;;;;;;;;;;x
+d_jerusalem_adj;Jerusalemite;;;;;;;;;;;;;x
+c_jerusalem_adj;Jerusalemite;;;;;;;;;;;;;x
+c_acre_adj;Acre;;;;;;;;;;;;;x
+c_hebron_adj;Hebron;;;;;;;;;;;;;x
+c_tiberias_adj;Tiberian;;;;;;;;;;;;;x
+c_beirut_adj;Beirutian;;;;;;;;;;;;;x
+c_safed_adj;Safedian;;;;;;;;;;;;;x
+c_asas_adj;Asas;;;;;;;;;;;;;x
+c_palmyra_adj;Palmyran;;;;;;;;;;;;;x
+c_aleppo_adj;Aleppan;;;;;;;;;;;;;x
+c_homs_adj;Homs;;;;;;;;;;;;;x
+c_hama_adj;Hama;;;;;;;;;;;;;x
+c_antiocheia_adj;Antiochian;;;;;;;;;;;;;x
+c_archa_adj;Bourzey;;;;;;;;;;;;;x
+d_tripoli;Tripoli;;;;;;;;;;;;;x
+d_tripoli_adj;Tripolitan;;;;;;;;;;;;;x
+c_tortosa_adj;Tartus;;;;;;;;;;;;;x
+c_tripoli_adj;Tripolitan;;;;;;;;;;;;;x
+c_baalbek_adj;Baalbekian;;;;;;;;;;;;;x
+c_damascus_adj;Damascene;;;;;;;;;;;;;x
+c_amman_adj;Ammani;;;;;;;;;;;;;x
+c_druz_adj;Druze;;;;;;;;;;;;;x
+c_suwaida_adj;As-Suwayda;;;;;;;;;;;;;x
+k_england;England;;;;;;;;;;;;;x
+k_england_adj;English;;;;;;;;;;;;;x
+d_oxford;Oxford;;;;;;;;;;;;;x
+d_oxford_adj;Oxfordian;;;;;;;;;;;;;x
+d_gloucester;Hwicce;;;;;;;;;;;;;x
+d_gloucester_adj;Hwiccan;;;;;;;;;;;;;x
+k_scotland_adj;Scottish;;;;;;;;;;;;;x
+d_the_isles;Isle of Man;;;;;;;;;;;;;x
+d_the_isles_adj;Manx;;;;;;;;;;;;;x
+d_ulster;Ulster;;;;;;;;;;;;;x
+c_tyrone_adj;Tyrone;;;;;;;;;;;;;x
+c_tyrconnell_adj;Tyrconnellian;;;;;;;;;;;;;x
+d_connacht;Connacht;;;;;;;;;;;;;x
+c_oriel_adj;Oriel;;;;;;;;;;;;;x
+c_kildare_adj;Kildare;;;;;;;;;;;;;x
+c_dublin_adj;Dublin;;;;;;;;;;;;;x
+d_leinster;Leinster;;;;;;;;;;;;;x
+c_ossory_adj;Osraige;;;;;;;;;;;;;x
+d_munster;Munster;;;;;;;;;;;;;x
+c_vestisland_adj;West Icelandic;;;;;;;;;;;;;x
+c_austisland_adj;East Icelandic;;;;;;;;;;;;;x
+c_faereyar_adj;Faroese;;;;;;;;;;;;;x
+c_shetland_adj;Shetlander;;;;;;;;;;;;;x
+c_orkney_adj;Orcadian;;;;;;;;;;;;;x
+c_rogaland_adj;Rogaland;;;;;;;;;;;;;x
+d_bohemia_adj;Bohemian;;;;;;;;;;;;;x
+c_domazlice_adj;Domažlice;;;;;;;;;;;;;x
+c_praha_adj;Praguian;;;;;;;;;;;;;x
+c_boleslav_adj;Mladá Boleslav;;;;;;;;;;;;;x
+c_litomerice_adj;Litomerice;;;;;;;;;;;;;x
+c_plzen_adj;Plzen;;;;;;;;;;;;;x
+d_moravia_adj;Moravian;;;;;;;;;;;;;x
+c_hradec_adj;Hradec;;;;;;;;;;;;;x
+c_olomouc_adj;Olomoucian;;;;;;;;;;;;;x
+c_brno_adj;Brno;;;;;;;;;;;;;x
+d_abbasid;Abbasids;;;;;;;;;;;;;x
+d_pronsk;Pronsk;;;;;;;;;;;;;x
+d_pronsk_adj;Pronsk;;;;;;;;;;;;;x
+d_sandomiersk;Sandomierz;;;;;;;;;;;;;x
+d_sandomiersk_adj;Sandomierz;;;;;;;;;;;;;x
+d_satakunta;Satakunta;;;;;;;;;;;;;x
+d_satakunta_adj;Satakunta;;;;;;;;;;;;;x
+d_swiss;Switzerland;;;;;;;;;;;;;x
+d_swiss_adj;Swiss;;;;;;;;;;;;;x
+d_wielkopolska;Greater Poland;;;;;;;;;;;;;x
+d_wielkopolska_adj;Greater Polish;;;;;;;;;;;;;x
+k_almohad;Almohads;;;;;;;;;;;;;x
+k_almohad_adj;Almohad;;;;;;;;;;;;;x
+k_al-murabitids;Almoravids;;;;;;;;;;;;;x
+k_al-murabitids_adj;Almoravid;;;;;;;;;;;;;x
+k_beni_helal;Banu Hilal;;;;;;;;;;;;;x
+k_beni_helal_adj;Banu Hilal;;;;;;;;;;;;;x
+k_fatimids;Fatimids;;;;;;;;;;;;;x
+k_fatimids_adj;Fatimid;;;;;;;;;;;;;x
+e_golden_horde;Golden Horde;;;;;;;;;;;;;x
+e_golden_horde_adj;Mongol;;;;;;;;;;;;;x
+k_hammadid;Hammadids;;;;;;;;;;;;;x
+e_il-khanate;Ilkhanate;;;;;;;;;;;;;x
+k_kafsid;Hafsids;;;;;;;;;;;;;x
+k_marinid;Marinids;;;;;;;;;;;;;x
+k_naples;Naples;;;;;;;;;;;;;x
+k_naples_adj;Neapolitan;;;;;;;;;;;;;x
+k_nubia;Nubia;;;;;;;;;;;;;x
+k_nubia_adj;Nubian;;;;;;;;;;;;;x
+k_ottoman;Ottomans;;;;;;;;;;;;;x
+k_ottoman_adj;Ottoman;;;;;;;;;;;;;x
+k_trinacria;Sicily;;;;;;;;;;;;;x
+k_trinacria_adj;Sicilian;;;;;;;;;;;;;x
+k_zenata;Zenata;;;;;;;;;;;;;x
+k_zenata_adj;Zenata;;;;;;;;;;;;;x
+k_zirid;Zirids;;;;;;;;;;;;;x
+k_ziyanids;Ziyanids;;;;;;;;;;;;;x
+k_ziyanids_adj;Ziyanid;;;;;;;;;;;;;x
+k_orthodox;Ecumenical Patriarchate;;;;;;;;;;;;;x
+k_orthodox_adj;Patriarchal;;;;;;;;;;;;;x
+e_sunni;Sunni Caliphate;;;;;;;;;;;;;x
+e_sunni_adj;Caliphal;;;;;;;;;;;;;x
+e_shiite;Shi‘ite Caliphate;;;;;;;;;;;;;x
+e_shiite_adj;Caliphal;;;;;;;;;;;;;x
+d_sunni_cuman_company;Khazar Company;;;;;;;;;;;;;x
+d_sunni_cuman_company_adj;Khazar;;;;;;;;;;;;;x
+d_shiite_cuman_company;Steppe Company;;;;;;;;;;;;;x
+d_shiite_cuman_company_adj;Steppe;;;;;;;;;;;;;x
+d_sunni_turkic_company;Sunni Turkmen Company;;;;;;;;;;;;;x
+d_sunni_turkic_company_adj;Sunni Turkmen;;;;;;;;;;;;;x
+d_shiite_turkic_company;Shi‘ite Turkmen Company;;;;;;;;;;;;;x
+d_shiite_turkic_company_adj;Shi‘ite Turkmen;;;;;;;;;;;;;x
+d_sunni_berber_company;Berber Company;;;;;;;;;;;;;x
+d_sunni_berber_company_adj;Berber;;;;;;;;;;;;;x
+d_shiite_berber_company;Tuareg Company;;;;;;;;;;;;;x
+d_shiite_berber_company_adj;Berber;;;;;;;;;;;;;x
+d_sunni_bedouin_company;Arab Company;;;;;;;;;;;;;x
+d_sunni_bedouin_company_adj;Arab;;;;;;;;;;;;;x
+d_shiite_bedouin_company;Bedouin Company;;;;;;;;;;;;;x
+d_shiite_bedouin_company_adj;Bedouin;;;;;;;;;;;;;x
+d_teutonic_order;Teutonic Order;;;;;;;;;;;;;x
+d_teutonic_order_adj;Teutonic;;;;;;;;;;;;;x
+d_knights_templar;Knights Templar;;;;;;;;;;;;;x
+d_knights_templar_adj;Templar;;;;;;;;;;;;;x
+d_knights_hospitaler;Knights Hospitaller;;;;;;;;;;;;;x
+d_knights_hospitaler_adj;Hospitaller;;;;;;;;;;;;;x
+d_varangian_guard;Varangian Guard;;;;;;;;;;;;;x
+d_varangian_guard_adj;Varangian;;;;;;;;;;;;;x
+d_cuman_company;Cuman Company;;;;;;;;;;;;;x
+d_cuman_company_adj;Cuman;;;;;;;;;;;;;x
+d_rus_company;Rus’ Company;;;;;;;;;;;;;x
+d_rus_company_adj;Rus’;;;;;;;;;;;;;x
+d_pecheneg_company;Pecheneg Company;;;;;;;;;;;;;x
+d_pecheneg_company_adj;Pecheneg;;;;;;;;;;;;;x
+d_bulgarian_company;Bulgarian Company;;;;;;;;;;;;;x
+d_bulgarian_company_adj;Bulgarian;;;;;;;;;;;;;x
+d_turkic_company;Turkic Company;;;;;;;;;;;;;x
+d_turkic_company_adj;Turkic;;;;;;;;;;;;;x
+d_breton_company;Breton Company;;;;;;;;;;;;;x
+d_breton_company_adj;Breton;;;;;;;;;;;;;x
+d_swiss_company;Swiss Company;;;;;;;;;;;;;x
+d_swiss_company_adj;Swiss;;;;;;;;;;;;;x
+d_navarrese_company;Navarrese Company;;;;;;;;;;;;;x
+d_navarrese_company_adj;Navarrese;;;;;;;;;;;;;x
+d_catalan_company;Catalan Company;;;;;;;;;;;;;x
+d_catalan_company_adj;Catalan;;;;;;;;;;;;;x
+d_rose_company;Compagnia della Rosa;;;;;;;;;;;;;x
+d_rose_company_adj;Compagnia della Rosa;;;;;;;;;;;;;x
+d_little_hat_company;Little Hat Company;;;;;;;;;;;;;x
+d_little_hat_company_adj;Little Hat;;;;;;;;;;;;;x
+d_star_company;Star Company;;;;;;;;;;;;;x
+d_star_company_adj;Star;;;;;;;;;;;;;x
+d_company_of_st_george;Company of St. George;;;;;;;;;;;;;x
+d_company_of_st_george_adj;St. George;;;;;;;;;;;;;x
+d_great_company;Great Company;;;;;;;;;;;;;x
+d_great_company_adj;Mercenary;;;;;;;;;;;;;x
+d_white_company;White Company;;;;;;;;;;;;;x
+d_white_company_adj;Mercenary;;;;;;;;;;;;;x
+d_victual_brothers;Victual Brothers;;;;;;;;;;;;;x
+d_victual_brothers_adj;Victual Brother;;;;;;;;;;;;;x
+d_lombard_band;Lombard Band;;;;;;;;;;;;;x
+d_lombard_band_adj;Lombard;;;;;;;;;;;;;x
+d_swiss_band;Swiss Band;;;;;;;;;;;;;x
+d_swiss_band_adj;Swiss;;;;;;;;;;;;;x
+d_breton_band;Breton Band;;;;;;;;;;;;;x
+d_breton_band_adj;Breton;;;;;;;;;;;;;x
+d_catalan_band;Catalan Band;;;;;;;;;;;;;x
+d_catalan_band_adj;Catalan;;;;;;;;;;;;;x
+d_saxon_band;Saxon Band;;;;;;;;;;;;;x
+d_saxon_band_adj;Saxon;;;;;;;;;;;;;x
+d_cuman_band;Cuman Band;;;;;;;;;;;;;x
+d_cuman_band_adj;Cuman;;;;;;;;;;;;;x
+d_rus_band;Rus’ Band;;;;;;;;;;;;;x
+d_rus_band_adj;Rus’;;;;;;;;;;;;;x
+d_pecheneg_band;Pecheneg Band;;;;;;;;;;;;;x
+d_pecheneg_band_adj;Pecheneg;;;;;;;;;;;;;x
+d_bulgarian_band;Bulgarian Band;;;;;;;;;;;;;x
+d_bulgarian_band_adj;Bulgarian;;;;;;;;;;;;;x
+d_turkic_band;Turkic Band;;;;;;;;;;;;;x
+d_turkic_band_adj;Turkic;;;;;;;;;;;;;x
+PROV3;Tyrconnell;;;;;;;;;;;;;x
+PROV4;Tyrone;;;;;;;;;;;;;x
+PROV7;Oriel;;;;;;;;;;;;;x
+PROV10;Kildare;;;;;;;;;;;;;x
+PROV11;Dublin;;;;;;;;;;;;;x
+PROV12;Osraige;;;;;;;;;;;;;x
+PROV17;Hereford;;;;;;;;;;;;;x
+PROV20;Gwent;;;;;;;;;;;;;x
+PROV21;Gloucester;;;;;;;;;;;;;x
+PROV22;Oxford;;;;;;;;;;;;;x
+PROV23;Wiltshire;;;;;;;;;;;;;x
+PROV24;Surrey;;;;;;;;;;;;;x
+PROV25;Sussex;;;;;;;;;;;;;x
+PROV26;Winchester;;;;;;;;;;;;;x
+PROV29;Devon;;;;;;;;;;;;;x
+PROV30;Worcester;;;;;;;;;;;;;x
+PROV31;Cornwall;;;;;;;;;;;;;x
+PROV32;Middlesex;;;;;;;;;;;;;x
+PROV38;Teviotdale;;;;;;;;;;;;;x
+PROV39;Ross;;;;;;;;;;;;;x
+PROV40;Moray;;;;;;;;;;;;;x
+PROV41;Buchan;;;;;;;;;;;;;x
+PROV42;Strathearn;;;;;;;;;;;;;x
+PROV43;Gowrie;;;;;;;;;;;;;x
+PROV44;Atholl;;;;;;;;;;;;;x
+PROV45;Argyll;;;;;;;;;;;;;x
+PROV46;Fife;;;;;;;;;;;;;x
+PROV47;Clydesdale;;;;;;;;;;;;;x
+PROV48;Lothian;;;;;;;;;;;;;x
+PROV49;Carrick;;;;;;;;;;;;;x
+PROV50;Galloway;;;;;;;;;;;;;x
+PROV51;Dunbar;;;;;;;;;;;;;x
+PROV52;Northumberland;;;;;;;;;;;;;x
+PROV53;Cumberland;;;;;;;;;;;;;x
+PROV54;Isle of Man;;;;;;;;;;;;;x
+PROV55;Westmorland;;;;;;;;;;;;;x
+PROV56;Durham;;;;;;;;;;;;;x
+PROV58;Lancaster;;;;;;;;;;;;;x
+PROV59;Chester;;;;;;;;;;;;;x
+PROV60;Perfeddwlad;;;;;;;;;;;;;x
+PROV61;Lincoln;;;;;;;;;;;;;x
+PROV62;Leicester;;;;;;;;;;;;;x
+PROV63;Derby;;;;;;;;;;;;;x
+PROV64;Gwynedd;;;;;;;;;;;;;x
+PROV66;Shrewsbury;;;;;;;;;;;;;x
+PROV67;Warwick;;;;;;;;;;;;;x
+PROV68;Northampton;;;;;;;;;;;;;x
+PROV69;Bedford;;;;;;;;;;;;;x
+PROV70;Norfolk;;;;;;;;;;;;;x
+PROV71;Suffolk;;;;;;;;;;;;;x
+PROV72;Essex;;;;;;;;;;;;;x
+PROV73;Kent;;;;;;;;;;;;;x
+PROV74;Guînes;;;;;;;;;;;;;x
+PROV75;Boulogne;;;;;;;;;;;;;x
+PROV76;Ypres;;;;;;;;;;;;;x
+PROV77;Artois;;;;;;;;;;;;;x
+PROV78;Bruges;;;;;;;;;;;;;x
+PROV79;Zeeland;;;;;;;;;;;;;x
+PROV80;Holland;;;;;;;;;;;;;x
+PROV81;West Frisia;;;;;;;;;;;;;x
+PROV82;Nedersticht;;;;;;;;;;;;;x
+PROV83;Guelders;;;;;;;;;;;;;x
+PROV84;Frisia;;;;;;;;;;;;;x
+PROV85;East Frisia;;;;;;;;;;;;;x
+PROV86;Oldenburg;;;;;;;;;;;;;x
+PROV87;Osnabrück;;;;;;;;;;;;;x
+PROV88;Münster;;;;;;;;;;;;;x
+PROV90;Jülich;;;;;;;;;;;;;x
+PROV91;Loon;;;;;;;;;;;;;x
+PROV93;Ghent;;;;;;;;;;;;;x
+PROV95;Amiens;;;;;;;;;;;;;x
+PROV96;Eu;;;;;;;;;;;;;x
+PROV97;Rouen;;;;;;;;;;;;;x
+PROV98;Norman Vexin;;;;;;;;;;;;;x
+PROV99;Évreux;;;;;;;;;;;;;x
+PROV107;Anjou;;;;;;;;;;;;;x
+PROV108;Maine;;;;;;;;;;;;;x
+PROV109;Vendôme;;;;;;;;;;;;;x
+PROV110;Blois;;;;;;;;;;;;;x
+PROV111;Chartres;;;;;;;;;;;;;x
+PROV113;Vermandois;;;;;;;;;;;;;x
+PROV115;Luxembourg;;;;;;;;;;;;;x
+PROV116;Liège;;;;;;;;;;;;;x
+PROV118;Trier;;;;;;;;;;;;;x
+PROV119;Cologne;;;;;;;;;;;;;x
+PROV121;Nassau;;;;;;;;;;;;;x
+PROV123;Mainz;;;;;;;;;;;;;x
+PROV124;Palatinate;;;;;;;;;;;;;x
+PROV125;Baden;;;;;;;;;;;;;x
+PROV126;Nordgau;;;;;;;;;;;;;x
+PROV128;Metz;;;;;;;;;;;;;x
+PROV129;Verdun;;;;;;;;;;;;;x
+PROV134;Sundgau;;;;;;;;;;;;;x
+PROV136;Dijon;;;;;;;;;;;;;x
+PROV137;Nevers;;;;;;;;;;;;;x
+PROV138;Orléans;;;;;;;;;;;;;x
+PROV140;Tours;;;;;;;;;;;;;x
+PROV141;Poitiers;;;;;;;;;;;;;x
+PROV142;Thouars;;;;;;;;;;;;;x
+PROV143;Saintonge;;;;;;;;;;;;;x
+PROV144;Lusignan;;;;;;;;;;;;;x
+PROV145;La Marche;;;;;;;;;;;;;x
+PROV146;Bourbon;;;;;;;;;;;;;x
+PROV147;Limousin;;;;;;;;;;;;;x
+PROV148;Angoulême;;;;;;;;;;;;;x
+PROV149;Bordeaux;;;;;;;;;;;;;x
+PROV151;Dax;;;;;;;;;;;;;x
+PROV152;Navarre;;;;;;;;;;;;;x
+PROV153;Biscay;;;;;;;;;;;;;x
+PROV157;Santiago;;;;;;;;;;;;;x
+PROV159;Coimbra;;;;;;;;;;;;;x
+PROV160;Lisbon;;;;;;;;;;;;;x
+PROV161;Alcácer;;;;;;;;;;;;;x
+PROV162;Silves;;;;;;;;;;;;;x
+PROV163;Faro;;;;;;;;;;;;;x
+PROV164;Niebla;;;;;;;;;;;;;x
+PROV166;Algeciras;;;;;;;;;;;;;x
+PROV167;Málaga;;;;;;;;;;;;;x
+PROV168;Almería;;;;;;;;;;;;;x
+PROV169;Murcia;;;;;;;;;;;;;x
+PROV170;Dénia;;;;;;;;;;;;;x
+PROV171;Valencia;;;;;;;;;;;;;x
+PROV172;Castelló;;;;;;;;;;;;;x
+PROV175;Calatayud;;;;;;;;;;;;;x
+PROV176;Molina;;;;;;;;;;;;;x
+PROV177;Cuenca;;;;;;;;;;;;;x
+PROV180;Granada;;;;;;;;;;;;;x
+PROV181;Córdoba;;;;;;;;;;;;;x
+PROV184;Badajoz;;;;;;;;;;;;;x
+PROV185;Mértola;;;;;;;;;;;;;x
+PROV186;Évora;;;;;;;;;;;;;x
+PROV187;Castelo Branco;;;;;;;;;;;;;x
+PROV188;Braganza;;;;;;;;;;;;;x
+PROV189;Astorga;;;;;;;;;;;;;x
+PROV190;León;;;;;;;;;;;;;x
+PROV191;Zamora;;;;;;;;;;;;;x
+PROV192;Salamanca;;;;;;;;;;;;;x
+PROV193;Alcántara;;;;;;;;;;;;;x
+PROV194;Plasencia;;;;;;;;;;;;;x
+PROV196;Calatrava;;;;;;;;;;;;;x
+PROV197;Toledo;;;;;;;;;;;;;x
+PROV198;Valladolid;;;;;;;;;;;;;x
+PROV199;Burgos;;;;;;;;;;;;;x
+PROV200;Soria;;;;;;;;;;;;;x
+PROV201;Nájera;;;;;;;;;;;;;x
+PROV202;Zaragoza;;;;;;;;;;;;;x
+PROV203;Lleida;;;;;;;;;;;;;x
+PROV204;Barcelona;;;;;;;;;;;;;x
+PROV205;Empúries;;;;;;;;;;;;;x
+PROV206;Urgell;;;;;;;;;;;;;x
+PROV207;High Aragon;;;;;;;;;;;;;x
+PROV208;Béarn;;;;;;;;;;;;;x
+PROV209;Armagnac;;;;;;;;;;;;;x
+PROV211;Roussillon;;;;;;;;;;;;;x
+PROV215;Agen;;;;;;;;;;;;;x
+PROV216;Périgord;;;;;;;;;;;;;x
+PROV221;Provence;;;;;;;;;;;;;x
+PROV222;Venaissin;;;;;;;;;;;;;x
+PROV224;Forez;;;;;;;;;;;;;x
+PROV225;Mâcon;;;;;;;;;;;;;x
+PROV226;Charolais;;;;;;;;;;;;;x
+PROV227;Lyon;;;;;;;;;;;;;x
+PROV238;Valais;;;;;;;;;;;;;x
+PROV239;Geneva;;;;;;;;;;;;;x
+PROV240;Chalon;;;;;;;;;;;;;x
+PROV241;Neuchâtel;;;;;;;;;;;;;x
+PROV242;Aargau;;;;;;;;;;;;;x
+PROV245;Schwyz;;;;;;;;;;;;;x
+PROV247;Chur;;;;;;;;;;;;;x
+PROV250;Breisgau;;;;;;;;;;;;;x
+PROV251;Fürstenberg;;;;;;;;;;;;;x
+PROV252;Ulm;;;;;;;;;;;;;x
+PROV253;Württemberg;;;;;;;;;;;;;x
+PROV254;Würzburg;;;;;;;;;;;;;x
+PROV255;Thuringia;;;;;;;;;;;;;x
+PROV256;Weimar;;;;;;;;;;;;;x
+PROV257;Brunswick;;;;;;;;;;;;;x
+PROV258;Lüneburg;;;;;;;;;;;;;x
+PROV262;Lübeck;;;;;;;;;;;;;x
+PROV279;Lapland;;;;;;;;;;;;;x
+PROV281;Ångermanland;;;;;;;;;;;;;x
+PROV286;Gästrikland;;;;;;;;;;;;;x
+PROV287;Dalarna;;;;;;;;;;;;;x
+PROV289;Västmanland;;;;;;;;;;;;;x
+PROV291;Åland;;;;;;;;;;;;;x
+PROV292;Södermanland;;;;;;;;;;;;;x
+PROV293;Östergötland;;;;;;;;;;;;;x
+PROV295;Dal;;;;;;;;;;;;;x
+PROV299;Farah;;;;;;;;;;;;;x
+PROV300;Öland;;;;;;;;;;;;;x
+PROV301;Gotland;;;;;;;;;;;;;x
+PROV306;Rostock;;;;;;;;;;;;;x
+PROV307;Werle;;;;;;;;;;;;;x
+PROV309;Altmark;;;;;;;;;;;;;x
+PROV310;Anhalt;;;;;;;;;;;;;x
+PROV312;Meissen;;;;;;;;;;;;;x
+PROV313;Bamberg;;;;;;;;;;;;;x
+PROV314;Nuremberg;;;;;;;;;;;;;x
+PROV315;Kempten;;;;;;;;;;;;;x
+PROV316;Tyrol;;;;;;;;;;;;;x
+PROV317;Trent;;;;;;;;;;;;;x
+PROV358;Aquileia;;;;;;;;;;;;;x
+PROV360;Upper Bavaria;;;;;;;;;;;;;x
+PROV361;Lower Bavaria;;;;;;;;;;;;;x
+PROV365;Brandenburg;;;;;;;;;;;;;x
+PROV366;Szczecin;;;;;;;;;;;;;x
+PROV368;Gdansk;;;;;;;;;;;;;x
+PROV388;Karelia;;;;;;;;;;;;;x
+PROV411;Ingria;;;;;;;;;;;;;x
+PROV433;Opole;;;;;;;;;;;;;x
+PROV449;Austria;;;;;;;;;;;;;x
+PROV455;Styria;;;;;;;;;;;;;x
+PROV456;Carinthia;;;;;;;;;;;;;x
+PROV461;Zagreb;;;;;;;;;;;;;x
+PROV463;Usora;;;;;;;;;;;;;x
+PROV502;Rascia;;;;;;;;;;;;;x
+PROV506;Vidin;;;;;;;;;;;;;x
+PROV509;Balchik;;;;;;;;;;;;;x
+PROV514;Turnu;;;;;;;;;;;;;x
+PROV515;Târgoviste;;;;;;;;;;;;;x
+PROV516;Severin;;;;;;;;;;;;;x
+PROV521;Csanád;;;;;;;;;;;;;x
+PROV526;Cieszyn;;;;;;;;;;;;;x
+PROV529;Plock;;;;;;;;;;;;;x
+PROV535;Volodymyr-Volynsky;;;;;;;;;;;;;x
+PROV560;Chersonesus;;;;;;;;;;;;;x
+PROV561;Feodosia;;;;;;;;;;;;;x
+PROV600;Abkhazia;;;;;;;;;;;;;x
+PROV657;Lorestan;;;;;;;;;;;;;x
+PROV667;Tabriz;;;;;;;;;;;;;x
+PROV671;Syunik;;;;;;;;;;;;;x
+PROV672;Dvin;;;;;;;;;;;;;x
+PROV674;Derbent;;;;;;;;;;;;;x
+PROV676;Kakheti;;;;;;;;;;;;;x
+PROV677;Guria;;;;;;;;;;;;;x
+PROV678;Trabzon;;;;;;;;;;;;;x
+PROV680;Tao;;;;;;;;;;;;;x
+PROV681;Ani;;;;;;;;;;;;;x
+PROV682;Vaspurakan;;;;;;;;;;;;;x
+PROV683;Amida;;;;;;;;;;;;;x
+PROV686;Urmia;;;;;;;;;;;;;x
+PROV688;Kermanshah;;;;;;;;;;;;;x
+PROV693;Baghdad;;;;;;;;;;;;;x
+PROV694;Karbala;;;;;;;;;;;;;x
+PROV697;Mosul;;;;;;;;;;;;;x
+PROV699;Edessa;;;;;;;;;;;;;x
+PROV706;Shebinkarahisar;;;;;;;;;;;;;x
+PROV707;Melitene;;;;;;;;;;;;;x
+PROV711;Sinjar;;;;;;;;;;;;;x
+PROV721;Tabuk;;;;;;;;;;;;;x
+PROV730;Palmyra;;;;;;;;;;;;;x
+PROV732;Hama;;;;;;;;;;;;;x
+PROV764;Antioch;;;;;;;;;;;;;x
+PROV766;Tartus;;;;;;;;;;;;;x
+PROV770;Beirut;;;;;;;;;;;;;x
+PROV772;Acre;;;;;;;;;;;;;x
+PROV773;Tiberias;;;;;;;;;;;;;x
+PROV775;Jaffa;;;;;;;;;;;;;x
+PROV777;Kerak;;;;;;;;;;;;;x
+PROV778;Montreal;;;;;;;;;;;;;x
+PROV780;Ashkelon;;;;;;;;;;;;;x
+PROV783;Ma’an;;;;;;;;;;;;;x
+PROV787;Arish;;;;;;;;;;;;;x
+PROV792;Nubia;;;;;;;;;;;;;x
+PROV794;Aswan;;;;;;;;;;;;;x
+PROV795;Asyut;;;;;;;;;;;;;x
+PROV796;Cairo;;;;;;;;;;;;;x
+PROV809;Sirte;;;;;;;;;;;;;x
+PROV810;Leptis Magna;;;;;;;;;;;;;x
+PROV811;Tripolitania;;;;;;;;;;;;;x
+PROV813;Djerba;;;;;;;;;;;;;x
+PROV814;Gabès;;;;;;;;;;;;;x
+PROV815;Kairouan;;;;;;;;;;;;;x
+PROV826;Minorca;;;;;;;;;;;;;x
+PROV827;Majorca;;;;;;;;;;;;;x
+PROV848;Bremen;;;;;;;;;;;;;x
+PROV850;Kandalaksha;;;;;;;;;;;;;x
+PROV855;Al Mahrah;;;;;;;;;;;;;x
+PROV858;Aden;;;;;;;;;;;;;x
+PROV859;Taiz;;;;;;;;;;;;;x
+PROV860;Sana’a;;;;;;;;;;;;;x
+PROV861;‘Asir;;;;;;;;;;;;;x
+PROV864;Ha’il;;;;;;;;;;;;;x
+PROV867;Duqm;;;;;;;;;;;;;x
+PROV871;Bosaso;;;;;;;;;;;;;x
+PROV872;Berbera;;;;;;;;;;;;;x
+PROV874;Tadjoura;;;;;;;;;;;;;x
+PROV875;Axum;;;;;;;;;;;;;x
+PROV877;Kassala;;;;;;;;;;;;;x
+PROV879;Atbara;;;;;;;;;;;;;x
+PROV880;Sennar;;;;;;;;;;;;;x
+PROV881;Asosa;;;;;;;;;;;;;x
+PROV910;Siberia;;;;;;;;;;;;;x
+christian;Christian;;;;;;;;;;;;;x
+catholic;Catholic;;;;;;;;;;;;;x
+orthodox;Orthodox;;;;;;;;;;;;;x
+muslim;Muslim;;;;;;;;;;;;;x
+sunni;Sunni;;;;;;;;;;;;;x
+shiite;Shi‘ite;;;;;;;;;;;;;x
+pagan_group;Pagan;;;;;;;;;;;;;x
+pagan;Pagan;;;;;;;;;;;;;x
+cathar;Cathar;;;;;;;;;;;;;x
+fraticelli;Fraticelli;;;;;;;;;;;;;x
+lollard;Lollard;;;;;;;;;;;;;x
+waldensian;Waldensian;;;;;;;;;;;;;x
+bogomilist;Bogomil;;;;;;;;;;;;;x
+iconoclast;Iconoclast;;;;;;;;;;;;;x
+monophysite;Monophysite;;;;;;;;;;;;;x
+zikri;Zikri;;;;;;;;;;;;;x
+yazidi;Yazidi;;;;;;;;;;;;;x
+ibadi;Ibadi;;;;;;;;;;;;;x
+druze;Druze;;;;;;;;;;;;;x
+hurufi;Hurufi;;;;;;;;;;;;;x
+tengri_pagan;Tengrist;;;;;;;;;;;;;x
+baltic_pagan;Baltic;;;;;;;;;;;;;x
+zoroastrian;Zoroastrian;;;;;;;;;;;;;x
+BM_NORMAN_CONQUEST;William the Conqueror;;;;;;;;;;;;;x
+BM_NORMAN_CONQUEST_DESC;Victorious at the hard-fought Battle of Hastings, William, Duke of Normandy, has proclaimed himself King of England. Displaced Saxon lords rage against the French-speaking usurpers as fief after fief is given to William’s loyal followers. In Anatolia, the Seljuq Turks under the great sultan Alp Arslan are about to invade the Byzantine Empire in a struggle that will determine the fate of Asia Minor…;;;;;;;;;;;;;x
+BM_THIRD_CRUSADE;The Third Crusade;;;;;;;;;;;;;x
+BM_THIRD_CRUSADE_DESC;Jerusalem has fallen to the forces of the great infidel, Saladin, but Henry II of England, Philip II of France, and Holy Roman Emperor Frederick “Barbarossa” have, in their righteous zeal, ended their petty disputes and stand ready to march against the Moor in the most powerful Crusade yet… Deus Vult!;;;;;;;;;;;;;x
+BM_100_YEARS_WAR;The Hundred Years’ War;;;;;;;;;;;;;x
+BM_100_YEARS_WAR_DESC;The death of French King Charles IV in 1328 with no immediate heir triggered a succession dispute that would last for over a hundred years. Edward III of England was the closest living male heir, but the French nobility, balking at the prospect of a foreign king, claimed the line could not pass through a woman, and crowned another pretender – Philip. Nine years later, war broke out…;;;;;;;;;;;;;x
+job_chancellor;Chancellor;;;;;;;;;;;;;x
+job_marshal;Marshal;;;;;;;;;;;;;x
+job_treasurer;Steward;;;;;;;;;;;;;x
+job_spymaster;Spymaster;;;;;;;;;;;;;x
+title_regent;Regent;;;;;;;;;;;;;x
+title_queen_mother;Queen Mother;;;;;;;;;;;;;x
+emperor_title_queen_mother_female;Empress Dowager;;;;;;;;;;;;;x
+emperor_title_queen_mother_female_german;Empress;;;;;;;;;;;;;x
+title_prince;Prince;;;;;;;;;;;;;x
+title_prince_iranian;Shahzada;;;;;;;;;;;;;x
+title_prince_female;Princess;;;;;;;;;;;;;x
+title_prince_female_iranian;Shahdokht;;;;;;;;;;;;;x
+title_court_jester;Court Jester;;;;;;;;;;;;;x
+title_keeper_of_swans;Keeper of the Swans;;;;;;;;;;;;;x
+title_keeper_of_swans_desc;With swan meat being without doubt the finest meat available from either beast or fowl, the need to ensure a steady supply of swans is important. The post of Keeper of the Swans carries a certain amount of prestige.;;;;;;;;;;;;;x
+title_master_of_the_horse;Master of the Horse;;;;;;;;;;;;;x
+title_master_of_the_hunt;Master of the Hunt;;;;;;;;;;;;;x
+title_high_almoner;High Almoner;;;;;;;;;;;;;x
+title_cupbearer;Cup-bearer;;;;;;;;;;;;;x
+title_cupbearer_desc;Poison is always a danger, so being entrusted with serving drinks is a great honor.;;;;;;;;;;;;;x
+title_seneschal;Seneschal;;;;;;;;;;;;;x
+title_paramount_knight;Paramount Knight;;;;;;;;;;;;;x
+title_paramount_knight_desc;This paragon of chivalric virtue is the envy of the realm – every man wants to be like him and sees his friends as their friends.;;;;;;;;;;;;;x
+title_despot;Despot;;;;;;;;;;;;;x
+title_despot_desc;Despot is the highest honorary title in the Byzantine Empire, second only to the Emperor. It can only be granted to close relatives, traditionally the oldest son.;;;;;;;;;;;;;x
+title_sebastokrator;Sebastokrator;;;;;;;;;;;;;x
+title_sebastokrator_desc;The title of sebastokrator was created as an even higher honor than that of “Caesar.” It can only be granted to close relatives of the Emperor.;;;;;;;;;;;;;x
+title_caesar;Caesar;;;;;;;;;;;;;x
+title_caesar_desc;Originally the highest honor in the Roman Empire, the title of Caesar can now be awarded to anyone.;;;;;;;;;;;;;x
+title_kouropalates;Curopalate;;;;;;;;;;;;;x
+title_kouropalates_desc;Curopalate – “the one in charge of the palace” – is a very prestigious title in the Byzantine Empire.;;;;;;;;;;;;;x
+title_anthypatos;Anthypatos;;;;;;;;;;;;;x
+title_anthypatos_desc;Anthypatos is Greek for proconsul. However, the office no longer denotes a provincial governor and is purely honorary.;;;;;;;;;;;;;x
+d_mamluks;Mamluks;;;;;;;;;;;;;x
+d_mamluks_adj;Mamluk;;;;;;;;;;;;;x
+title_court_jester_desc;The court jester is kept around to provide general entertainment to the court. Also known as a fool, it is generally not considered to be the most prestigious office at court.;;;;;;;;;;;;;x
+title_master_of_the_horse_desc;This office dates all the way back to the Roman Republic, and, in this era where a horse is a symbol of power, it is still very important. Although the master of the horse delegates the actual day-to-day running of the stables, much of the prestige of this office comes from the responsibility for the stud.;;;;;;;;;;;;;x
+title_master_of_the_hunt_desc;In an era when hunting was an opportunity to demonstrate horsemanship and martial prowess, the hunt was serious business. The master of the hunt was a position of importance.;;;;;;;;;;;;;x
+title_high_almoner_desc;The handing out of alms was an integral part of rulership and religious observance. The one responsible for this task is a very important personage.;;;;;;;;;;;;;x
+title_seneschal_desc;Originally responsible for the organization of feasts and domestic entertainment. Although left mainly in the hands of deputies, the key role at such major occasions makes the post prestigious.;;;;;;;;;;;;;x
+desc_job_chancellor;The §Y$JOB$§! is your advisor on matters of diplomacy. The position is traditionally considered the highest on the council.;;;;;;;;;;;;;x
+desc_job_marshal;The §Y$JOB$§! is the councillor in charge of the military. When the ruler cannot or will not command armies, the §Y$JOB$§! will do it.;;;;;;;;;;;;;x
+desc_job_treasurer;The §Y$JOB$§! helps you collect taxes and administer your demesne.;;;;;;;;;;;;;x
+desc_job_spymaster;§Y$JOB$§! is an unofficial position on the council. The office holder is responsible for all matters of intrigue and skullduggery.;;;;;;;;;;;;;x
+desc_job_spiritual;The §Y$JOB$§! is your personal advisor on matters of the faith, but does not necessarily have to belong to the clergy.;;;;;;;;;;;;;x
+job_spiritual_pagan_group;Chief Diviner;;;;;;;;;;;;;x
+job_spiritual_christian;Court Chaplain;;;;;;;;;;;;;x
+job_chancellor_arabic;Grand Vizier;;;;;;;;;;;;;x
+c_carcassonne_adj;Carcassonne;;;;;;;;;;;;;x
+e_timurids;Timurids;;;;;;;;;;;;;x
+e_timurids_adj;Timurid;;;;;;;;;;;;;x
+ct_university_1;University;;;;;;;;;;;;;x
+ct_university_2;University;;;;;;;;;;;;;x
+ct_university_3;University;;;;;;;;;;;;;x
+tp_school_1;Monastic School;;;;;;;;;;;;;x
+tp_school_2;Cathedral School;;;;;;;;;;;;;x
+ca_town_1;Castle Town;;;;;;;;;;;;;x
+ca_town_2;Castle Town;;;;;;;;;;;;;x
+ca_town_3;Castle Town;;;;;;;;;;;;;x
+ca_town_4;Castle Town;;;;;;;;;;;;;x
+ca_town_5;Castle Town;;;;;;;;;;;;;x
+ca_town_6;Castle Town;;;;;;;;;;;;;x
+tp_barracks_1;Militia Quarters;;;;;;;;;;;;;x
+tp_barracks_2;Militia Quarters;;;;;;;;;;;;;x
+tp_barracks_3;Militia Quarters;;;;;;;;;;;;;x
+tp_barracks_4;Militia Quarters;;;;;;;;;;;;;x
+tp_barracks_5;Militia Quarters;;;;;;;;;;;;;x
+tp_barracks_6;Militia Quarters;;;;;;;;;;;;;x
+PROV27;Dorset;;;;;;;;;;;;;x
+PROV28;Somerset;;;;;;;;;;;;;x
+PROV260;Mecklenburg;;;;;;;;;;;;;x
+d_mecklemburg;Mecklenburg;;;;;;;;;;;;;x
+d_mecklemburg_adj;Mecklenburgian;;;;;;;;;;;;;x
+c_mecklemburg_adj;Mecklenburgian;;;;;;;;;;;;;x
+d_pommerania;Pomerania;;;;;;;;;;;;;x
+d_pommerania_adj;Pomeranian;;;;;;;;;;;;;x
+e_il-khanate_adj;Mongol;;;;;;;;;;;;;x
+d_ghilman;Ghilman;;;;;;;;;;;;;x
+d_ghilman_adj;Ghilman;;;;;;;;;;;;;x
+d_maghreb_corsairs;Maghreb Navy;;;;;;;;;;;;;x
+d_maghreb_corsairs_adj;Maghreb;;;;;;;;;;;;;x
+k_aquitaine;Aquitaine;;;;;;;;;;;;;x
+k_aquitaine_adj;Aquitainian;;;;;;;;;;;;;x
+job_spiritual;Court Chaplain;;;;;;;;;;;;;x
+d_connacht_adj;Connacht;;;;;;;;;;;;;x
+d_leinster_adj;Leinster;;;;;;;;;;;;;x
+d_munster_adj;Munster;;;;;;;;;;;;;x
+d_ulster_adj;Ulster;;;;;;;;;;;;;x
+d_gelre_adj;Guelders;;;;;;;;;;;;;x
+d_ryazan_adj;Ryazan;;;;;;;;;;;;;x
+d_dauphine_adj;Dauphiné;;;;;;;;;;;;;x
+d_valois_adj;Valois;;;;;;;;;;;;;x
+d_abbasid_adj;Abbasid;;;;;;;;;;;;;x
+title_food_taster;Food Taster;;;;;;;;;;;;;x
+title_food_taster_desc;Food tasters have the dubious pleasure of trying all dishes before their master has a bite…;;;;;;;;;;;;;x
+title_court_calligrapher;Court Calligrapher;;;;;;;;;;;;;x
+title_court_calligrapher_desc;Islamic suspicion of figurative art makes skilled calligraphers highly respected.;;;;;;;;;;;;;x
+title_court_musician;Court Musician;;;;;;;;;;;;;x
+title_court_musician_desc;The court musician is always ready to entertain with soothing or stirring music.;;;;;;;;;;;;;x
+title_court_poet;Court Poet;;;;;;;;;;;;;x
+title_court_poet_desc;Islamic poets enjoy a great deal of respect and prestige, often religious, but sometimes pushing the limits of what is acceptable under Islam.;;;;;;;;;;;;;x
+title_chief_architect;Chief Architect;;;;;;;;;;;;;x
+title_chief_architect_desc;The Chief Architect is responsible for designing and overseeing the construction of palaces, mosques and grand monuments.;;;;;;;;;;;;;x
+title_chief_qadi;Chief Qadi;;;;;;;;;;;;;x
+title_chief_qadi_desc;The chief qadi is the supreme judge and authority of the law (sharia) in the realm. The most prestigious of all Muslim honorary titles, it is only open to characters with a proper religious education.;;;;;;;;;;;;;x
+title_court_dwarf;Court Dwarf;;;;;;;;;;;;;x
+title_court_dwarf_desc;Dwarves are objects of fascination and curiosity. Having one at court is a matter of prestige.;;;;;;;;;;;;;x
+job_spiritual_muslim;Court Imam;;;;;;;;;;;;;x
+job_spiritual_shiite;Court Mullah;;;;;;;;;;;;;x
+job_chancellor_turkish;Grand Vizier;;;;;;;;;;;;;x
+e_arabia;Arabia;;;;;;;;;;;;;x
+e_arabia_adj;Arabian;;;;;;;;;;;;;x
+west_african;West African;;;;;;;;;;;;;x
+manden;Mandé;;;;;;;;;;;;;x
+empire;Empire;;;;;;;;;;;;;x
+kingdom;Kingdom;;;;;;;;;;;;;x
+duchy;Duchy;;;;;;;;;;;;;x
+county;County;;;;;;;;;;;;;x
+barony;Barony;;;;;;;;;;;;;x
+city_empire;Principality;;;;;;;;;;;;;x
+city_kingdom;Most Serene Republic;;;;;;;;;;;;;x
+city_duchy;Republic;;;;;;;;;;;;;x
+city_county;Grand City;;;;;;;;;;;;;x
+city_barony;City;;;;;;;;;;;;;x
+temple_kingdom_catholic;Theocracy;;;;;;;;;;;;;x
+temple_kingdom_orthodox;Patriarchate;;;;;;;;;;;;;x
+temple_kingdom_muslim;Caliphate;;;;;;;;;;;;;x
+temple_kingdom_pagan_group;Theocracy;;;;;;;;;;;;;x
+temple_duchy_christian;Prince-Archbishopric;;;;;;;;;;;;;x
+temple_duchy_muslim;Theocracy;;;;;;;;;;;;;x
+temple_duchy_pagan_group;Theocracy;;;;;;;;;;;;;x
+temple_county_christian;Prince-Bishopric;;;;;;;;;;;;;x
+temple_county_muslim;Sheikhdom;;;;;;;;;;;;;x
+temple_county_pagan_group;Theocracy;;;;;;;;;;;;;x
+temple_barony_christian;Bishopric;;;;;;;;;;;;;x
+temple_barony_muslim;Mosque;;;;;;;;;;;;;x
+temple_barony_pagan_group;Temple;;;;;;;;;;;;;x
+empire_altaic;Khanate;;;;;;;;;;;;;x
+kingdom_altaic;Khanate;;;;;;;;;;;;;x
+barony_arabic;Wilayah;;;;;;;;;;;;;x
+county_arabic;Sheikhdom;;;;;;;;;;;;;x
+kingdom_arabic;Sultanate;;;;;;;;;;;;;x
+barony_turkish;Timar;;;;;;;;;;;;;x
+county_turkish;Beylik;;;;;;;;;;;;;x
+duchy_turkish;State;;;;;;;;;;;;;x
+kingdom_turkish;Sultanate;;;;;;;;;;;;;x
+county_mongol;Chiefdom;;;;;;;;;;;;;x
+duchy_mongol;High Chiefdom;;;;;;;;;;;;;x
+baron_west_african;Wâli;;;;;;;;;;;;;x
+barony_of_west_african;Wilayah of;;;;;;;;;;;;;x
+barony_west_african;Wilayah;;;;;;;;;;;;;x
+count_west_african;Farin;;;;;;;;;;;;;x
+count_female_west_african;Farina;;;;;;;;;;;;;x
+county_of_west_african;Sheikhdom of;;;;;;;;;;;;;x
+county_west_african;Sheikhdom;;;;;;;;;;;;;x
+duke_west_african;Farba;;;;;;;;;;;;;x
+duke_female_west_african;Farba;;;;;;;;;;;;;x
+duchy_of_west_african;Emirate of;;;;;;;;;;;;;x
+duchy_west_african;Emirate;;;;;;;;;;;;;x
+king_west_african;Mansa;;;;;;;;;;;;;x
+king_female_west_african;Sultana;;;;;;;;;;;;;x
+kingdom_of_west_african;Sultanate of;;;;;;;;;;;;;x
+kingdom_west_african;Sultanate;;;;;;;;;;;;;x
+d_sunni;Sunni Caliphate;;;;;;;;;;;;;x
+d_sunni_adj;Caliphal;;;;;;;;;;;;;x
+d_armenia_minor_adj_armenian;Armenian;;;;;;;;;;;;;x
+e_abyssinia;Abyssinia;;;;;;;;;;;;;x
+e_abyssinia_adj;Abyssinian;;;;;;;;;;;;;x
+d_timbuktu;Timbuktu;;;;;;;;;;;;;x
+d_latium;Latium;;;;;;;;;;;;;x
+d_latium_adj;Latin;;;;;;;;;;;;;x
+c_tadmor_adj;Al-Sukhnah;;;;;;;;;;;;;x
+c_syria_adj;Bosra;;;;;;;;;;;;;x
+c_euphrates_adj;Samarran;;;;;;;;;;;;;x
+c_tus_adj;Tus;;;;;;;;;;;;;x
+c_aukshayts_adj;Vilnian;;;;;;;;;;;;;x
+c_byzantion_adj;Constantinopolitan;;;;;;;;;;;;;x
+duke_female_iranian;Emira;;;;;;;;;;;;;x
+count_female_iranian;Shaykhah;;;;;;;;;;;;;x
+baron_female_iranian;Wâlia;;;;;;;;;;;;;x
+count_female_arabic;Shaykhah;;;;;;;;;;;;;x
+baron_female_arabic;Wâlia;;;;;;;;;;;;;x
+king_female_turkish;Sultana;;;;;;;;;;;;;x
+duke_female_turkish;Beylerbayan;;;;;;;;;;;;;x
+count_female_turkish;Bayan;;;;;;;;;;;;;x
+baron_female_turkish;Timariota;;;;;;;;;;;;;x
+job_chancellor_west_african;Grand Vizier;;;;;;;;;;;;;x
+emperor_arabic;Padishah;;;;;;;;;;;;;x
+BM_KOMNENOS_DYNASTY;The Alexiad;;;;;;;;;;;;;x
+BM_KOMNENOS_DYNASTY_DESC;After a series of devastating losses to invading Turkish forces, the Byzantine Empire is reeling. But there is hope – the great general Alexios Komnenos has just seized the throne from the corrupt Nikephoros III. Alexios – whose life was documented by his daughter Anna in the “Alexiad” – and his successors would halt the decline of the Empire and push back the Turkish invaders from western Anatolia, buying more time for the ailing remnants of the old Roman Empire. For now, Anatolia is ruled by Suleiman, a member of the Seljuq dynasty, who arrogantly calls his new state the “Sultanate of Rum” (Rome).;;;;;;;;;;;;;x
+e_roman_empire;Roman Empire;;;;;;;;;;;;;x
+e_roman_empire_adj;Roman;;;;;;;;;;;;;x
+RETTYPE_INF1;Shock;;;;;;;;;;;;;x
+RETTYPE_INF2;Defense;;;;;;;;;;;;;x
+RETTYPE_CAV1;Cavalry;;;;;;;;;;;;;x
+RETTYPE_SKIR1;Skirmish;;;;;;;;;;;;;x
+RETTYPE_CUL_W_AFR;Free Warrior;;;;;;;;;;;;;x
+c_orava_adj;Zvolen;;;;;;;;;;;;;x
+monothelite;Monothelite;;;;;;;;;;;;;x
+d_miaphysite;Coptic Papacy;;;;;;;;;;;;;x
+d_miaphysite_adj;Coptic Papal;;;;;;;;;;;;;x
+d_monophysite;Monophysite Papacy;;;;;;;;;;;;;x
+d_monophysite_adj;Monophysite Papal;;;;;;;;;;;;;x
+d_nestorian;Patriarchate of the Church of the East;;;;;;;;;;;;;x
+d_nestorian_adj;Eastern Patriarchal;;;;;;;;;;;;;x
+d_monothelite;Monothelite Patriarchate;;;;;;;;;;;;;x
+d_monothelite_adj;Monothelite Patriarchal;;;;;;;;;;;;;x
+king_iranian;Shah;;;;;;;;;;;;;x
+kingdom_of_iranian;Shahdom of;;;;;;;;;;;;;x
+family_palace_baron;Patrician;;;;;;;;;;;;;x
+family_palace_baron_female;Lady;;;;;;;;;;;;;x
+family_palace_barony_of;Palace of;;;;;;;;;;;;;x
+fp_mansion_1;Mansion;;;;;;;;;;;;;x
+fp_mansion_2;Great Mansion;;;;;;;;;;;;;x
+fp_mansion_3;Palace;;;;;;;;;;;;;x
+fp_mansion_4;Grand Palace;;;;;;;;;;;;;x
+fp_barracks_1;Guard Barracks;;;;;;;;;;;;;x
+fp_barracks_2;Swordsmith;;;;;;;;;;;;;x
+fp_barracks_3;Armory;;;;;;;;;;;;;x
+fp_stable_1;Small Stable;;;;;;;;;;;;;x
+fp_stable_2;Riding Grounds;;;;;;;;;;;;;x
+fp_stable_3;Horse Breeder;;;;;;;;;;;;;x
+fp_bowyer_1;Bowyer;;;;;;;;;;;;;x
+fp_bowyer_2;Target Range;;;;;;;;;;;;;x
+fp_bowyer_3;Crossbow Workshop;;;;;;;;;;;;;x
+fp_shipyard_1;Map Room;;;;;;;;;;;;;x
+fp_shipyard_2;Private Shipyard;;;;;;;;;;;;;x
+fp_shipyard_3;Naval Arsenal;;;;;;;;;;;;;x
+fp_warehouse_1;Military Warehouse;;;;;;;;;;;;;x
+fp_warehouse_2;Palace Archive;;;;;;;;;;;;;x
+fp_warehouse_3;Administrative Office;;;;;;;;;;;;;x
+fp_garden_1;Palace Garden;;;;;;;;;;;;;x
+fp_garden_2;Scenic Pond;;;;;;;;;;;;;x
+fp_garden_3;Hedge Maze;;;;;;;;;;;;;x
+fp_cellar_1;Wine Cellar;;;;;;;;;;;;;x
+fp_cellar_2;Catacombs;;;;;;;;;;;;;x
+fp_cellar_3;Dungeon Complex;;;;;;;;;;;;;x
+fp_shrine_1;Secluded Shrine;;;;;;;;;;;;;x
+fp_shrine_2;Private Art Collection;;;;;;;;;;;;;x
+fp_shrine_3;Grand Library;;;;;;;;;;;;;x
+fp_vault_1;Fortified Vault;;;;;;;;;;;;;x
+fp_vault_2;Secret Passages;;;;;;;;;;;;;x
+fp_vault_3;Hidden Chamber;;;;;;;;;;;;;x
+fp_mansion_1_desc;This mansion has belonged to this family for generations, and although it may not look very impressive, it has all the comforts of home.;;;;;;;;;;;;;x
+fp_mansion_2_desc;This mansion is impressive enough to command the respect of the surrounding countryside. It is clearly the home of someone important.;;;;;;;;;;;;;x
+fp_mansion_3_desc;A palace fit for a king, its shining towers can be seen from a league away on a clear day. Though it may only consist of brick and mortar, it is the beating heart of this entire dynasty.;;;;;;;;;;;;;x
+fp_mansion_4_desc;Truly, the splendor of this palace would be the envy of a Roman emperor. Its great halls shine of gold and marble, and hundreds of servants scurry through them daily in service of their masters. It is nothing less than a monument to the greatness of this dynasty.;;;;;;;;;;;;;x
+fp_barracks_1_desc;The dynasty’s household guards are lodged within these simple barracks. They are crowded and unsanitary, but provide decent protection against the elements.;;;;;;;;;;;;;x
+fp_barracks_2_desc;An industrious swordsmith has opened up a forge in the palace courtyard. This will make it easier to equip new recruits with weapons.;;;;;;;;;;;;;x
+fp_barracks_3_desc;A large armory has been constructed in a corner of the palace courtyard. It holds enough weapons and armor to equip a small army at a moment’s notice.;;;;;;;;;;;;;x
+fp_stable_1_desc;This small stable just outside the palace walls reeks of hay and manure. It holds the horses of the guard, as well as those of any visitors.;;;;;;;;;;;;;x
+fp_stable_2_desc;Several large fields just outside the palace have been graciously “donated” by local farmers and set aside as riding grounds. Here the fighting men can practise the art of war on horseback.;;;;;;;;;;;;;x
+fp_stable_3_desc;A horse breeder has set up shop in the vicinity of the palace. The large pens can hold hundreds of animals, and ensure a steady supply of mounts for forces raised locally.;;;;;;;;;;;;;x
+fp_bowyer_1_desc;A skilled bowyer has set up his small workshop inside the palace courtyard. Here he can make new bows or repair broken ones as needed.;;;;;;;;;;;;;x
+fp_bowyer_2_desc;This target range lets the men practice their archery. There are several targets positioned at different distances, but as yet, no one has managed to split another’s arrow.;;;;;;;;;;;;;x
+fp_bowyer_3_desc;The crossbow is a marvelous invention. Though it can’t be fired as quickly as a longbow, it requires little training to use effectively. This workshop ensures a steady supply of these deadly weapons.;;;;;;;;;;;;;x
+fp_shipyard_1_desc;This room inside the palace is a cartographer’s dream, and contains priceless maps of all sorts. Some are claimed to date back to the ancient Greeks, and others, whose accuracy cannot be gauged with any certainty, depict strange lands far to the east.;;;;;;;;;;;;;x
+fp_shipyard_2_desc;This large shipyard is located along the coast, but it has been reserved for exclusive use by this dynasty. Skilled shipwrights stand ready to build trade galleys.;;;;;;;;;;;;;x
+fp_shipyard_3_desc;This naval arsenal is located in the capital, but it is completely owned by this dynasty which has reserved all use of it for itself. It is a huge complex that has everything needed to assemble and man an entire fleet.;;;;;;;;;;;;;x
+fp_warehouse_1_desc;A large warehouse containing all the supplies necessary to field a military force, whether it be an army or a fleet.;;;;;;;;;;;;;x
+fp_warehouse_2_desc;It is easy to get lost in this colossal archive housed entirely within the palace. It holds documents and records of all dynastic assets, from ships and buildings down to individual soldiers and clerks.;;;;;;;;;;;;;x
+fp_warehouse_3_desc;This office deep within the palace acts as the nerve center of the entire dynastic empire. Here clerks and officials oversee the day-to-day affairs of trade negotiations and fleet deployments.;;;;;;;;;;;;;x
+fp_garden_1_desc;A large and impressive garden filled with the manifold wonders of nature. This tranquil environment is ideal for moments of quiet reflection.;;;;;;;;;;;;;x
+fp_garden_2_desc;This scenic pond, often frequented by swans, is the centerpiece of the palace garden. A small fountain in its middle sprays water into the air while carps can be glimpsed just beneath the surface.;;;;;;;;;;;;;x
+fp_garden_3_desc;No self-respecting garden is complete without one. This intricate hedge maze delights visitors, and many dignitaries have spent hours navigating its twisting paths.;;;;;;;;;;;;;x
+fp_cellar_1_desc;A well-stocked wine cellar is an absolute must for any aristocrat of rank, and this one certainly doesn’t disappoint. Some of the wines stored here date back decades.;;;;;;;;;;;;;x
+fp_cellar_2_desc;These catacombs located far beneath the palace contain the dynastic tombs. Here countless generations dating back centuries are joined in eternal slumber. May they rest in peace.;;;;;;;;;;;;;x
+fp_cellar_3_desc;This vast complex of dungeons is hidden away deep enough below the palace to block the cries of its unfortunate inhabitants. Every imaginable instrument of torture can be found within these cold and dark chambers.;;;;;;;;;;;;;x
+fp_shrine_1_desc;A secluded shrine hidden away in a quiet wing of the palace. Here men and women can spend their time in prayer and introspective soul-searching.;;;;;;;;;;;;;x
+fp_shrine_2_desc;This gallery occupies a large chamber in one of the palace wings, and it contains all works of art accumulated by members of this dynasty over the years – from contemporary tapestries to ancient marble sculptures from Greece and Rome.;;;;;;;;;;;;;x
+fp_shrine_3_desc;A huge library containing all sorts of dusty old tomes collected and purchased from all over the known world by members of this dynasty. They are in many different languages and no person alive has read them all, but at least here they will be protected for posterity.;;;;;;;;;;;;;x
+fp_vault_1_desc;This fortified vault deep within the palace is where the dynasty keeps all of their treasures collected over the years. Only the head of the dynasty has access to the vault keys, but the stories of piles upon piles of golden coins, deep enough for a man to dive around in like a porpoise, or burrow through like a gopher, must surely be false.;;;;;;;;;;;;;x
+fp_vault_2_desc;These secret passages run through the entire palace, and enable those in the know to quickly move from one end to the other without being seen. By pulling on the right candelabrum, an unassuming bookshelf or a lit fireplace might slide open. Perfect for escaping would-be assassins or awkward social gatherings.;;;;;;;;;;;;;x
+fp_vault_3_desc;This hidden chamber inside the palace can only be reached through one of the secret passages, and even then several special keys are required. It serves as a well-protected retreat for the head of the dynasty, where he or she can safely plot the conquest of the world without irritating distractions.;;;;;;;;;;;;;x
+tr_port_1;Merchant Port;;;;;;;;;;;;;x
+tr_port_2;Merchant Port;;;;;;;;;;;;;x
+tr_port_3;Merchant Port;;;;;;;;;;;;;x
+tr_enclave_1;Merchant Enclave;;;;;;;;;;;;;x
+tr_enclave_2;Merchant Enclave;;;;;;;;;;;;;x
+tr_enclave_3;Merchant Enclave;;;;;;;;;;;;;x
+tr_garrison_1;Garrison;;;;;;;;;;;;;x
+tr_garrison_2;Garrison;;;;;;;;;;;;;x
+tr_garrison_3;Garrison;;;;;;;;;;;;;x
+tr_port_1_desc;Merchant galleys load and off-load their cargo at this small port.;;;;;;;;;;;;;x
+tr_port_2_desc;Merchant galleys load and off-load their cargo aided by a simple wooden harbor crane at this port.;;;;;;;;;;;;;x
+tr_port_3_desc;Merchant galleys load and off-load their cargo aided by several wooden harbor cranes at this bustling port.;;;;;;;;;;;;;x
+tr_enclave_1_desc;A small enclave of expatriates from the republic has established itself in this foreign land to conduct trade.;;;;;;;;;;;;;x
+tr_enclave_2_desc;An enclave of expatriates from the republic has established itself in this foreign land to conduct trade.;;;;;;;;;;;;;x
+tr_enclave_3_desc;A large enclave of expatriates from the republic has established itself in this foreign land to conduct trade.;;;;;;;;;;;;;x
+tr_garrison_1_desc;A small garrison stands vigil over the trade post to deter bandits and rival trade powers.;;;;;;;;;;;;;x
+tr_garrison_2_desc;A garrison stands vigil over the trade post to deter bandits and rival trade powers.;;;;;;;;;;;;;x
+tr_garrison_3_desc;A large garrison stands vigil over the trade post to deter bandits and rival trade powers.;;;;;;;;;;;;;x
+title_state_inquisitor;State Inquisitor;;;;;;;;;;;;;x
+title_state_inquisitor_desc;The three State Inquisitors are charged with ensuring the security of the Republic against threats both internal and external.;;;;;;;;;;;;;x
+title_high_admiral;High Admiral;;;;;;;;;;;;;x
+title_high_admiral_desc;The High Admiral is formally the chief of the Admiralty and in charge of the Republic’s Navy, though he often relies on a competent staff.;;;;;;;;;;;;;x
+title_high_judge;High Judge;;;;;;;;;;;;;x
+title_high_judge_desc;The High Judge is the supreme justice of the Republic, who answers only to the Council in most legal matters.;;;;;;;;;;;;;x
+city_king;Prince Mayor;;;;;;;;;;;;;x
+city_duke;Grand Mayor;;;;;;;;;;;;;x
+ca_wall_q_1_desc;This shallow moat surrounding the castle provides another obstacle for attackers to overcome.;;;;;;;;;;;;;x
+ca_wall_q_2_desc;These narrow slits allow the defenders to rain down arrows on any attacker without being hit in turn.;;;;;;;;;;;;;x
+ca_wall_q_3_desc;A fortified portcullis that can quickly be raised or lowered as the situation demands.;;;;;;;;;;;;;x
+ca_wall_q_4_desc;A deep moat filled with unsanitary water. A formidable obstacle for any attacker.;;;;;;;;;;;;;x
+ca_wall_q_5_desc;This outer network of barbicans ensures that attackers come under fire before they can even approach the main walls.;;;;;;;;;;;;;x
+ca_wall_1_desc;A simple palisade to keep out riff-raff, but it will not delay a determined attacker for very long.;;;;;;;;;;;;;x
+ca_wall_2_desc;These low walls provide some protection, but they can still easily be scaled.;;;;;;;;;;;;;x
+ca_wall_3_desc;These stone walls surround the castle and must be overcome by any attacker.;;;;;;;;;;;;;x
+ca_wall_4_desc;These large walls surround the castle and must be overcome by any attacker.;;;;;;;;;;;;;x
+ca_wall_5_desc;These massive walls surround the castle and must be overcome by any attacker.;;;;;;;;;;;;;x
+ca_keep_1_desc;This keep serves as the fortified residence of the castle’s inhabitants.;;;;;;;;;;;;;x
+ca_militia_barracks_1_desc;This simple training ground readies the peasants for war.;;;;;;;;;;;;;x
+ca_militia_barracks_2_desc;An archery range where the levies can master the art of the bow.;;;;;;;;;;;;;x
+ca_militia_barracks_3_desc;An expanded archery range where the levies can master the art of the bow.;;;;;;;;;;;;;x
+ca_barracks_1_desc;These quarters are the home of the castle’s levies.;;;;;;;;;;;;;x
+ca_stable_1_desc;This stable just outside the castle walls houses all the steeds of the levy.;;;;;;;;;;;;;x
+ca_town_1_desc;A small village has formed around the castle, as local peasants flock to its walls for protection.;;;;;;;;;;;;;x
+ca_town_2_desc;A town has formed around the castle, as local peasants flock to its walls for protection.;;;;;;;;;;;;;x
+ca_town_3_desc;A city has formed around the castle, as local peasants flock to its walls for protection.;;;;;;;;;;;;;x
+ca_town_4_desc;The small village that once surrounded this castle has turned into a large city, with thousands of inhabitants calling it their home.;;;;;;;;;;;;;x
+ca_town_5_desc;The small village that once surrounded this castle has turned into a bustling metropolis, with thousands of inhabitants calling it their home.;;;;;;;;;;;;;x
+ct_wall_q_1_desc;This shallow moat surrounding the city provides another obstacle for attackers to overcome.;;;;;;;;;;;;;x
+ct_wall_q_2_desc;This gatehouse defends the entrance to the city, and makes it easier to control who comes in and who leaves.;;;;;;;;;;;;;x
+ct_wall_3_desc;These stone walls surround the city and must be overcome by any attacker.;;;;;;;;;;;;;x
+ct_wall_4_desc;These large walls surround the city and must be overcome by any attacker.;;;;;;;;;;;;;x
+ct_wall_5_desc;These massive walls surround the city and must be overcome by any attacker.;;;;;;;;;;;;;x
+ct_training_grounds_1_desc;The city militia assembles here to train and arm itself.;;;;;;;;;;;;;x
+ct_barracks_2_desc;This range lets the city inhabitants practice their archery and provides skilled bowmen for the militia.;;;;;;;;;;;;;x
+ct_guard_1_desc;The city guard are headquartered here, constantly on watch for those who would break the law or upset the peace.;;;;;;;;;;;;;x
+ct_marketplace_1_desc;A small market in the center of town where merchants peddle their wares.;;;;;;;;;;;;;x
+ct_marketplace_2_desc;This is where the city’s guilds meet and organize their activities.;;;;;;;;;;;;;x
+ct_marketplace_3_desc;Toll booths provide a welcome boost to any city’s income, as traveling merchants are forced to part with some of their wealth while passing through.;;;;;;;;;;;;;x
+ct_marketplace_4_desc;Legal disputes in the city are adjudicated here, ensuring that trade and commerce continues to flow as smoothly as possible.;;;;;;;;;;;;;x
+ct_marketplace_5_desc;Assay offices test the purity of precious metals, and the assayer provides those certified as pure with a master’s mark as proof of their quality. This helps to promote fair and honest trade.;;;;;;;;;;;;;x
+ct_marketplace_6_desc;These fairgrounds are large enough to host a magnificent fair, bringing in traders and entertainers from all over the realm.;;;;;;;;;;;;;x
+ct_port_1_desc;A port that services ships coming in to load or unload cargo.;;;;;;;;;;;;;x
+ct_university_1_desc;A place of higher learning for those with influence enough to gain admission.;;;;;;;;;;;;;x
+tp_wall_q_1_desc;This shallow moat surrounding the church provides another obstacle for attackers to overcome.;;;;;;;;;;;;;x
+tp_wall_q_2_desc;This gatehouse defends the entrance to the church, and makes it easier to control who comes in and who leaves.;;;;;;;;;;;;;x
+tp_wall_3_desc;These stone walls surround the church and must be overcome by any attacker.;;;;;;;;;;;;;x
+tp_wall_4_desc;These large walls surround the church and must be overcome by any attacker.;;;;;;;;;;;;;x
+tp_wall_5_desc;These massive walls surround the church and must be overcome by any attacker.;;;;;;;;;;;;;x
+tp_monastery_1_desc;This church serves as the spiritual center of the local community.;;;;;;;;;;;;;x
+tp_monastery_2_desc;People from across the realm come here to visit this impressive cathedral. It serves as a major landmark, and its spires can be seen from far away.;;;;;;;;;;;;;x
+tp_barracks_1_desc;When necessary, peasants from the local farms are conscripted into the church militia and stationed here.;;;;;;;;;;;;;x
+tp_elite_barracks_1_desc;These holy warriors have sworn to defend this church with their lives.;;;;;;;;;;;;;x
+tp_town_1_desc;This small village of faithful peasants has formed around the church.;;;;;;;;;;;;;x
+tp_town_2_desc;This town of faithful peasants has formed around the church.;;;;;;;;;;;;;x
+tp_town_3_desc;This large town of faithful peasants has formed around the church.;;;;;;;;;;;;;x
+tp_town_4_desc;The small village that once surrounded this church has turned into a large city, with thousands of inhabitants calling it their home.;;;;;;;;;;;;;x
+tp_town_5_desc;The small village that once surrounded this church has turned into a bustling metropolis, with thousands of inhabitants calling it their home.;;;;;;;;;;;;;x
+tp_school_1_desc;This school teaches many subjects and is a rare center of high learning, but the students enrolled here primarily study to prepare themselves for future careers in the clergy. No girls allowed.;;;;;;;;;;;;;x
+d_venetian_navy;Adriatic Galleys;;;;;;;;;;;;;x
+d_venetian_navy_adj;Adriatic;;;;;;;;;;;;;x
+d_genoese_navy;Ligurian Galleys;;;;;;;;;;;;;x
+d_genoese_navy_adj;Ligurian;;;;;;;;;;;;;x
+d_hanseatic_navy;Baltic Cogs;;;;;;;;;;;;;x
+d_hanseatic_navy_adj;Baltic;;;;;;;;;;;;;x
+d_frisian_navy;North Sea Cogs;;;;;;;;;;;;;x
+d_frisian_navy_adj;North Sea;;;;;;;;;;;;;x
+d_finnish_band;Finnish Band;;;;;;;;;;;;;x
+d_finnish_band_adj;Finnish;;;;;;;;;;;;;x
+d_lithuanian_band;Lithuanian Band;;;;;;;;;;;;;x
+d_lithuanian_band_adj;Lithuanian;;;;;;;;;;;;;x
+d_abyssinian_band;Abyssinian Band;;;;;;;;;;;;;x
+d_abyssinian_band_adj;Abyssinian;;;;;;;;;;;;;x
+d_scottish_band;Scottish Band;;;;;;;;;;;;;x
+d_scottish_band_adj;Scottish;;;;;;;;;;;;;x
+d_irish_band;Irish Band;;;;;;;;;;;;;x
+d_irish_band_adj;Irish;;;;;;;;;;;;;x
+d_alan_band;Alan Riders;;;;;;;;;;;;;x
+d_alan_band_adj;Alan;;;;;;;;;;;;;x
+d_nubian_band;Nubian Band;;;;;;;;;;;;;x
+d_nubian_band_adj;Nubian;;;;;;;;;;;;;x
+k_genoa;Genoa;;;;;;;;;;;;;x
+k_genoa_adj;Genoese;;;;;;;;;;;;;x
+k_pisa;Pisa;;;;;;;;;;;;;x
+k_pisa_adj;Pisan;;;;;;;;;;;;;x
+d_somerset_adj_norman;Somerset;;;;;;;;;;;;;x
+d_bedford_adj_norman;Bedford;;;;;;;;;;;;;x
+d_hereford_adj_norman;Herefordian;;;;;;;;;;;;;x
+d_norfolk_adj_norman;Norfolkian;;;;;;;;;;;;;x
+d_gloucester_adj_norman;Gloucester;;;;;;;;;;;;;x
+d_gloucester_adj_english;Gloucester;;;;;;;;;;;;;x
+title_patrician_heir;Designated Heir;;;;;;;;;;;;;x
+title_patrician_heir_desc;This character has been chosen to succeed a patrician in running the family business.;;;;;;;;;;;;;x
+title_tanist;Tanist;;;;;;;;;;;;;x
+ca_con_wall_6;Theodosian Walls;;;;;;;;;;;;;x
+ca_con_wall_6_desc;The Theodosian Walls were built during the reign of Emperor Theodosius II in the early 5th century, but they still remain some of the most formidable fortifications ever built by human hands.;;;;;;;;;;;;;x
+ct_rep_arsenal_1_desc;A small collection of shipyards and armories centered around the docks of the Republic’s capital.;;;;;;;;;;;;;x
+ct_rep_arsenal_1;Arsenal;;;;;;;;;;;;;x
+ct_rep_arsenal_2;Arsenal;;;;;;;;;;;;;x
+ct_rep_arsenal_3;Arsenal;;;;;;;;;;;;;x
+ct_rep_arsenal_2_desc;A heavily fortified collection of shipyards and armories centered around the docks of the Republic’s capital.;;;;;;;;;;;;;x
+ct_rep_arsenal_3_desc;This heavily fortified collection of shipyards and armories is nothing less than an industrial complex centered around the docks of the Republic’s capital.;;;;;;;;;;;;;x
+k_hansa;Hansa;;;;;;;;;;;;;x
+k_hansa_adj;Hanseatic;;;;;;;;;;;;;x
+city_kingdom_german;League;;;;;;;;;;;;;x
+ca_shipyard_1;Castle Shipyard;;;;;;;;;;;;;x
+ca_shipyard_2;Castle Shipyard;;;;;;;;;;;;;x
+ca_shipyard_3;Castle Shipyard;;;;;;;;;;;;;x
+ca_shipyard_4;Castle Shipyard;;;;;;;;;;;;;x
+ct_shipyard_1;City Shipyard;;;;;;;;;;;;;x
+ct_shipyard_2;City Shipyard;;;;;;;;;;;;;x
+ct_shipyard_3;City Shipyard;;;;;;;;;;;;;x
+ct_shipyard_4;City Shipyard;;;;;;;;;;;;;x
+tp_shipyard_1;Temple Shipyard;;;;;;;;;;;;;x
+tp_shipyard_2;Temple Shipyard;;;;;;;;;;;;;x
+tp_shipyard_3;Temple Shipyard;;;;;;;;;;;;;x
+tp_shipyard_4;Temple Shipyard;;;;;;;;;;;;;x
+shipyard_desc;Skilled shipwrights are hard at work here, building all sorts of seafaring vessels.;;;;;;;;;;;;;x
+d_norse_pagan_reformed;Fylkirate;;;;;;;;;;;;;x
+d_norse_pagan_reformed_adj;Norse;;;;;;;;;;;;;x
+d_baltic_pagan_reformed;Romuvan Church;;;;;;;;;;;;;x
+d_baltic_pagan_reformed_adj;Romuvan;;;;;;;;;;;;;x
+d_slavic_pagan_reformed;Slavic Church;;;;;;;;;;;;;x
+d_slavic_pagan_reformed_adj;Slavic;;;;;;;;;;;;;x
+d_tengri_pagan_reformed;Tengrist Church;;;;;;;;;;;;;x
+d_tengri_pagan_reformed_adj;Tengrist;;;;;;;;;;;;;x
+d_finnish_pagan_reformed;Suomenusko Church;;;;;;;;;;;;;x
+d_finnish_pagan_reformed_adj;Suomenusko;;;;;;;;;;;;;x
+d_west_african_pagan_reformed;West African Church;;;;;;;;;;;;;x
+d_west_african_pagan_reformed_adj;West African;;;;;;;;;;;;;x
+e_wendish_empire;Wendish Empire;;;;;;;;;;;;;x
+e_wendish_empire_adj;Wendish;;;;;;;;;;;;;x
+d_pecs_adj_bohemian;Lower Pannonian;;;;;;;;;;;;;x
+c_pecs_adj_bohemian;Balaton;;;;;;;;;;;;;x
+d_ungvar_adj_croatian;White Croatian;;;;;;;;;;;;;x
+k_asturias;Asturias;;;;;;;;;;;;;x
+k_asturias_adj;Asturian;;;;;;;;;;;;;x
+d_vyatichi;Vyatichi;;;;;;;;;;;;;x
+d_vyatichi_adj;Vyatich;;;;;;;;;;;;;x
+d_brandenburg_adj_pommeranian;Brandenburgian;;;;;;;;;;;;;x
+d_mecklemburg_adj_pommeranian;;;;;;;;;;;;;;x
+title_courtesan;Concubine;;;;;;;;;;;;;x
+k_magyar_adj;Hungarian;;;;;;;;;;;;;x
+d_dregovichi;Dregovichs;;;;;;;;;;;;;x
+d_radimichi;Radimichs;;;;;;;;;;;;;x
+c_viken_adj_norse;Alfheim;;;;;;;;;;;;;x
+d_zoroastrian;Zoroastrian Church;;;;;;;;;;;;;x
+d_zoroastrian_adj;Zoroastrian;;;;;;;;;;;;;x
+d_novgorod_adj_norse;;;;;;;;;;;;;;x
+d_novgorod_adj_swedish;;;;;;;;;;;;;;x
+d_novgorod_adj_danish;;;;;;;;;;;;;;x
+d_novgorod_adj_norwegian;;;;;;;;;;;;;;x
+d_kiev_adj_norse;;;;;;;;;;;;;;x
+d_kiev_adj_swedish;;;;;;;;;;;;;;x
+d_kiev_adj_danish;;;;;;;;;;;;;;x
+d_kiev_adj_norwegian;;;;;;;;;;;;;;x
+k_ruthenia_adj_norse;;;;;;;;;;;;;;x
+k_ruthenia_adj_swedish;;;;;;;;;;;;;;x
+k_ruthenia_adj_danish;;;;;;;;;;;;;;x
+k_ruthenia_adj_norwegian;;;;;;;;;;;;;;x
+tengri_pagan_reformed;Tengrist;;;;;;;;;;;;;x
+baltic_pagan_reformed;Romuvan;;;;;;;;;;;;;x
+aztec_reformed;Aztec;;;;;;;;;;;;;x
+west_african_pagan;West African;;;;;;;;;;;;;x
+west_african_pagan_reformed;West African;;;;;;;;;;;;;x
+baron_norse_pagan_reformed;Thegn;;;;;;;;;;;;;x
+baron_norse;Thegn;;;;;;;;;;;;;x
+manichean;Manichean;;;;;;;;;;;;;x
+mazdaki;Mazdakite;;;;;;;;;;;;;x
+job_spiritual_norse_pagan;Seer;;;;;;;;;;;;;x
+job_spiritual_norse_pagan_reformed;Seer;;;;;;;;;;;;;x
+job_spiritual_female_norse_pagan;Seeress;;;;;;;;;;;;;x
+job_spiritual_female_norse_pagan_reformed;Seeress;;;;;;;;;;;;;x
+temple_baron_norse_pagan_reformed;Gothi;;;;;;;;;;;;;x
+temple_baron_female_norse_pagan;Gyðya;;;;;;;;;;;;;x
+temple_baron_female_norse_pagan_reformed;Gyðya;;;;;;;;;;;;;x
+temple_count_norse_pagan;Seiðmaðr;;;;;;;;;;;;;x
+temple_count_norse_pagan_reformed;Seiðmaðr;;;;;;;;;;;;;x
+temple_count_female_norse_pagan;Völva;;;;;;;;;;;;;x
+temple_count_female_norse_pagan_reformed;Völva;;;;;;;;;;;;;x
+temple_baron_female_pagan_group;Priestess;;;;;;;;;;;;;x
+job_spiritual_zoroastrian_group;Mobed;;;;;;;;;;;;;x
+temple_baron_zoroastrian;Herbad;;;;;;;;;;;;;x
+temple_barony_zoroastrian;Verethragna;;;;;;;;;;;;;x
+temple_barony_of_zoroastrian;Verethragna of;;;;;;;;;;;;;x
+temple_baron_zoroastrian_group;Herbad;;;;;;;;;;;;;x
+temple_barony_zoroastrian_group;Verethragna;;;;;;;;;;;;;x
+temple_barony_of_zoroastrian_group;Verethragna of;;;;;;;;;;;;;x
+king_female_iranian;Banbishn;;;;;;;;;;;;;x
+baron_iranian;Argbed;;;;;;;;;;;;;x
+barony_iranian;Arg;;;;;;;;;;;;;x
+barony_of_iranian;Arg of;;;;;;;;;;;;;x
+count_iranian;Marzban;;;;;;;;;;;;;x
+county_of_iranian;Marzpanate of;;;;;;;;;;;;;x
+duke_iranian;Satrap;;;;;;;;;;;;;x
+duchy_of_iranian;Satrapy of;;;;;;;;;;;;;x
+county_iranian;Marzpanate;;;;;;;;;;;;;x
+duchy_iranian;Satrapy;;;;;;;;;;;;;x
+kingdom_iranian;Shahdom;;;;;;;;;;;;;x
+avar;Avar;;;;;;;;;;;;;x
+c_lepiel_adj;Lepel;;;;;;;;;;;;;x
+c_yaroslavl_adj_finno_ugric;Meryan;;;;;;;;;;;;;x
+d_slesvig_adj_german;;;;;;;;;;;;;;x
+d_meath_adj_north_germanic;Dublin;;;;;;;;;;;;;x
+d_danes;Denmark;;;;;;;;;;;;;x
+d_danes_adj;Danish;;;;;;;;;;;;;x
+d_sweden;Swedes;;;;;;;;;;;;;x
+d_sweden_adj;Swedish;;;;;;;;;;;;;x
+d_geats;Götaland;;;;;;;;;;;;;x
+d_geats_adj;Geatish;;;;;;;;;;;;;x
+d_meryas;Merya;;;;;;;;;;;;;x
+d_meryas_adj;Meryan;;;;;;;;;;;;;x
+d_meshcheras;Meshchera;;;;;;;;;;;;;x
+d_meshcheras_adj;Meshchera;;;;;;;;;;;;;x
+d_muromians;Muromians;;;;;;;;;;;;;x
+d_muromians_adj;Muromian;;;;;;;;;;;;;x
+d_sami;Lapps;;;;;;;;;;;;;x
+d_sami_adj;Lappish;;;;;;;;;;;;;x
+c_nizhny_novgorod_adj_finno_ugric;Obran Osh;;;;;;;;;;;;;x
+c_nizhny_novgorod_adj_altaic;Obran Osh;;;;;;;;;;;;;x
+d_leinster_adj_north_germanic;Wexford;;;;;;;;;;;;;x
+c_leinster_adj_north_germanic;;;;;;;;;;;;;;x
+d_munster_adj_north_germanic;Limerick;;;;;;;;;;;;;x
+c_thomond_adj_north_germanic;Limerick;;;;;;;;;;;;;x
+c_ormond_adj_north_germanic;;;;;;;;;;;;;;x
+c_ulster_adj_north_germanic;Strangford;;;;;;;;;;;;;x
+d_ulster_adj_north_germanic;Strangford;;;;;;;;;;;;;x
+bolghar;Bulgar;;;;;;;;;;;;;x
+ca_wall_q_1;Castle Fortifications;;;;;;;;;;;;;x
+ca_wall_q_2;Castle Fortifications;;;;;;;;;;;;;x
+ca_wall_q_3;Castle Fortifications;;;;;;;;;;;;;x
+ca_wall_q_4;Castle Fortifications;;;;;;;;;;;;;x
+ca_wall_q_5;Castle Fortifications;;;;;;;;;;;;;x
+ca_wall_1;Castle Walls;;;;;;;;;;;;;x
+ca_wall_2;Castle Walls;;;;;;;;;;;;;x
+ca_wall_3;Castle Walls;;;;;;;;;;;;;x
+ca_wall_4;Castle Walls;;;;;;;;;;;;;x
+ca_wall_5;Castle Walls;;;;;;;;;;;;;x
+ca_barracks_1;Barracks;;;;;;;;;;;;;x
+ca_barracks_2;Barracks;;;;;;;;;;;;;x
+ca_barracks_3;Barracks;;;;;;;;;;;;;x
+ca_barracks_4;Barracks;;;;;;;;;;;;;x
+ca_barracks_5;Barracks;;;;;;;;;;;;;x
+ca_barracks_6;Barracks;;;;;;;;;;;;;x
+ca_stable_1;Stables;;;;;;;;;;;;;x
+ca_stable_2;Stables;;;;;;;;;;;;;x
+ca_stable_3;Stables;;;;;;;;;;;;;x
+ca_stable_4;Stables;;;;;;;;;;;;;x
+ca_stable_5;Stables;;;;;;;;;;;;;x
+ca_stable_6;Stables;;;;;;;;;;;;;x
+ct_wall_q_1;City Fortifications;;;;;;;;;;;;;x
+ct_wall_q_2;City Fortifications;;;;;;;;;;;;;x
+ct_wall_q_3;City Fortifications;;;;;;;;;;;;;x
+ct_wall_q_4;City Fortifications;;;;;;;;;;;;;x
+ct_wall_q_5;City Fortifications;;;;;;;;;;;;;x
+ct_wall_1;City Walls;;;;;;;;;;;;;x
+ct_wall_2;City Walls;;;;;;;;;;;;;x
+ct_wall_3;City Walls;;;;;;;;;;;;;x
+ct_wall_4;City Walls;;;;;;;;;;;;;x
+ct_wall_5;City Walls;;;;;;;;;;;;;x
+ct_training_grounds_1;Militia Training Ground;;;;;;;;;;;;;x
+ct_training_grounds_2;Militia Training Ground;;;;;;;;;;;;;x
+ct_training_grounds_3;Militia Training Ground;;;;;;;;;;;;;x
+ct_training_grounds_4;Militia Training Ground;;;;;;;;;;;;;x
+ct_training_grounds_5;Militia Training Ground;;;;;;;;;;;;;x
+ct_training_grounds_6;Militia Training Ground;;;;;;;;;;;;;x
+ct_guard_1;City Guard;;;;;;;;;;;;;x
+ct_guard_2;City Guard;;;;;;;;;;;;;x
+ct_guard_3;City Guard;;;;;;;;;;;;;x
+ct_guard_4;City Guard;;;;;;;;;;;;;x
+ct_guard_5;City Guard;;;;;;;;;;;;;x
+ct_barracks_1;Mustering Grounds;;;;;;;;;;;;;x
+ct_barracks_2;Mustering Grounds;;;;;;;;;;;;;x
+ct_barracks_3;Mustering Grounds;;;;;;;;;;;;;x
+ct_barracks_4;Mustering Grounds;;;;;;;;;;;;;x
+ct_barracks_5;Mustering Grounds;;;;;;;;;;;;;x
+ct_barracks_6;Mustering Grounds;;;;;;;;;;;;;x
+ct_port_1;Port;;;;;;;;;;;;;x
+ct_port_2;Port;;;;;;;;;;;;;x
+ct_port_3;Port;;;;;;;;;;;;;x
+ct_port_4;Port;;;;;;;;;;;;;x
+ct_port_5;Port;;;;;;;;;;;;;x
+tp_wall_q_1;Church Fortifications;;;;;;;;;;;;;x
+tp_wall_q_2;Church Fortifications;;;;;;;;;;;;;x
+tp_wall_q_3;Church Fortifications;;;;;;;;;;;;;x
+tp_wall_q_4;Church Fortifications;;;;;;;;;;;;;x
+tp_wall_q_5;Church Fortifications;;;;;;;;;;;;;x
+tp_wall_1;Church Walls;;;;;;;;;;;;;x
+tp_wall_2;Church Walls;;;;;;;;;;;;;x
+tp_wall_3;Church Walls;;;;;;;;;;;;;x
+tp_wall_4;Church Walls;;;;;;;;;;;;;x
+tp_wall_5;Church Walls;;;;;;;;;;;;;x
+tp_elite_barracks_1;Barracks;;;;;;;;;;;;;x
+tp_elite_barracks_2;Barracks;;;;;;;;;;;;;x
+tp_elite_barracks_3;Barracks;;;;;;;;;;;;;x
+tp_elite_barracks_4;Barracks;;;;;;;;;;;;;x
+tp_elite_barracks_5;Barracks;;;;;;;;;;;;;x
+tp_elite_barracks_6;Barracks;;;;;;;;;;;;;x
+title_volva;Court Völva;;;;;;;;;;;;;x
+title_volva_desc;A völva is regarded as a powerful seeress that practises seiðr, a form of sorcery. Among other things, she deals with curses, premonitions and omens of things to come.;;;;;;;;;;;;;x
+e_mongol_empire_adj;Mongol;;;;;;;;;;;;;x
+BM_RISE_OF_THE_HANSA;Rise of the Hansa;;;;;;;;;;;;;x
+BM_RISE_OF_THE_HANSA_DESC;The burghers of the Free Imperial Cities of Lübeck and Hamburg in northern Germany have just formed a trade alliance that will eventually become known as the Hanseatic League. Meanwhile, the terrible Mongol horde has swept like a scythe through Eastern Europe, effortlessly mowing down all opposition. As even the Holy Roman Emperor Frederick II cowers in fear, the great invasion suddenly comes to an inexplicable halt as both Batu Khan of the Golden Horde and Hulagu Khan of the Ilkhanate return to Karakorum to elect a new Great Khan.;;;;;;;;;;;;;x
+title_cherbi;Cherbi;;;;;;;;;;;;;x
+title_cherbi_desc;The Cherbi is the leader of the Kheshig, the imperial guard of the Mongol Empire. They are charged with the protection of the empire’s most important nobility, and the position as their commander is a very prestigious one.;;;;;;;;;;;;;x
+title_darkhan;Darkhan;;;;;;;;;;;;;x
+title_darkhan_desc;Darkhan is a prestigious Mongolian title bestowed by the Khan upon those who have served him exceptionally well. Genghis Khan awarded this title to those allies who aided him during his rise to power.;;;;;;;;;;;;;x
+title_noyan;Noyan;;;;;;;;;;;;;x
+title_noyan_desc;This title was originally granted to Mongolian battlefield commanders, but as they were awarded conquered land to administrate, it came to represent a form of higher nobility.;;;;;;;;;;;;;x
+title_baghatur;Baghatur;;;;;;;;;;;;;x
+title_baghatur_desc;This honorific, which means hero or valiant warrior, is the rough equivalent of European knighthood. It is usually granted only to those who have truly distinguished themselves in battle.;;;;;;;;;;;;;x
+title_lawspeaker;Lawspeaker;;;;;;;;;;;;;x
+title_lawspeaker_desc;The lawspeaker memorizes the law of the realm and serves as its highest judicator. Needless to say, this comes with a great amount of prestige and responsibility.;;;;;;;;;;;;;x
+title_drottseti;Dróttseti;;;;;;;;;;;;;x
+title_drottseti_desc;The dróttseti serves as a steward of the realm in a function similar to a seneschal, and it is considered to be a very prestigious post.;;;;;;;;;;;;;x
+title_court_skald;Court Skald;;;;;;;;;;;;;x
+title_court_skald_desc;Skaldic poetry is a greatly respected art, and the court skald is regarded as the realm’s foremost expert on verse and prose. The skald is ultimately responsible for chronicling the ruler’s deeds for posterity.;;;;;;;;;;;;;x
+title_marksman;Merkismaðr;;;;;;;;;;;;;x
+title_marksman_desc;The merkismaðr (literally meaning marksman), has the honor of serving as the standard-bearer.;;;;;;;;;;;;;x
+title_hirdman;Hirdman;;;;;;;;;;;;;x
+title_hirdman_desc;The hirdmen are seen as the ruler’s trusted companions in arms, and the holders of this title command a great deal of respect.;;;;;;;;;;;;;x
+title_shahrwaraz;Shahrbaraz;;;;;;;;;;;;;x
+title_shahrwaraz_desc;The Shahrbaraz, the Boar of the Empire, is a prestigious honorary title dating back to the Sasanians. In Zoroastrianism, the boar is closely associated with the Yazata Verethragna, the epitome of victory. This honorific can only be bestowed upon those with exceptional martial ability.;;;;;;;;;;;;;x
+title_kardarigan;Kardarigan;;;;;;;;;;;;;x
+title_kardarigan_desc;This honorific means black hawk and was granted to several gifted Sasanian generals for their achievements on the field of battle. It can only be bestowed upon those with exceptional martial ability.;;;;;;;;;;;;;x
+title_shahin;Shahin;;;;;;;;;;;;;x
+title_shahin_desc;This honorific means falcon and was granted to several gifted Sasanian generals for their achievements on the field of battle. It can only be bestowed upon those with exceptional martial ability.;;;;;;;;;;;;;x
+title_pushtigban_salar;Pushtigban-salar;;;;;;;;;;;;;x
+title_pushtigban_salar_desc;The pushtigban-salar is the appointed commander of the royal guard, and as such, commands a significant amount of respect.;;;;;;;;;;;;;x
+title_spahbod;Spahbed;;;;;;;;;;;;;x
+title_spahbod_desc;This title, roughly meaning army chief, can be traced all the way back to the Achaemenid Empire, and during the Sasanian reign there were four spahbeds assigned to the corners of the Persian realm. It remains a prestigious military office.;;;;;;;;;;;;;x
+title_eran_ambaragbed;Eran-embaragbed;;;;;;;;;;;;;x
+title_eran_ambaragbed_desc;As the minister of the magazines, it is the responsibility of the eran-ambaragbed to see to the arms and armaments of the realm’s warriors.;;;;;;;;;;;;;x
+job_chancellor_zoroastrian_group;Astabadh;;;;;;;;;;;;;x
+job_marshal_zoroastrian_group;Eran-Spahbed;;;;;;;;;;;;;x
+job_treasurer_zoroastrian_group;Chamberlain;;;;;;;;;;;;;x
+d_jomsvikings;Jomsvikings;;;;;;;;;;;;;x
+d_jomsvikings_adj;Jomsviking;;;;;;;;;;;;;x
+title_champion;Champion;;;;;;;;;;;;;x
+title_champion_desc;The person that this title is bestowed upon is considered to be the Champion of the Realm. There is surely no greater honor for mortal men to aspire to.;;;;;;;;;;;;;x
+title_master_of_the_blade;Master of the Blade;;;;;;;;;;;;;x
+title_master_of_the_blade_desc;The Master of the Blade is a prestigious honorific usually granted to those with demonstrated ability in swordsmanship.;;;;;;;;;;;;;x
+title_master_of_the_bow;Master of the Bow;;;;;;;;;;;;;x
+title_master_of_the_bow_desc;The Master of the Bow is a prestigious honorific usually granted to those with demonstrated ability in bowmanship.;;;;;;;;;;;;;x
+title_venerable_elder;Venerable Elder;;;;;;;;;;;;;x
+title_venerable_elder_desc;This honorific can only be granted to those who have reached the age of fifty. Their wisdom and the sorely needed guidance they offer the younger generations is deserving of great respect.;;;;;;;;;;;;;x
+roman;Roman;;;;;;;;;;;;;x
+title_yabgu;Yabgu;;;;;;;;;;;;;x
+title_yabgu_desc;By tradition, the title of Yagbu is bestowed upon the second highest member of a ruling clan, often a brother of the Khan. It carries a great deal of respect.;;;;;;;;;;;;;x
+title_ishad;Ishad;;;;;;;;;;;;;x
+title_ishad_desc;Ishad is the title given to the highest ranking generals, and as such, it may be regarded as a mark of honor.;;;;;;;;;;;;;x
+title_kundur;Kündür;;;;;;;;;;;;;x
+title_kundur_desc;The Kündur is traditionally a high ranking official in the Khan’s court, and bestowing it on someone is a sign of approval.;;;;;;;;;;;;;x
+job_spymaster_greek;Mystikos;;;;;;;;;;;;;x
+job_spiritual_orthodox;Sacristan;;;;;;;;;;;;;x
+count_female_pagan_group;Chieftess;;;;;;;;;;;;;x
+d_meath_adj_irish;Tara;;;;;;;;;;;;;x
+d_ghanan_band;Ghanan Band;;;;;;;;;;;;;x
+d_ghanan_band_adj;Ghanan;;;;;;;;;;;;;x
+hellenic_pagan;Hellenic;;;;;;;;;;;;;x
+d_aztec_reformed;Aztec Church;;;;;;;;;;;;;x
+job_spiritual_hellenic_pagan;Diviner;;;;;;;;;;;;;x
+job_spiritual_pagan;Diviner;;;;;;;;;;;;;x
+job_spiritual_finnish_pagan;Diviner;;;;;;;;;;;;;x
+job_spiritual_finnish_pagan_reformed;Diviner;;;;;;;;;;;;;x
+job_spiritual_baltic_pagan;Diviner;;;;;;;;;;;;;x
+job_spiritual_baltic_pagan_reformed;Diviner;;;;;;;;;;;;;x
+job_spiritual_slavic_pagan;Diviner;;;;;;;;;;;;;x
+job_spiritual_slavic_pagan_reformed;Diviner;;;;;;;;;;;;;x
+job_spiritual_tengri_pagan;Diviner;;;;;;;;;;;;;x
+job_spiritual_tengri_pagan_reformed;Diviner;;;;;;;;;;;;;x
+job_spiritual_zoroastrian;Mobed;;;;;;;;;;;;;x
+ca_steppe_barracks_1;Steppe Warrior Lodge;;;;;;;;;;;;;x
+ca_steppe_barracks_2;Steppe Warrior Lodge;;;;;;;;;;;;;x
+ca_steppe_barracks_3;Steppe Warrior Lodge;;;;;;;;;;;;;x
+ca_steppe_barracks_4;Steppe Warrior Lodge;;;;;;;;;;;;;x
+ca_steppe_barracks_5;Steppe Warrior Lodge;;;;;;;;;;;;;x
+ca_steppe_barracks_6;Steppe Warrior Lodge;;;;;;;;;;;;;x
+ca_steppe_stable_1;Steppe Riding Grounds;;;;;;;;;;;;;x
+ca_steppe_stable_2;Steppe Riding Grounds;;;;;;;;;;;;;x
+ca_steppe_stable_3;Steppe Riding Grounds;;;;;;;;;;;;;x
+ca_steppe_stable_4;Steppe Riding Grounds;;;;;;;;;;;;;x
+ca_steppe_stable_5;Steppe Riding Grounds;;;;;;;;;;;;;x
+ca_steppe_stable_6;Steppe Riding Grounds;;;;;;;;;;;;;x
+ca_steppe_barracks_desc;The people of the steppes focus on horse warfare at the expense of foot soldiers, but the fighting men trained at this warrior lodge are more than capable of holding their own in battle.;;;;;;;;;;;;;x
+ca_steppe_stable_desc;The steppe is ideal for warfare on horseback, and the nomadic warrior cultures of these lands know to press this advantage. These riding grounds produce extra light cavalry and horse archers.;;;;;;;;;;;;;x
+city_job_chancellor_arabic;Grand Vizier;;;;;;;;;;;;;x
+city_job_chancellor_iranian;Grand Vizier;;;;;;;;;;;;;x
+city_job_chancellor_turkish;Grand Vizier;;;;;;;;;;;;;x
+city_job_chancellor_west_african;Grand Vizier;;;;;;;;;;;;;x
+city_job_chancellor_greek;Magistros;;;;;;;;;;;;;x
+city_job_spymaster_greek;Mystikos;;;;;;;;;;;;;x
+city_job_treasurer_greek;Sakellarios;;;;;;;;;;;;;x
+city_job_chancellor_aztec;Cihuacoatl;;;;;;;;;;;;;x
+city_job_treasurer_aztec;Petlacalcatl;;;;;;;;;;;;;x
+city_job_spiritual_aztec;Sahagún;;;;;;;;;;;;;x
+city_job_spymaster_aztec;Tillancalqui;;;;;;;;;;;;;x
+city_job_marshal_aztec;Tlacateccatl;;;;;;;;;;;;;x
+city_job_chancellor_zoroastrian_group;Astabadh;;;;;;;;;;;;;x
+city_job_treasurer_zoroastrian_group;Chamberlain;;;;;;;;;;;;;x
+city_job_marshal_zoroastrian_group;Eran-Spahbed;;;;;;;;;;;;;x
+city_job_spiritual_zoroastrian_group;Mobed;;;;;;;;;;;;;x
+city_job_spiritual_zoroastrian;Mobed;;;;;;;;;;;;;x
+city_job_spiritual_christian;Court Chaplain;;;;;;;;;;;;;x
+city_job_spiritual_orthodox;Sacristan;;;;;;;;;;;;;x
+city_job_spiritual_muslim;Court Imam;;;;;;;;;;;;;x
+city_job_spiritual_shiite;Court Mullah;;;;;;;;;;;;;x
+city_job_spiritual_pagan_group;Chief Diviner;;;;;;;;;;;;;x
+city_job_spiritual_pagan;Diviner;;;;;;;;;;;;;x
+city_job_spiritual_baltic_pagan;Diviner;;;;;;;;;;;;;x
+city_job_spiritual_baltic_pagan_reformed;Diviner;;;;;;;;;;;;;x
+city_job_spiritual_finnish_pagan;Diviner;;;;;;;;;;;;;x
+city_job_spiritual_finnish_pagan_reformed;Diviner;;;;;;;;;;;;;x
+city_job_spiritual_norse_pagan_reformed;Seer;;;;;;;;;;;;;x
+city_job_spiritual_norse_pagan;Seer;;;;;;;;;;;;;x
+city_job_spiritual_female_norse_pagan_reformed;Seeress;;;;;;;;;;;;;x
+city_job_spiritual_female_norse_pagan;Seeress;;;;;;;;;;;;;x
+city_job_spiritual_slavic_pagan;Diviner;;;;;;;;;;;;;x
+city_job_spiritual_slavic_pagan_reformed;Diviner;;;;;;;;;;;;;x
+city_job_spiritual_tengri_pagan;Diviner;;;;;;;;;;;;;x
+city_job_spiritual_tengri_pagan_reformed;Diviner;;;;;;;;;;;;;x
+jewish;Jewish;;;;;;;;;;;;;x
+samaritan;Samaritan;;;;;;;;;;;;;x
+karaite;Karaite;;;;;;;;;;;;;x
+k_israel;Israel;;;;;;;;;;;;;x
+k_israel_adj;Israelite;;;;;;;;;;;;;x
+d_jewish;Jewish High-Priesthood;;;;;;;;;;;;;x
+d_jewish_adj;Jewish;;;;;;;;;;;;;x
+d_bektashi;Bektashi Order;;;;;;;;;;;;;x
+d_bektashi_adj;Bektashi;;;;;;;;;;;;;x
+d_immortals;Immortals;;;;;;;;;;;;;x
+d_immortals_adj;Immortal;;;;;;;;;;;;;x
+d_zealots;Zealots;;;;;;;;;;;;;x
+d_zealots_adj;Zealot;;;;;;;;;;;;;x
+d_holy_sepulchre;Brotherhood of the Holy Sepulchre;;;;;;;;;;;;;x
+d_holy_sepulchre_adj;Brotherhood;;;;;;;;;;;;;x
+d_saint_anthony;Order of Saint Anthony;;;;;;;;;;;;;x
+d_saint_anthony_adj;Saint Anthony;;;;;;;;;;;;;x
+d_sky_lords;Lords of the Sky;;;;;;;;;;;;;x
+d_sky_lords_adj;Sky Lord;;;;;;;;;;;;;x
+d_spirit_guardians;Spirit Guardians;;;;;;;;;;;;;x
+d_spirit_guardians_adj;Guardian;;;;;;;;;;;;;x
+d_warriors_perun;Warriors of Perun;;;;;;;;;;;;;x
+d_warriors_perun_adj;Perun;;;;;;;;;;;;;x
+d_chosen_perkunas;Chosen of Perkunas;;;;;;;;;;;;;x
+d_chosen_perkunas_adj;Perkunas;;;;;;;;;;;;;x
+d_sons_kaleva;Sons of Kaleva;;;;;;;;;;;;;x
+d_sons_kaleva_adj;Kaleva;;;;;;;;;;;;;x
+d_huitzilopochtli;Cult of Huitzilopochtli;;;;;;;;;;;;;x
+d_huitzilopochtli_adj;Huitzilopochtli;;;;;;;;;;;;;x
+d_knights_santiago;Order of Santiago;;;;;;;;;;;;;x
+d_knights_santiago_adj;Santiago;;;;;;;;;;;;;x
+d_knights_calatrava;Order of Calatrava;;;;;;;;;;;;;x
+d_knights_calatrava_adj;Calatrava;;;;;;;;;;;;;x
+temple_barony_druze;Khalwa;;;;;;;;;;;;;x
+temple_barony_yazidi;Temple;;;;;;;;;;;;;x
+d_fraticelli;Fraticelli Papacy;;;;;;;;;;;;;x
+d_fraticelli_adj;Fraticelli Papal;;;;;;;;;;;;;x
+d_iconoclast;Iconoclast Patriarchate;;;;;;;;;;;;;x
+d_iconoclast_adj;Iconoclast Patriarchal;;;;;;;;;;;;;x
+d_yazidi;Yazidi Sheikhdom;;;;;;;;;;;;;x
+d_yazidi_adj;Yazidi;;;;;;;;;;;;;x
+d_ibadi;Ibadi Caliphate;;;;;;;;;;;;;x
+d_ibadi_adj;Ibadi Caliphal;;;;;;;;;;;;;x
+d_hurufi;Hurufi Skeikhdom;;;;;;;;;;;;;x
+d_hurufi_adj;Hurufi;;;;;;;;;;;;;x
+israelite;Israelite;;;;;;;;;;;;;x
+ca_culture_jewish_1;Jewish Heavy Infantry Barracks;;;;;;;;;;;;;x
+ca_culture_jewish_2;Jewish Heavy Infantry Barracks;;;;;;;;;;;;;x
+ca_culture_jewish_3;Jewish Heavy Infantry Barracks;;;;;;;;;;;;;x
+ca_culture_jewish_4;Jewish Heavy Infantry Barracks;;;;;;;;;;;;;x
+ca_culture_jewish_1_desc;This is where the elite infantry serving a Jewish ruler is trained. Special care is taken to equip the soldiers with the finest heavy armor that money can buy. This, combined with rigorous training and iron discipline, makes them an elite force to be truly feared.;;;;;;;;;;;;;x
+RETTYPE_CUL_JEWISH;Bar Kochba Guards;;;;;;;;;;;;;x
+hindu;Hindu;;;;;;;;;;;;;x
+buddhist;Buddhist;;;;;;;;;;;;;x
+jain;Jain;;;;;;;;;;;;;x
+baloch;Baloch;;;;;;;;;;;;;x
+indo_aryan_group;Indo-Aryan;;;;;;;;;;;;;x
+dravidian_group;Dravidian;;;;;;;;;;;;;x
+bengali;Bengali;;;;;;;;;;;;;x
+hindustani;Hindustani;;;;;;;;;;;;;x
+sindhi;Sindhi;;;;;;;;;;;;;x
+marathi;Marathi;;;;;;;;;;;;;x
+sinhala;Sinhalese;;;;;;;;;;;;;x
+telugu;Telugu;;;;;;;;;;;;;x
+kannada;Kannada;;;;;;;;;;;;;x
+tamil;Tamil;;;;;;;;;;;;;x
+gujurati;Gujarati;;;;;;;;;;;;;x
+panjabi;Punjabi;;;;;;;;;;;;;x
+rajput;Rajput;;;;;;;;;;;;;x
+oriya;Oriya;;;;;;;;;;;;;x
+assamese;Assamese;;;;;;;;;;;;;x
+d_followers_arjuna;Followers of Arjuna;;;;;;;;;;;;;x
+d_followers_arjuna_adj;Arjuna;;;;;;;;;;;;;x
+d_ashokas_chosen;Chosen of Ashoka;;;;;;;;;;;;;x
+d_ashokas_chosen_adj;Ashoka;;;;;;;;;;;;;x
+d_bulls_rishabha;Bulls of Rishabha;;;;;;;;;;;;;x
+d_bulls_rishabha_adj;Rishabha;;;;;;;;;;;;;x
+job_spiritual_indian_group;Upadhyay;;;;;;;;;;;;;x
+title_master_of_the_royal_elephants;Master of the Royal Elephants;;;;;;;;;;;;;x
+title_master_of_the_royal_elephants_desc;Great monarchs often employ units of war elephants in their army to great effect. But aside from that, the elephant also has great value as a symbol of stability, strength and perserverance. All this makes it very important to keep the ruler’s elephants in good health, and the position of Master of the Royal Elephants is a correspondingly prestigious one.;;;;;;;;;;;;;x
+title_royal_builder;Royal Builder;;;;;;;;;;;;;x
+title_royal_builder_desc;Powerful rulers will always be expanding their palaces and building new ones. The position of Royal Builder holds much prestige, though the holder need not actually have any architectural or engineering skills. It’s usually someone else doing the real work.;;;;;;;;;;;;;x
+title_court_poet_india;Court Poet;;;;;;;;;;;;;x
+title_court_poet_india_desc;Poetry is an art much respected in Indian culture, and thus the Court Poet has always been a position of prestige.;;;;;;;;;;;;;x
+ca_culture_indian_1;War Elephant Pens;;;;;;;;;;;;;x
+ca_culture_indian_2;War Elephant Pens;;;;;;;;;;;;;x
+ca_culture_indian_3;War Elephant Pens;;;;;;;;;;;;;x
+ca_culture_indian_4;War Elephant Pens;;;;;;;;;;;;;x
+ca_culture_indian_1_desc;This is where the fearsome war elephants are bred and trained.;;;;;;;;;;;;;x
+ca_culture_indian_2_desc;This is where the fearsome war elephants are bred and trained.;;;;;;;;;;;;;x
+ca_culture_indian_3_desc;This is where the fearsome war elephants are bred and trained.;;;;;;;;;;;;;x
+ca_culture_indian_4_desc;This is where the fearsome war elephants are bred and trained.;;;;;;;;;;;;;x
+RETTYPE_CUL_INDIAN;Steel Bow Infantry;;;;;;;;;;;;;x
+paulician;Paulician;;;;;;;;;;;;;x
+d_paulician;Paulician Patriarchate;;;;;;;;;;;;;x
+d_paulician_adj;Paulician;;;;;;;;;;;;;x
+messalian;Messalian;;;;;;;;;;;;;x
+d_saint_addai;Order of Saint Addai;;;;;;;;;;;;;x
+d_saint_addai_adj;Addai;;;;;;;;;;;;;x
+emperor_dravidian_group;Emperor;;;;;;;;;;;;;x
+emperor_female_dravidian_group;Empress;;;;;;;;;;;;;x
+king_dravidian_group;Maharaja;;;;;;;;;;;;;x
+king_female_dravidian_group;Maharani;;;;;;;;;;;;;x
+duke_dravidian_group;Raja;;;;;;;;;;;;;x
+duke_female_dravidian_group;Rani;;;;;;;;;;;;;x
+count_dravidian_group;Thakur;;;;;;;;;;;;;x
+count_female_dravidian_group;Thakurani;;;;;;;;;;;;;x
+baron_dravidian_group;Damapati;;;;;;;;;;;;;x
+baron_female_dravidian_group;Damapatni;;;;;;;;;;;;;x
+duchy_dravidian_group;Raj;;;;;;;;;;;;;x
+county_dravidian_group;Thikana;;;;;;;;;;;;;x
+barony_dravidian_group;Dama;;;;;;;;;;;;;x
+duchy_of_dravidian_group;Raj of;;;;;;;;;;;;;x
+county_of_dravidian_group;Thikana of;;;;;;;;;;;;;x
+barony_of_dravidian_group;Dama of;;;;;;;;;;;;;x
+emperor_indo_aryan_group;Emperor;;;;;;;;;;;;;x
+emperor_female_indo_aryan_group;Empress;;;;;;;;;;;;;x
+king_indo_aryan_group;Maharaja;;;;;;;;;;;;;x
+king_female_indo_aryan_group;Maharani;;;;;;;;;;;;;x
+duke_indo_aryan_group;Raja;;;;;;;;;;;;;x
+duke_female_indo_aryan_group;Rani;;;;;;;;;;;;;x
+count_indo_aryan_group;Thakur;;;;;;;;;;;;;x
+count_female_indo_aryan_group;Thakurani;;;;;;;;;;;;;x
+baron_indo_aryan_group;Damapati;;;;;;;;;;;;;x
+baron_female_indo_aryan_group;Damapatni;;;;;;;;;;;;;x
+title_prince_indo_aryan_group;Rajkumar;;;;;;;;;;;;;x
+title_prince_female_indo_aryan_group;Rajkumari;;;;;;;;;;;;;x
+duchy_indo_aryan_group;Raj;;;;;;;;;;;;;x
+county_indo_aryan_group;Thikana;;;;;;;;;;;;;x
+barony_indo_aryan_group;Dama;;;;;;;;;;;;;x
+duchy_of_indo_aryan_group;Raj of;;;;;;;;;;;;;x
+county_of_indo_aryan_group;Thikana of;;;;;;;;;;;;;x
+barony_of_indo_aryan_group;Dama of;;;;;;;;;;;;;x
+temple_kingdom_of_hindu;Temple of;;;;;;;;;;;;;x
+temple_kingdom_of_buddhist;Monastery of;;;;;;;;;;;;;x
+temple_kingdom_of_jain;Monastery of;;;;;;;;;;;;;x
+temple_duchy_of_hindu;Temple of;;;;;;;;;;;;;x
+temple_duchy_of_buddhist;Monastery of;;;;;;;;;;;;;x
+temple_duchy_of_jain;Monastery of;;;;;;;;;;;;;x
+temple_county_of_hindu;Temple of;;;;;;;;;;;;;x
+temple_county_of_buddhist;Monastery of;;;;;;;;;;;;;x
+temple_county_of_jain;Monastery of;;;;;;;;;;;;;x
+temple_county_of_indian_group;Theocracy of;;;;;;;;;;;;;x
+temple_duchy_of_indian_group;Theocracy of;;;;;;;;;;;;;x
+temple_kingdom_of_indian_group;Theocracy of;;;;;;;;;;;;;x
+temple_baron_hindu;Pujari;;;;;;;;;;;;;x
+temple_baron_buddhist;Bhikkhu;;;;;;;;;;;;;x
+temple_baron_jain;Monk;;;;;;;;;;;;;x
+temple_count_hindu;Pujari;;;;;;;;;;;;;x
+temple_count_buddhist;Bhikkhu;;;;;;;;;;;;;x
+temple_count_jain;Monk;;;;;;;;;;;;;x
+temple_duke_hindu;Pujari;;;;;;;;;;;;;x
+temple_duke_buddhist;Bhikkhu;;;;;;;;;;;;;x
+temple_duke_jain;Monk;;;;;;;;;;;;;x
+temple_king_hindu;Pujari;;;;;;;;;;;;;x
+temple_king_buddhist;Bhikkhu;;;;;;;;;;;;;x
+temple_king_jain;Monk;;;;;;;;;;;;;x
+title_guru;Court Guru;;;;;;;;;;;;;x
+title_guru_desc;A guru is a wise master or teacher, one who imparts wisdom, usually by giving oral instruction and advice. Having a respected guru residing at your court can be useful, giving you access to sage advice.;;;;;;;;;;;;;x
+e_india;India;;;;;;;;;;;;;x
+temple_barony_of_hindu;Temple of;;;;;;;;;;;;;x
+temple_barony_of_buddhist;Vihara of;;;;;;;;;;;;;x
+temple_barony_of_jain;Temple of;;;;;;;;;;;;;x
+temple_baron_west_african_pagan;Priest;;;;;;;;;;;;;x
+temple_baron_west_african_pagan_reformed;Priest;;;;;;;;;;;;;x
+temple_baron_female_west_african_pagan;Priestess;;;;;;;;;;;;;x
+temple_baron_female_west_african_pagan_reformed;Priestess;;;;;;;;;;;;;x
+temple_baron_jewish;Rabbi;;;;;;;;;;;;;x
+temple_baron_samaritan;Rabbi;;;;;;;;;;;;;x
+temple_baron_karaite;Rabbi;;;;;;;;;;;;;x
+temple_baron_slavic_pagan;Shaman;;;;;;;;;;;;;x
+temple_baron_slavic_pagan_reformed;Shaman;;;;;;;;;;;;;x
+temple_baron_baltic_pagan;Shaman;;;;;;;;;;;;;x
+temple_baron_baltic_pagan_reformed;Shaman;;;;;;;;;;;;;x
+temple_baron_aztec;Shaman;;;;;;;;;;;;;x
+temple_baron_aztec_reformed;Shaman;;;;;;;;;;;;;x
+temple_baron_mazdaki;Verethragna;;;;;;;;;;;;;x
+temple_baron_hellenic_pagan;Priest;;;;;;;;;;;;;x
+temple_baron_female_hellenic_pagan;Priestess;;;;;;;;;;;;;x
+e_germany;Germania;;;;;;;;;;;;;x
+e_germany_adj;German;;;;;;;;;;;;;x
+old_saxon;Saxon;;;;;;;;;;;;;x
+lombard;Langobard;;;;;;;;;;;;;x
+visigothic;Visigothic;;;;;;;;;;;;;x
+suebi;Suebian;;;;;;;;;;;;;x
+ilmenian;Ilmen Slavic;;;;;;;;;;;;;x
+severian;Severian;;;;;;;;;;;;;x
+volhynian;Volhynian;;;;;;;;;;;;;x
+k_lombardy;Lombards;;;;;;;;;;;;;x
+k_lombardy_adj;Lombard;;;;;;;;;;;;;x
+k_avaria;Avars;;;;;;;;;;;;;x
+k_avaria_adj;Avar;;;;;;;;;;;;;x
+KINGDOM_PANNONIA;Pannonia;;;;;;;;;;;;;x
+KINGDOM_PANNONIA_ADJ;Pannonian;;;;;;;;;;;;;x
+count_pictish;Earl;;;;;;;;;;;;;x
+c_chandax_adj_greek;Gortynian;;;;;;;;;;;;;x
+ERA_CHAR_INFO_163112;Halfdan was born the son of legendary Viking Ragnar Lodbrok. He made several successful expeditions, journeying primarily to England, and later was one of the leaders of the Great Heathen Army of 865. Halfdan managed to build a large realm for himself in England, including areas as far south as London, but later ran into trouble with his peers and was expelled from the realm. He then sought out new adventures and eventually died as a Viking on another bold expedition.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_40605;Rurik was a viking of Swedish origin who took advantage of the internal struggles of the tribes around Ladoga to conquer and establish a strong Norse realm in the east. His successors expanded their influence and eventually ruled as far south as Kiev, and the dynasty soon also adopted the Slavic language and customs (as Viking settlers often did). The descendants of Rurik would eventually become the first Tsars of Russia.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_90107;After making peace with his brothers with the Treaty of Verdun, Louis ruled over East Francia and Bavaria, lands that he had already administrated before his father’s death. After this, he was locked in constant struggles to expand his power in Francia, sometimes allying with his brother Charles the Bald and sometimes fighting him. He was also engaged with suppressing rebellions in Saxony and fighting wars on the Moravian border. He was a great sponsor of the church, cooperating in the suppression of pagan subjects, and Germany started to develop its own identity as a kingdom during his reign.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1700;Basil the Macedonian was born to simple peasant parents in Macedonia. After a tumultuous early life, he eventually entered the service of relatives of the imperial house. With time, he became a friend and confidant of Emperor Michael. Using his position to advance his interests, he soon became co-emperor and eventually murdered Michael to become sole emperor. Once in power, he developed a reputation for efficiency and dedication to the empire. He restored good relations with the Pope and strengthened the eastern frontier in spite of hard-fought wars with the Paulicians and the Arabs.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_34014;Al-Mu‘tazz became caliph in 866, at only 19 years of age, in a situation where the Abbasid Empire was rife with power struggles between different factions. After a very bloody period of dealing with his various enemies he looked like he was coming out on top, but by then his coffers were empty and a rebellion among the soldiers turned his fortunes around. In the end he was taken prisoner, beaten and locked in a room to starve to death. He was 24 years old when he died.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_140;William the Conqueror, a descendant of the Viking chief Rollo, became duke of Normandy at a very young age, a situation compounded by the fact that he was also a bastard. Early on he was constantly being used as a pawn by rival factions in the duchy, with a succession of his guardians being murdered. Once he reached adulthood, he faced years of warfare in order to take full control over his duchy, eventually emerging victorious. In 1066 he successfully invaded England to press a claim on the English throne. He spent the remainder of his reign consolidating and reforming his new kingdom in the face of sometimes fierce opposition.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1128;Robert Guiscard was the sixth son of Tancred de Hauteville, a petty Norman lord. Just like his brothers, he left Normandy with a small force of followers to seek his fortune in Italy. A brilliant and ruthless leader, he spent several years building a reputation as a mercenary, and the ever changing political landscape in Italy eventually saw the pope investing him as Duke of Apulia and Calabria. In further campaigns, he proceeded to conquer Sicily, fighting both the Saracens and the Byzantines to secure control. He thus established Norman rule in southern Italy and his conquests had a profound long term impact on the region.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_98003;Béla IV came from the long lineage of the Árpád rulers of Hungary. He refused to swear fealty to the Mongol Great Khan Ögedei and thus was faced with a Mongol invasion of Hungary. All seemed lost but salvation came with the death of Ögedei in 1242 since Batu of the Golden Horde ordered the army to safeguard the election of a new Great Khan back in Asia. Béla spent the following years building his kingdom in preparation for another Mongol invasion and became known as the “second founder of the state.”;;;;;;;;;;;;;x
+ERA_CHAR_INFO_478011;Hulagu was a grandson of Genghis Khan. When his brother Möngke became Great Khan, Hulagu was ordered to conquer the remaining Muslim territories in western Asia. For his campaign he was assigned the largest Mongol army assembled and with it he ravaged the important Muslim cities of Baghdad and Damascus. This effectively pushed the center of Muslim power west to the Mamluks in Cairo. He was also responsible for destroying the Assassins. The lands he conquered became the foundation for the Ilkhanate which became a major power in the Middle East.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_471500;Casimir III the Great inherited the throne of Poland in 1333 and continued his father’s work in unifying the Polish kingdom. During his lifetime he went on military campaigns to expand his realm to the east and solidify his borders in the west. To get support from the Hungarian nobles he also promised them the Polish throne if he ended up heirless. Unfortunately he didn’t manage to produce a legal male heir, in spite of his four different marriages, and after his death in 1370 the Hungarians pressed their claim to the Polish crown and ended the Piast dynasty.;;;;;;;;;;;;;x
+tribal_count;Chief;;;;;;;;;;;;;x
+tribal_county_of;Chiefdom of;;;;;;;;;;;;;x
+ct_barracks_1_desc;This is where the adult men of the city muster to join the militia in times of war.;;;;;;;;;;;;;x
+ca_training_grounds_1_desc;The training grounds are where the castle levies can practice and ready themselves for the inevitability of war.;;;;;;;;;;;;;x
+d_zun_warriors;Knights of the Sun;;;;;;;;;;;;;x
+d_zun_warriors_adj;Zun;;;;;;;;;;;;;x
+job_spiritual_zun_pagan;Diviner;;;;;;;;;;;;;x
+job_spiritual_zun_pagan_reformed;Diviner;;;;;;;;;;;;;x
+zun_pagan;Zunbil;;;;;;;;;;;;;x
+zun_pagan_reformed;Church of Zun;;;;;;;;;;;;;x
+duchy_of_norse;Jarldom of;;;;;;;;;;;;;x
+duke_finnish_pagan;High Chief;;;;;;;;;;;;;x
+duke_female_finnish_pagan;High Chieftess;;;;;;;;;;;;;x
+duke_finnish_pagan_reformed;High Chief;;;;;;;;;;;;;x
+duke_female_finnish_pagan_reformed;High Chieftess;;;;;;;;;;;;;x
+duchy_of_finnish_pagan;High Chiefdom of;;;;;;;;;;;;;x
+duchy_of_finnish_pagan_reformed;High Chiefdom of;;;;;;;;;;;;;x
+duke_baltic_pagan;High Chief;;;;;;;;;;;;;x
+duke_female_baltic_pagan;High Chieftess;;;;;;;;;;;;;x
+duke_baltic_pagan_reformed;High Chief;;;;;;;;;;;;;x
+duke_female_baltic_pagan_reformed;High Chieftess;;;;;;;;;;;;;x
+duchy_of_baltic_pagan;High Chiefdom of;;;;;;;;;;;;;x
+duchy_of_baltic_pagan_reformed;High Chiefdom of;;;;;;;;;;;;;x
+duke_tengri_pagan;High Chief;;;;;;;;;;;;;x
+duke_female_tengri_pagan;High Chieftess;;;;;;;;;;;;;x
+duke_tengri_pagan_reformed;High Chief;;;;;;;;;;;;;x
+duke_female_tengri_pagan_reformed;High Chieftess;;;;;;;;;;;;;x
+duke_slavic_pagan;High Chief;;;;;;;;;;;;;x
+duke_female_slavic_pagan;High Chieftess;;;;;;;;;;;;;x
+duke_slavic_pagan_reformed;High Chief;;;;;;;;;;;;;x
+duke_female_slavic_pagan_reformed;High Chieftess;;;;;;;;;;;;;x
+duchy_of_slavic_pagan;High Chiefdom of;;;;;;;;;;;;;x
+duchy_of_slavic_pagan_reformed;High Chiefdom of;;;;;;;;;;;;;x
+tribal_duke_old_saxon;High Chief;;;;;;;;;;;;;x
+tribal_duke_female_old_saxon;High Chieftess;;;;;;;;;;;;;x
+tribal_duchy_of_old_saxon;High Chiefdom of;;;;;;;;;;;;;x
+tribal_king_old_saxon;Grand Chief;;;;;;;;;;;;;x
+tribal_king_female_old_saxon;Grand Chieftess;;;;;;;;;;;;;x
+tribal_kingdom_of_old_saxon;Grand Chiefdom of;;;;;;;;;;;;;x
+tribal_duke_norse;Jarl;;;;;;;;;;;;;x
+d_zun_pagan_reformed;Church of Zun;;;;;;;;;;;;;x
+temple_baron_zun_pagan;Sun Guardian;;;;;;;;;;;;;x
+temple_baron_zun_pagan_reformed;Sun Guardian;;;;;;;;;;;;;x
+tb_hillfort_1;Earth Hillfort;;;;;;;;;;;;;x
+tb_hillfort_2;Wooden Hillfort;;;;;;;;;;;;;x
+tb_hillfort_3;Reinforced Hillfort;;;;;;;;;;;;;x
+tb_hillfort_4;Stone Hillfort;;;;;;;;;;;;;x
+tb_shipyard_1;Shipbuilder;;;;;;;;;;;;;x
+tb_shipyard_2;Shipbuilder;;;;;;;;;;;;;x
+tb_shipyard_3;Shipbuilder;;;;;;;;;;;;;x
+tb_shipyard_4;Shipbuilder;;;;;;;;;;;;;x
+tb_training_grounds_1;Training Grounds;;;;;;;;;;;;;x
+tb_training_grounds_2;Training Grounds;;;;;;;;;;;;;x
+tb_training_grounds_3;Training Grounds;;;;;;;;;;;;;x
+tb_training_grounds_4;Training Grounds;;;;;;;;;;;;;x
+kharijite;Kharijite;;;;;;;;;;;;;x
+d_kharijite;Kharijite Caliphate;;;;;;;;;;;;;x
+d_kharijite_adj;Kharijite Caliphal;;;;;;;;;;;;;x
+vice_royalty_baron;Baron Viceroy;;;;;;;;;;;;;x
+vice_royalty_count;Count Viceroy;;;;;;;;;;;;;x
+vice_royalty_duke;Minor Viceroy;;;;;;;;;;;;;x
+vice_royalty_king;Viceroy;;;;;;;;;;;;;x
+vice_royalty_emperor;Grand Viceroy;;;;;;;;;;;;;x
+vice_royalty_barony_of;Viceroyal Barony of;;;;;;;;;;;;;x
+vice_royalty_county_of;Viceroyal County of;;;;;;;;;;;;;x
+vice_royalty_duchy_of;Minor Viceroyalty of;;;;;;;;;;;;;x
+vice_royalty_kingdom_of;Viceroyalty of;;;;;;;;;;;;;x
+vice_royalty_empire_of;Grand Viceroyalty of;;;;;;;;;;;;;x
+tribal_emperor_altaic;Khagan;;;;;;;;;;;;;x
+tribal_emperor_female_altaic;Khatun;;;;;;;;;;;;;x
+tribal_empire_of_altaic;Khanate of;;;;;;;;;;;;;x
+tribal_king_altaic;Khan;;;;;;;;;;;;;x
+tribal_king_female_altaic;Khanum;;;;;;;;;;;;;x
+tribal_kingdom_of_altaic;Khanate of;;;;;;;;;;;;;x
+tribal_king_arabic;Sultan;;;;;;;;;;;;;x
+tribal_king_female_arabic;Sultana;;;;;;;;;;;;;x
+tribal_emperor_arabic;Padishah;;;;;;;;;;;;;x
+tribal_emperor_russian;Tsar;;;;;;;;;;;;;x
+tribal_emperor_female_russian;Tsarina;;;;;;;;;;;;;x
+tribal_emperor_dravidian_group;Emperor;;;;;;;;;;;;;x
+tribal_emperor_female_dravidian_group;Empress;;;;;;;;;;;;;x
+tribal_king_dravidian_group;Maharaja;;;;;;;;;;;;;x
+tribal_king_female_dravidian_group;Maharani;;;;;;;;;;;;;x
+tribal_duke_dravidian_group;Raja;;;;;;;;;;;;;x
+tribal_duke_female_dravidian_group;Rani;;;;;;;;;;;;;x
+tribal_count_dravidian_group;Thakur;;;;;;;;;;;;;x
+tribal_count_female_dravidian_group;Thakurani;;;;;;;;;;;;;x
+tribal_baron_dravidian_group;Damapati;;;;;;;;;;;;;x
+tribal_baron_female_dravidian_group;Damapatni;;;;;;;;;;;;;x
+tribal_duchy_dravidian_group;Raj;;;;;;;;;;;;;x
+tribal_county_dravidian_group;Thikana;;;;;;;;;;;;;x
+tribal_barony_dravidian_group;Dama;;;;;;;;;;;;;x
+tribal_duchy_of_dravidian_group;Raj of;;;;;;;;;;;;;x
+tribal_county_of_dravidian_group;Thikana of;;;;;;;;;;;;;x
+tribal_barony_of_dravidian_group;Dama of;;;;;;;;;;;;;x
+tribal_emperor_indo_aryan_group;Emperor;;;;;;;;;;;;;x
+tribal_emperor_female_indo_aryan_group;Empress;;;;;;;;;;;;;x
+tribal_king_indo_aryan_group;Maharaja;;;;;;;;;;;;;x
+tribal_king_female_indo_aryan_group;Maharani;;;;;;;;;;;;;x
+tribal_duke_indo_aryan_group;Raja;;;;;;;;;;;;;x
+tribal_duke_female_indo_aryan_group;Rani;;;;;;;;;;;;;x
+tribal_count_indo_aryan_group;Thakur;;;;;;;;;;;;;x
+tribal_count_female_indo_aryan_group;Thakurani;;;;;;;;;;;;;x
+tribal_baron_indo_aryan_group;Damapati;;;;;;;;;;;;;x
+tribal_baron_female_indo_aryan_group;Damapatni;;;;;;;;;;;;;x
+tribal_title_prince_indo_aryan_group;Rajkumar;;;;;;;;;;;;;x
+tribal_title_prince_female_indo_aryan_group;Rajkumari;;;;;;;;;;;;;x
+tribal_duchy_indo_aryan_group;Raj;;;;;;;;;;;;;x
+tribal_county_indo_aryan_group;Thikana;;;;;;;;;;;;;x
+tribal_barony_indo_aryan_group;Dama;;;;;;;;;;;;;x
+tribal_duchy_of_indo_aryan_group;Raj of;;;;;;;;;;;;;x
+tribal_county_of_indo_aryan_group;Thikana of;;;;;;;;;;;;;x
+tribal_barony_of_indo_aryan_group;Dama of;;;;;;;;;;;;;x
+city_job_marshal_greek;Protostrator;;;;;;;;;;;;;x
+temple_king_finnish_pagan;Witch-King;;;;;;;;;;;;;x
+temple_king_slavic_pagan;Witch-King;;;;;;;;;;;;;x
+temple_king_baltic_pagan;Witch-King;;;;;;;;;;;;;x
+temple_king_female_finnish_pagan;Witch-Queen;;;;;;;;;;;;;x
+temple_king_female_slavic_pagan;Witch-Queen;;;;;;;;;;;;;x
+temple_king_female_baltic_pagan;Witch-Queen;;;;;;;;;;;;;x
+title_appointed_regent;Designated Regent;;;;;;;;;;;;;x
+title_appointed_regent_desc;This character will become the regent if one is needed.;;;;;;;;;;;;;x
+tribal_duke;High Chief;;;;;;;;;;;;;x
+tribal_duke_female;High Chieftess;;;;;;;;;;;;;x
+tribal_duchy_of;High Chiefdom of;;;;;;;;;;;;;x
+tribal_duchy_of_norse;Jarldom of;;;;;;;;;;;;;x
+tribal_count_west_african;Farin;;;;;;;;;;;;;x
+tribal_count_female_west_african;Farina;;;;;;;;;;;;;x
+tribal_county_of_west_african;Sheikhdom of;;;;;;;;;;;;;x
+tribal_county_west_african;Sheikhdom;;;;;;;;;;;;;x
+tribal_duke_west_african;Farba;;;;;;;;;;;;;x
+tribal_duke_female_west_african;Farba;;;;;;;;;;;;;x
+tribal_duchy_of_west_african;Emirate of;;;;;;;;;;;;;x
+tribal_duchy_west_african;Emirate;;;;;;;;;;;;;x
+tribal_king_west_african;Mansa;;;;;;;;;;;;;x
+tribal_king_female_west_african;Sultana;;;;;;;;;;;;;x
+tribal_kingdom_of_west_african;Sultanate of;;;;;;;;;;;;;x
+tribal_kingdom_west_african;Sultanate;;;;;;;;;;;;;x
+e_seljuk_turks;Seljuks;;;;;;;;;;;;;x
+jewish_group;Israelite;;;;;;;;;;;;;x
+zoroastrian_group;Ahura Mazda;;;;;;;;;;;;;x
+indian_group;Dharman;;;;;;;;;;;;;x
+ERA_CHAR_INFO_3096;Born in Cairo, al-Mustansir became caliph when he was only 6 years old. During his early years, his mother acted as regent and saw to her son’s safety. Once he became an adult, his reign was dominated by strong Viziers, and also plagued by chaos as famine weakened the realm and powerful groups of Turkish mercenaries dominated Egypt and struggled for power. Al-Mustansir never fully took the reins of power, but he was to become the longest-reigning caliph in history.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_3040;Alp Arslan, great-grandson of Seljuk, was born Muhammad bin Dawud Chaghri, but his strength, personal combat skills and valor were soon to earn him his honorary name, which means “Heroic Lion.” Early on, he succeeded his father as governor of Khorasan, and after a succession crisis in 1064 he took the title of Sultan by force of arms, and became ruler of the immense Seljuk Empire. He then made war on the Byzantine Empire, defeating them thoroughly at the famous Battle of Manzikert and taking the Emperor prisoner. This victory was a first step towards Turkish domination in Anatolia and was one of the major events triggering the crusades. He died true to his name, at the age of 42, refusing to let his guards help him against a rebel prisoner who came at him with a dagger.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_457620;As King of Castile and León, Ferdinand was one of the most critical figures in the history of the Reconquista that would eventually see the Muslims driven from Iberia. Castile under Ferdinand expanded far into southern Spain, using a combination of force and diplomacy to seize Andalusian cities such as Córdoba and Seville. More than four hundred years after his death, Ferdinand was canonized by Pope Clement X and came to be known as as Saint Ferdinand in the annals of history.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_167219;The Hanseatic League was a loose alliance of German cities centered on Lübeck that dominated Baltic trade in the late Middle Ages and beyond, after displacing Visby as the leading merchant power in the region. Offices, so-called “Kontors,” were opened in major ports and trading hubs everywhere from London in the west to Novgorod in the east. Eventually the League became powerful enough to challenge larger realms directly, such as when they sacked the Danish capital of Copenhagen in the second half of the 14th century.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_212513;Referred to by contemporaries as “stupor mundi,” the wonder of the world, Frederick II was among the most powerful and influential emperors of the Holy Roman Empire during the Middle Ages. His reign was marked with frequent wars against the Papacy, and Frederick was excommunicated four times – Pope Gregory IX even dubbed him an Antichrist. He managed to broker the return of Jerusalem to Christian control during the Sixth Crusade despite taking part in very little actual fighting. After dying of dysentery in 1250 at the age of 55, his line would quickly die out, resulting in the end of the House of Hohenstaufen.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_74656;Singhana II was a powerful Indian ruler who greatly expanded his realm towards the north, south and east. As a great patron of science and the arts, he established a college of astronomy and founded the city of Shinghanapur.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_454500;Edward III was in many ways a warrior king, who was crowned after the disastrous reign of his father came to an end in 1327. Under Edward, England was transformed into one of the most formidable military powers in Europe and his claim to the French throne would begin the conflict that eventually became known as the Hundred Years’ War. During his long reign, which would go on to last fifty years, Edward focused mostly on military matters. He personally oversaw the decisive Battle of Crécy, where an English army consisting mostly of longbowmen defeated a much larger French force.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_455500;Philip VI the Fortunate was the first French king to hail from the House of Valois, and under his reign France would see the beginning of the Hundred Years’ War. Despite Philip’s nickname, the war did not go well, and the French army was virtually annihilated at the hands of the English during the Battle of Crécy. At the end of his reign the Black Death made its first appearance in France. A full third of the subjects in his kingdom succumbed to this plague – including Philip’s wife, Queen Joan.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_476500;Son of Osman I, the founder and namesake of the illustrious Ottoman dynasty, Orhan succeeded his father upon his death. He initially offered to rule jointly with his brother Alaeddin, but the latter declined and would instead serve as Orhan’s highly influential vizier until his death in 1332. Under Orhan, the Ottomans expanded greatly in northwestern Anatolia at the expense of the Byzantine Empire, who were embroiled in a series of civil wars.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_480000;Mohammed Öz Beg was the longest-reigning khan of the Golden Horde, and it was under him that the Mongol splinter state reached the height of its power. Öz Beg was converted to Islam at an early age, and upon assuming the throne he adopted it as a state religion. Despite this he was known to be highly tolerant of Christians, something that Pope John XXII would personally thank him for in a letter.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_170258;Muhammad bin Tughluq was the head of the Tughluq dynasty, which had carved out a vast Muslim empire in India. Under him, the empire initially expanded to temporarily control most of India, but it was not to last. Muhammad had a well-earned reputation for ruthlessness and cruelty, and taxes in his empire were raised to exorbitant levels. He had to contend with numerous revolts, and by the time of his death the realm had already begun to fragment.;;;;;;;;;;;;;x
+tribal_barony_of;Tribal Lands of;;;;;;;;;;;;;x
+tb_steppe_barracks_1;Barracks;;;;;;;;;;;;;x
+tb_steppe_barracks_2;Barracks;;;;;;;;;;;;;x
+tb_steppe_barracks_3;Barracks;;;;;;;;;;;;;x
+tb_steppe_barracks_4;Barracks;;;;;;;;;;;;;x
+tb_steppe_stable_1;Stable;;;;;;;;;;;;;x
+tb_steppe_stable_2;Stable;;;;;;;;;;;;;x
+tb_steppe_stable_3;Stable;;;;;;;;;;;;;x
+tb_steppe_stable_4;Stable;;;;;;;;;;;;;x
+tb_arsenal_1;Weaponsmith;;;;;;;;;;;;;x
+tb_arsenal_2;Weaponsmith;;;;;;;;;;;;;x
+tb_arsenal_3;Weaponsmith;;;;;;;;;;;;;x
+tb_arsenal_4;Weaponsmith;;;;;;;;;;;;;x
+tb_hillfort_1_desc;A simple earthen hillfort will provide limited defense against our enemies.;;;;;;;;;;;;;x
+tb_hillfort_2_desc;With wooden palisades our hillfort will provide even more defense.;;;;;;;;;;;;;x
+tb_hillfort_3_desc;Reinforcing our wooden palisades with stone will strengthen the fort.;;;;;;;;;;;;;x
+tb_hillfort_4_desc;With the use of stone walls our hillfort will stand strong.;;;;;;;;;;;;;x
+tb_market_town_1_desc;Establishing a permanent village in our settlement is essential in order to improve our trade.;;;;;;;;;;;;;x
+tb_market_town_2_desc;Further expanding the village to a town will allow even more inhabitants to settle down to improve our trade.;;;;;;;;;;;;;x
+tb_market_town_3_desc;With some coin, the town will grow into a city with many traders and will improve our trade.;;;;;;;;;;;;;x
+tb_market_town_4_desc;The city will grow large and hold many trade posts, as any trade center ought to.;;;;;;;;;;;;;x
+tb_market_town_1;Market Village;;;;;;;;;;;;;x
+tb_market_town_2;Market Town;;;;;;;;;;;;;x
+tb_market_town_3;Market City;;;;;;;;;;;;;x
+tb_market_town_4;Large Market City;;;;;;;;;;;;;x
+tb_arsenal_desc;This is where weapons are made, repaired and stored in preparation for war.;;;;;;;;;;;;;x
+tb_training_grounds_desc;Our militia assembles here to train and arm themselves.;;;;;;;;;;;;;x
+tribal_duke_frisian;High Chief;;;;;;;;;;;;;x
+tribal_duke_female_frisian;High Chieftess;;;;;;;;;;;;;x
+tribal_duchy_of_frisian;High Chiefdom of;;;;;;;;;;;;;x
+tb_war_camp_1;War Camp;;;;;;;;;;;;;x
+tb_war_camp_2;War Camp;;;;;;;;;;;;;x
+tb_war_camp_3;War Camp;;;;;;;;;;;;;x
+tb_war_camp_4;War Camp;;;;;;;;;;;;;x
+tb_war_camp_desc;This is where the tribal warriors gather to hone their skills in preparation for times of war.;;;;;;;;;;;;;x
+tb_practice_range_1;Practice Range;;;;;;;;;;;;;x
+tb_practice_range_2;Practice Range;;;;;;;;;;;;;x
+tb_practice_range_3;Practice Range;;;;;;;;;;;;;x
+tb_practice_range_4;Practice Range;;;;;;;;;;;;;x
+tb_practice_range_desc;The tribal archers meet here to compete and to practice their marksmanship skills.;;;;;;;;;;;;;x
+d_haruriyyah;Haruriyyah;;;;;;;;;;;;;x
+d_haruriyyah_adj;Haruri;;;;;;;;;;;;;x
+vice_royalty_baron_female;Baron Vicereine;;;;;;;;;;;;;x
+vice_royalty_count_female;Count Vicereine;;;;;;;;;;;;;x
+vice_royalty_duke_female;Minor Vicereine;;;;;;;;;;;;;x
+vice_royalty_king_female;Vicereine;;;;;;;;;;;;;x
+vice_royalty_emperor_female;Grand Vicereine;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1316;Henry was the son of Holy Roman Emperor Henry III, and like his father before him became King of the Germans at a very young age. He nearly drowned at the age of 12 when trying to escape a kidnapping at the hands of the Archbishop of Cologne during an ultimately successful political coup against his mother for the regency. Once an adult, he spent a lot of time balancing between the many powerful interest groups within his vast empire. He fought several wars against rebellious princes and against the pagan Slavs. Henry also had a bitter controversy with Pope Gregory VII over investiture, leading to his excommunication. Faced with possible rebellion in the empire, Henry was forced to humiliate himself by standing on his knees in a blizzard for three days at Canossa while awaiting the Pope’s pardon.;;;;;;;;;;;;;x
+vice_royalty_duke_byzantine;Strategos;;;;;;;;;;;;;x
+vice_royalty_king_byzantine;Exarch;;;;;;;;;;;;;x
+vice_royalty_emperor_byzantine;Grand Exarch;;;;;;;;;;;;;x
+vice_royalty_kingdom_of_byzantine;Exarchate of;;;;;;;;;;;;;x
+vice_royalty_empire_of_byzantine;Grand Exarchate of;;;;;;;;;;;;;x
+RETTYPE_SKIR2;Light Skirmish;;;;;;;;;;;;;x
+temple_king_pagan_group;King-Priest;;;;;;;;;;;;;x
+tribal_king_female;Queen;;;;;;;;;;;;;x
+tribal_emperor_female;Empress;;;;;;;;;;;;;x
+temple_duke_female_pagan_group;Archpriestess;;;;;;;;;;;;;x
+temple_king_female_pagan_group;Queen-Priestess;;;;;;;;;;;;;x
+temple_emperor_female_pagan_group;Emperor;;;;;;;;;;;;;x
+vice_royalty_duke_female_byzantine;Strategos;;;;;;;;;;;;;x
+vice_royalty_king_female_byzantine;Exarch;;;;;;;;;;;;;x
+temple_barony_of_zun_pagan;Sun Temple of;;;;;;;;;;;;;x
+temple_barony_of_zun_pagan_reformed;Sun Temple of;;;;;;;;;;;;;x
+nomadic_king;Khan;;;;;;;;;;;;;x
+nomadic_emperor;Khagan;;;;;;;;;;;;;x
+nomadic_empire;Khanate;;;;;;;;;;;;;x
+nomadic_empire_of;Khanate of;;;;;;;;;;;;;x
+silk_road;Silk Road;;;;;;;;;;;;;x
+tr_silk_road_1;Silk Road Trade Post;;;;;;;;;;;;;x
+tr_silk_road_1_desc;This is a small but vibrant trading post on the Silk Road.;;;;;;;;;;;;;x
+tr_silk_road_2;Silk Road Market;;;;;;;;;;;;;x
+tr_silk_road_2_desc;This Silk Road trading post has grown into a large town, offering more protection against raiders and brigands and thus attracting more merchants who prefer to stay here and trade.;;;;;;;;;;;;;x
+tr_silk_road_3;Major Silk Road City;;;;;;;;;;;;;x
+tr_silk_road_3_desc;This is a major trading hub on the Silk Road, where merchants come from all directions to trade their wares. All goods and services known to civilized man can be found here, and a myriad of languages echo through the many streets and alleys.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_30809;Isabella was born in 1212 in southern Italy as the only child of Maria of Montferrat, Queen of Jerusalem. Her mother died shortly after giving birth, and the newborn Isabella was proclaimed Queen with her father John of Brienne acting as her regent. At the age of 13, Isabella was wed to the Holy Roman Emperor Frederick II, effectively being used as a pawn to encourage the Emperor to participate in the Fifth Crusade. The wedding saw the Emperor crowned King of Jerusalem and Isabelle’s father stripped of all his powers. Isabella herself was kept in seclusion by her husband. She lost a baby daughter before herself dying while giving birth to her son Conrad in 1228. Shortly after her death, Frederick finally embarked on the promised crusade.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_93052;Inheriting the Khwarezmian Empire after the death of his father, Muhammad was immediately faced with an invasion by the Ghurids. Several chaotic years of intermittent war between the Khwarezmians, the Ghurids and the Qara Khitai ensued. Muhammad was at one point taken prisoner and held captive in the Qara Khitai for a year, but changing fortunes would see him come out on top against his enemies, and he eventually managed to conquer Samarkand, Balochistan and Afghanistan and declare himself Shah. His reign came to an end sooner than expected, however, as Genghis Khan and the Mongols entered the scene in 1218. Within two short years, the Mongols had overrun his domain and he died a fugitive on a small island in the Caspian Sea in 1220.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_170193;Mystery surrounds Iltutmish’s early years, though it is said he was named for an eclipse that occurred during his birth. He was sold into slavery at an early age, and eventually ended up being bought by Qutb al-Din Aibak, the ruler of Lahore. Qutb valued his new servant highly and kept giving Iltutmish increasing responsibilities and corresponding honors, eventually marrying him to his own daughter. When Qutb died in 1210, Iltutmish enjoyed strong support as he claimed the throne. Years of turmoil ensued as he fought off contenders and then strengthened his position. He subsequently managed to avoid open conflict with the Mongols, founding the Delhi Sultanate that was to last into the 16th century.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_125501;Temüjin was born in Mongolia, the son of the leader of the Borjigin clan. He was only a child when his father died, and he and his mother were ostracized from the clan due to his young age and competing pretenders. Once he reached maturity, however, Temüjin began to forge his own destiny. Over several decades, he increased his reputation and prestige among his people, and eventually led them in the successful conquest of all Mongolia. After this, he went on to conquer northern China, all of central Asia and parts of Persia and the western steppes. He became recognized as one of the greatest conquerors in the history of humanity, and the Mongols would continue expanding on these conquests after his death.;;;;;;;;;;;;;x
+empire_of_altaic;Empire of;;;;;;;;;;;;;x
+d_lappish_band;Lapp Band;;;;;;;;;;;;;x
+d_lappish_band_adj;Lappish;;;;;;;;;;;;;x
+title_commander;Commander;;;;;;;;;;;;;x
+title_behi;Behi;;;;;;;;;;;;;x
+title_behi_desc;This title was given to women in the families within the Mongolian nobility.;;;;;;;;;;;;;x
+title_master_of_the_eagle;Master of the Eagle;;;;;;;;;;;;;x
+title_master_of_the_eagle_desc;The Mongolian warriors used eagles to aid them while hunting. Being responsible for the training of these companions was a great honor.;;;;;;;;;;;;;x
+no_horse_breeder_1;Horse Breeder;;;;;;;;;;;;;x
+no_horse_breeder_2;Horse Breeder;;;;;;;;;;;;;x
+no_horse_breeder_3;Horse Breeder;;;;;;;;;;;;;x
+no_horse_breeder_4;Horse Breeder;;;;;;;;;;;;;x
+no_horse_breeder_5;Horse Breeder;;;;;;;;;;;;;x
+no_horse_breeder_6;Horse Breeder;;;;;;;;;;;;;x
+no_horse_breeder_7;Horse Breeder;;;;;;;;;;;;;x
+no_horse_breeder_8;Horse Breeder;;;;;;;;;;;;;x
+no_wrestling_1;Wrestling;;;;;;;;;;;;;x
+no_wrestling_2;Wrestling;;;;;;;;;;;;;x
+no_wrestling_3;Wrestling;;;;;;;;;;;;;x
+no_wrestling_4;Wrestling;;;;;;;;;;;;;x
+no_wrestling_5;Wrestling;;;;;;;;;;;;;x
+no_wrestling_6;Wrestling;;;;;;;;;;;;;x
+no_wrestling_7;Wrestling;;;;;;;;;;;;;x
+no_wrestling_8;Wrestling;;;;;;;;;;;;;x
+no_wrestling_desc;In the wrestling pit people fight for glory and enjoyment.;;;;;;;;;;;;;x
+no_shrine_1;Shrine;;;;;;;;;;;;;x
+no_shrine_2;Shrine;;;;;;;;;;;;;x
+no_shrine_3;Shrine;;;;;;;;;;;;;x
+no_shrine_4;Shrine;;;;;;;;;;;;;x
+no_shrine_5;Shrine;;;;;;;;;;;;;x
+no_shrine_6;Shrine;;;;;;;;;;;;;x
+no_shrine_7;Shrine;;;;;;;;;;;;;x
+no_shrine_8;Shrine;;;;;;;;;;;;;x
+no_shrine_desc;At the shrine people can practice the main religious rituals and ceremonies.;;;;;;;;;;;;;x
+no_ox_wagon_1;Ox & Wagon;;;;;;;;;;;;;x
+no_ox_wagon_2;Ox & Wagon;;;;;;;;;;;;;x
+no_ox_wagon_3;Ox & Wagon;;;;;;;;;;;;;x
+no_ox_wagon_4;Ox & Wagon;;;;;;;;;;;;;x
+no_ox_wagon_5;Ox & Wagon;;;;;;;;;;;;;x
+no_ox_wagon_6;Ox & Wagon;;;;;;;;;;;;;x
+no_ox_wagon_7;Ox & Wagon;;;;;;;;;;;;;x
+no_ox_wagon_8;Ox & Wagon;;;;;;;;;;;;;x
+no_ox_wagon_desc;Wagons pulled by oxen are used to move villages and supplies. Yurts were commonly moved fully assembled to achieve a mobile community.;;;;;;;;;;;;;x
+no_sheep_1;Sheep;;;;;;;;;;;;;x
+no_sheep_2;Sheep;;;;;;;;;;;;;x
+no_sheep_3;Sheep;;;;;;;;;;;;;x
+no_sheep_4;Sheep;;;;;;;;;;;;;x
+no_sheep_5;Sheep;;;;;;;;;;;;;x
+no_sheep_6;Sheep;;;;;;;;;;;;;x
+no_sheep_7;Sheep;;;;;;;;;;;;;x
+no_sheep_8;Sheep;;;;;;;;;;;;;x
+no_sheep_desc;Sheep wool is used to make felt in addition to the meat that the sheep provide.;;;;;;;;;;;;;x
+no_hunting_parties_1;Hunting Parties;;;;;;;;;;;;;x
+no_hunting_parties_2;Hunting Parties;;;;;;;;;;;;;x
+no_hunting_parties_3;Hunting Parties;;;;;;;;;;;;;x
+no_hunting_parties_4;Hunting Parties;;;;;;;;;;;;;x
+no_hunting_parties_5;Hunting Parties;;;;;;;;;;;;;x
+no_hunting_parties_6;Hunting Parties;;;;;;;;;;;;;x
+no_hunting_parties_7;Hunting Parties;;;;;;;;;;;;;x
+no_hunting_parties_8;Hunting Parties;;;;;;;;;;;;;x
+no_hunting_parties_desc;Regular hunting activities are arranged in the region.;;;;;;;;;;;;;x
+no_riding_contests_1;Riding Contests;;;;;;;;;;;;;x
+no_riding_contests_2;Riding Contests;;;;;;;;;;;;;x
+no_riding_contests_3;Riding Contests;;;;;;;;;;;;;x
+no_riding_contests_4;Riding Contests;;;;;;;;;;;;;x
+no_riding_contests_5;Riding Contests;;;;;;;;;;;;;x
+no_riding_contests_6;Riding Contests;;;;;;;;;;;;;x
+no_riding_contests_7;Riding Contests;;;;;;;;;;;;;x
+no_riding_contests_8;Riding Contests;;;;;;;;;;;;;x
+no_riding_contests_desc;A competition to bring forth the fastest riders.;;;;;;;;;;;;;x
+no_yam_1;Yam;;;;;;;;;;;;;x
+no_yam_2;Yam;;;;;;;;;;;;;x
+no_yam_3;Yam;;;;;;;;;;;;;x
+no_yam_4;Yam;;;;;;;;;;;;;x
+no_yam_5;Yam;;;;;;;;;;;;;x
+no_yam_6;Yam;;;;;;;;;;;;;x
+no_yam_7;Yam;;;;;;;;;;;;;x
+no_yam_8;Yam;;;;;;;;;;;;;x
+no_yam_desc;Checkpoints for a fast messenger system giving supplies and fresh horses to allow messengers to travel huge distances every day.;;;;;;;;;;;;;x
+no_baghatur_council_1;Baghatur Council;;;;;;;;;;;;;x
+no_baghatur_council_2;Baghatur Council;;;;;;;;;;;;;x
+no_baghatur_council_3;Baghatur Council;;;;;;;;;;;;;x
+no_baghatur_council_4;Baghatur Council;;;;;;;;;;;;;x
+no_baghatur_council_5;Baghatur Council;;;;;;;;;;;;;x
+no_baghatur_council_6;Baghatur Council;;;;;;;;;;;;;x
+no_baghatur_council_7;Baghatur Council;;;;;;;;;;;;;x
+no_baghatur_council_8;Baghatur Council;;;;;;;;;;;;;x
+no_baghatur_council_desc;The most proven heroes of the realm gather to discuss everything from politics to tactics.;;;;;;;;;;;;;x
+no_cattle_pens_1;Cattle Pens;;;;;;;;;;;;;x
+no_cattle_pens_2;Cattle Pens;;;;;;;;;;;;;x
+no_cattle_pens_3;Cattle Pens;;;;;;;;;;;;;x
+no_cattle_pens_4;Cattle Pens;;;;;;;;;;;;;x
+no_cattle_pens_5;Cattle Pens;;;;;;;;;;;;;x
+no_cattle_pens_6;Cattle Pens;;;;;;;;;;;;;x
+no_cattle_pens_7;Cattle Pens;;;;;;;;;;;;;x
+no_cattle_pens_8;Cattle Pens;;;;;;;;;;;;;x
+no_cattle_pens_desc;The cattle livestock provides meat and works as pack animals.;;;;;;;;;;;;;x
+no_meat_preserver_1;Meat Preserver;;;;;;;;;;;;;x
+no_meat_preserver_2;Meat Preserver;;;;;;;;;;;;;x
+no_meat_preserver_3;Meat Preserver;;;;;;;;;;;;;x
+no_meat_preserver_4;Meat Preserver;;;;;;;;;;;;;x
+no_meat_preserver_5;Meat Preserver;;;;;;;;;;;;;x
+no_meat_preserver_6;Meat Preserver;;;;;;;;;;;;;x
+no_meat_preserver_7;Meat Preserver;;;;;;;;;;;;;x
+no_meat_preserver_8;Meat Preserver;;;;;;;;;;;;;x
+no_meat_preserver_desc;Dried meats work as effective field rations for the armies.;;;;;;;;;;;;;x
+no_harbor_1;Harbor;;;;;;;;;;;;;x
+no_harbor_2;Harbor;;;;;;;;;;;;;x
+no_harbor_3;Harbor;;;;;;;;;;;;;x
+no_harbor_4;Harbor;;;;;;;;;;;;;x
+no_harbor_5;Harbor;;;;;;;;;;;;;x
+no_harbor_6;Harbor;;;;;;;;;;;;;x
+no_harbor_7;Harbor;;;;;;;;;;;;;x
+no_harbor_8;Harbor;;;;;;;;;;;;;x
+no_harbor_desc;A harbor village allowing small transport and trade ships to dock and be maintained.;;;;;;;;;;;;;x
+no_fishing_village_1;Fishing Village;;;;;;;;;;;;;x
+no_fishing_village_2;Fishing Village;;;;;;;;;;;;;x
+no_fishing_village_3;Fishing Village;;;;;;;;;;;;;x
+no_fishing_village_4;Fishing Village;;;;;;;;;;;;;x
+no_fishing_village_5;Fishing Village;;;;;;;;;;;;;x
+no_fishing_village_6;Fishing Village;;;;;;;;;;;;;x
+no_fishing_village_7;Fishing Village;;;;;;;;;;;;;x
+no_fishing_village_8;Fishing Village;;;;;;;;;;;;;x
+no_fishing_village_desc;Fishers use the nearby water to provide an additional source of food.;;;;;;;;;;;;;x
+no_felt_crafter_1;Felt Crafter;;;;;;;;;;;;;x
+no_felt_crafter_2;Felt Crafter;;;;;;;;;;;;;x
+no_felt_crafter_3;Felt Crafter;;;;;;;;;;;;;x
+no_felt_crafter_4;Felt Crafter;;;;;;;;;;;;;x
+no_felt_crafter_5;Felt Crafter;;;;;;;;;;;;;x
+no_felt_crafter_6;Felt Crafter;;;;;;;;;;;;;x
+no_felt_crafter_7;Felt Crafter;;;;;;;;;;;;;x
+no_felt_crafter_8;Felt Crafter;;;;;;;;;;;;;x
+no_felt_crafter_desc;Turning the wool into felt for use in clothes or the construction of tents.;;;;;;;;;;;;;x
+no_composite_bow_crafter_1;Composite Bow;;;;;;;;;;;;;x
+no_composite_bow_crafter_2;Composite Bow;;;;;;;;;;;;;x
+no_composite_bow_crafter_3;Composite Bow;;;;;;;;;;;;;x
+no_composite_bow_crafter_4;Composite Bow;;;;;;;;;;;;;x
+no_composite_bow_crafter_5;Composite Bow;;;;;;;;;;;;;x
+no_composite_bow_crafter_6;Composite Bow;;;;;;;;;;;;;x
+no_composite_bow_crafter_7;Composite Bow;;;;;;;;;;;;;x
+no_composite_bow_crafter_8;Composite Bow;;;;;;;;;;;;;x
+no_composite_bow_crafter_desc;Crafted from bamboo, horn and sinew, small composite bows are agile enough to be used effectively on horseback.;;;;;;;;;;;;;x
+no_lamellar_armor_crafter_1;Lamellar Armor Crafter;;;;;;;;;;;;;x
+no_lamellar_armor_crafter_2;Lamellar Armor Crafter;;;;;;;;;;;;;x
+no_lamellar_armor_crafter_3;Lamellar Armor Crafter;;;;;;;;;;;;;x
+no_lamellar_armor_crafter_4;Lamellar Armor Crafter;;;;;;;;;;;;;x
+no_lamellar_armor_crafter_5;Lamellar Armor Crafter;;;;;;;;;;;;;x
+no_lamellar_armor_crafter_6;Lamellar Armor Crafter;;;;;;;;;;;;;x
+no_lamellar_armor_crafter_7;Lamellar Armor Crafter;;;;;;;;;;;;;x
+no_lamellar_armor_crafter_8;Lamellar Armor Crafter;;;;;;;;;;;;;x
+no_lamellar_armor_crafter_desc;Rectangular leather pieces are laced together to form a sturdy armor.;;;;;;;;;;;;;x
+no_ger_crafter_1;Yurt Crafter;;;;;;;;;;;;;x
+no_ger_crafter_2;Yurt Crafter;;;;;;;;;;;;;x
+no_ger_crafter_3;Yurt Crafter;;;;;;;;;;;;;x
+no_ger_crafter_4;Yurt Crafter;;;;;;;;;;;;;x
+no_ger_crafter_5;Yurt Crafter;;;;;;;;;;;;;x
+no_ger_crafter_6;Yurt Crafter;;;;;;;;;;;;;x
+no_ger_crafter_7;Yurt Crafter;;;;;;;;;;;;;x
+no_ger_crafter_8;Yurt Crafter;;;;;;;;;;;;;x
+no_ger_crafter_desc;The majority of the residences in the steppe consists of felt huts known as yurts.;;;;;;;;;;;;;x
+no_camel_breeder_1;Camel Breeder;;;;;;;;;;;;;x
+no_camel_breeder_2;Camel Breeder;;;;;;;;;;;;;x
+no_camel_breeder_3;Camel Breeder;;;;;;;;;;;;;x
+no_camel_breeder_4;Camel Breeder;;;;;;;;;;;;;x
+no_camel_breeder_5;Camel Breeder;;;;;;;;;;;;;x
+no_camel_breeder_6;Camel Breeder;;;;;;;;;;;;;x
+no_camel_breeder_7;Camel Breeder;;;;;;;;;;;;;x
+no_camel_breeder_8;Camel Breeder;;;;;;;;;;;;;x
+no_camel_breeder_desc;The camel breeder makes sure that there is a steady supply of sturdy camels.;;;;;;;;;;;;;x
+no_minority_shrine_1;Minority Shrines;;;;;;;;;;;;;x
+no_minority_shrine_2;Minority Shrines;;;;;;;;;;;;;x
+no_minority_shrine_3;Minority Shrines;;;;;;;;;;;;;x
+no_minority_shrine_4;Minority Shrines;;;;;;;;;;;;;x
+no_minority_shrine_5;Minority Shrines;;;;;;;;;;;;;x
+no_minority_shrine_6;Minority Shrines;;;;;;;;;;;;;x
+no_minority_shrine_7;Minority Shrines;;;;;;;;;;;;;x
+no_minority_shrine_8;Minority Shrines;;;;;;;;;;;;;x
+no_minority_shrine_desc;These shrines gives the oppotunity for people to worship deities of different religions.;;;;;;;;;;;;;x
+no_gathering_hall_1;Clan Gathering Hall;;;;;;;;;;;;;x
+no_gathering_hall_2;Clan Gathering Hall;;;;;;;;;;;;;x
+no_gathering_hall_3;Clan Gathering Hall;;;;;;;;;;;;;x
+no_gathering_hall_4;Clan Gathering Hall;;;;;;;;;;;;;x
+no_gathering_hall_5;Clan Gathering Hall;;;;;;;;;;;;;x
+no_gathering_hall_6;Clan Gathering Hall;;;;;;;;;;;;;x
+no_gathering_hall_7;Clan Gathering Hall;;;;;;;;;;;;;x
+no_gathering_hall_8;Clan Gathering Hall;;;;;;;;;;;;;x
+no_gathering_hall_desc;A meeting place for the different clans in the nomad realm to discuss various internal affairs.;;;;;;;;;;;;;x
+no_airag_producer_1;Airag Producer;;;;;;;;;;;;;x
+no_airag_producer_2;Airag Producer;;;;;;;;;;;;;x
+no_airag_producer_3;Airag Producer;;;;;;;;;;;;;x
+no_airag_producer_4;Airag Producer;;;;;;;;;;;;;x
+no_airag_producer_5;Airag Producer;;;;;;;;;;;;;x
+no_airag_producer_6;Airag Producer;;;;;;;;;;;;;x
+no_airag_producer_7;Airag Producer;;;;;;;;;;;;;x
+no_airag_producer_8;Airag Producer;;;;;;;;;;;;;x
+no_airag_producer_desc;A mild alcoholic beverage derived from mare’s milk.;;;;;;;;;;;;;x
+no_minter_1;Minter;;;;;;;;;;;;;x
+no_minter_2;Minter;;;;;;;;;;;;;x
+no_minter_3;Minter;;;;;;;;;;;;;x
+no_minter_4;Minter;;;;;;;;;;;;;x
+no_minter_5;Minter;;;;;;;;;;;;;x
+no_minter_6;Minter;;;;;;;;;;;;;x
+no_minter_7;Minter;;;;;;;;;;;;;x
+no_minter_8;Minter;;;;;;;;;;;;;x
+no_minter_desc;The local minting of coins allows more trade to be conducted in the county.;;;;;;;;;;;;;x
+no_camp_fortifications_1;Camp Fortifications;;;;;;;;;;;;;x
+no_camp_fortifications_2;Camp Fortifications;;;;;;;;;;;;;x
+no_camp_fortifications_3;Camp Fortifications;;;;;;;;;;;;;x
+no_camp_fortifications_4;Camp Fortifications;;;;;;;;;;;;;x
+no_camp_fortifications_5;Camp Fortifications;;;;;;;;;;;;;x
+no_camp_fortifications_6;Camp Fortifications;;;;;;;;;;;;;x
+no_camp_fortifications_7;Camp Fortifications;;;;;;;;;;;;;x
+no_camp_fortifications_8;Camp Fortifications;;;;;;;;;;;;;x
+no_camp_fortifications_desc;Small barricades have been erected around the camp to protect it from bandits and raiders.;;;;;;;;;;;;;x
+no_elephant_camp_1;Elephant Camp;;;;;;;;;;;;;x
+no_elephant_camp_2;Elephant Camp;;;;;;;;;;;;;x
+no_elephant_camp_3;Elephant Camp;;;;;;;;;;;;;x
+no_elephant_camp_4;Elephant Camp;;;;;;;;;;;;;x
+no_elephant_camp_5;Elephant Camp;;;;;;;;;;;;;x
+no_elephant_camp_6;Elephant Camp;;;;;;;;;;;;;x
+no_elephant_camp_7;Elephant Camp;;;;;;;;;;;;;x
+no_elephant_camp_8;Elephant Camp;;;;;;;;;;;;;x
+no_elephant_camp_desc;In the camp elephants are prepared to take part in military campaigns.;;;;;;;;;;;;;x
+title_commander_desc;§YCommanders§! are the only ones after the §YMarshal§! and the ruler who are allowed to command armies.;;;;;;;;;;;;;x
+tocharian;Tocharian;;;;;;;;;;;;;x
+no_horse_breeder_desc;There is always demand for fast and strong horses on the steppe.;;;;;;;;;;;;;x
+HORDE_RETTYPE_INDIAN;Elephant Cavalry;;;;;;;;;;;;;x
+HORDE_RETTYPE_DESERT;Camel Cavalry;;;;;;;;;;;;;x
+HORDE_RETTYPE_CAV1;Light Rider;;;;;;;;;;;;;x
+HORDE_RETTYPE_CAV2;Marauder;;;;;;;;;;;;;x
+HORDE_RETTYPE_CAV3;Skirmish Cavalry;;;;;;;;;;;;;x
+HORDE_RETTYPE_CAV4;Light Horse Archer;;;;;;;;;;;;;x
+HORDE_RETTYPE_CAV5;Light Vanguard;;;;;;;;;;;;;x
+HORDE_RETTYPE_CAV6;Heavy Vanguard;;;;;;;;;;;;;x
+HORDE_RETTYPE_CAV7;Horse Archer;;;;;;;;;;;;;x
+HORDE_RETTYPE_EUROPE;Lancer;;;;;;;;;;;;;x
+nomadic_emperor_female;Khatun;;;;;;;;;;;;;x
+nomadic_king_female;Khanum;;;;;;;;;;;;;x
+e_chagatai;Chagatai;;;;;;;;;;;;;x
+ERA_CHAR_NAME_163112;Halfdan Ragnarsson;;;;;;;;;;;;;x
+ERA_CHAR_NAME_40605;Rurik;;;;;;;;;;;;;x
+ERA_CHAR_NAME_90104;Charles the Bald;;;;;;;;;;;;;x
+ERA_CHAR_NAME_90107;Louis the German;;;;;;;;;;;;;x
+ERA_CHAR_NAME_34014;Al-Mu‘tazz;;;;;;;;;;;;;x
+ERA_CHAR_NAME_140;William the Conqueror;;;;;;;;;;;;;x
+ERA_CHAR_NAME_1316;Henry IV, Holy Roman Emperor;;;;;;;;;;;;;x
+ERA_CHAR_NAME_1128;Robert Guiscard;;;;;;;;;;;;;x
+ERA_CHAR_NAME_3096;Al-Mustansir Billah;;;;;;;;;;;;;x
+ERA_CHAR_NAME_3040;Alp Arslan;;;;;;;;;;;;;x
+ERA_CHAR_NAME_170193;Iltutmish;;;;;;;;;;;;;x
+ERA_CHAR_NAME_125501;Genghis Khan;;;;;;;;;;;;;x
+BM_THE_OLD_GODS_ERA;The Viking Age;;;;;;;;;;;;;x
+BM_THE_OLD_GODS_ERA_INFO;By the middle of the 9th century, the Norse raiders and adventurers known as the Vikings had already begun to set their indelible mark on the map of Europe, establishing realms in Russia and the British Isles and travelling and raiding as far as the Black Sea and the Mediterranean. The Carolingian rulers, descendants of Charlemagne, ruled mighty realms in France, Germany and Italy, while the Muslim religion was now firmly established in Spain under the Umayyads. The Byzantine emperor held on, though suffering under increasing pressure from the Caliphate and the Bulgarians. West of the fractured steppes, the Magyars were poised to make their claim on the Carpathian basin. Islam was spreading rapidly in Persia under rulers such as the Saffarids, and had penetrated into the Indus valley. Further east, the Hindu Gurjara-Pratihara dynasty was expanding.;;;;;;;;;;;;;x
+BM_FATE_OF_ENGLAND_ERA;The High Middle Ages;;;;;;;;;;;;;x
+BM_FATE_OF_ENGLAND_ERA_INFO;By the late 10th and early 11th centuries the Muslim world was changing, with Turkish dynasties such as the Seljuqs and Ghaznavids now dominating Persia. The Byzantine Empire was still holding its own but was to see worse times coming. Central and western continental Europe was split between France and a strong Holy Roman Empire, while Christian kings were advancing against a fractured and weakened Muslim Spain. Scandinavia was quickly converting to Christianity, and the Norse settlers in Russia and Britain had become assimilated with the local populations. Yet Viking descendants in Normandy and Italy were preparing new conquests, and the time of the First Crusade was approaching…;;;;;;;;;;;;;x
+BM_THE_MONGOLS_ERA;The Age of the Mongols;;;;;;;;;;;;;x
+BM_THE_MONGOLS_ERA_INFO;As Europe entered the 13th century, Constantinople had been weakened by the Turks and sacked by the Fourth Crusade, so the Byzantine Empire was very much weakened. The Turks still reigned in the Middle East and Persia, while in India many new kingdoms vied for power after the fall of the old dynasties. The Norman conquest had brought new political and dynastic struggles to England and France, the Christian kingdoms in Spain were continually growing stronger, and Scandinavia had left paganism behind and was becoming more centralized. In Russia several principalities struggled for power in the shadow of the Bulgars and Cumans to the east. In Germany and Italy, the Holy Roman Empire still stood firm, but beyond all this, to the east, a new power was to come into play. When the Mongols broke into Eastern Europe and Persia, it changed the balance of power in all of Western Eurasia…;;;;;;;;;;;;;x
+horse_group;Horse;;;;;;;;;;;;;x
+horse;Horse;;;;;;;;;;;;;x
+title_councilmember_king_desc;The advisor is a respected member of the realm’s council and is responsible for giving sound advice on any matters that the ruler has to deal with.;;;;;;;;;;;;;x
+title_councilmember_emperor_desc;The advisor is a respected member of the realm’s council and is responsible for giving sound advice on any matters that the ruler has to deal with.;;;;;;;;;;;;;x
+title_councilmember_king;Advisor;;;;;;;;;;;;;x
+title_councilmember_emperor;Advisor;;;;;;;;;;;;;x
+tribal_duchy;High Chiefdom;;;;;;;;;;;;;x
+tribal_duchy_norse;Jarldom;;;;;;;;;;;;;x
+duchy_norse;Jarldom;;;;;;;;;;;;;x
+tribal_county;Chiefdom;;;;;;;;;;;;;x
+tribal_kingdom_old_saxon;Grand Chiefdom;;;;;;;;;;;;;x
+tribal_kingdom_altaic;Khanate;;;;;;;;;;;;;x
+tribal_empire_altaic;Khanate;;;;;;;;;;;;;x
+tribal_empire_russian;Tsardom;;;;;;;;;;;;;x
+duchy_russian;Grand Principality;;;;;;;;;;;;;x
+empire_russian;Tsardom;;;;;;;;;;;;;x

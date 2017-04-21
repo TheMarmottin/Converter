@@ -1,0 +1,221 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+ca_culture_venetian_1;Schiavone Barrack;;;;;;;;;;;;;x
+ca_culture_venetian_2;Schiavone Barrack;;;;;;;;;;;;;x
+ca_culture_venetian_3;Schiavone Barrack;;;;;;;;;;;;;x
+ca_culture_venetian_4;Schiavone Barrack;;;;;;;;;;;;;x
+ca_culture_north_italian_1;Barbuta Conscription Center;;;;;;;;;;;;;x
+ca_culture_north_italian_2;Barbuta Conscription Center;;;;;;;;;;;;;x
+ca_culture_north_italian_3;Barbuta Conscription Center;;;;;;;;;;;;;x
+ca_culture_north_italian_4;Barbuta Conscription Center;;;;;;;;;;;;;x
+ca_culture_ligurian_1;Crossbowman Conscription Center;;;;;;;;;;;;;x
+ca_culture_ligurian_2;Crossbowman Conscription Center;;;;;;;;;;;;;x
+ca_culture_ligurian_3;Crossbowman Conscription Center;;;;;;;;;;;;;x
+ca_culture_ligurian_4;Crossbowman Conscription Center;;;;;;;;;;;;;x
+ca_culture_italian_1;Militia Training Ground;;;;;;;;;;;;;x
+ca_culture_italian_2;Militia Training Ground;;;;;;;;;;;;;x
+ca_culture_italian_3;Militia Training Ground;;;;;;;;;;;;;x
+ca_culture_italian_4;Militia Training Ground;;;;;;;;;;;;;x
+ca_culture_langobardisch_1;Arimannus Training Ground;;;;;;;;;;;;;x
+ca_culture_langobardisch_2;Arimannus Training Ground;;;;;;;;;;;;;x
+ca_culture_langobardisch_3;Arimannus Training Ground;;;;;;;;;;;;;x
+ca_culture_langobardisch_4;Arimannus Training Ground;;;;;;;;;;;;;x
+ca_culture_roman_1;Legionary Drilling Grounds;;;;;;;;;;;;;x
+ca_culture_roman_2;Legionary Drilling Grounds;;;;;;;;;;;;;x
+ca_culture_roman_3;Legionary Drilling Grounds;;;;;;;;;;;;;x
+ca_culture_roman_4;Legionary Drilling Grounds;;;;;;;;;;;;;x
+ca_culture_welsh_cumbric_1;Longbow Range;;;;;;;;;;;;;x
+ca_culture_welsh_cumbric_2;Longbow Range;;;;;;;;;;;;;x
+ca_culture_welsh_cumbric_3;Longbow Range;;;;;;;;;;;;;x
+ca_culture_welsh_cumbric_4;Longbow Range;;;;;;;;;;;;;x
+ca_culture_irish_1;Gallowglass Training Ground;;;;;;;;;;;;;x
+ca_culture_irish_2;Gallowglass Training Ground;;;;;;;;;;;;;x
+ca_culture_irish_3;Gallowglass Training Ground;;;;;;;;;;;;;x
+ca_culture_irish_4;Gallowglass Training Ground;;;;;;;;;;;;;x
+ca_culture_scottish_1;Schiltron Training Ground;;;;;;;;;;;;;x
+ca_culture_scottish_2;Schiltron Training Ground;;;;;;;;;;;;;x
+ca_culture_scottish_3;Schiltron Training Ground;;;;;;;;;;;;;x
+ca_culture_scottish_4;Schiltron Training Ground;;;;;;;;;;;;;x
+ca_culture_frank_norman_german_1;Jousting Lists;;;;;;;;;;;;;x
+ca_culture_frank_norman_german_2;Jousting Lists;;;;;;;;;;;;;x
+ca_culture_frank_norman_german_3;Jousting Lists;;;;;;;;;;;;;x
+ca_culture_frank_norman_german_4;Jousting Lists;;;;;;;;;;;;;x
+ca_culture_catalan_1;Almogavar Conscription Camp;;;;;;;;;;;;;x
+ca_culture_catalan_2;Almogavar Conscription Camp;;;;;;;;;;;;;x
+ca_culture_catalan_3;Almogavar Conscription Camp;;;;;;;;;;;;;x
+ca_culture_catalan_4;Almogavar Conscription Camp;;;;;;;;;;;;;x
+ca_culture_group_iberian_1;Knight Training Ground;;;;;;;;;;;;;x
+ca_culture_group_iberian_2;Knight Training Ground;;;;;;;;;;;;;x
+ca_culture_group_iberian_3;Knight Training Ground;;;;;;;;;;;;;x
+ca_culture_group_iberian_4;Knight Training Ground;;;;;;;;;;;;;x
+ca_culture_russian_1;Druzhina Training Ground;;;;;;;;;;;;;x
+ca_culture_russian_2;Druzhina Training Ground;;;;;;;;;;;;;x
+ca_culture_russian_3;Druzhina Training Ground;;;;;;;;;;;;;x
+ca_culture_russian_4;Druzhina Training Ground;;;;;;;;;;;;;x
+ca_culture_polish_1;Druzhina Training Ground;;;;;;;;;;;;;x
+ca_culture_polish_2;Druzhina Training Ground;;;;;;;;;;;;;x
+ca_culture_polish_3;Druzhina Training Ground;;;;;;;;;;;;;x
+ca_culture_polish_4;Druzhina Training Ground;;;;;;;;;;;;;x
+ca_culture_group_south_slavic_1;Hussar Training Ground;;;;;;;;;;;;;x
+ca_culture_group_south_slavic_2;Hussar Training Ground;;;;;;;;;;;;;x
+ca_culture_group_south_slavic_3;Hussar Training Ground;;;;;;;;;;;;;x
+ca_culture_group_south_slavic_4;Hussar Training Ground;;;;;;;;;;;;;x
+ca_culture_bulgarian_1;Boyar Training Ground;;;;;;;;;;;;;x
+ca_culture_bulgarian_2;Boyar Training Ground;;;;;;;;;;;;;x
+ca_culture_bulgarian_3;Boyar Training Ground;;;;;;;;;;;;;x
+ca_culture_bulgarian_4;Boyar Training Ground;;;;;;;;;;;;;x
+ca_culture_group_north_germanic_1;Housecarl Training Ground;;;;;;;;;;;;;x
+ca_culture_group_north_germanic_2;Housecarl Training Ground;;;;;;;;;;;;;x
+ca_culture_group_north_germanic_3;Housecarl Training Ground;;;;;;;;;;;;;x
+ca_culture_group_north_germanic_4;Housecarl Training Ground;;;;;;;;;;;;;x
+ca_culture_dutch_1;Goedendag Militia Quarters;;;;;;;;;;;;;x
+ca_culture_dutch_2;Goedendag Militia Quarters;;;;;;;;;;;;;x
+ca_culture_dutch_3;Goedendag Militia Quarters;;;;;;;;;;;;;x
+ca_culture_dutch_4;Goedendag Militia Quarters;;;;;;;;;;;;;x
+ca_culture_saxon_1;Housecarl Training Ground;;;;;;;;;;;;;x
+ca_culture_saxon_2;Housecarl Training Ground;;;;;;;;;;;;;x
+ca_culture_saxon_3;Housecarl Training Ground;;;;;;;;;;;;;x
+ca_culture_saxon_4;Housecarl Training Ground;;;;;;;;;;;;;x
+ca_culture_saxon_english_1;Longbow Range;;;;;;;;;;;;;x
+ca_culture_saxon_english_2;Longbow Range;;;;;;;;;;;;;x
+ca_culture_saxon_english_3;Longbow Range;;;;;;;;;;;;;x
+ca_culture_saxon_english_4;Longbow Range;;;;;;;;;;;;;x
+ca_culture_group_finno_ugric_1;Hunter Gathering Ground;;;;;;;;;;;;;x
+ca_culture_group_finno_ugric_2;Hunter Gathering Ground;;;;;;;;;;;;;x
+ca_culture_group_finno_ugric_3;Hunter Gathering Ground;;;;;;;;;;;;;x
+ca_culture_group_finno_ugric_4;Hunter Gathering Ground;;;;;;;;;;;;;x
+ca_culture_group_baltic_1;Warrior Gathering Ground;;;;;;;;;;;;;x
+ca_culture_group_baltic_2;Warrior Gathering Ground;;;;;;;;;;;;;x
+ca_culture_group_baltic_3;Warrior Gathering Ground;;;;;;;;;;;;;x
+ca_culture_group_baltic_4;Warrior Gathering Ground;;;;;;;;;;;;;x
+ca_culture_hungarian_1;Hussar Training Ground;;;;;;;;;;;;;x
+ca_culture_hungarian_2;Hussar Training Ground;;;;;;;;;;;;;x
+ca_culture_hungarian_3;Hussar Training Ground;;;;;;;;;;;;;x
+ca_culture_hungarian_4;Hussar Training Ground;;;;;;;;;;;;;x
+ca_culture_group_byzantine_1;Cataphract Training Ground;;;;;;;;;;;;;x
+ca_culture_group_byzantine_2;Cataphract Training Ground;;;;;;;;;;;;;x
+ca_culture_group_byzantine_3;Cataphract Training Ground;;;;;;;;;;;;;x
+ca_culture_group_byzantine_4;Cataphract Training Ground;;;;;;;;;;;;;x
+ca_culture_armenian_1;Azat Training Ground;;;;;;;;;;;;;x
+ca_culture_armenian_2;Azat Training Ground;;;;;;;;;;;;;x
+ca_culture_armenian_3;Azat Training Ground;;;;;;;;;;;;;x
+ca_culture_armenian_4;Azat Training Ground;;;;;;;;;;;;;x
+ca_culture_arberian_1;Stratiote Training Ground;;;;;;;;;;;;;x
+ca_culture_arberian_2;Stratiote Training Ground;;;;;;;;;;;;;x
+ca_culture_arberian_3;Stratiote Training Ground;;;;;;;;;;;;;x
+ca_culture_arberian_4;Stratiote Training Ground;;;;;;;;;;;;;x
+ca_culture_romanian_1;Hussar Training Ground;;;;;;;;;;;;;x
+ca_culture_romanian_2;Hussar Training Ground;;;;;;;;;;;;;x
+ca_culture_romanian_3;Hussar Training Ground;;;;;;;;;;;;;x
+ca_culture_romanian_4;Hussar Training Ground;;;;;;;;;;;;;x
+ca_culture_ethiopian_1;Ethiopian Drilling Grounds;;;;;;;;;;;;;x
+ca_culture_ethiopian_2;Ethiopian Drilling Grounds;;;;;;;;;;;;;x
+ca_culture_ethiopian_3;Ethiopian Drilling Grounds;;;;;;;;;;;;;x
+ca_culture_ethiopian_4;Ethiopian Drilling Grounds;;;;;;;;;;;;;x
+ca_culture_west_african_1;Free Warrior Lodge;;;;;;;;;;;;;x
+ca_culture_west_african_2;Free Warrior Lodge;;;;;;;;;;;;;x
+ca_culture_west_african_3;Free Warrior Lodge;;;;;;;;;;;;;x
+ca_culture_west_african_4;Free Warrior Lodge;;;;;;;;;;;;;x
+ca_culture_group_north_african_1;Zenata Riding Ground;;;;;;;;;;;;;x
+ca_culture_group_north_african_2;Zenata Riding Ground;;;;;;;;;;;;;x
+ca_culture_group_north_african_3;Zenata Riding Ground;;;;;;;;;;;;;x
+ca_culture_group_north_african_4;Zenata Riding Ground;;;;;;;;;;;;;x
+ca_culture_group_arabic_1;Camel Riding Ground;;;;;;;;;;;;;x
+ca_culture_group_arabic_2;Camel Riding Ground;;;;;;;;;;;;;x
+ca_culture_group_arabic_3;Camel Riding Ground;;;;;;;;;;;;;x
+ca_culture_group_arabic_4;Camel Riding Ground;;;;;;;;;;;;;x
+ca_culture_group_horse_arabic_1;Knight Training Ground;;;;;;;;;;;;;x
+ca_culture_group_horse_arabic_2;Knight Training Ground;;;;;;;;;;;;;x
+ca_culture_group_horse_arabic_3;Knight Training Ground;;;;;;;;;;;;;x
+ca_culture_group_horse_arabic_4;Knight Training Ground;;;;;;;;;;;;;x
+ca_culture_group_persian_1;Khwarezmian Training Ground;;;;;;;;;;;;;x
+ca_culture_group_persian_2;Khwarezmian Training Ground;;;;;;;;;;;;;x
+ca_culture_group_persian_3;Khwarezmian Training Ground;;;;;;;;;;;;;x
+ca_culture_group_persian_4;Khwarezmian Training Ground;;;;;;;;;;;;;x
+ca_culture_group_altaic_1;Riding Grounds;;;;;;;;;;;;;x
+ca_culture_group_altaic_2;Riding Grounds;;;;;;;;;;;;;x
+ca_culture_group_altaic_3;Riding Grounds;;;;;;;;;;;;;x
+ca_culture_group_altaic_4;Riding Grounds;;;;;;;;;;;;;x
+ca_culture_nahuatl_1;Jaguar Warrior Lodge;;;;;;;;;;;;;x
+ca_culture_nahuatl_2;Jaguar Warrior Lodge;;;;;;;;;;;;;x
+ca_culture_nahuatl_3;Jaguar Warrior Lodge;;;;;;;;;;;;;x
+ca_culture_nahuatl_4;Jaguar Warrior Lodge;;;;;;;;;;;;;x
+ca_culture_venetian_1_desc;The core of the Venetian infantry usually consisted of Dalmatian Slavs. Serving both as soldiers and sailors, the hardiness of the Schiavoni was a boon to Venetian ambition. The most skilled might eventually find their way to join the Oltremarini, the elite infantry of the republic.;;;;;;;;;;;;;x
+ca_culture_north_italian_1_desc;The wealth of Northern Italy attracted mercenaries from all over Europe. These ambitious men seeking employment under a Condottiero, would often be hired as Barbuta, a unit consisting of a Knight and a Man-at-Arms. Capable of affording the latest in Lombard armory, these professional soldiers are extremely effective, but as all mercenaries their enthusiasm might easily be swayed.;;;;;;;;;;;;;x
+ca_culture_ligurian_1_desc;The Balestrieri company was an integral part of the Genoese republic, and while its services might be purchased by other states or nobles in the form of hiring a regiment of its famed crossbowmen, its army commanders were still subject to Genoese regulation and could only fly the Genoese flag on the battlefield.;;;;;;;;;;;;;x
+ca_culture_italian_1_desc;Well-disciplined Italian pike formations are raised here, specializing in the defense.;;;;;;;;;;;;;x
+ca_culture_langobardisch_1_desc;Originally reserved for the elite of Langobardic society, the semi-feudal tradition of the Arimanni contract was eventually expanded to encompass free peasants and small holders that in turn for their land and protection would supply a specific amount of cavalry to their liege.;;;;;;;;;;;;;x
+ca_culture_roman_1_desc;The roman legionary is at his core a professional soldier defined by discipline. On his own not the most fearsome adversary but in a tight formation with his comrades around him a true force to be reckoned with.;;;;;;;;;;;;;x
+ca_culture_welsh_cumbric_1_desc;Longbow Range;;;;;;;;;;;;;x
+ca_culture_irish_1_desc;Originally from Scotland, the gallowglass warriors are excellent heavy infantrymen renowned for their stubborn defense.;;;;;;;;;;;;;x
+ca_culture_scottish_1_desc;The schiltron is a compact body of Scottish pikemen. If threatened by cavalry, they present row upon row of spears firmly braced in the earth. Only a fool or a madman would willingly charge into such a dense wall of killing instruments.;;;;;;;;;;;;;x
+ca_culture_frank_norman_german_1_desc;Here knights face off against each other in jousting tournaments and other chivalrous competitions.;;;;;;;;;;;;;x
+ca_culture_catalan_1_desc;Almoghavars are a hardy bunch. Lightly armored but unrelenting, these mercenaries are a force to be respected.;;;;;;;;;;;;;x
+ca_culture_group_iberian_1_desc;The agile Iberian "jinete" light cavalry is raised here. Inspired by the Moors, these horsemen are skilled at skirmishing and harassment.;;;;;;;;;;;;;x
+ca_culture_russian_1_desc;Druzhina retinues train here, well-knit martial fellowships in service of a Russian lord.;;;;;;;;;;;;;x
+ca_culture_polish_1_desc;Druzyna retinues train here, well-knit martial fellowships in service of a Polish lord.;;;;;;;;;;;;;x
+ca_culture_group_south_slavic_1_desc;This light cavalry force can trace its origins back to Serbia. Armed with spears and shields, they often serve in a support role, charging the enemy as soon as an opportunity presents itself.;;;;;;;;;;;;;x
+ca_culture_bulgarian_1_desc;Focused on heavily armed cavalry during the beginning of the first Bulgarian empire, the Bulgarian standing army eventually evolved and became centered on the usage of heavily armored infantry.;;;;;;;;;;;;;x
+ca_culture_group_north_germanic_1_desc;Scandinavian housecarls are trained here, providing excellent if somewhat ill-tempered heavy infantry, usually equipped with powerful battle axes.;;;;;;;;;;;;;x
+ca_culture_dutch_1_desc;These urban militias are named after the Flemish goedendag mace they favor in battle. They have proven themselves more than once against armored cavalry.;;;;;;;;;;;;;x
+ca_culture_saxon_1_desc;Having been on the receiving end of the Norse weaponry, the merits of these household warriors quickly became clear to the Anglo Saxons. Consisting both of men from Norse and Saxon heritage, these soldiers can wreak equal havoc on their adversaries as that of their Norse counterparts.;;;;;;;;;;;;;x
+ca_culture_saxon_english_1_desc;The strong tradition of archery in England and Wales produces excellent bowmen. Here they can practise with their powerful longbows.;;;;;;;;;;;;;x
+ca_culture_group_finno_ugric_1_desc;Here the best hunters from the region come to compete for honour and fame.;;;;;;;;;;;;;x
+ca_culture_group_baltic_1_desc;Warriors and raiders assemble here to test their strength against one another in single combat.;;;;;;;;;;;;;x
+ca_culture_hungarian_1_desc;Hussars make excellent light cavalry, and are trained to hit the enemy relentlessly from different directions before regrouping and doing it again.;;;;;;;;;;;;;x
+ca_culture_group_byzantine_1_desc;Both the horse and rider are clad in iron scales in these heavily armored cavalry formations. The cataphracts are a fearsome sight on the battlefield, and few armies can withstand one of their massed charges.;;;;;;;;;;;;;x
+ca_culture_armenian_1_desc;Forming the backbone of the Armenian medieval cavalry forces, the minor Azat nobles and their feudal retainers could be depended on to hold their own against substantially more numerous foes.;;;;;;;;;;;;;x
+ca_culture_arberian_1_desc;Cherished by both the East Roman empire and the Venetians, the light Albanian Stratiotes cavalry was renowned for its discipline.;;;;;;;;;;;;;x
+ca_culture_romanian_1_desc;The medieval Moldovian position was a precarious one, with constant outside interference. To make the most of the situation the Moldavians focused on flexible cavalry, capable of conducting effective skirmishes and able to pull out quickly when faced with to strong opposition.;;;;;;;;;;;;;x
+ca_culture_ethiopian_1_desc;Large numbers of Ethiopian warriors are drilled here in the effective use of spears and bows.;;;;;;;;;;;;;x
+ca_culture_west_african_1_desc;These free warriors from the horon caste come armed with bows and poisoned arrows.;;;;;;;;;;;;;x
+ca_culture_group_north_african_1_desc;Capable of producing the fastest and most mobile cavalry in North Africa, the Zenata tribe was revered for their horsemanship to a degree that they were deemed essential for the Almohad effort to expand their power. Catholic Iberians weren’t slow to realize the potency of these warriors and as a result moved to copy the tactics of the hard tribesmen with their own Jinettes.;;;;;;;;;;;;;x
+ca_culture_group_arabic_1_desc;Camels make adaptable and sturdy mounts, especially in desert environments. Not only does their smell often frighten horses, but they are excellent pack animals that free up faster mounts for use in battle when the situation dictates.;;;;;;;;;;;;;x
+ca_culture_group_horse_arabic_1_desc;At the pinnacle of Arab cavalry tradition is Furusiyya. The code demands strict training in the use of lance, sword, bow and above else, horsemanship, all of which a true Faris must master.;;;;;;;;;;;;;x
+ca_culture_group_persian_1_desc;Renowned for their ferocity, the heavily armed Khwarezmian cavalry are a force to be reckoned with.;;;;;;;;;;;;;x
+ca_culture_group_altaic_1_desc;The feared horse archers of the Asiatic Steppes are trained here. These highly mobile horsemen frequently outmaneuver their opponents, and are some of the finest warriors the world has ever seen.;;;;;;;;;;;;;x
+ca_culture_nahuatl_1_desc;Jaguar Warrior Lodge;;;;;;;;;;;;;x
+ca_culture_group_desert_nomad_1;Bedouin Tribe;;;;;;;;;;;;;x
+ca_culture_group_desert_nomad_2;Bedouin Tribe;;;;;;;;;;;;;x
+ca_culture_group_desert_nomad_1_desc;Bedouin tribesmen were nomads living on the shores of the desert with their herds. They were wild and dangerous opponents on the field, but if they united under the tribal cohesion, asabiyya, they could be used as a dangerous tool against enemies.;;;;;;;;;;;;;x
+ca_culture_group_desert_nomad_2_desc;Bedouin tribesmen were nomads living on the shores of the desert with their herds. They were wild and dangerous opponents on the field, but if they united under the tribal cohesion, asabiyya, they could be used as a dangerous tool against enemies.;;;;;;;;;;;;;x
+ca_culture_persian_1;Zhayedan Training Ground;;;;;;;;;;;;;x
+ca_culture_persian_2;Zhayedan Training Ground;;;;;;;;;;;;;x
+ca_culture_persian_3;Zhayedan Training Ground;;;;;;;;;;;;;x
+ca_culture_persian_4;Zhayedan Training Ground;;;;;;;;;;;;;x
+ca_culture_persian_1_desc;Renowned for their ferocity, the heavily armed Zhayedan immortals are a force to be reckoned with.;;;;;;;;;;;;;x
+ca_culture_khwarezmian_1;Khwarezmian Training Ground;;;;;;;;;;;;;x
+ca_culture_khwarezmian_2;Khwarezmian Training Ground;;;;;;;;;;;;;x
+ca_culture_khwarezmian_3;Khwarezmian Training Ground;;;;;;;;;;;;;x
+ca_culture_khwarezmian_4;Khwarezmian Training Ground;;;;;;;;;;;;;x
+ca_culture_khwarezmian_1_desc;Renowned for their ferocity, the heavily armed Khwarezmian cavalry are a force to be reckoned with.;;;;;;;;;;;;;x
+ca_culture_daylamite_1;Dailamite Training Ground;;;;;;;;;;;;;x
+ca_culture_daylamite_2;Dailamite Training Ground;;;;;;;;;;;;;x
+ca_culture_daylamite_3;Dailamite Training Ground;;;;;;;;;;;;;x
+ca_culture_daylamite_4;Dailamite Training Ground;;;;;;;;;;;;;x
+ca_culture_daylamite_1_desc;Dailamite Training Ground;;;;;;;;;;;;;x
+ca_culture_scythian_1;Ghulam Training Ground;;;;;;;;;;;;;x
+ca_culture_scythian_2;Ghulam Training Ground;;;;;;;;;;;;;x
+ca_culture_scythian_3;Ghulam Training Ground;;;;;;;;;;;;;x
+ca_culture_scythian_4;Ghulam Training Ground;;;;;;;;;;;;;x
+ca_culture_scythian_1_desc;Ghulam Training Ground;;;;;;;;;;;;;x
+ca_culture_kurdish_1;Kurdish Training Ground;;;;;;;;;;;;;x
+ca_culture_kurdish_2;Kurdish Training Ground;;;;;;;;;;;;;x
+ca_culture_kurdish_3;Kurdish Training Ground;;;;;;;;;;;;;x
+ca_culture_kurdish_4;Kurdish Training Ground;;;;;;;;;;;;;x
+ca_culture_kurdish_1_desc;Kurdish Training Ground;;;;;;;;;;;;;x
+ca_culture_sogdian_1;Soghdian Training Ground;;;;;;;;;;;;;x
+ca_culture_sogdian_2;Soghdian Training Ground;;;;;;;;;;;;;x
+ca_culture_sogdian_3;Soghdian Training Ground;;;;;;;;;;;;;x
+ca_culture_sogdian_4;Soghdian Training Ground;;;;;;;;;;;;;x
+ca_culture_sogdian_1_desc;Soghdian Training Ground;;;;;;;;;;;;;x
+tb_culture_group_altaic_nomad_1;Orda;;;;;;;;;;;;;x
+tb_culture_group_altaic_nomad_2;Orda;;;;;;;;;;;;;x
+tb_culture_group_altaic_nomad_3;Orda;;;;;;;;;;;;;x
+ca_culture_group_altaic_nomad_1;Orda;;;;;;;;;;;;;x
+ca_culture_group_altaic_nomad_2;Orda;;;;;;;;;;;;;x
+ca_culture_group_altaic_nomad_3;Orda;;;;;;;;;;;;;x
+ca_culture_group_altaic_nomad_1_desc;The feared horse archers of the Asiatic Steppes are trained here. These highly mobile horsemen frequently outmaneuver their opponents, and are some of the finest warriors the world has ever seen.;;;;;;;;;;;;;x
+tb_culture_group_desert_nomad_1;Bedouin Tribe;;;;;;;;;;;;;x
+tb_culture_group_desert_nomad_2;Bedouin Tribe;;;;;;;;;;;;;x
+tb_culture_group_desert_nomad_3;Bedouin Tribe;;;;;;;;;;;;;x
+tb_culture_group_desert_nomad_1_desc;Bedouin tribesmen were nomads living on the shores of the desert with their herds. They were wild and dangerous opponents on the field, but if they united under the tribal cohesion, asabiyya, they could be used as a dangerous tool against enemies.;;;;;;;;;;;;;x

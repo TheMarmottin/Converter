@@ -1,0 +1,72 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+RETTYPE_CUL_KARANTANCI;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_MORAVIAN;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_POMMERANIAN;Druzhina;;;;;;;;;;;;;x
+RETTYPE_CUL_CROATIAN;Uskok;;;;;;;;;;;;;x
+RETTYPE_CUL_BOSNIAN;Vlastela;;;;;;;;;;;;;x
+RETTYPE_CUL_SERBIAN;Vlastela;;;;;;;;;;;;;x
+RETTYPE_CUL_BULGARIAN;Boyar;;;;;;;;;;;;;x
+RETTYPE_CUL_BOHEMIAN;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_ROMANIAN;Calarasi;;;;;;;;;;;;;x
+RETTYPE_CUL_HUNG;Banderium;;;;;;;;;;;;;x
+RETTYPE_CUL_FINNO_UGRIC;Warrior of Lempo;;;;;;;;;;;;;x
+RETTYPE_CUL_BALT;Warrior of Perkunas;;;;;;;;;;;;;x
+RETTYPE_CUL_NORMAN;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_SOUTH_SLA;Hussar;;;;;;;;;;;;;x
+RETTYPE_CUL_BRETTON;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_SCOT;Schiltron;;;;;;;;;;;;;x
+RETTYPE_CUL_IRISH;Gallowglass;;;;;;;;;;;;;x
+RETTYPE_CUL_NORSEGAELIC;Gallowglass;;;;;;;;;;;;;x
+RETTYPE_CUL_CORNISH;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_WELSH;Longbow;;;;;;;;;;;;;x
+RETTYPE_CUL_ENG;Longbow;;;;;;;;;;;;;x
+RETTYPE_CUL_FRISIAN;Goedendag Burgerwacht;;;;;;;;;;;;;x
+RETTYPE_CUL_ANGLONORSE;Housecarl;;;;;;;;;;;;;x
+RETTYPE_CUL_SAXON;Gesith;;;;;;;;;;;;;x
+RETTYPE_CUL_NORWEGIAN;Housecarl;;;;;;;;;;;;;x
+RETTYPE_CUL_DANISH;Housecarl;;;;;;;;;;;;;x
+RETTYPE_CUL_GOTHIC;Housecarl;;;;;;;;;;;;;x
+RETTYPE_CUL_SWEDISH;Housecarl;;;;;;;;;;;;;x
+RETTYPE_CUL_DUTCH;Goedendag Burgerwacht;;;;;;;;;;;;;x
+RETTYPE_CUL_GERMAN;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_RUS;Druzhina;;;;;;;;;;;;;x
+RETTYPE_CUL_POLISH;Druzhina;;;;;;;;;;;;;x
+RETTYPE_CUL_LITHUANIAN;Warrior of Perkunas;;;;;;;;;;;;;x
+RETTYPE_CUL_E_AFR;Guard;;;;;;;;;;;;;x
+RETTYPE_CUL_IRANIAN;Khwarezmiyya;;;;;;;;;;;;;x
+RETTYPE_CUL_MONGOL;Kheshig;;;;;;;;;;;;;x
+RETTYPE_CUL_BYZ;Cataphract;;;;;;;;;;;;;x
+RETTYPE_CUL_TURKISH;Sipahi;;;;;;;;;;;;;x
+RETTYPE_CUL_ALTAIC;Kheshig;;;;;;;;;;;;;x
+RETTYPE_CUL_GEORGIAN;Royal Cavalry;;;;;;;;;;;;;x
+RETTYPE_CUL_ITA;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_SARDINIAN;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_SICILIAN;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_CORSICAN;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_CENTRAL_ITALIAN;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_SOUTHER_ITALIAN;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_NEAPOLITAN;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_TUSCAN;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_LIGURIAN;Genoese Crossbowman;;;;;;;;;;;;;x
+RETTYPE_CUL_ARPITAN;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_VENETIAN;Oltremarino;;;;;;;;;;;;;x
+RETTYPE_CUL_LANGOBARDISCH;Spatharios;;;;;;;;;;;;;x
+RETTYPE_CUL_N_AFR;Zenata;;;;;;;;;;;;;x
+RETTYPE_CUL_ARAB;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_CATALAN;Almogavar;;;;;;;;;;;;;x
+RETTYPE_CUL_ANDALUSIAN;Zenata;;;;;;;;;;;;;x
+RETTYPE_CUL_CASTILLIAN;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_PORTUGESE;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_GALICIAN;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_OCCTIAN;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_ARAGONESE;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_LEONESE;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_FRANKISH;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_ALBANIAN;Stradioti;;;;;;;;;;;;;x
+RETTYPE_CUL_ARMENIAN;Nakharar;;;;;;;;;;;;;x
+RETTYPE_CUL_BASQUE;Knight;;;;;;;;;;;;;x
+RETTYPE_CUL_ESTONIAN;Malev;;;;;;;;;;;;;x
+RETTYPE_CUL_ROMAN;Praetorian Guard;;;;;;;;;;;;;x
+RETTYPE_CUL_AVAR;Sclaveni;;;;;;;;;;;;;x
+RETTYPE_CUL_NORSE;Housecarl;;;;;;;;;;;;;x
+RETTYPE_CUL_BEDOUIN_NOMAD;Bedouin Tribe;;;;;;;;;;;;;x

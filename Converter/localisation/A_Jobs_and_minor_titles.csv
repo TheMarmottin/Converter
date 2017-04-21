@@ -1,0 +1,121 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+job_chancellor_greek;Logothete of the Course;;;;;;;;;;;;;x
+job_marshal_greek;Grand Domestic;;;;;;;;;;;;;x
+job_treasurer_greek;Grand Logothete;;;;;;;;;;;;;x
+job_chancellor_welsh;Chamberlain;;;;;;;;;;;;;x
+job_marshal_welsh;Penteulu;;;;;;;;;;;;;x
+job_treasurer_welsh;Distain;;;;;;;;;;;;;x
+job_spiritual_welsh;Offeiriad Teulu;;;;;;;;;;;;;x
+job_treasurer_swedish;Druhtinaz;;;;;;;;;;;;;x
+job_treasurer_danish;Druhtinaz;;;;;;;;;;;;;x
+job_treasurer_norwegian;Druhtinaz;;;;;;;;;;;;;x
+job_chancellor_scottish;Great Chamberlain;;;;;;;;;;;;;x
+job_marshal_scottish;Marischal;;;;;;;;;;;;;x
+job_treasurer_scottish;High Steward;;;;;;;;;;;;;x
+job_chancellor_english;Lord Chancellor;;;;;;;;;;;;;x
+job_marshal_english;Lord Constable;;;;;;;;;;;;;x
+job_treasurer_english;Lord Steward;;;;;;;;;;;;;x
+job_spiritual_saxon;Chaplain;;;;;;;;;;;;;x
+job_marshal_frankish;Constable;;;;;;;;;;;;;x
+job_treasurer_frankish;Seneschal;;;;;;;;;;;;;x
+job_marshal_occitan;Constable;;;;;;;;;;;;;x
+job_treasurer_occitan;Seneschal;;;;;;;;;;;;;x
+job_marshal_castillan;Alférez;;;;;;;;;;;;;x
+job_marshal_catalan;Seneschal;;;;;;;;;;;;;x
+job_spymaster_catalan;Torsimany;;;;;;;;;;;;;x
+job_treasurer_catalan;Mestre Racional;;;;;;;;;;;;;x
+job_spiritual_catalan;Confessor;;;;;;;;;;;;;x
+job_treasurer_norman;Bailli;;;;;;;;;;;;;x
+job_marshal_polish;Marszalek;;;;;;;;;;;;;x
+job_treasurer_polish;Chamberlain;;;;;;;;;;;;;x
+job_spymaster_polish;Deputy Chancellor;;;;;;;;;;;;;x
+job_spiritual_polish;Chaplain;;;;;;;;;;;;;x
+job_marshal_serbian;Voivode;;;;;;;;;;;;;x
+job_treasurer_serbian;Chamberlain;;;;;;;;;;;;;x
+job_chancellor_russian;Dyak;;;;;;;;;;;;;x
+job_marshal_russian;Voivode;;;;;;;;;;;;;x
+job_treasurer_russian;Tiun;;;;;;;;;;;;;x
+job_spiritual_russian;Confessor;;;;;;;;;;;;;x
+job_spymaster_russian;Tayny Sovetnik;;;;;;;;;;;;;x
+job_chancellor_hungarian;Gazdatiszt;;;;;;;;;;;;;x
+job_marshal_hungarian;Hadvezér;;;;;;;;;;;;;x
+job_treasurer_hungarian;Chamberlain;;;;;;;;;;;;;x
+job_spymaster_hungarian;Spy;;;;;;;;;;;;;x
+job_chancellor_andalusian_arabic;Grand Vizier;;;;;;;;;;;;;x
+job_marshal_romanian;Spitar;;;;;;;;;;;;;x
+job_marshal_armenian;Sparapet;;;;;;;;;;;;;x
+job_spiritual_armenian;Catholicos;;;;;;;;;;;;;x
+job_treasurer_german;Treasurer;;;;;;;;;;;;;x
+job_spiritual_christian_german;Chaplain;;;;;;;;;;;;;x
+job_spymaster_german;Court Informant;;;;;;;;;;;;;x
+job_chancellor_muslim_andalusian_arabic;Grand Vizier;;;;;;;;;;;;;x
+job_chancellor_muslim_arabic;Grand Vizier;;;;;;;;;;;;;x
+job_chancellor_muslim_altaic;Grand Vizier;;;;;;;;;;;;;x
+job_chancellor_muslim_iranian;Grand Vizier;;;;;;;;;;;;;x
+job_chancellor_muslim_north_african;Grand Vizier;;;;;;;;;;;;;x
+job_treasurer_dutch;Treasurer;;;;;;;;;;;;;x
+job_treasurer_frisian;Coin Master;;;;;;;;;;;;;x
+job_spiritual_frisian;Court Pastor;;;;;;;;;;;;;x
+job_chancellor_iranian;Grand Vizier;;;;;;;;;;;;;x
+job_marshal_iranian;Minister for War;;;;;;;;;;;;;x
+job_spymaster_iranian;Minister for the Barid;;;;;;;;;;;;;x
+job_treasurer_iranian;Minister for Finance;;;;;;;;;;;;;x
+job_spiritual_iranian;Great Imam;;;;;;;;;;;;;x
+job_treasurer_sardinian;Camerlengo;;;;;;;;;;;;;x
+job_marshal_khitan;Tayangu;;;;;;;;;;;;;x
+job_chancellor_mongol;Chief Judge;;;;;;;;;;;;;x
+job_chancellor_altaic;Ulugh Bitikchi;;;;;;;;;;;;;x
+job_treasurer_altaic;Ulugh Aghichi;;;;;;;;;;;;;x
+job_marshal_georgian;Amirspasalar;;;;;;;;;;;;;x
+job_chancellor_georgian;Grand Chancellor;;;;;;;;;;;;;x
+job_treasurer_georgian;Lord High Treasurer;;;;;;;;;;;;;x
+job_spymaster_georgian;Bokault-ukhutsesi;;;;;;;;;;;;;x
+title_master_of_the_horse_georgian;Master of the Horse;;;;;;;;;;;;;x
+title_master_of_the_hunt_georgian;Master of the Hunt;;;;;;;;;;;;;x
+title_grand_butler_georgian;Amirejibi;;;;;;;;;;;;;x
+title_master_of_the_horse_swedish;Equerry;;;;;;;;;;;;;x
+title_master_of_the_horse_lithuanian;Master of the Horse;;;;;;;;;;;;;x
+title_master_of_the_horse_russian;Master of the Horse;;;;;;;;;;;;;x
+title_master_of_the_horse_german;Master of the Horse;;;;;;;;;;;;;x
+title_grand_butler_frankish;Grand Butler;;;;;;;;;;;;;x
+title_high_almoner_frankish;Grand Almoner;;;;;;;;;;;;;x
+title_cupbearer_frankish;Cup-bearer;;;;;;;;;;;;;x
+title_master_of_the_horse_frankish;Grand Squire;;;;;;;;;;;;;x
+title_master_of_the_hunt_frankish;Grand Huntsman;;;;;;;;;;;;;x
+title_seneschal_frankish;Grand Chamberlain;;;;;;;;;;;;;x
+title_grand_butler_occitan;Grand Butler;;;;;;;;;;;;;x
+title_high_almoner_occitan;Grand Almoner;;;;;;;;;;;;;x
+title_cupbearer_occitan;Cup-bearer;;;;;;;;;;;;;x
+title_master_of_the_horse_occitan;Grand Squire;;;;;;;;;;;;;x
+title_master_of_the_hunt_occitan;Grand Huntsman;;;;;;;;;;;;;x
+title_seneschal_occitan;Grand Chamberlain;;;;;;;;;;;;;x
+title_master_of_the_horse_castillan;Great Equerry;;;;;;;;;;;;;x
+title_master_of_the_horse_catalan;Great Equerry;;;;;;;;;;;;;x
+title_master_of_the_horse_polish;Master of the Horse;;;;;;;;;;;;;x
+title_master_of_the_horse_hungarian;Master of the Horse;;;;;;;;;;;;;x
+title_high_almoner_hungarian;Almoner;;;;;;;;;;;;;x
+title_cupbearer_hungarian;Cup-bearer;;;;;;;;;;;;;x
+title_master_of_the_hunt_hungarian;Senior Master Hunter;;;;;;;;;;;;;x
+title_grand_butler_hungarian;Butler;;;;;;;;;;;;;x
+title_court_jester_hungarian;Jester;;;;;;;;;;;;;x
+title_keeper_of_swans_hungarian;Master of the Stewards;;;;;;;;;;;;;x
+title_grand_butler_dutch;Court Butler;;;;;;;;;;;;;x
+title_court_jester_dutch;Jester;;;;;;;;;;;;;x
+title_keeper_of_swans_dutch;Swan Keeper;;;;;;;;;;;;;x
+title_master_of_the_horse_frisian;Master of the Horse;;;;;;;;;;;;;x
+title_high_almoner_frisian;Almoner;;;;;;;;;;;;;x
+title_cupbearer_frisian;Court Skinker;;;;;;;;;;;;;x
+title_master_of_the_hunt_frisian;Master of the Hunt;;;;;;;;;;;;;x
+title_grand_butler_frisian;Court Attendant;;;;;;;;;;;;;x
+title_court_jester_frisian;Court Lunatic;;;;;;;;;;;;;x
+title_keeper_of_swans_frisian;Swan Guard;;;;;;;;;;;;;x
+title_high_admiral_dutch;High Admiral;;;;;;;;;;;;;x
+title_high_judge_dutch;High Judge;;;;;;;;;;;;;x
+title_state_inquisitor_dutch;State Inquisitor;;;;;;;;;;;;;x
+title_designated_heir_dutch;Ratified Heir;;;;;;;;;;;;;x
+title_high_admiral_frisian;High Admiral;;;;;;;;;;;;;x
+title_high_judge_frisian;High Judge;;;;;;;;;;;;;x
+title_state_inquisitor_frisian;State Inquisitor;;;;;;;;;;;;;x
+title_designated_heir_frisian;Directed Heir;;;;;;;;;;;;;x
+captain_catalan;Captain;;;;;;;;;;;;;x
+condottiero_catalan;Adalid;;;;;;;;;;;;;x

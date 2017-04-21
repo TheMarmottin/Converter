@@ -1,0 +1,218 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+MARQUIS_OF;Marquisate of;;;;;;;;;;;;;x
+MARQUIS;Marquis;;;;;;;;;;;;;x
+MARQUIS_FOA;Your Most Honourableness;;;;;;;;;;;;;x
+DUKECOUNT;Count;;;;;;;;;;;;;x
+DUKECOUNT_FOA;Your Right Honourableness;;;;;;;;;;;;;x
+DUKECOUNT_OF;County of;;;;;;;;;;;;;x
+DUKEKING;King;;;;;;;;;;;;;x
+DUKEKING_FOA;Your Highness;;;;;;;;;;;;;x
+DUKEKING_OF;Kingdom of;;;;;;;;;;;;;x
+DUKEPRINCE;Prince;;;;;;;;;;;;;x
+DUKEPRINCE_FOA;Your Highness;;;;;;;;;;;;;x
+DUKEPRINCE_OF;Principality of;;;;;;;;;;;;;x
+VOIVODE;Voivode;;;;;;;;;;;;;x
+VOIVODE_OF;Voivodeship of;;;;;;;;;;;;;x
+POPESS;Popess;;;;;;;;;;;;;x
+PALATINE;Count Palatine;;;;;;;;;;;;;x
+PALATINEA;Countess Palatine;;;;;;;;;;;;;x
+PALATINE_FOA;Your Right Honourableness;;;;;;;;;;;;;x
+PALATINE_OF;Palatinate of;;;;;;;;;;;;;x
+ARCHDUKE;Archduke;;;;;;;;;;;;;x
+ARCHDUKE_OF;Archduchy of;;;;;;;;;;;;;x
+GRANDDUKE;Grand Duke;;;;;;;;;;;;;x
+GRANDDUKE_FOA;Your Grace;;;;;;;;;;;;;x
+GRANDDUKE_OF;Grand Duchy of;;;;;;;;;;;;;x
+DUKEDESPOT;Despot;;;;;;;;;;;;;x
+DUKEDESPOT_FOA;Your Lordship;;;;;;;;;;;;;x
+DUKEDESPOT_OF;Despotate of;;;;;;;;;;;;;x
+ISHKHAN;Prince of Princes;;;;;;;;;;;;;x
+ISHKHAN_FOA;Your Highness;;;;;;;;;;;;;x
+ISHKHAN_OF;Kingdom of;;;;;;;;;;;;;x
+title_dauphine_of_france;Dauphin;;;;;;;;;;;;;x
+title_dauphine_of_france_FOA;Your Grace;;;;;;;;;;;;;x
+KINGDUKE;Herzog;;;;;;;;;;;;;x
+KINGDUKE_female;Duchess;;;;;;;;;;;;;x
+KINGDUKE_FOA;Your Highness;;;;;;;;;;;;;x
+KINGDUKE_OF;Duchy of;;;;;;;;;;;;;x
+KINGCA;Herzog;;;;;;;;;;;;;x
+KINGCA_FOA;Your Highness;;;;;;;;;;;;;x
+KINGCA_OF;Duchy of;;;;;;;;;;;;;x
+title_king_of_romans;King of the Romans;;;;;;;;;;;;;x
+title_king_of_romans_FOA;Your Grace;;;;;;;;;;;;;x
+title_king_of_romans_desc;Originally a title preserved for an elected Emperor who had yet to be crowned by the Pope. Later used as a title for the heir apparent of the Holy Roman Empire.;;;;;;;;;;;;;x
+title_dauphine_of_france_desc;Title bestowed upon the heir apparent of the Kingdom of France. The usage began in 1350 (the King had acquired the title in 1349 from Humbert II, who had sold the title along with his feudal estates) when Charles the 5th assumed the title, and ended in 1791 (the French Revolution). It did however reappear briefly during the short reign of the restored Bourbon monarchy (1824–1830).;;;;;;;;;;;;;x
+EF;Sun King;;;;;;;;;;;;;x
+EF_FOA;Your Highness;;;;;;;;;;;;;x
+EF_OF;Kingdom of;;;;;;;;;;;;;x
+EN;King;;;;;;;;;;;;;x
+EN_FOA;Your Highness;;;;;;;;;;;;;x
+EN_OF;Union of;;;;;;;;;;;;;x
+EP;King;;;;;;;;;;;;;x
+EP_F;Queen;;;;;;;;;;;;;x
+EP_FOA;Your Highness;;;;;;;;;;;;;x
+EP_OF;Kingdom of;;;;;;;;;;;;;x
+KINGEMPEROR;Megas Komnenos;;;;;;;;;;;;;x
+KINGEMPEROR_FOA;Your Grace;;;;;;;;;;;;;x
+KINGEMPEROR_OF;Empire of;;;;;;;;;;;;;x
+EI;Emperor;;;;;;;;;;;;;x
+EI_FOA;Your Highness;;;;;;;;;;;;;x
+EI_OF;Union of;;;;;;;;;;;;;x
+DM;Margrave;;;;;;;;;;;;;x
+DM_FOA;Your Highness;;;;;;;;;;;;;x
+DM_OF;Margraviate of;;;;;;;;;;;;;x
+DB;Duke;;;;;;;;;;;;;x
+DB_FOA;Your Highness;;;;;;;;;;;;;x
+DB_OF;Duchy of;;;;;;;;;;;;;x
+FE;Archbishop;;;;;;;;;;;;;x
+FE_FOA;Your Holiness;;;;;;;;;;;;;x
+FE_OF;Prince-Archbishopric of;;;;;;;;;;;;;x
+MEPE;King;;;;;;;;;;;;;x
+MEPE_FOA;Your Highness;;;;;;;;;;;;;x
+MEPE_OF;Kingdom of;;;;;;;;;;;;;x
+title_archchancellor_of_germany;Archchancellor of Germany;;;;;;;;;;;;;x
+title_archchancellor_of_germany_FOA;Your Holiness;;;;;;;;;;;;;x
+title_archchancellor_of_germany_desc;Among the high offices of the Empire, the office of Arch-Chancellor was split into three, one for each of the clerical Electors. To the Archbishop of Mainz was reserved the right to hold the Arch-Chancellery of Germany.;;;;;;;;;;;;;x
+title_archchancellor_of_burgundy;Archchancellor of Burgundy;;;;;;;;;;;;;x
+title_archchancellor_of_burgundy_FOA;Your Holiness;;;;;;;;;;;;;x
+title_archchancellor_of_burgundy_desc;Among the high offices of the Empire, the office of Arch-Chancellor was split into three, one for each of the clerical Electors. To the Archbishop of Trier was reserved the right to hold the Arch-Chancellery of Burgundy.;;;;;;;;;;;;;x
+title_archchancellor_of_italy;Archchancellor of Italy;;;;;;;;;;;;;x
+title_archchancellor_of_italy_FOA;Your Holiness;;;;;;;;;;;;;x
+title_archchancellor_of_italy_desc;Among the high offices of the Empire, the office of Arch-Chancellor was split into three, one for each of the clerical Electors. To the Archbishop of Köln was reserved the right to hold the Arch-Chancellery of Italy.;;;;;;;;;;;;;x
+title_archcupbearer_of_hre;Arch-Cupbearer;;;;;;;;;;;;;x
+title_archcupbearer_of_hre_FOA;Your Serene Highness;;;;;;;;;;;;;x
+title_archcupbearer_of_hre_desc;The title of Arch-Cupbearer was reserved for the King of Bohemia. Like most of the Electors, the King of Bohemia only assumed his responsibilities at the coronation of the Emperor, where he, unlike the other holders of high offices, didn’t bear any of the the imperial regalia. Due to not carrying any of the regalia, the office of Arch-Cupbearer, unlike the high offices, didn’t come with a augmentation (a special symbol to be placed in the center of the coat of arms). The daily duties of the office were delegated to the Count of Althann.;;;;;;;;;;;;;x
+title_archsteward_of_hre;Arch-Steward;;;;;;;;;;;;;x
+title_archsteward_of_hre_FOA;Your Serene Highness;;;;;;;;;;;;;x
+title_archsteward_of_hre_desc;The title of Arch-Steward was given to either the Duke of Bavaria or the Count Palatine. Like most of the Electors, the holder only assumed his responsibilities at the coronation of the Emperor, where he carried the golden orb. The golden orb was also the augmentation (a special symbol to be placed in the center of the coat of arms) that came with the office of Arch-Steward. It was to be portrayed as a golden orb on a red field. The daily duties of the office were delegated to the Count of Waldburg.;;;;;;;;;;;;;x
+title_archmarshal_of_hre;Arch-Marshal;;;;;;;;;;;;;x
+title_archmarshal_of_hre_FOA;Your Serene Highness;;;;;;;;;;;;;x
+title_archmarshal_of_hre_desc;The title of Arch-Marshal was given to the Elector of Saxony (firstly the Duke of Saxony, and after the dissolution of the old Duchy, the honor was granted to the Duke of Saxe-Wittenberg). Like most of the Electors, the holder only assumed his responsibilities at the coronation of the Emperor, where he carried the sword. The sword was also the augmentation (a special symbol to be placed in the center of the coat of arms) that came with the office of Arch-Marshal. It was to be portrayed as two crossed red swords on a black and white field. The daily duties of the office were delegated to the Count of Pappenheim.;;;;;;;;;;;;;x
+title_archchamberlain_of_hre;Arch-Chamberlain;;;;;;;;;;;;;x
+title_archchamberlain_of_hre_FOA;Your Serene Highness;;;;;;;;;;;;;x
+title_archchamberlain_of_hre_desc;The title of Arch-Chamberlain was given to the Margrave of Brandenburg. Like most of the Electors, the holder only assumed his responsibilities at the coronation of the Emperor, where he carried the scepter. The scepter was also the augmentation (a special symbol to be placed in the center of the coat of arms) that came with the office of Arch-Chamberlain. It was to be portrayed as a golden scepter on a blue field. The daily duties of the office were delegated to the Count of Hohenzollern (you could say, it stayed in the family…).;;;;;;;;;;;;;x
+title_archtreasurer_of_hre;Arch-Treasurer;;;;;;;;;;;;;x
+title_archtreasurer_of_hre_FOA;Your Serene Highness;;;;;;;;;;;;;x
+title_archtreasurer_of_hre_desc;The title of Arch-Treasurer was given to the Count Palatine in 1623 when the Duke of Bavaria replaced the Count as Arch-Steward (the title of Arch-Treasurer had not existed before). When the Bavarian Duke fell out of favour again, the Count Palatine resumed the title of Arch-Steward and the Duke of Hanover was made the new Arch-Treasurer (when the Duke of Bavaria got reconciled the Count resumed the dignity of Arch-Treasurer). Like most of the Electors, the holder only assumed his responsibilities at the coronation of the Emperor, where he carried the crown of Charlemagne (Charlemagne never wore it, as it was made several hundred years after his death). The crown was also the augmentation (a special symbol to be placed in the center of the coat of arms) that came with the office of Arch-Treasurer. It was to be portrayed as a golden crown on a red field. The daily duties of the office were delegated to the Count of Sinzendorf.;;;;;;;;;;;;;x
+title_archbannerbearer_of_hre;Arch-Bannerbearer;;;;;;;;;;;;;x
+title_archbannerbearer_of_hre_FOA;Your Serene Highness;;;;;;;;;;;;;x
+title_archbannerbearer_of_hre_desc;The title of Arch-Bannerbearer was given to the Duke of Hanover when the Duke of Bavaria replaced the Count Palatine as Arch-Steward for the second time in 1718 (the title of Arch-Bannerbearer had not existed before). Like most of the Electors, the holder only assumed his responsibilities at the coronation of the Emperor, but at this point there was nothing left to carry and the office didn’t come with an augmentation (a special symbol to be placed in the center of the coat of arms). The daily duties of the office were delegated to the Count of Zeppelin-Aschhausen.;;;;;;;;;;;;;x
+title_erzherzog_of_osterreich;Archduke;;;;;;;;;;;;;x
+title_erzherzog_of_osterreich_FOA;Your Highness;;;;;;;;;;;;;x
+title_erzherzog_of_osterreich_desc;;;;;;;;;;;;;;x
+title_archmaster_of_the_hunt_of_hre;Arch-Master of the Hunt;;;;;;;;;;;;;x
+title_archmaster_of_the_hunt_of_hre_FOA;Your Serene Highness;;;;;;;;;;;;;x
+title_archmaster_of_the_hunt_of_hre_desc;The title of Arch-Master of the Hunt of the Holy Roman Empire was bestowed upon the Margrave of Meissen.;;;;;;;;;;;;;x
+ADA;Archduke;;;;;;;;;;;;;x
+ADA_female;Archduchess;;;;;;;;;;;;;x
+ADA_FOA;Your Highness;;;;;;;;;;;;;x
+ADA_OF;Archduchy of;;;;;;;;;;;;;x
+KINGCA_female;Duchess;;;;;;;;;;;;;x
+BURGRAVE;Burgrave;;;;;;;;;;;;;x
+BURGRAVINE;Burgravine;;;;;;;;;;;;;x
+BURGRAVE_FOA;Your Highness;;;;;;;;;;;;;x
+BURGRAVE_OF;Burgraviate of;;;;;;;;;;;;;x
+CPALATIN;Count;;;;;;;;;;;;;x
+CEPALATIN;Countess;;;;;;;;;;;;;x
+CPALATIN_FOA;Your Right Honourableness;;;;;;;;;;;;;x
+CPALATIN_OF;County of;;;;;;;;;;;;;x
+GIUDICATO;Giudice;;;;;;;;;;;;;x
+GIUDICATO_F;Giudicessa;;;;;;;;;;;;;x
+GIUDICATO_FOA;Your Highness;;;;;;;;;;;;;x
+GIUDICATO_OF;Giudicato of;;;;;;;;;;;;;x
+MARQUISATE;Marquess;;;;;;;;;;;;;x
+MARCHESA;Marquise;;;;;;;;;;;;;x
+MARQUISATE_FOA;Your Highness;;;;;;;;;;;;;x
+MARQUISATE_OF;Marquisate of;;;;;;;;;;;;;x
+MARGRAVE;Margrave;;;;;;;;;;;;;x
+MARGRAVINE;Margravine;;;;;;;;;;;;;x
+MARGRAVE_FOA;Your Most Honourableness;;;;;;;;;;;;;x
+MARGRAVE_OF;Margraviate of;;;;;;;;;;;;;x
+LANDGRAVE;Landgrave;;;;;;;;;;;;;x
+LANDGRAVINE;Landgravine;;;;;;;;;;;;;x
+LANDGRAVE_OF;Landgraviate of;;;;;;;;;;;;;x
+LANDGRAVE_FOA;Your Grace;;;;;;;;;;;;;x
+HANSE;Hochmeister;;;;;;;;;;;;;x
+HANSE_female;Hochmeisterin;;;;;;;;;;;;;x
+HANSE_title_ruler_consort_female;Our Lady;;;;;;;;;;;;;x
+HANSE_FOA;Your Grace;;;;;;;;;;;;;x
+HANSE_OF;Hochmeister of;;;;;;;;;;;;;x
+Grand_duke;Grand Duke;;;;;;;;;;;;;x
+Grand_duke_foa;Grand Duke;;;;;;;;;;;;;x
+Grand_duchy_of;Grand Duchy of;;;;;;;;;;;;;x
+title_female_child;Her Highness;;;;;;;;;;;;;x
+title_male_child;His Highness;;;;;;;;;;;;;x
+LANDGRAAFSCHAP;Landgrave;;;;;;;;;;;;;x
+LANDGRAAFSCHAP_FOA;Your Highness;;;;;;;;;;;;;x
+LANDGRAAFSCHAP_OF;Landgraviate of;;;;;;;;;;;;;x
+VICOMTE;Viscount;;;;;;;;;;;;;x
+VICOMTE_OF;Viscounty of;;;;;;;;;;;;;x
+VICOMTE_FOA;Monseigneur;;;;;;;;;;;;;x
+VICOMTESSE;Viscountess;;;;;;;;;;;;;x
+VICOMTE_title_ruler_consort;Viscount;;;;;;;;;;;;;x
+VICOMTE_title_ruler_consort_female;Viscountess;;;;;;;;;;;;;x
+city_baron_occitan;Consul;;;;;;;;;;;;;x
+CAPITOUL;Magistrate;;;;;;;;;;;;;x
+CAPITOUL_FOA;Your Honor;;;;;;;;;;;;;x
+MAGCONF;Magistrate;;;;;;;;;;;;;x
+MAGCONF_OF;Confederation of;;;;;;;;;;;;;x
+VOIEVODAT;Voivode;;;;;;;;;;;;;x
+VOIEVODAT_FOA;Your Highness;;;;;;;;;;;;;x
+VOIEVODAT_OF;Voivodeship of;;;;;;;;;;;;;x
+JUND_OF;Jund of;;;;;;;;;;;;;x
+PRINCE;Prince;;;;;;;;;;;;;x
+PRINCE_female;Princess;;;;;;;;;;;;;x
+Oasis_OF;Oasis of;;;;;;;;;;;;;x
+title_rector_of_burgundy;Rector of Burgundy;;;;;;;;;;;;;x
+title_rector_of_burgundy_FOA;Your Serene Highness;;;;;;;;;;;;;x
+title_rector_of_burgundy_desc;When William III, Count of Burgundy, was assassinated in February 1127, King Lothar III supported the claims of William’s uncle, Duke Conrad of Zähringen, to the Countship, and conferred on him the regal powers over Burgundy. Lacking a proper title, the Zähringer called themselves Dukes and Rectors of Burgundy, in order to gain the status of Dukes of Burgundy. The Duchy of Burgundy was in fact a part of France, so the royal chancellery avoided the term and the effective power of the Rector (in Roman law, a generic term for provincial governor) was restricted to the possessions of the Zähringer east of the Jura.;;;;;;;;;;;;;x
+ULM_FOA;Your Ulmness;;;;;;;;;;;;;x
+ULM;Ulm;;;;;;;;;;;;;x
+title_marcher_lord;Marcher Lord;;;;;;;;;;;;;x
+title_marcher_lord_FOA;Your Grace;;;;;;;;;;;;;x
+title_marcher_lord_desc;The Welsh Marches were created as entities during the process of the Norman subjugation of Wales. Being bestowed a Marcher Lordship meant endowment of privileges not seen elsewhere in the English kingdom, principally of which was the exemption from royal writ and the freedom to construct castles and grant market rights without royal approval inside the jurisdiction of the lordship.;;;;;;;;;;;;;x
+title_marcher_earl;Earl of March;;;;;;;;;;;;;x
+title_marcher_earl_FOA;Your Grace;;;;;;;;;;;;;x
+title_marcher_earl_desc;The title of Earl of March appears as a peerage title in both England and Scotland. In the English case it was first bestowed on Baron Roger Mortimer, the dominating lord of the Welsh Marshes in 1287. Following a slight intermezzo involving the removal of the baron’s head, his son would eventually be restored to the title, and the title would stay with the family for a further three generations.;;;;;;;;;;;;;x
+title_marcher_earl_scotland;Earl of March;;;;;;;;;;;;;x
+title_marcher_earl_scotland_FOA;Your Grace;;;;;;;;;;;;;x
+title_marcher_earl_scotland_desc;The title of Earl of March appears as a peerage title in both England and Scotland. In the Scottish case it was given to the previous Earl Gospatric of Northumberland, after he was deprived of his estates by William the Conquerer. While Gospatric received the marches, he never actually assumed the title as Earl of March, preferring instead the interchangeable title of Earl of Dunbar. This practice continued for multiple generations and it wasn’t until Patrick of Dunbar, the nominal 8th Earl of March, inherited in 1289, that the title of Earl of March became the preferred.;;;;;;;;;;;;;x
+title_earl_of_arundel;Earl of Arundel;;;;;;;;;;;;;x
+title_earl_of_arundel_FOA;Your Grace;;;;;;;;;;;;;x
+title_earl_of_arundel_desc;The title of Earl of Arundel was first created for William d’Aubigny who married the daughter of Roger de Montgomerie, the constructor of the castle. Subsequently the title by tradition went to who ever owned the castle, a tradition later confirmed by royal writ. The title was often held in parallel with that of the Earl of Sussex, although nominally the titles weren’t interchangeable.;;;;;;;;;;;;;x
+RAIS;Rais;;;;;;;;;;;;;x
+RAIS_FOA;Your Highness;;;;;;;;;;;;;x
+KANZ;Kanz al-Dawla;;;;;;;;;;;;;x
+KANZ_FOA;Your Highness;;;;;;;;;;;;;x
+CAESAR;Caesar;;;;;;;;;;;;;x
+CAESAR_FOA;Your Highness;;;;;;;;;;;;;x
+CAESAR_OF;Lordship of;;;;;;;;;;;;;x
+AMIR_AL_ARAB;Amir al-‘arab;;;;;;;;;;;;;x
+Yabghu;Yabgu;;;;;;;;;;;;;x
+Yabghu_FOA;Your Highness;;;;;;;;;;;;;x
+Yabghuluq_OF;Yabguluq of;;;;;;;;;;;;;x
+Opa;Opa;;;;;;;;;;;;;x
+Opa_FOA;Your Highness;;;;;;;;;;;;;x
+Kuren_OF;Kuren of;;;;;;;;;;;;;x
+Khan;Khan;;;;;;;;;;;;;x
+Khan_FOA;Your Highness;;;;;;;;;;;;;x
+Khanliq_of;Khanate of;;;;;;;;;;;;;x
+Idiqut;Idiqut;;;;;;;;;;;;;x
+Idiqut_FOA;Your Highness;;;;;;;;;;;;;x
+IMAMATE_OF;Imamate of;;;;;;;;;;;;;x
+Emperor;Emperor;;;;;;;;;;;;;x
+Empress;Empress;;;;;;;;;;;;;x
+Elteber;Elteber;;;;;;;;;;;;;x
+Elteber_FOA;Your Highness;;;;;;;;;;;;;x
+Elteberluq_OF;Elteberluq of;;;;;;;;;;;;;x
+HIGH_CHIEFTESS;High Chieftess;;;;;;;;;;;;;x
+RECTOR;Rector;;;;;;;;;;;;;x
+RECTOR_FEMALE;Rector;;;;;;;;;;;;;x
+GRANDE;Grandee;;;;;;;;;;;;;x
+GRANDE_FEMALE;Grandee;;;;;;;;;;;;;x
+CONSUL;Consul;;;;;;;;;;;;;x
+CONSUL_FEMALE;Consul;;;;;;;;;;;;;x
+CAPTAINOFTHEPEOPLE;Capitano del popolo;;;;;;;;;;;;;x
+CAPTAINOFTHEPEOPLE_FEMALE;Capitano del popolo;;;;;;;;;;;;;x
+PODESTA;Podestà;;;;;;;;;;;;;x
+PODESTA_FEMALE;Podestà;;;;;;;;;;;;;x

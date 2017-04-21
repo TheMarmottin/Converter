@@ -1,0 +1,751 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+k_papal_state;Papal States;;;;;;;;;;;;;x
+k_papal_state_adj;Papal;;;;;;;;;;;;;x
+d_degothers;Goths;;;;;;;;;;;;;x
+d_degothers_adj;Gothic;;;;;;;;;;;;;x
+d_devenders;Wends;;;;;;;;;;;;;x
+d_devenders_adj;Wendish;;;;;;;;;;;;;x
+k_austria;Austria;;;;;;;;;;;;;x
+k_austria_adj;Austrian;;;;;;;;;;;;;x
+k_oldlivonia;Livonia;;;;;;;;;;;;;x
+k_oldlivonia_adj;Livonian;;;;;;;;;;;;;x
+k_gardariki;Kievan Rus’;;;;;;;;;;;;;x
+k_gardariki_adj;Rus’;;;;;;;;;;;;;x
+k_toulouse;Toulouse;;;;;;;;;;;;;x
+k_toulouse_adj;Toulouse;;;;;;;;;;;;;x
+k_flanders;Flanders;;;;;;;;;;;;;x
+k_flanders_adj;Flemish;;;;;;;;;;;;;x
+k_provence;Provence;;;;;;;;;;;;;x
+k_provence_adj;Provençal;;;;;;;;;;;;;x
+k_york;York;;;;;;;;;;;;;x
+k_york_adj;York;;;;;;;;;;;;;x
+d_austrialombardic;Austria;;;;;;;;;;;;;x
+d_austrialombardic_adj;Austrian;;;;;;;;;;;;;x
+d_neustria;Neustria;;;;;;;;;;;;;x
+d_neustria_adj;Neustrian;;;;;;;;;;;;;x
+d_tuscia;Tuscia;;;;;;;;;;;;;x
+d_tuscia_adj;Tuscia;;;;;;;;;;;;;x
+d_amalfi;Amalfi;;;;;;;;;;;;;x
+d_amalfi_adj;Amalfitan;;;;;;;;;;;;;x
+d_norman_apulia;Apulia;;;;;;;;;;;;;x
+d_norman_apulia_adj;Apulian;;;;;;;;;;;;;x
+d_lower_lorraine;Lower Lorraine;;;;;;;;;;;;;x
+d_lower_lorraine_adj;Lower Lorrainian;;;;;;;;;;;;;x
+d_brabanttitular;Brabant;;;;;;;;;;;;;x
+d_brabanttitular_adj;Brabant;;;;;;;;;;;;;x
+k_valencia;Valencia;;;;;;;;;;;;;x
+k_valencia_adj;Valencian;;;;;;;;;;;;;x
+k_spanish_galicia;Galicia;;;;;;;;;;;;;x
+k_spanish_galicia_adj;Galician;;;;;;;;;;;;;x
+k_granada;Granada;;;;;;;;;;;;;x
+k_granada_adj;Granadan;;;;;;;;;;;;;x
+k_catalunya;Catalonia;;;;;;;;;;;;;x
+k_catalunya_adj;Catalan;;;;;;;;;;;;;x
+d_alba_de_tormes;Alba de Tormes;;;;;;;;;;;;;x
+d_alba_de_tormes_adj;Alba de Tormes;;;;;;;;;;;;;x
+d_alburquerque;Alburquerque;;;;;;;;;;;;;x
+d_alburquerque_adj;Alburquerque;;;;;;;;;;;;;x
+d_cardona;Cardona;;;;;;;;;;;;;x
+d_cardona_adj;Cardona;;;;;;;;;;;;;x
+d_gandia;Gandia;;;;;;;;;;;;;x
+d_gandia_adj;Gandia;;;;;;;;;;;;;x
+d_infantado;Infantado;;;;;;;;;;;;;x
+d_infantado_adj;Infantado;;;;;;;;;;;;;x
+d_medina_sidonia;Medina Sidonia;;;;;;;;;;;;;x
+d_medina_sidonia_adj;Medina Sidonia;;;;;;;;;;;;;x
+d_medinaceli;Medinaceli;;;;;;;;;;;;;x
+d_medinaceli_adj;Medinaceli;;;;;;;;;;;;;x
+e_occitania;Occitania;;;;;;;;;;;;;x
+e_occitania_adj;Occitan;;;;;;;;;;;;;x
+d_sangermano;Terra Sancti Benedicti;;;;;;;;;;;;;x
+d_sangermano_adj;Terra;;;;;;;;;;;;;x
+d_swabia;Swabia;;;;;;;;;;;;;x
+d_swabia_adj;Swabian;;;;;;;;;;;;;x
+d_krain;Carniola;;;;;;;;;;;;;x
+d_krain_adj;Carniolan;;;;;;;;;;;;;x
+d_carinthia;Carinthia;;;;;;;;;;;;;x
+d_carinthia_adj;Carinthian;;;;;;;;;;;;;x
+d_saxony;Saxony;;;;;;;;;;;;;x
+d_saxony_adj;Saxon;;;;;;;;;;;;;x
+d_bavaria;Bavaria;;;;;;;;;;;;;x
+d_bavaria_adj;Bavarian;;;;;;;;;;;;;x
+d_franconia;Franconia;;;;;;;;;;;;;x
+d_franconia_adj;Franconian;;;;;;;;;;;;;x
+d_lauenburg;Saxe-Lauenburg;;;;;;;;;;;;;x
+d_lauenburg_adj;Saxon;;;;;;;;;;;;;x
+k_salerno;Principality of Salerno;;;;;;;;;;;;;x
+k_salerno_adj;Salernitan;;;;;;;;;;;;;x
+d_yatviags;Yotvingians;;;;;;;;;;;;;x
+d_yatviags_adj;Yotvingian;;;;;;;;;;;;;x
+d_pruthenians;Old Prussians;;;;;;;;;;;;;x
+d_pruthenians_adj;Old Prussian;;;;;;;;;;;;;x
+d_curonian;Curonians;;;;;;;;;;;;;x
+d_curonian_adj;Curonian;;;;;;;;;;;;;x
+d_zemigalians;Semigallians;;;;;;;;;;;;;x
+d_zemigalians_adj;Semigallian;;;;;;;;;;;;;x
+d_lettigalians;Latgalians;;;;;;;;;;;;;x
+d_lettigalians_adj;Latgalian;;;;;;;;;;;;;x
+d_esthonia;Estonia;;;;;;;;;;;;;x
+d_esthonia_adj;Estonian;;;;;;;;;;;;;x
+d_narbonne;Narbonne;;;;;;;;;;;;;x
+d_narbonne_adj;Narbonnese;;;;;;;;;;;;;x
+b_friis;Friis;;;;;;;;;;;;;x
+b_vadskaer;Vadskær;;;;;;;;;;;;;x
+b_ukena;Ukena;;;;;;;;;;;;;x
+b_fan_knyphausen;fan Knyphausen;;;;;;;;;;;;;x
+b_tjarksena;Tjarksena;;;;;;;;;;;;;x
+d_nordfrisland;Uthlande;;;;;;;;;;;;;x
+d_nordfrisland_adj;Uthlande;;;;;;;;;;;;;x
+b_limbek;Limbekburgr;;;;;;;;;;;;;x
+b_wittenborg;Wittenborg;;;;;;;;;;;;;x
+b_warendorp;Warendorp;;;;;;;;;;;;;x
+b_pat_luneburg;Lüneburg;;;;;;;;;;;;;x
+b_vorrade;Vorrade;;;;;;;;;;;;;x
+b_bardewik;Bardewik;;;;;;;;;;;;;x
+d_ugandians;Ungannians;;;;;;;;;;;;;x
+d_ugandians_adj;Ungannian;;;;;;;;;;;;;x
+d_oseelians;Oeselians;;;;;;;;;;;;;x
+d_oeelians_adj;Oeselian;;;;;;;;;;;;;x
+d_vironians;Vironians;;;;;;;;;;;;;x
+d_vironians_adj;Vironian;;;;;;;;;;;;;x
+d_rotalians;Rotalians;;;;;;;;;;;;;x
+d_rotalians_adj;Rotalian;;;;;;;;;;;;;x
+d_estonia;Estonians;;;;;;;;;;;;;x
+d_estonia_adj;Estonian;;;;;;;;;;;;;x
+d_vanemas;Vanema;;;;;;;;;;;;;x
+d_vanemas_adj;Vanema;;;;;;;;;;;;;x
+d_sakalians;Sakalians;;;;;;;;;;;;;x
+d_sakalians_adj;Sakalian;;;;;;;;;;;;;x
+d_selonians;Selonians;;;;;;;;;;;;;x
+d_selonians_adj;Selonian;;;;;;;;;;;;;x
+d_talavians;Talavians;;;;;;;;;;;;;x
+d_talavians_adj;Talavian;;;;;;;;;;;;;x
+d_deltuvians;Deltuvians;;;;;;;;;;;;;x
+d_deltuvians_adj;Deltuvian;;;;;;;;;;;;;x
+d_drevlyans;Drevlyans;;;;;;;;;;;;;x
+d_drevlyans_adj;Drevlyan;;;;;;;;;;;;;x
+d_ulichs;Ulichs;;;;;;;;;;;;;x
+d_ulichs_adj;Ulich;;;;;;;;;;;;;x
+d_east_polanes;Polans;;;;;;;;;;;;;x
+d_east_polanes_adj;Polan;;;;;;;;;;;;;x
+d_volhynians;Volhynians;;;;;;;;;;;;;x
+d_volhynians_adj;Volhynian;;;;;;;;;;;;;x
+d_buzhans;Buzhans;;;;;;;;;;;;;x
+d_buzhans_adj;Buzhan;;;;;;;;;;;;;x
+d_tivertsi;Tivertsi;;;;;;;;;;;;;x
+d_tivertsi_adj;Tivertsi;;;;;;;;;;;;;x
+k_oborites;Obotrites;;;;;;;;;;;;;x
+k_oborites_adj;Obotrite;;;;;;;;;;;;;x
+k_pommeranians;Pomeranians;;;;;;;;;;;;;x
+k_pommeranians_adj;Pomeranian;;;;;;;;;;;;;x
+k_lutici;Lutici;;;;;;;;;;;;;x
+k_lutici_adj;Lutician;;;;;;;;;;;;;x
+k_sorbs;Sorbs;;;;;;;;;;;;;x
+k_sorbs_adj;Sorbian;;;;;;;;;;;;;x
+d_veleti;Veleti;;;;;;;;;;;;;x
+d_veleti_adj;Veletian;;;;;;;;;;;;;x
+d_wolinians;Wolinians;;;;;;;;;;;;;x
+d_wolinians_adj;Wolinian;;;;;;;;;;;;;x
+d_hevelli;Hevelli;;;;;;;;;;;;;x
+d_hevelli_adj;Hevelli;;;;;;;;;;;;;x
+d_sprevani;Sprevane;;;;;;;;;;;;;x
+d_sprevani_adj;Sprevane;;;;;;;;;;;;;x
+d_doxani;Dossani;;;;;;;;;;;;;x
+d_doxani_adj;Dossani;;;;;;;;;;;;;x
+d_lunkini;Lunkini;;;;;;;;;;;;;x
+d_lunkini_adj;Lunkini;;;;;;;;;;;;;x
+d_circipanes;Circipanes;;;;;;;;;;;;;x
+d_circipanes_adj;Circipane;;;;;;;;;;;;;x
+d_kessians;Kessinians;;;;;;;;;;;;;x
+d_kessians_adj;Kessinian;;;;;;;;;;;;;x
+d_readrians;Redarians;;;;;;;;;;;;;x
+d_readrians_adj;Redarian;;;;;;;;;;;;;x
+d_tollensians;Tollensians;;;;;;;;;;;;;x
+d_tollensians_adj;Tollensian;;;;;;;;;;;;;x
+d_rani;Rani;;;;;;;;;;;;;x
+d_rani_adj;Rani;;;;;;;;;;;;;x
+d_nizzi;Nizzi;;;;;;;;;;;;;x
+d_nizzi_adj;Nizzi;;;;;;;;;;;;;x
+d_oborites;Obotrites;;;;;;;;;;;;;x
+d_oborites_adj;Obotrite;;;;;;;;;;;;;x
+d_wagrians;Wagri;;;;;;;;;;;;;x
+d_wagrians_adj;Wagrian;;;;;;;;;;;;;x
+d_drevani;Drevani;;;;;;;;;;;;;x
+d_drevani_adj;Drevani;;;;;;;;;;;;;x
+d_travnjane;Travunians;;;;;;;;;;;;;x
+d_travnjane_adj;Travunian;;;;;;;;;;;;;x
+d_warnabi;Warnabi;;;;;;;;;;;;;x
+d_warnabi_adj;Warnabi;;;;;;;;;;;;;x
+d_pommeranians;Pomeranians;;;;;;;;;;;;;x
+d_pommeranians_adj;Pomeranian;;;;;;;;;;;;;x
+d_prissani;Prissani;;;;;;;;;;;;;x
+d_prissani_adj;Prissani;;;;;;;;;;;;;x
+d_slovinici;Slovincians;;;;;;;;;;;;;x
+d_slovinici_adj;Slovincian;;;;;;;;;;;;;x
+d_kashubians;Kashubians;;;;;;;;;;;;;x
+d_kashubians_adj;Kashubian;;;;;;;;;;;;;x
+d_chutizi;Chutizi;;;;;;;;;;;;;x
+d_chutizi_adj;Chutizi;;;;;;;;;;;;;x
+d_leubuzzi;Leubuzzi;;;;;;;;;;;;;x
+d_leubuzzi_adj;Leubuzzi;;;;;;;;;;;;;x
+d_glomacze;Glomacze;;;;;;;;;;;;;x
+d_glomacze_adj;Glomacze;;;;;;;;;;;;;x
+d_lusatians;Lusatians;;;;;;;;;;;;;x
+d_lusatians_adj;Lusatian;;;;;;;;;;;;;x
+d_milceni;Milceni;;;;;;;;;;;;;x
+d_milceni_adj;Milceni;;;;;;;;;;;;;x
+d_susali;Susali;;;;;;;;;;;;;x
+d_susali_adj;Susali;;;;;;;;;;;;;x
+d_plisni;Plisni;;;;;;;;;;;;;x
+d_plisni_adj;Plisni;;;;;;;;;;;;;x
+d_nizizi;Nizizi;;;;;;;;;;;;;x
+d_nizizi_adj;Nizizi;;;;;;;;;;;;;x
+d_nisan;Nisanen;;;;;;;;;;;;;x
+d_nisan_adj;Nisanen;;;;;;;;;;;;;x
+d_coledizi;Colodici;;;;;;;;;;;;;x
+d_coledizi_adj;Colodici;;;;;;;;;;;;;x
+d_nudzici;Nudici;;;;;;;;;;;;;x
+d_nudzici_adj;Nudici;;;;;;;;;;;;;x
+d_zitizi;Zitici;;;;;;;;;;;;;x
+d_zitizi_adj;Zitici;;;;;;;;;;;;;x
+d_lowerbrittany;Lower Brittany;;;;;;;;;;;;;x
+d_lowerbrittany_adj;Lower Breton;;;;;;;;;;;;;x
+e_ulm;Ulm;;;;;;;;;;;;;x
+e_ulm_adj;Ulm;;;;;;;;;;;;;x
+d_erzosterreich;Austria;;;;;;;;;;;;;x
+d_erzosterreich_adj;Austrian;;;;;;;;;;;;;x
+k_norman_england;England;;;;;;;;;;;;;x
+k_norman_england_adj;English;;;;;;;;;;;;;x
+d_kryvians;Krivichs;;;;;;;;;;;;;x
+d_kryvians_adj;Krivich;;;;;;;;;;;;;x
+d_severians;Severians;;;;;;;;;;;;;x
+d_severians_adj;Severian;;;;;;;;;;;;;x
+d_lendians;Lendians;;;;;;;;;;;;;x
+d_lendians_adj;Lendian;;;;;;;;;;;;;x
+k_geats;Götaland;;;;;;;;;;;;;x
+k_geats_adj;Geatish;;;;;;;;;;;;;x
+e_kaleva;Kalevala;;;;;;;;;;;;;x
+e_kaleva_adj;Kalevala;;;;;;;;;;;;;x
+d_bohemians;Czechs;;;;;;;;;;;;;x
+d_bohemians_adj;Czech;;;;;;;;;;;;;x
+d_massufa;Massufa;;;;;;;;;;;;;x
+d_massufa_adj;Massufa;;;;;;;;;;;;;x
+d_lamtuna;Lamtuna;;;;;;;;;;;;;x
+d_lamtuna_adj;Lamtuna;;;;;;;;;;;;;x
+d_lamta;Lemta;;;;;;;;;;;;;x
+d_lamta_adj;Lemta;;;;;;;;;;;;;x
+d_lamta_east;Lemta;;;;;;;;;;;;;x
+d_lamta_east_adj;Lemta;;;;;;;;;;;;;x
+d_zaghawa;Zaghawa;;;;;;;;;;;;;x
+d_zaghawa_adj;Zaghawa;;;;;;;;;;;;;x
+d_guddala;Guddala;;;;;;;;;;;;;x
+d_guddala_adj;Guddala;;;;;;;;;;;;;x
+d_targa;Fezzan;;;;;;;;;;;;;x
+d_targa_adj;Fezzan;;;;;;;;;;;;;x
+d_lawata;Laguatan;;;;;;;;;;;;;x
+d_lawata_adj;Laguatan;;;;;;;;;;;;;x
+d_masila;Masila;;;;;;;;;;;;;x
+d_masila_adj;Masila;;;;;;;;;;;;;x
+d_dakhila;Dakhla;;;;;;;;;;;;;x
+d_dakhila_adj;Dakhla;;;;;;;;;;;;;x
+d_soninke;Soninke;;;;;;;;;;;;;x
+d_soninke_adj;Soninke;;;;;;;;;;;;;x
+d_duguwa;Duguwa;;;;;;;;;;;;;x
+d_duguwa_adj;Duguwa;;;;;;;;;;;;;x
+d_blemmyes;Beja;;;;;;;;;;;;;x
+d_blemmyes_adj;Beja;;;;;;;;;;;;;x
+k_makuria;Makuria;;;;;;;;;;;;;x
+k_makuria_adj;Makurian;;;;;;;;;;;;;x
+k_alodia;Alodia;;;;;;;;;;;;;x
+k_alodia_adj;Alodian;;;;;;;;;;;;;x
+k_moravia;Great Moravia;;;;;;;;;;;;;x
+k_moravia_adj;Great Moravian;;;;;;;;;;;;;x
+k_sunni;Sunni;;;;;;;;;;;;;x
+k_sunni_adj;Sunni;;;;;;;;;;;;;x
+k_tiaret;Tiaret;;;;;;;;;;;;;x
+k_tiaret_adj;Tiaret;;;;;;;;;;;;;x
+d_musab;Mozabites;;;;;;;;;;;;;x
+d_musab_adj;Mozabite;;;;;;;;;;;;;x
+d_gazzula;Gazzula;;;;;;;;;;;;;x
+d_gazzula_adj;Gazzula;;;;;;;;;;;;;x
+WEST_FRANCIA;West Francia;;;;;;;;;;;;;x
+WEST_FRANCIA_ADJ;West Frankish;;;;;;;;;;;;;x
+EAST_FRANCIA;East Francia;;;;;;;;;;;;;x
+EAST_FRANCIA_ADJ;East Frankish;;;;;;;;;;;;;x
+d_azben;Aïr;;;;;;;;;;;;;x
+d_azben_adj;Aïr;;;;;;;;;;;;;x
+d_takarkart;Takarkart;;;;;;;;;;;;;x
+d_takarkart_adj;Takarkart;;;;;;;;;;;;;x
+d_azger;Azger;;;;;;;;;;;;;x
+d_azger_adj;Azger;;;;;;;;;;;;;x
+d_tanmak;Banu Tanmak;;;;;;;;;;;;;x
+d_tanmak_adj;Banu Tanmak;;;;;;;;;;;;;x
+d_mazata;Mazata;;;;;;;;;;;;;x
+d_mazata_adj;Mazata;;;;;;;;;;;;;x
+d_naqis;Naqis;;;;;;;;;;;;;x
+d_naqis_adj;Naqis;;;;;;;;;;;;;x
+d_baqlin;Baqlin;;;;;;;;;;;;;x
+d_baqlin_adj;Baqlin;;;;;;;;;;;;;x
+d_djarin;Jarin;;;;;;;;;;;;;x
+d_djarin_adj;Jarin;;;;;;;;;;;;;x
+d_qataa;Qita’a;;;;;;;;;;;;;x
+d_qataa_adj;Qita’a;;;;;;;;;;;;;x
+d_bazin;Bazin;;;;;;;;;;;;;x
+d_bazin_adj;Bazin;;;;;;;;;;;;;x
+d_kanz;Banu Kanz;;;;;;;;;;;;;x
+d_kanz_adj;Banu Kanz;;;;;;;;;;;;;x
+d_danakil;Afar;;;;;;;;;;;;;x
+d_danakil_adj;Afar;;;;;;;;;;;;;x
+d_shewa;Shewa;;;;;;;;;;;;;x
+d_shewa_adj;Shewa;;;;;;;;;;;;;x
+d_semien;Semien;;;;;;;;;;;;;x
+d_semien_adj;Semien;;;;;;;;;;;;;x
+k_ifat;Ifat;;;;;;;;;;;;;x
+k_ifat_adj;Ifat;;;;;;;;;;;;;x
+k_blemmyes;Beja;;;;;;;;;;;;;x
+k_blemmyes_adj;Beja;;;;;;;;;;;;;x
+d_dregovichi_adj;Dregovich;;;;;;;;;;;;;x
+d_radimichi_adj;Radimich;;;;;;;;;;;;;x
+d_hilal;Banu Hilal;;;;;;;;;;;;;x
+d_hilal_adj;Banu Hilal;;;;;;;;;;;;;x
+d_qurra;Banu Qurra;;;;;;;;;;;;;x
+d_qurra_adj;Banu Qurra;;;;;;;;;;;;;x
+d_candar;Isfendiyar;;;;;;;;;;;;;x
+d_candar_adj;Isfendiyarid;;;;;;;;;;;;;x
+d_karasi;Karasi;;;;;;;;;;;;;x
+d_karasi_adj;Karasid;;;;;;;;;;;;;x
+d_karaman;Karaman;;;;;;;;;;;;;x
+d_karaman_adj;Karamanid;;;;;;;;;;;;;x
+d_osmanli;Ottomans;;;;;;;;;;;;;x
+d_osmanli_adj;Ottoman;;;;;;;;;;;;;x
+d_saruhan;Saruhan;;;;;;;;;;;;;x
+d_saruhan_adj;Sarukhanid;;;;;;;;;;;;;x
+d_aydin;Aydin;;;;;;;;;;;;;x
+d_aydin_adj;Aydinid;;;;;;;;;;;;;x
+d_eretnid;Eretna;;;;;;;;;;;;;x
+d_eretnid_adj;Eretnid;;;;;;;;;;;;;x
+k_hammadid_adj;Hamdanid;;;;;;;;;;;;;x
+k_kafsid_adj;Hafsid;;;;;;;;;;;;;x
+d_mentese;Mentese;;;;;;;;;;;;;x
+d_mentese_adj;Mentese;;;;;;;;;;;;;x
+d_tekke;Teke;;;;;;;;;;;;;x
+d_tekke_adj;Teke;;;;;;;;;;;;;x
+d_hamid;Hamid;;;;;;;;;;;;;x
+d_hamid_adj;Hamidid;;;;;;;;;;;;;x
+d_ahi;Ahis;;;;;;;;;;;;;x
+d_ahi_adj;Ahi;;;;;;;;;;;;;x
+k_zirid_adj;Zirid;;;;;;;;;;;;;x
+d_silesians;Slezanie;;;;;;;;;;;;;x
+d_silesians_adj;Silesian;;;;;;;;;;;;;x
+d_polans;Polans;;;;;;;;;;;;;x
+d_polans_adj;Polan;;;;;;;;;;;;;x
+d_mazovians;Masovians;;;;;;;;;;;;;x
+d_mazovians_adj;Masovian;;;;;;;;;;;;;x
+d_vistulans;Vistulans;;;;;;;;;;;;;x
+d_vistulans_adj;Vistulan;;;;;;;;;;;;;x
+k_duklja;Duklja;;;;;;;;;;;;;x
+k_duklja_adj;Dukljan;;;;;;;;;;;;;x
+k_armenia_minor;Lesser Armenia;;;;;;;;;;;;;x
+k_armenia_minor_adj;Lesser Armenian;;;;;;;;;;;;;x
+k_rum;Rûm;;;;;;;;;;;;;x
+k_rum_adj;Rûm;;;;;;;;;;;;;x
+k_vaspurakan;Vaspurakan;;;;;;;;;;;;;x
+k_vaspurakan_adj;Vaspurakan;;;;;;;;;;;;;x
+k_iberia;Iberia;;;;;;;;;;;;;x
+k_iberia_adj;Iberian;;;;;;;;;;;;;x
+k_abkhazia_adj;Abkhazian;;;;;;;;;;;;;x
+k_abkhazia;Abkhazia;;;;;;;;;;;;;x
+k_kakheti_adj;Kakhetian;;;;;;;;;;;;;x
+k_kakheti;Kakheti;;;;;;;;;;;;;x
+k_imereti_adj;Imeretian;;;;;;;;;;;;;x
+k_imereti;Imereti;;;;;;;;;;;;;x
+d_mingrelia;Samegrelo;;;;;;;;;;;;;x
+d_mingrelia_adj;Samegrelian;;;;;;;;;;;;;x
+d_meshketi;Meskheti;;;;;;;;;;;;;x
+d_meshketi_adj;Meskhetian;;;;;;;;;;;;;x
+d_theodoro;Gothia;;;;;;;;;;;;;x
+d_theodoro_adj;Gothian;;;;;;;;;;;;;x
+d_tiflis;Tbilisi;;;;;;;;;;;;;x
+d_tiflis_adj;Tbilisi;;;;;;;;;;;;;x
+d_paulicians;Paulicians;;;;;;;;;;;;;x
+d_paulicians_adj;Paulician;;;;;;;;;;;;;x
+d_vanand;Vanand;;;;;;;;;;;;;x
+d_vanand_adj;Vanandian;;;;;;;;;;;;;x
+d_melitene;Malatya;;;;;;;;;;;;;x
+d_melitene_adj;Malatyan;;;;;;;;;;;;;x
+d_pagania;Narentines;;;;;;;;;;;;;x
+d_pagania_adj;Narentine;;;;;;;;;;;;;x
+d_rhodos;Rhodes;;;;;;;;;;;;;x
+d_rhodos_adj;Rhodian;;;;;;;;;;;;;x
+k_bagratid_grand_principality;Armenia;;;;;;;;;;;;;x
+k_bagratid_grand_principality_adj;Armenian;;;;;;;;;;;;;x
+d_sadah;Sa‘dah;;;;;;;;;;;;;x
+d_sadah_adj;Sa‘dah;;;;;;;;;;;;;x
+d_zabid;Zabid;;;;;;;;;;;;;x
+d_zabid_adj;Zabid;;;;;;;;;;;;;x
+d_sharif_mecca;Mecca;;;;;;;;;;;;;x
+d_sharif_mecca_adj;Meccan;;;;;;;;;;;;;x
+d_sharif_medina;Medina;;;;;;;;;;;;;x
+d_sharif_medina_adj;Medinan;;;;;;;;;;;;;x
+e_latin_empire;Latin Empire;;;;;;;;;;;;;x
+d_dahlak;Dahlak;;;;;;;;;;;;;x
+d_dahlak_adj;Dahlak;;;;;;;;;;;;;x
+d_siraf;Siraf;;;;;;;;;;;;;x
+d_siraf_adj;Siraf;;;;;;;;;;;;;x
+d_livonian_brothers_of_the_sword;Livonian Brothers of the Sword;;;;;;;;;;;;;x
+d_livonian_brothers_of_the_sword_adj;Livonian;;;;;;;;;;;;;x
+d_uighurs;Uyghurs;;;;;;;;;;;;;x
+d_uighurs_adj;Uyghur;;;;;;;;;;;;;x
+d_oghuz;Oghuz;;;;;;;;;;;;;x
+d_oghuz_adj;Oghuz;;;;;;;;;;;;;x
+d_yaghma;Yagma;;;;;;;;;;;;;x
+d_yaghma_adj;Yagma;;;;;;;;;;;;;x
+d_chigil;Chigil;;;;;;;;;;;;;x
+d_chigil_adj;Chigil;;;;;;;;;;;;;x
+d_basmils;Basmyls;;;;;;;;;;;;;x
+d_basmils_adj;Basmyl;;;;;;;;;;;;;x
+k_kimek;Kimek;;;;;;;;;;;;;x
+k_kimek_adj;Kimek;;;;;;;;;;;;;x
+d_qipchaq;Kipchak;;;;;;;;;;;;;x
+d_qipchaq_adj;Kipchak;;;;;;;;;;;;;x
+d_qirghiz;Yenisei Kirghiz;;;;;;;;;;;;;x
+d_qirghiz_adj;Kirghiz;;;;;;;;;;;;;x
+d_tukhsi;Tukhsi;;;;;;;;;;;;;x
+d_tukhsi_adj;Tukhsi;;;;;;;;;;;;;x
+d_zunbil;Rutbils;;;;;;;;;;;;;x
+d_zunbil_adj;Rutbil;;;;;;;;;;;;;x
+k_khwarezmia;Khwarezm;;;;;;;;;;;;;x
+k_khwarezmia_adj;Khwarezmian;;;;;;;;;;;;;x
+d_qarluq;Karluks;;;;;;;;;;;;;x
+d_qarluq_adj;Karluk;;;;;;;;;;;;;x
+d_naimans;Naiman;;;;;;;;;;;;;x
+d_naimans_adj;Naiman;;;;;;;;;;;;;x
+e_khitan;Kara-Khitan Khanate;;;;;;;;;;;;;x
+e_khitan_adj;Kara-Khitan;;;;;;;;;;;;;x
+k_cuman;Cumans;;;;;;;;;;;;;x
+k_cuman_adj;Cuman;;;;;;;;;;;;;x
+k_qipchaq;Kipchak;;;;;;;;;;;;;x
+k_qipchaq_adj;Kipchak;;;;;;;;;;;;;x
+d_yawdi_ertim;Irtim;;;;;;;;;;;;;x
+d_yawdi_ertim_adj;Irtim;;;;;;;;;;;;;x
+d_kuerchi_chur;Tzour;;;;;;;;;;;;;x
+d_kuerchi_chur_adj;Tzour;;;;;;;;;;;;;x
+d_qabuqsin_yula;Gyla;;;;;;;;;;;;;x
+d_qabuqsin_yula_adj;Gyla;;;;;;;;;;;;;x
+d_suru_kulbej;Koulpeï;;;;;;;;;;;;;x
+d_suru_kulbej_adj;Koulpeï;;;;;;;;;;;;;x
+d_qara_bay;Charaboï;;;;;;;;;;;;;x
+d_qara_bay_adj;Charaboï;;;;;;;;;;;;;x
+d_boru_tolmach;Talmat;;;;;;;;;;;;;x
+d_boru_tolmach_adj;Talmat;;;;;;;;;;;;;x
+d_yazi_qapan;Chopon;;;;;;;;;;;;;x
+d_yazi_qapan_adj;Chopon;;;;;;;;;;;;;x
+d_bula_chopan;Tzopon;;;;;;;;;;;;;x
+d_bula_chopan_adj;Tzopon;;;;;;;;;;;;;x
+k_pechenegs;Pechenegs;;;;;;;;;;;;;x
+k_pechenegs_adj;Pecheneg;;;;;;;;;;;;;x
+k_qangar;Kankalis;;;;;;;;;;;;;x
+k_qangar_adj;Kankali;;;;;;;;;;;;;x
+k_kerman;Kerman;;;;;;;;;;;;;x
+k_kerman_adj;Kerman;;;;;;;;;;;;;x
+d_shabankara;Shabankara;;;;;;;;;;;;;x
+d_shabankara_adj;Shabankara;;;;;;;;;;;;;x
+d_iraqiya_oghuz;‘Iraqiya;;;;;;;;;;;;;x
+d_iraqiya_oghuz_adj;‘Iraqiya;;;;;;;;;;;;;x
+k_uzes;Uzes;;;;;;;;;;;;;x
+k_uzes_adj;Uz;;;;;;;;;;;;;x
+e_khazaria;Khazaria;;;;;;;;;;;;;x
+e_khazaria_adj;Khazar;;;;;;;;;;;;;x
+e_mongol_empire;Mongol Empire;;;;;;;;;;;;;x
+d_black_caps;Black Caps;;;;;;;;;;;;;x
+d_black_caps_adj;Black Cap;;;;;;;;;;;;;x
+k_magyar;Hétmagyar;;;;;;;;;;;;;x
+d_mordvins;Mokshas;;;;;;;;;;;;;x
+d_mordvins_adj;Mokshan;;;;;;;;;;;;;x
+d_mordvins_adj_alan;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_arberian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_armenian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_georgian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_greek;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_east_gothic;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_dalmatian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_italian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_venetian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_ligurian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_latin;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_southern_italian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_tuscan;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_neapolitan;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_umbrian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_sardinian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_sicilian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_english;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_frankish;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_occitan;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_arpitan;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_norman;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_thuringian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_swabian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_bavarian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_low_saxon;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_franconian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_low_german;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_low_frankish;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_dutch;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_german;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_danish;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_swedish;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_norwegian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_gothic;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_hungarian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_leonese;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_castillan;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_aragonese;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_basque;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_romanian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_polish;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_pommeranian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_bohemian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_moravian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_russian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_serbian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_croatian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_bulgarian;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_karantanci;Mordvin;;;;;;;;;;;;;x
+d_mordvins_adj_bosnian;Mordvin;;;;;;;;;;;;;x
+d_burtas;Burtas;;;;;;;;;;;;;x
+d_burtas_adj;Burtas;;;;;;;;;;;;;x
+d_mordvins_erza;Erzya;;;;;;;;;;;;;x
+d_mordvins_erza_adj;Erzyan;;;;;;;;;;;;;x
+d_zyriane;Komi;;;;;;;;;;;;;x
+d_zyriane_adj;Komi;;;;;;;;;;;;;x
+d_maris_vetluga;Vetluga Mari;;;;;;;;;;;;;x
+d_maris_vetluga_adj;Vetluga Mari;;;;;;;;;;;;;x
+d_maris_vetluga_adj_bashkir;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_bolghar;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_turkish;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_turkmen;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_oghuz;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_mongol;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_kirghiz;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_uyghur;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_cuman;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_khazar;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_pecheneg;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_karluk;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_avar;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_khitan;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_polish;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_pommeranian;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_bohemian;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_moravian;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_russian;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_serbian;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_croatian;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_bulgarian;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_karantanci;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris_vetluga_adj_bosnian;Vetluga Cheremis;;;;;;;;;;;;;x
+d_maris;Vyatka Mari;;;;;;;;;;;;;x
+d_maris_adj;Vyatka Mari;;;;;;;;;;;;;x
+d_maris_adj_bashkir;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_bolghar;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_turkish;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_turkmen;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_oghuz;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_mongol;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_kirghiz;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_uyghur;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_cuman;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_khazar;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_pecheneg;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_karluk;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_avar;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_khitan;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_polish;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_pommeranian;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_bohemian;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_moravian;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_russian;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_serbian;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_croatian;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_bulgarian;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_karantanci;Cheremis;;;;;;;;;;;;;x
+d_maris_adj_bosnian;Cheremis;;;;;;;;;;;;;x
+d_samoyeds;Yaran;;;;;;;;;;;;;x
+d_samoyeds_adj;Yaran;;;;;;;;;;;;;x
+d_lyydians;Ludes;;;;;;;;;;;;;x
+d_lyydians_adj;Ludian;;;;;;;;;;;;;x
+d_livgians;Olonets Karelians;;;;;;;;;;;;;x
+d_livgians_adj;Olonets Karelian;;;;;;;;;;;;;x
+d_chudes;Chudes;;;;;;;;;;;;;x
+d_chudes_adj;Chud;;;;;;;;;;;;;x
+d_bjarmians;Permians;;;;;;;;;;;;;x
+d_bjarmians_adj;Permian;;;;;;;;;;;;;x
+d_bjarmians_adj_polish;Zavoloshka Chud;;;;;;;;;;;;;x
+d_bjarmians_adj_pommeranian;Zavoloshka Chud;;;;;;;;;;;;;x
+d_bjarmians_adj_bohemian;Zavoloshka Chud;;;;;;;;;;;;;x
+d_bjarmians_adj_moravian;Zavoloshka Chud;;;;;;;;;;;;;x
+d_bjarmians_adj_russian;Zavoloshka Chud;;;;;;;;;;;;;x
+d_bjarmians_adj_serbian;Zavoloshka Chud;;;;;;;;;;;;;x
+d_bjarmians_adj_croatian;Zavoloshka Chud;;;;;;;;;;;;;x
+d_bjarmians_adj_bulgarian;Zavoloshka Chud;;;;;;;;;;;;;x
+d_bjarmians_adj_karantanci;Zavoloshka Chud;;;;;;;;;;;;;x
+d_bjarmians_adj_bosnian;Zavoloshka Chud;;;;;;;;;;;;;x
+d_bjarmians_adj_saxon;Beorm;;;;;;;;;;;;;x
+d_toimians;Toimians;;;;;;;;;;;;;x
+d_toimians_adj;Toimian;;;;;;;;;;;;;x
+d_karelians;Karelians;;;;;;;;;;;;;x
+d_karelians_adj;Karelian;;;;;;;;;;;;;x
+d_horse_karelians;Horse Karelians;;;;;;;;;;;;;x
+d_horse_karelians_adj;Horse Karelian;;;;;;;;;;;;;x
+d_savonians;Savonians;;;;;;;;;;;;;x
+d_savonians_adj;Savonian;;;;;;;;;;;;;x
+d_votes;Votes;;;;;;;;;;;;;x
+d_votes_adj;Votian;;;;;;;;;;;;;x
+d_ingrians;Izhorians;;;;;;;;;;;;;x
+d_ingrians_adj;Izhorian;;;;;;;;;;;;;x
+d_kylfings;Kylfings;;;;;;;;;;;;;x
+d_kylfings_adj;Kylfing;;;;;;;;;;;;;x
+d_tavasts;Tavastians;;;;;;;;;;;;;x
+d_tavasts_adj;Tavastian;;;;;;;;;;;;;x
+d_tavasts_adj_pommeranian;Yem;;;;;;;;;;;;;x
+d_tavasts_adj_bohemian;Yem;;;;;;;;;;;;;x
+d_tavasts_adj_moravian;Yem;;;;;;;;;;;;;x
+d_tavasts_adj_russian;Yem;;;;;;;;;;;;;x
+d_tavasts_adj_serbian;Yem;;;;;;;;;;;;;x
+d_tavasts_adj_croatian;Yem;;;;;;;;;;;;;x
+d_tavasts_adj_bulgarian;Yem;;;;;;;;;;;;;x
+d_tavasts_adj_karantanci;Yem;;;;;;;;;;;;;x
+d_tavasts_adj_bosnian;Yem;;;;;;;;;;;;;x
+d_suomi_finns;Finns;;;;;;;;;;;;;x
+d_suomi_finns_adj;Finnish;;;;;;;;;;;;;x
+d_kvens;Kvens;;;;;;;;;;;;;x
+d_kvens_adj;Kven;;;;;;;;;;;;;x
+d_kvens_birkarls;Birkarls;;;;;;;;;;;;;x
+d_kvens_birkarls_adj;Birkarl;;;;;;;;;;;;;x
+d_brodniks;Brodnici;;;;;;;;;;;;;x
+d_brodniks_adj;Brodnici;;;;;;;;;;;;;x
+d_bolohoveni;Bolokhoveni;;;;;;;;;;;;;x
+d_bolohoveni_adj;Bolokhoveni;;;;;;;;;;;;;x
+d_kabars;Kabars;;;;;;;;;;;;;x
+d_kabars_adj;Kabar;;;;;;;;;;;;;x
+d_urusoba;Urosoba;;;;;;;;;;;;;x
+d_urusoba_adj;Urosoba;;;;;;;;;;;;;x
+d_ulasgoli;Ulashevichi;;;;;;;;;;;;;x
+d_ulasgoli_adj;Ulashevichi;;;;;;;;;;;;;x
+d_chortan;Csertan;;;;;;;;;;;;;x
+d_chortan_adj;Csertan;;;;;;;;;;;;;x
+d_burchali;Borchol;;;;;;;;;;;;;x
+d_burchali_adj;Borchol;;;;;;;;;;;;;x
+d_qor;Kor;;;;;;;;;;;;;x
+d_qor_adj;Kor;;;;;;;;;;;;;x
+d_oren;Uran;;;;;;;;;;;;;x
+d_oren_adj;Uran;;;;;;;;;;;;;x
+d_qongurogli;Kangarogli;;;;;;;;;;;;;x
+d_qongurogli_adj;Kangarogli;;;;;;;;;;;;;x
+d_targil;Targil;;;;;;;;;;;;;x
+d_targil_adj;Targil;;;;;;;;;;;;;x
+d_olberlig;Olberli;;;;;;;;;;;;;x
+d_olberlig_adj;Olberli;;;;;;;;;;;;;x
+d_enchogli;Andjogli;;;;;;;;;;;;;x
+d_enchogli_adj;Andjogli;;;;;;;;;;;;;x
+d_yimek;Emiakovie;;;;;;;;;;;;;x
+d_yimek_adj;Emiakovie;;;;;;;;;;;;;x
+d_toqsoba;Toksobichi;;;;;;;;;;;;;x
+d_toqsoba_adj;Toksobichi;;;;;;;;;;;;;x
+d_terteroba;Terteroba;;;;;;;;;;;;;x
+d_terteroba_adj;Terteroba;;;;;;;;;;;;;x
+d_dorut;Durut;;;;;;;;;;;;;x
+d_dorut_adj;Durut;;;;;;;;;;;;;x
+d_ay_opa;Ay-Opa;;;;;;;;;;;;;x
+d_ay_opa_adj;Ay-Opa;;;;;;;;;;;;;x
+d_tekule;Döger;;;;;;;;;;;;;x
+d_tekule_adj;Döger;;;;;;;;;;;;;x
+d_salgur;Salur;;;;;;;;;;;;;x
+d_salgur_adj;Salur;;;;;;;;;;;;;x
+k_old_north;Hen Ogledd;;;;;;;;;;;;;x
+k_old_north_adj;Hen Ogledd;;;;;;;;;;;;;x
+d_baloch;Balochs;;;;;;;;;;;;;x
+d_baloch_adj;Baloch;;;;;;;;;;;;;x
+k_hilal;Banu Hilal;;;;;;;;;;;;;x
+k_hilal_adj;Banu Hilal;;;;;;;;;;;;;x
+d_chester;Chester;;;;;;;;;;;;;x
+d_chester_adj;Chester;;;;;;;;;;;;;x
+k_ireland_titular;Tara;;;;;;;;;;;;;x
+k_ireland_titular_adj;Tara;;;;;;;;;;;;;x
+d_goliadj;Galindians;;;;;;;;;;;;;x
+d_goliadj_adj;Galindian;;;;;;;;;;;;;x
+d_warmians;Warmians;;;;;;;;;;;;;x
+d_warmians_adj;Warmian;;;;;;;;;;;;;x
+d_pomesanians;Pomesanians;;;;;;;;;;;;;x
+d_pomesanians_adj;Pomesanian;;;;;;;;;;;;;x
+d_sasnians;Sasnians;;;;;;;;;;;;;x
+d_sasnians_adj;Sasnian;;;;;;;;;;;;;x
+d_pogesanians;Pogesanians;;;;;;;;;;;;;x
+d_pogesanians_adj;Pogesanian;;;;;;;;;;;;;x
+d_bartians;Bartians;;;;;;;;;;;;;x
+d_bartians_adj;Bartian;;;;;;;;;;;;;x
+d_nadruvians;Nadruvians;;;;;;;;;;;;;x
+d_nadruvians_adj;Nadruvian;;;;;;;;;;;;;x
+d_scalovians;Skalvians;;;;;;;;;;;;;x
+d_scalovians_adj;Skalvian;;;;;;;;;;;;;x
+d_sambians;Sambians;;;;;;;;;;;;;x
+d_sambians_adj;Sambian;;;;;;;;;;;;;x
+d_ghor;Ghor;;;;;;;;;;;;;x
+d_ghor_adj;Ghor;;;;;;;;;;;;;x
+d_barghawata;Tamasna;;;;;;;;;;;;;x
+d_barghawata_adj;Tamasna;;;;;;;;;;;;;x
+d_sala;Chellah;;;;;;;;;;;;;x
+d_sala_adj;Chellah;;;;;;;;;;;;;x
+d_vercelli_republic;Comune of Vercelli;;;;;;;;;;;;;x
+d_vercelli_republic_adj;Vercelli;;;;;;;;;;;;;x
+d_vicenza_republic;Comune of Vicenza;;;;;;;;;;;;;x
+d_vicenca_republic_adj;Vicenza;;;;;;;;;;;;;x
+d_verona_republic;Comune of Verona;;;;;;;;;;;;;x
+d_verona_republic_adj;Veronese;;;;;;;;;;;;;x
+d_padova_republic;Comune of Padua;;;;;;;;;;;;;x
+d_padova_republic_adj;Paduan;;;;;;;;;;;;;x
+d_ferrara_republic;Comune of Ferrara;;;;;;;;;;;;;x
+d_ferrara_republic_adj;Ferrara;;;;;;;;;;;;;x
+d_mantua_republic;Comune of Mantua;;;;;;;;;;;;;x
+d_mantua_republic_adj;Mantuan;;;;;;;;;;;;;x
+d_brescia_republic;Comune of Brescia;;;;;;;;;;;;;x
+d_brescia_republic_adj;Brescian;;;;;;;;;;;;;x
+d_bergamo_republic;Comune of Bergamo;;;;;;;;;;;;;x
+d_bergamo_republic_adj;Bergamo;;;;;;;;;;;;;x
+d_milano_republic;Comune of Milan;;;;;;;;;;;;;x
+d_milano_republic_adj;Milanese;;;;;;;;;;;;;x
+d_novara_republic;Comune of Novara;;;;;;;;;;;;;x
+d_novara_republic_adj;Novara;;;;;;;;;;;;;x
+d_pavia_republic;Comune of Pavia;;;;;;;;;;;;;x
+d_pavia_republic_adj;Pavian;;;;;;;;;;;;;x
+d_modena_republic;Comune of Modena;;;;;;;;;;;;;x
+d_modena_republic_adj;Modenese;;;;;;;;;;;;;x
+d_reggio_republic;Comune of Reggio;;;;;;;;;;;;;x
+d_reggio_republic_adj;Reggiano;;;;;;;;;;;;;x
+d_parma_republic;Comune of Parma;;;;;;;;;;;;;x
+d_parma_republic_adj;Parmese;;;;;;;;;;;;;x
+d_piacenza_republic;Comune of Piacenza;;;;;;;;;;;;;x
+d_piacenza_republic_adj;Piacentine;;;;;;;;;;;;;x
+d_cremona_republic;Comune of Cremona;;;;;;;;;;;;;x
+d_cremona_republic_adj;Cremonian;;;;;;;;;;;;;x
+d_asti_republic;Comune of Asti;;;;;;;;;;;;;x
+d_asti_republic_adj;Astigiani;;;;;;;;;;;;;x
+d_siena_republic;Comune of Siena;;;;;;;;;;;;;x
+d_siena_republic_adj;Sienese;;;;;;;;;;;;;x
+d_arezzo_republic;Comune of Arezzo;;;;;;;;;;;;;x
+d_arezzo_republic_adj;Aretine;;;;;;;;;;;;;x
+d_lucca_republic;Comune of Lucca;;;;;;;;;;;;;x
+d_lucca_republic_adj;Luccan;;;;;;;;;;;;;x
+d_firenze_republic;Comune of Florence;;;;;;;;;;;;;x
+d_firenze_republic_adj;Florentine;;;;;;;;;;;;;x
+k_tuscany;Tuscany;;;;;;;;;;;;;x
+k_tuscany_adj;Tuscan;;;;;;;;;;;;;x
+k_lombard_league;Lombard League;;;;;;;;;;;;;x
+k_lombard_league_adj;Lombard League;;;;;;;;;;;;;x
+k_tuscan_league;Tuscan League;;;;;;;;;;;;;x
+k_tuscan_league_adj;Tuscan League;;;;;;;;;;;;;x
+d_hashshashin;Hashshashin;;;;;;;;;;;;;x
+d_hashshashin_adj;Hashshashin;;;;;;;;;;;;;x
+d_amiralarab;Arabs;;;;;;;;;;;;;x
+d_amiralarab_adj;Arab;;;;;;;;;;;;;x

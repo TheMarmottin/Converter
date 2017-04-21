@@ -1,0 +1,967 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+PROV909;White Desert;;;;;;;;;;;;;x
+PROV911;Timbuktu;;;;;;;;;;;;;x
+PROV912;Aoudaghost;;;;;;;;;;;;;x
+PROV913;Ghana;;;;;;;;;;;;;x
+PROV914;Gao;;;;;;;;;;;;;x
+PROV915;Djenné;;;;;;;;;;;;;x
+PROV916;Taghaza;;;;;;;;;;;;;x
+PROV917;Araouane;;;;;;;;;;;;;x
+PROV918;Sijilmasa;;;;;;;;;;;;;x
+PROV919;Oualata;;;;;;;;;;;;;x
+PROV920;Ouadane;;;;;;;;;;;;;x
+PROV921;Idjil;;;;;;;;;;;;;x
+PROV922;Tadmekka;;;;;;;;;;;;;x
+PROV923;Adrar Plateau;;;;;;;;;;;;;x
+PROV924;Western Sahara;;;;;;;;;;;;;x
+PROV925;Manding;;;;;;;;;;;;;x
+PROV926;Bambouk;;;;;;;;;;;;;x
+PROV927;Zarma;;;;;;;;;;;;;x
+PROV928;Gurma;;;;;;;;;;;;;x
+PROV930;Bar;;;;;;;;;;;;;x
+PROV931;Möre;;;;;;;;;;;;;x
+PROV932;Värend;;;;;;;;;;;;;x
+PROV933;Roslavl;;;;;;;;;;;;;x
+PROV934;Lahoysk;;;;;;;;;;;;;x
+PROV936;Hvar;;;;;;;;;;;;;x
+PROV938;Polimlje;;;;;;;;;;;;;x
+PROV940;Mosynopolis;;;;;;;;;;;;;x
+PROV942;Saarbrücken;;;;;;;;;;;;;x
+PROV943;Knin;;;;;;;;;;;;;x
+PROV945;Ceredigion;;;;;;;;;;;;;x
+PROV946;Carmarthen;;;;;;;;;;;;;x
+PROV947;Brecknock;;;;;;;;;;;;;x
+PROV948;Hesse;;;;;;;;;;;;;x
+PROV949;Powys Wenwynwyn;;;;;;;;;;;;;x
+PROV950;Ellumsyssel;;;;;;;;;;;;;x
+PROV951;Schwerin;;;;;;;;;;;;;x
+PROV952;Hanau;;;;;;;;;;;;;x
+PROV953;Bentheim;;;;;;;;;;;;;x
+PROV954;Zeitz;;;;;;;;;;;;;x
+PROV955;Augsburg;;;;;;;;;;;;;x
+PROV958;Duino;;;;;;;;;;;;;x
+PROV959;Vodica;;;;;;;;;;;;;x
+PROV960;Lauffen;;;;;;;;;;;;;x
+PROV961;Branicevo;;;;;;;;;;;;;x
+PROV962;Braslaw;;;;;;;;;;;;;x
+PROV963;Jersika;;;;;;;;;;;;;x
+PROV964;Richmond;;;;;;;;;;;;;x
+PROV965;Travunija;;;;;;;;;;;;;x
+PROV966;Vorotynsk;;;;;;;;;;;;;x
+PROV967;Ibiza;;;;;;;;;;;;;x
+PROV968;Saône;;;;;;;;;;;;;x
+PROV970;Comburg-Rothenburg;;;;;;;;;;;;;x
+PROV972;Pitten;;;;;;;;;;;;;x
+PROV973;Berks;;;;;;;;;;;;;x
+PROV974;Buckingham;;;;;;;;;;;;;x
+PROV975;Brega;;;;;;;;;;;;;x
+PROV976;Roscommon;;;;;;;;;;;;;x
+PROV977;Waldburg;;;;;;;;;;;;;x
+PROV978;Merseburg;;;;;;;;;;;;;x
+PROV979;Deltuva;;;;;;;;;;;;;x
+PROV980;Everstein;;;;;;;;;;;;;x
+PROV981;Ansbach;;;;;;;;;;;;;x
+PROV982;Prignitz;;;;;;;;;;;;;x
+PROV983;Isle of Ely;;;;;;;;;;;;;x
+PROV984;Järva;;;;;;;;;;;;;x
+PROV985;Selonia;;;;;;;;;;;;;x
+PROV986;Metsepole;;;;;;;;;;;;;x
+PROV987;Lääne;;;;;;;;;;;;;x
+PROV988;Atzele;;;;;;;;;;;;;x
+PROV989;Trakai;;;;;;;;;;;;;x
+PROV990;Eastern Dzukija;;;;;;;;;;;;;x
+PROV991;Chelm;;;;;;;;;;;;;x
+PROV992;Upyte;;;;;;;;;;;;;x
+PROV993;Belz;;;;;;;;;;;;;x
+PROV994;Drutsk;;;;;;;;;;;;;x
+PROV995;Gomel;;;;;;;;;;;;;x
+PROV996;Lublin;;;;;;;;;;;;;x
+PROV997;Nalšia;;;;;;;;;;;;;x
+PROV998;Vogtland;;;;;;;;;;;;;x
+PROV999;Legnica;;;;;;;;;;;;;x
+PROV1000;Syrmia;;;;;;;;;;;;;x
+PROV1001;Tropolje;;;;;;;;;;;;;x
+PROV1002;Donji Kraji;;;;;;;;;;;;;x
+PROV1003;Pomorje;;;;;;;;;;;;;x
+PROV1004;Požega;;;;;;;;;;;;;x
+PROV1005;Zarand;;;;;;;;;;;;;x
+PROV1006;Krassó;;;;;;;;;;;;;x
+PROV1007;Königssondergau;;;;;;;;;;;;;x
+PROV1008;Zweibrücken;;;;;;;;;;;;;x
+PROV1009;Mark;;;;;;;;;;;;;x
+PROV1010;Sunnmøre;;;;;;;;;;;;;x
+PROV1011;Arbanon;;;;;;;;;;;;;x
+PROV1012;Hvosno;;;;;;;;;;;;;x
+PROV1013;Aulon;;;;;;;;;;;;;x
+PROV1015;Skopje;;;;;;;;;;;;;x
+PROV1016;Traianoupolis;;;;;;;;;;;;;x
+PROV1017;Veluwe;;;;;;;;;;;;;x
+PROV1018;Vianden;;;;;;;;;;;;;x
+PROV1019;Brussels;;;;;;;;;;;;;x
+PROV1020;Schaumburg;;;;;;;;;;;;;x
+PROV1021;Arlon;;;;;;;;;;;;;x
+PROV1022;Valenciennes;;;;;;;;;;;;;x
+PROV1023;Nafud;;;;;;;;;;;;;x
+PROV1024;Cambrai;;;;;;;;;;;;;x
+PROV1025;Rendsburg;;;;;;;;;;;;;x
+PROV1026;Aachen;;;;;;;;;;;;;x
+PROV1027;West Zealand;;;;;;;;;;;;;x
+PROV1028;Mousson;;;;;;;;;;;;;x
+PROV1029;Teck;;;;;;;;;;;;;x
+PROV1030;Eberstein;;;;;;;;;;;;;x
+PROV1031;Zollern;;;;;;;;;;;;;x
+PROV1032;Oettingen;;;;;;;;;;;;;x
+PROV1033;Leuchtenberg;;;;;;;;;;;;;x
+PROV1034;Helfenstein;;;;;;;;;;;;;x
+PROV1035;Hohenlohe;;;;;;;;;;;;;x
+PROV1036;Montbéliard;;;;;;;;;;;;;x
+PROV1037;Basel;;;;;;;;;;;;;x
+PROV1038;Gruyére;;;;;;;;;;;;;x
+PROV1039;Amous;;;;;;;;;;;;;x
+PROV1040;Chablais;;;;;;;;;;;;;x
+PROV1041;Grand Erg Oriental;;;;;;;;;;;;;x
+PROV1042;Bresse;;;;;;;;;;;;;x
+PROV1043;Lolland;;;;;;;;;;;;;x
+PROV1044;Varais;;;;;;;;;;;;;x
+PROV1045;Portois;;;;;;;;;;;;;x
+PROV1047;Arles;;;;;;;;;;;;;x
+PROV1048;Grésivaudan;;;;;;;;;;;;;x
+PROV1049;Gap;;;;;;;;;;;;;x
+PROV1050;North Iceland;;;;;;;;;;;;;x
+PROV1051;Vendsyssel;;;;;;;;;;;;;x
+PROV1052;Hardsyssel;;;;;;;;;;;;;x
+PROV1053;Dannenberg;;;;;;;;;;;;;x
+PROV1054;Henneberg;;;;;;;;;;;;;x
+PROV1055;Pultusk;;;;;;;;;;;;;x
+PROV1056;Namur;;;;;;;;;;;;;x
+PROV1057;Limburg;;;;;;;;;;;;;x
+PROV1058;Zutphen;;;;;;;;;;;;;x
+PROV1059;Oversticht;;;;;;;;;;;;;x
+PROV1060;La Roche;;;;;;;;;;;;;x
+PROV1061;Chiny;;;;;;;;;;;;;x
+PROV1062;Sponheim;;;;;;;;;;;;;x
+PROV1063;Berg;;;;;;;;;;;;;x
+PROV1064;Lower Lusatia;;;;;;;;;;;;;x
+PROV1065;Dithmarschen;;;;;;;;;;;;;x
+PROV1066;Wagria;;;;;;;;;;;;;x
+PROV1067;Fjordane;;;;;;;;;;;;;x
+PROV1068;Riga;;;;;;;;;;;;;x
+PROV1069;Nicosia;;;;;;;;;;;;;x
+PROV1071;Skara;;;;;;;;;;;;;x
+PROV1072;Fjärdhundraland;;;;;;;;;;;;;x
+PROV1073;Attundaland;;;;;;;;;;;;;x
+PROV1074;Magdeburg;;;;;;;;;;;;;x
+PROV1075;Wittenberg;;;;;;;;;;;;;x
+PROV1076;Blankenburg;;;;;;;;;;;;;x
+PROV1077;Brehna;;;;;;;;;;;;;x
+PROV1078;Schwarzburg;;;;;;;;;;;;;x
+PROV1079;Tecklenburg;;;;;;;;;;;;;x
+PROV1080;Lori;;;;;;;;;;;;;x
+PROV1081;Samegrelo;;;;;;;;;;;;;x
+PROV1082;Hereti;;;;;;;;;;;;;x
+PROV1083;Baghk;;;;;;;;;;;;;x
+PROV1084;Utik;;;;;;;;;;;;;x
+PROV1085;Artsakh;;;;;;;;;;;;;x
+PROV1086;Sadzen;;;;;;;;;;;;;x
+PROV1087;Klarjeti;;;;;;;;;;;;;x
+PROV1088;Vanand;;;;;;;;;;;;;x
+PROV1089;Simsir;;;;;;;;;;;;;x
+PROV1090;Tusheti;;;;;;;;;;;;;x
+PROV1091;Svaneti;;;;;;;;;;;;;x
+PROV1092;Shirvan;;;;;;;;;;;;;x
+PROV1093;Racha;;;;;;;;;;;;;x
+PROV1094;Rstunik’;;;;;;;;;;;;;x
+PROV1095;Goght’n;;;;;;;;;;;;;x
+PROV1096;Sarir;;;;;;;;;;;;;x
+PROV1097;Arsamosata;;;;;;;;;;;;;x
+PROV1098;Lauenburg;;;;;;;;;;;;;x
+PROV1099;Gudbrandsdalen;;;;;;;;;;;;;x
+PROV1100;Romerike;;;;;;;;;;;;;x
+PROV1127;Macva;;;;;;;;;;;;;x
+PROV1144;Eastern Scania;;;;;;;;;;;;;x
+PROV1146;Iasi;;;;;;;;;;;;;x
+PROV1147;Bacau;;;;;;;;;;;;;x
+PROV1148;Târgu Jiu;;;;;;;;;;;;;x
+PROV1149;Buzau;;;;;;;;;;;;;x
+PROV1150;Bars;;;;;;;;;;;;;x
+PROV1151;Komárom;;;;;;;;;;;;;x
+PROV1152;Békés;;;;;;;;;;;;;x
+PROV1153;Zemplén;;;;;;;;;;;;;x
+PROV1154;Szepes;;;;;;;;;;;;;x
+PROV1155;Hont;;;;;;;;;;;;;x
+PROV1156;Velay;;;;;;;;;;;;;x
+PROV1157;Comminges;;;;;;;;;;;;;x
+PROV1158;Manzikert;;;;;;;;;;;;;x
+PROV1159;Auxois;;;;;;;;;;;;;x
+PROV1160;Sancerre;;;;;;;;;;;;;x
+PROV1161;Ventadour;;;;;;;;;;;;;x
+PROV1162;Rethel;;;;;;;;;;;;;x
+PROV1163;Perche;;;;;;;;;;;;;x
+PROV1164;Tonnerre;;;;;;;;;;;;;x
+PROV1165;Langres;;;;;;;;;;;;;x
+PROV1166;Meaux;;;;;;;;;;;;;x
+PROV1167;Albi;;;;;;;;;;;;;x
+PROV1168;Béziers;;;;;;;;;;;;;x
+PROV1169;Beauvais;;;;;;;;;;;;;x
+PROV1170;Ponthieu;;;;;;;;;;;;;x
+PROV1171;Alençon;;;;;;;;;;;;;x
+PROV1172;Bayeux;;;;;;;;;;;;;x
+PROV1173;Cherbourg;;;;;;;;;;;;;x
+PROV1174;Dreux;;;;;;;;;;;;;x
+PROV1175;Porhoët;;;;;;;;;;;;;x
+PROV1176;Valois;;;;;;;;;;;;;x
+PROV1177;French Vexin;;;;;;;;;;;;;x
+PROV1178;Tournai;;;;;;;;;;;;;x
+PROV1179;Lille;;;;;;;;;;;;;x
+PROV1180;Saint-Pol;;;;;;;;;;;;;x
+PROV1181;Porcien;;;;;;;;;;;;;x
+PROV1182;Uthlande;;;;;;;;;;;;;x
+PROV1183;Anglesey;;;;;;;;;;;;;x
+PROV1184;Rüstringen;;;;;;;;;;;;;x
+PROV1185;Vertus;;;;;;;;;;;;;x
+PROV1186;Châteaudun;;;;;;;;;;;;;x
+PROV1187;Bigorre;;;;;;;;;;;;;x
+PROV1188;Quercy;;;;;;;;;;;;;x
+PROV1189;Gâtinais;;;;;;;;;;;;;x
+PROV1190;Lugo;;;;;;;;;;;;;x
+PROV1191;Lemos;;;;;;;;;;;;;x
+PROV1192;Jaén;;;;;;;;;;;;;x
+PROV1193;Toro;;;;;;;;;;;;;x
+PROV1194;Ciudad Rodrigo;;;;;;;;;;;;;x
+PROV1195;Tomar;;;;;;;;;;;;;x
+PROV1196;Palencia;;;;;;;;;;;;;x
+PROV1197;Medina del Campo;;;;;;;;;;;;;x
+PROV1198;Ávila;;;;;;;;;;;;;x
+PROV1199;Segovia;;;;;;;;;;;;;x
+PROV1200;Setúbal;;;;;;;;;;;;;x
+PROV1201;Guadalajara;;;;;;;;;;;;;x
+PROV1202;Álava;;;;;;;;;;;;;x
+PROV1203;Gipuzkoa;;;;;;;;;;;;;x
+PROV1204;Tudela;;;;;;;;;;;;;x
+PROV1205;Sobrarbe;;;;;;;;;;;;;x
+PROV1206;Ribagorza;;;;;;;;;;;;;x
+PROV1207;Huesca;;;;;;;;;;;;;x
+PROV1208;Teruel;;;;;;;;;;;;;x
+PROV1209;Caspe;;;;;;;;;;;;;x
+PROV1210;Girona;;;;;;;;;;;;;x
+PROV1211;Beja;;;;;;;;;;;;;x
+PROV1212;Braga;;;;;;;;;;;;;x
+PROV1213;Viseu;;;;;;;;;;;;;x
+PROV1214;Trancoso;;;;;;;;;;;;;x
+PROV1215;Leiria;;;;;;;;;;;;;x
+PROV1216;Alcaraz;;;;;;;;;;;;;x
+PROV1217;Logroño;;;;;;;;;;;;;x
+PROV1220;Kaysun;;;;;;;;;;;;;x
+PROV1223;Ghadames;;;;;;;;;;;;;x
+PROV1225;Agadez;;;;;;;;;;;;;x
+PROV1226;Ghat;;;;;;;;;;;;;x
+PROV1227;Kaouar;;;;;;;;;;;;;x
+PROV1229;Uri;;;;;;;;;;;;;x
+PROV1230;Dongola;;;;;;;;;;;;;x
+PROV1232;Ayrarat;;;;;;;;;;;;;x
+PROV1235;Kufra;;;;;;;;;;;;;x
+PROV1236;Azaz;;;;;;;;;;;;;x
+PROV1237;Masyaf;;;;;;;;;;;;;x
+PROV1238;Harran;;;;;;;;;;;;;x
+PROV1239;Mardin;;;;;;;;;;;;;x
+PROV1240;Manbij;;;;;;;;;;;;;x
+PROV1242;Salamiyah;;;;;;;;;;;;;x
+PROV1243;Kafartab;;;;;;;;;;;;;x
+PROV1244;Baarin;;;;;;;;;;;;;x
+PROV1245;Byblos;;;;;;;;;;;;;x
+PROV1246;Aunis;;;;;;;;;;;;;x
+PROV1247;Görz;;;;;;;;;;;;;x
+PROV1248;Sahara;;;;;;;;;;;;;x
+PROV1249;Nîmes;;;;;;;;;;;;;x
+PROV1250;Millau;;;;;;;;;;;;;x
+PROV1251;Carlat;;;;;;;;;;;;;x
+PROV1252;Valentinois;;;;;;;;;;;;;x
+PROV1253;Marsan;;;;;;;;;;;;;x
+PROV1254;Kawkaban;;;;;;;;;;;;;x
+PROV1255;Dauphinate of Auvergne;;;;;;;;;;;;;x
+PROV1256;Mortain;;;;;;;;;;;;;x
+PROV1257;Inntrøndelag;;;;;;;;;;;;;x
+PROV1258;South Iceland;;;;;;;;;;;;;x
+PROV1260;Caesarea;;;;;;;;;;;;;x
+PROV1262;Southern Sahara;;;;;;;;;;;;;x
+PROV1263;Opava;;;;;;;;;;;;;x
+PROV1264;Kuenring;;;;;;;;;;;;;x
+PROV1265;Žatec;;;;;;;;;;;;;x
+PROV1267;Swina;;;;;;;;;;;;;x
+PROV1268;Koporye;;;;;;;;;;;;;x
+PROV1269;Staraya Russa;;;;;;;;;;;;;x
+PROV1270;Porkhov;;;;;;;;;;;;;x
+PROV1271;Ustyuzhna;;;;;;;;;;;;;x
+PROV1272;Volokolamsk;;;;;;;;;;;;;x
+PROV1273;Kadom;;;;;;;;;;;;;x
+PROV1274;Kozelsk;;;;;;;;;;;;;x
+PROV1275;Novosil;;;;;;;;;;;;;x
+PROV1276;Tarusa;;;;;;;;;;;;;x
+PROV1277;Karachev;;;;;;;;;;;;;x
+PROV1278;Sogn;;;;;;;;;;;;;x
+PROV1279;Zhytomyr;;;;;;;;;;;;;x
+PROV1280;Ovruch;;;;;;;;;;;;;x
+PROV1281;Romny;;;;;;;;;;;;;x
+PROV1282;Harput;;;;;;;;;;;;;x
+PROV1283;Yanbu;;;;;;;;;;;;;x
+PROV1284;Dorogobuzh;;;;;;;;;;;;;x
+PROV1285;Lutsk;;;;;;;;;;;;;x
+PROV1286;Tanezrouft;;;;;;;;;;;;;x
+PROV1287;Mologa;;;;;;;;;;;;;x
+PROV1288;Lukoml;;;;;;;;;;;;;x
+PROV1289;Romsdal;;;;;;;;;;;;;x
+PROV1291;Bribir;;;;;;;;;;;;;x
+PROV1292;Kursk;;;;;;;;;;;;;x
+PROV1293;Rylsk;;;;;;;;;;;;;x
+PROV1294;Slutsk;;;;;;;;;;;;;x
+PROV1295;Korcula;;;;;;;;;;;;;x
+PROV1296;Vyborg;;;;;;;;;;;;;x
+PROV1297;Pomesania;;;;;;;;;;;;;x
+PROV1298;Pogesania;;;;;;;;;;;;;x
+PROV1299;Bartia;;;;;;;;;;;;;x
+PROV1300;Nadruvia;;;;;;;;;;;;;x
+PROV1301;Czluchów;;;;;;;;;;;;;x
+PROV1302;Santok;;;;;;;;;;;;;x
+PROV1303;Neumark;;;;;;;;;;;;;x
+PROV1304;South Zealand;;;;;;;;;;;;;x
+PROV1305;Ashmyany;;;;;;;;;;;;;x
+PROV1306;Zaslawye;;;;;;;;;;;;;x
+PROV1307;Bandava;;;;;;;;;;;;;x
+PROV1308;Duvzare;;;;;;;;;;;;;x
+PROV1309;Vaiga;;;;;;;;;;;;;x
+PROV1310;Northern Scania;;;;;;;;;;;;;x
+PROV1311;Finnveden;;;;;;;;;;;;;x
+PROV1312;Modruš;;;;;;;;;;;;;x
+PROV1313;Bialogard;;;;;;;;;;;;;x
+PROV1314;Rawa;;;;;;;;;;;;;x
+PROV1315;Leczyca;;;;;;;;;;;;;x
+PROV1317;Celje;;;;;;;;;;;;;x
+PROV1319;Say;;;;;;;;;;;;;x
+PROV1320;Tahoua;;;;;;;;;;;;;x
+PROV1321;Gobir;;;;;;;;;;;;;x
+PROV1322;Kebbi;;;;;;;;;;;;;x
+PROV1323;Zamfara;;;;;;;;;;;;;x
+PROV1324;Yauri;;;;;;;;;;;;;x
+PROV1326;Katsina;;;;;;;;;;;;;x
+PROV1328;Kano;;;;;;;;;;;;;x
+PROV1329;Kanem;;;;;;;;;;;;;x
+PROV1330;Omiš;;;;;;;;;;;;;x
+PROV1331;Bilbeis;;;;;;;;;;;;;x
+PROV1333;Burzenland;;;;;;;;;;;;;x
+PROV1334;Faiyum;;;;;;;;;;;;;x
+PROV1335;Atfih;;;;;;;;;;;;;x
+PROV1336;Oxyrhynchus;;;;;;;;;;;;;x
+PROV1337;Manfalut;;;;;;;;;;;;;x
+PROV1338;Eastern Desert;;;;;;;;;;;;;x
+PROV1339;Akhmim;;;;;;;;;;;;;x
+PROV1340;Qus;;;;;;;;;;;;;x
+PROV1341;Kharga;;;;;;;;;;;;;x
+PROV1342;Dakhla;;;;;;;;;;;;;x
+PROV1343;Bahariya;;;;;;;;;;;;;x
+PROV1345;Ajdabiya;;;;;;;;;;;;;x
+PROV1348;Rudbar;;;;;;;;;;;;;x
+PROV1349;Zawiya;;;;;;;;;;;;;x
+PROV1350;Meskheti;;;;;;;;;;;;;x
+PROV1351;Southern Djerid;;;;;;;;;;;;;x
+PROV1352;Northern Djerid;;;;;;;;;;;;;x
+PROV1353;Sfax;;;;;;;;;;;;;x
+PROV1354;Tébessa;;;;;;;;;;;;;x
+PROV1355;Kabylia;;;;;;;;;;;;;x
+PROV1356;Oued Righ;;;;;;;;;;;;;x
+PROV1357;Tbilisi;;;;;;;;;;;;;x
+PROV1358;Taza;;;;;;;;;;;;;x
+PROV1359;Ardahan;;;;;;;;;;;;;x
+PROV1360;Nekor;;;;;;;;;;;;;x
+PROV1361;Chellah;;;;;;;;;;;;;x
+PROV1362;Tafilalt;;;;;;;;;;;;;x
+PROV1363;Draa;;;;;;;;;;;;;x
+PROV1364;Tindouf;;;;;;;;;;;;;x
+PROV1365;Tenerife;;;;;;;;;;;;;x
+PROV1366;Tasarahla;;;;;;;;;;;;;x
+PROV1367;Thar Desert;;;;;;;;;;;;;x
+PROV1368;Erg Amatlich;;;;;;;;;;;;;x
+PROV1369;Tagant;;;;;;;;;;;;;x
+PROV1370;Masina;;;;;;;;;;;;;x
+PROV1371;Takrur;;;;;;;;;;;;;x
+PROV1372;Silla;;;;;;;;;;;;;x
+PROV1373;Diafunu;;;;;;;;;;;;;x
+PROV1374;Diarra;;;;;;;;;;;;;x
+PROV1375;Sosso;;;;;;;;;;;;;x
+PROV1376;Awgham;;;;;;;;;;;;;x
+PROV1377;Méma;;;;;;;;;;;;;x
+PROV1378;Macina;;;;;;;;;;;;;x
+PROV1379;Jolof;;;;;;;;;;;;;x
+PROV1380;Illizi;;;;;;;;;;;;;x
+PROV1381;Gajaaga;;;;;;;;;;;;;x
+PROV1382;Cayor;;;;;;;;;;;;;x
+PROV1383;Mali;;;;;;;;;;;;;x
+PROV1384;Bure;;;;;;;;;;;;;x
+PROV1385;Kankan;;;;;;;;;;;;;x
+PROV1386;Kita;;;;;;;;;;;;;x
+PROV1387;Sibiridugu;;;;;;;;;;;;;x
+PROV1388;Sikasso;;;;;;;;;;;;;x
+PROV1389;Kala;;;;;;;;;;;;;x
+PROV1390;Binduku;;;;;;;;;;;;;x
+PROV1391;Ténéré;;;;;;;;;;;;;x
+PROV1392;Ouargla;;;;;;;;;;;;;x
+PROV1393;Rizim;;;;;;;;;;;;;x
+PROV1394;Tessalit;;;;;;;;;;;;;x
+PROV1395;Ouallene;;;;;;;;;;;;;x
+PROV1396;Tuat;;;;;;;;;;;;;x
+PROV1397;El Goléa;;;;;;;;;;;;;x
+PROV1398;Nafusa;;;;;;;;;;;;;x
+PROV1399;Waddan;;;;;;;;;;;;;x
+PROV1400;Djado;;;;;;;;;;;;;x
+PROV1401;Azawagh;;;;;;;;;;;;;x
+PROV1402;Djanet;;;;;;;;;;;;;x
+PROV1403;Hoggar;;;;;;;;;;;;;x
+PROV1404;Murzuk;;;;;;;;;;;;;x
+PROV1405;Zwila;;;;;;;;;;;;;x
+PROV1406;Germa;;;;;;;;;;;;;x
+PROV1407;Javakheti;;;;;;;;;;;;;x
+PROV1408;Tumu;;;;;;;;;;;;;x
+PROV1409;Stafford;;;;;;;;;;;;;x
+PROV1410;Hertford;;;;;;;;;;;;;x
+PROV1411;Cambridge;;;;;;;;;;;;;x
+PROV1412;Huntingdon;;;;;;;;;;;;;x
+PROV1413;Rutland;;;;;;;;;;;;;x
+PROV1414;Nottingham;;;;;;;;;;;;;x
+PROV1415;North Riding;;;;;;;;;;;;;x
+PROV1416;East Riding;;;;;;;;;;;;;x
+PROV1417;Isle of Wight;;;;;;;;;;;;;x
+PROV1418;Channel Islands;;;;;;;;;;;;;x
+PROV1419;Mull;;;;;;;;;;;;;x
+PROV1420;Islay;;;;;;;;;;;;;x
+PROV1421;Kintyre;;;;;;;;;;;;;x
+PROV1422;Bute;;;;;;;;;;;;;x
+PROV1423;Aberdeen;;;;;;;;;;;;;x
+PROV1424;Kincardine;;;;;;;;;;;;;x
+PROV1425;Inverness;;;;;;;;;;;;;x
+PROV1426;Lewis;;;;;;;;;;;;;x
+PROV1427;Uist;;;;;;;;;;;;;x
+PROV1428;Tipperary;;;;;;;;;;;;;x
+PROV1429;Limerick;;;;;;;;;;;;;x
+PROV1430;Cork;;;;;;;;;;;;;x
+PROV1431;Sutherland;;;;;;;;;;;;;x
+PROV1432;Wicklow;;;;;;;;;;;;;x
+PROV1433;Tethbae;;;;;;;;;;;;;x
+PROV1434;Offaly;;;;;;;;;;;;;x
+PROV1435;Hy Many;;;;;;;;;;;;;x
+PROV1436;Cavan;;;;;;;;;;;;;x
+PROV1437;Lake Neuchâtel;;;;;;;;;;;;;x
+PROV1438;Lake Lucerne;;;;;;;;;;;;;x
+PROV1439;Lake Zurich;;;;;;;;;;;;;x
+PROV1440;Øyeren;;;;;;;;;;;;;x
+PROV1441;Lake Garda;;;;;;;;;;;;;x
+PROV1442;Lake Iseo;;;;;;;;;;;;;x
+PROV1443;Lake Como;;;;;;;;;;;;;x
+PROV1444;Lake Lugano;;;;;;;;;;;;;x
+PROV1445;Lake Maggiore;;;;;;;;;;;;;x
+PROV1446;Lake Pamvotida;;;;;;;;;;;;;x
+PROV1447;Lake Trichonida;;;;;;;;;;;;;x
+PROV1448;Lake Volvi;;;;;;;;;;;;;x
+PROV1449;Lake Koroneia;;;;;;;;;;;;;x
+PROV1450;Lake Iznik;;;;;;;;;;;;;x
+PROV1451;Lake Kus;;;;;;;;;;;;;x
+PROV1452;Lake Uluabat;;;;;;;;;;;;;x
+PROV1453;Lake Bafa;;;;;;;;;;;;;x
+PROV1454;Lake Acigöl;;;;;;;;;;;;;x
+PROV1455;Lake Burdur;;;;;;;;;;;;;x
+PROV1456;Lake Egirdir;;;;;;;;;;;;;x
+PROV1457;Lake Beysehir;;;;;;;;;;;;;x
+PROV1458;Lake Tuz;;;;;;;;;;;;;x
+PROV1459;Lake Tana;;;;;;;;;;;;;x
+PROV1460;Lake Ghoubet;;;;;;;;;;;;;x
+PROV1461;Lake Assal;;;;;;;;;;;;;x
+PROV1462;Namak Lake;;;;;;;;;;;;;x
+PROV1463;Lough Ree;;;;;;;;;;;;;x
+PROV1464;Lough Derg;;;;;;;;;;;;;x
+PROV1465;Lough Corrib;;;;;;;;;;;;;x
+PROV1466;Lough Mask;;;;;;;;;;;;;x
+PROV1467;Lough Conn;;;;;;;;;;;;;x
+PROV1468;Lower Vyg;;;;;;;;;;;;;x
+PROV1469;Birket Qarun;;;;;;;;;;;;;x
+PROV1470;Annandale;;;;;;;;;;;;;x
+PROV1471;Buellt;;;;;;;;;;;;;x
+PROV1472;Radnor;;;;;;;;;;;;;x
+PROV1473;Gower;;;;;;;;;;;;;x
+PROV1474;Munio;;;;;;;;;;;;;x
+PROV1475;Strait of Hormuz;;;;;;;;;;;;;x
+PROV1476;Borno;;;;;;;;;;;;;x
+PROV1477;Kaga;;;;;;;;;;;;;x
+PROV1478;Baguirmi;;;;;;;;;;;;;x
+PROV1479;Tweeddale;;;;;;;;;;;;;x
+PROV1480;Wadai;;;;;;;;;;;;;x
+PROV1481;Nisa;;;;;;;;;;;;;x
+PROV1482;Hasankeyf;;;;;;;;;;;;;x
+PROV1483;Syrian Desert;;;;;;;;;;;;;x
+PROV1484;Renfrew;;;;;;;;;;;;;x
+PROV1485;Kurdufan;;;;;;;;;;;;;x
+PROV1486;Volta Basin;;;;;;;;;;;;;x
+PROV1487;Central Africa;;;;;;;;;;;;;x
+PROV1488;Dumbarton;;;;;;;;;;;;;x
+PROV1489;Wolqayt;;;;;;;;;;;;;x
+PROV1490;Soba;;;;;;;;;;;;;x
+PROV1491;Alodia;;;;;;;;;;;;;x
+PROV1492;Butana;;;;;;;;;;;;;x
+PROV1493;Nubian Desert;;;;;;;;;;;;;x
+PROV1494;Abu Hamad;;;;;;;;;;;;;x
+PROV1495;Syrian Desert;;;;;;;;;;;;;x
+PROV1496;Tihamah;;;;;;;;;;;;;x
+PROV1497;;;;;;;;;;;;;;x
+PROV1498;;;;;;;;;;;;;;x
+PROV1499;Semna;;;;;;;;;;;;;x
+PROV1500;Qasr Ibrim;;;;;;;;;;;;;x
+PROV1501;‘Aydhab;;;;;;;;;;;;;x
+PROV1502;Medri Bahri;;;;;;;;;;;;;x
+PROV1503;Suakin;;;;;;;;;;;;;x
+PROV1504;Ténéré;;;;;;;;;;;;;x
+PROV1505;Barth;;;;;;;;;;;;;x
+PROV1506;Tigray;;;;;;;;;;;;;x
+PROV1507;Marya;;;;;;;;;;;;;x
+PROV1508;Adulis;;;;;;;;;;;;;x
+PROV1509;Saho;;;;;;;;;;;;;x
+PROV1510;Enderta;;;;;;;;;;;;;x
+PROV1511;Lasta;;;;;;;;;;;;;x
+PROV1512;Semien;;;;;;;;;;;;;x
+PROV1513;Begemder;;;;;;;;;;;;;x
+PROV1514;Angot;;;;;;;;;;;;;x
+PROV1515;Gojjam;;;;;;;;;;;;;x
+PROV1516;Ifat;;;;;;;;;;;;;x
+PROV1517;Danakil;;;;;;;;;;;;;x
+PROV1518;Assab;;;;;;;;;;;;;x
+PROV1519;Mora;;;;;;;;;;;;;x
+PROV1520;Zeila;;;;;;;;;;;;;x
+PROV1521;Shewa;;;;;;;;;;;;;x
+PROV1522;Vrhbosna;;;;;;;;;;;;;x
+PROV1523;Okic;;;;;;;;;;;;;x
+PROV1524;Vrbas;;;;;;;;;;;;;x
+PROV1525;Kyustendil;;;;;;;;;;;;;x
+PROV1526;Strumica;;;;;;;;;;;;;x
+PROV1527;Anevo;;;;;;;;;;;;;x
+PROV1529;Ialomita;;;;;;;;;;;;;x
+PROV1530;Arran;;;;;;;;;;;;;x
+PROV1531;Varazhnunik;;;;;;;;;;;;;x
+PROV1532;Dasht-e Kavir;;;;;;;;;;;;;x
+PROV1533;Mafaza;;;;;;;;;;;;;x
+PROV1534;Darab;;;;;;;;;;;;;x
+PROV1535;Turan;;;;;;;;;;;;;x
+PROV1536;Arachosia;;;;;;;;;;;;;x
+PROV1537;Bakharz;;;;;;;;;;;;;x
+PROV1538;Sarakhs;;;;;;;;;;;;;x
+PROV1539;Ganj Rustaq;;;;;;;;;;;;;x
+PROV1540;Ghor;;;;;;;;;;;;;x
+PROV1541;Gharchistan;;;;;;;;;;;;;x
+PROV1542;Guzgan;;;;;;;;;;;;;x
+PROV1543;Amol;;;;;;;;;;;;;x
+PROV1544;Nakhsheb;;;;;;;;;;;;;x
+PROV1545;Chaghaniyan;;;;;;;;;;;;;x
+PROV1546;Tokharistan;;;;;;;;;;;;;x
+PROV1547;Ghazni;;;;;;;;;;;;;x
+PROV1548;Arghiyan;;;;;;;;;;;;;x
+PROV1549;Karasu;;;;;;;;;;;;;x
+PROV1550;Kabul;;;;;;;;;;;;;x
+PROV1551;Laghman;;;;;;;;;;;;;x
+PROV1552;Socotra;;;;;;;;;;;;;x
+PROV1553;Badakhshan;;;;;;;;;;;;;x
+PROV1554;;;;;;;;;;;;;;x
+PROV1555;Rasht Valley;;;;;;;;;;;;;x
+PROV1556;Khuttal;;;;;;;;;;;;;x
+PROV1557;Osrushana;;;;;;;;;;;;;x
+PROV1558;Khujand;;;;;;;;;;;;;x
+PROV1559;Ferghana;;;;;;;;;;;;;x
+PROV1560;Khaylam;;;;;;;;;;;;;x
+PROV1561;Tashkent;;;;;;;;;;;;;x
+PROV1562;Otrar;;;;;;;;;;;;;x
+PROV1563;Taraz;;;;;;;;;;;;;x
+PROV1564;Aval;;;;;;;;;;;;;x
+PROV1565;Shahrisabz;;;;;;;;;;;;;x
+PROV1566;Naryn;;;;;;;;;;;;;x
+PROV1567;Kashgar;;;;;;;;;;;;;x
+PROV1568;Aksu;;;;;;;;;;;;;x
+PROV1569;Kucha;;;;;;;;;;;;;x
+PROV1570;Karashahr;;;;;;;;;;;;;x
+PROV1571;Yulduz;;;;;;;;;;;;;x
+PROV1572;Balasagun;;;;;;;;;;;;;x
+PROV1573;Zhetysu;;;;;;;;;;;;;x
+PROV1574;Emil;;;;;;;;;;;;;x
+PROV1575;Zaysan;;;;;;;;;;;;;x
+PROV1576;Ayaguz;;;;;;;;;;;;;x
+PROV1577;Barskon;;;;;;;;;;;;;x
+PROV1578;Taloqan;;;;;;;;;;;;;x
+PROV1579;Balkhash;;;;;;;;;;;;;x
+PROV1580;Khotan;;;;;;;;;;;;;x
+PROV1581;Tuzla;;;;;;;;;;;;;x
+PROV1582;Taklamakan Desert;;;;;;;;;;;;;x
+PROV1583;Pamir Mountains;;;;;;;;;;;;;x
+PROV1584;Himmersyssel;;;;;;;;;;;;;x
+PROV1585;Vardesyssel;;;;;;;;;;;;;x
+PROV1586;Samso;;;;;;;;;;;;;x
+PROV1587;Northern Halland;;;;;;;;;;;;;x
+PROV1588;Himalayas;;;;;;;;;;;;;x
+PROV1589;Tian Shan;;;;;;;;;;;;;x
+PROV1590;India;;;;;;;;;;;;;x
+PROV1591;Erbil;;;;;;;;;;;;;x
+PROV1592;Sohar;;;;;;;;;;;;;x
+PROV1593;Naqis;;;;;;;;;;;;;x
+PROV1594;Irahistan;;;;;;;;;;;;;x
+PROV1595;Lake Balkhash;;;;;;;;;;;;;x
+PROV1596;Lake Issyk;;;;;;;;;;;;;x
+PROV1597;Lake Zaysan;;;;;;;;;;;;;x
+PROV1598;Lake Alakol;;;;;;;;;;;;;x
+PROV1599;Ebi Lake;;;;;;;;;;;;;x
+PROV1600;Debal;;;;;;;;;;;;;x
+PROV1601;Ranikot;;;;;;;;;;;;;x
+PROV1602;Sodha;;;;;;;;;;;;;x
+PROV1603;Mansura;;;;;;;;;;;;;x
+PROV1604;Siwistan;;;;;;;;;;;;;x
+PROV1605;Aror;;;;;;;;;;;;;x
+PROV1606;Bhakkar;;;;;;;;;;;;;x
+PROV1607;Gardman;;;;;;;;;;;;;x
+PROV1608;Kandail;;;;;;;;;;;;;x
+PROV1609;Rajanpur;;;;;;;;;;;;;x
+PROV1610;Sibi;;;;;;;;;;;;;x
+PROV1611;Loralai;;;;;;;;;;;;;x
+PROV1612;Kafir Kot;;;;;;;;;;;;;x
+PROV1613;Uch;;;;;;;;;;;;;x
+PROV1614;Kahror Pacca;;;;;;;;;;;;;x
+PROV1615;Multan;;;;;;;;;;;;;x
+PROV1616;Karor;;;;;;;;;;;;;x
+PROV1617;Bhera;;;;;;;;;;;;;x
+PROV1618;Shorkot;;;;;;;;;;;;;x
+PROV1619;Dipalpur;;;;;;;;;;;;;x
+PROV1620;Lahore;;;;;;;;;;;;;x
+PROV1621;Trigarta;;;;;;;;;;;;;x
+PROV1622;Sagala;;;;;;;;;;;;;x
+PROV1623;Gujrat;;;;;;;;;;;;;x
+PROV1624;Muzaffarabad;;;;;;;;;;;;;x
+PROV1625;Peshawar;;;;;;;;;;;;;x
+PROV1626;Bannu;;;;;;;;;;;;;x
+PROV1627;Nandana;;;;;;;;;;;;;x
+PROV1628;Kasmira;;;;;;;;;;;;;x
+PROV1629;Sarasvata Mandala;;;;;;;;;;;;;x
+PROV1630;Kheda;;;;;;;;;;;;;x
+PROV1631;Modasa;;;;;;;;;;;;;x
+PROV1632;Dhrol;;;;;;;;;;;;;x
+PROV1633;Dwarka;;;;;;;;;;;;;x
+PROV1634;Kutch;;;;;;;;;;;;;x
+PROV1635;Bilkha;;;;;;;;;;;;;x
+PROV1636;Somnath;;;;;;;;;;;;;x
+PROV1637;Vallabhi;;;;;;;;;;;;;x
+PROV1638;Wadhwan;;;;;;;;;;;;;x
+PROV1639;Navsari;;;;;;;;;;;;;x
+PROV1640;Daman;;;;;;;;;;;;;x
+PROV1641;Vadodara;;;;;;;;;;;;;x
+PROV1642;Mandore;;;;;;;;;;;;;x
+PROV1643;Merta;;;;;;;;;;;;;x
+PROV1644;Gorwar;;;;;;;;;;;;;x
+PROV1645;Bikampur;;;;;;;;;;;;;x
+PROV1646;Taranagar;;;;;;;;;;;;;x
+PROV1647;Nagaur;;;;;;;;;;;;;x
+PROV1648;Lodhruva;;;;;;;;;;;;;x
+PROV1649;Vijnot;;;;;;;;;;;;;x
+PROV1650;Sanchore;;;;;;;;;;;;;x
+PROV1651;Mewar;;;;;;;;;;;;;x
+PROV1652;Chittorgarh;;;;;;;;;;;;;x
+PROV1653;Kota;;;;;;;;;;;;;x
+PROV1654;Ajmer;;;;;;;;;;;;;x
+PROV1655;Ranthambore;;;;;;;;;;;;;x
+PROV1656;Bairat;;;;;;;;;;;;;x
+PROV1657;Gwalior;;;;;;;;;;;;;x
+PROV1658;Delhi;;;;;;;;;;;;;x
+PROV1659;Hastinapur;;;;;;;;;;;;;x
+PROV1660;Thanesar;;;;;;;;;;;;;x
+PROV1661;Hisar;;;;;;;;;;;;;x
+PROV1662;Tribandapura;;;;;;;;;;;;;x
+PROV1663;Saraswati;;;;;;;;;;;;;x
+PROV1664;Mathura;;;;;;;;;;;;;x
+PROV1665;Aligarh;;;;;;;;;;;;;x
+PROV1666;Bayana;;;;;;;;;;;;;x
+PROV1667;Budaun;;;;;;;;;;;;;x
+PROV1668;Sambhal;;;;;;;;;;;;;x
+PROV1669;Rohilkhand;;;;;;;;;;;;;x
+PROV1670;Dahod;;;;;;;;;;;;;x
+PROV1671;Dhar;;;;;;;;;;;;;x
+PROV1672;Mandsaur;;;;;;;;;;;;;x
+PROV1673;Ujjain;;;;;;;;;;;;;x
+PROV1674;Sarangpur;;;;;;;;;;;;;x
+PROV1675;Vidisha;;;;;;;;;;;;;x
+PROV1676;Chanderi;;;;;;;;;;;;;x
+PROV1677;Candhoba;;;;;;;;;;;;;x
+PROV1678;Mandu;;;;;;;;;;;;;x
+PROV1679;Asirgarh;;;;;;;;;;;;;x
+PROV1680;Burhanpur;;;;;;;;;;;;;x
+PROV1681;Thalner;;;;;;;;;;;;;x
+PROV1682;Kannauj;;;;;;;;;;;;;x
+PROV1683;Lucknow;;;;;;;;;;;;;x
+PROV1684;Kalpi;;;;;;;;;;;;;x
+PROV1685;Barauli;;;;;;;;;;;;;x
+PROV1686;Asni;;;;;;;;;;;;;x
+PROV1687;Allahabad;;;;;;;;;;;;;x
+PROV1688;Naimisha;;;;;;;;;;;;;x
+PROV1689;Sravasti;;;;;;;;;;;;;x
+PROV1690;Ayodhya;;;;;;;;;;;;;x
+PROV1691;Mahoba;;;;;;;;;;;;;x
+PROV1692;Kalanjara;;;;;;;;;;;;;x
+PROV1693;Damoh;;;;;;;;;;;;;x
+PROV1694;Gurgi;;;;;;;;;;;;;x
+PROV1695;Filan;;;;;;;;;;;;;x
+PROV1696;Lakia;;;;;;;;;;;;;x
+PROV1697;Malkhicho;;;;;;;;;;;;;x
+PROV1698;Ryn Desert;;;;;;;;;;;;;x
+PROV1699;Mangup;;;;;;;;;;;;;x
+PROV1700;Gulf of Hammamet;;;;;;;;;;;;;x
+PROV1701;Malta Channel;;;;;;;;;;;;;x
+PROV1702;Gulf of Sidra;;;;;;;;;;;;;x
+PROV1703;Gulf of Taranto;;;;;;;;;;;;;x
+PROV1704;Ionian Sea;;;;;;;;;;;;;x
+PROV1705;Strait of Otranto;;;;;;;;;;;;;x
+PROV1706;Adriatic Sea;;;;;;;;;;;;;x
+PROV1707;Gulf of Venice;;;;;;;;;;;;;x
+PROV1708;Aegean Sea;;;;;;;;;;;;;x
+PROV1709;Cyclades;;;;;;;;;;;;;x
+PROV1710;Sea of Crete;;;;;;;;;;;;;x
+PROV1711;Mediterranean Coast of Egypt;;;;;;;;;;;;;x
+PROV1712;Nile Delta;;;;;;;;;;;;;x
+PROV1713;Sea of Palestine;;;;;;;;;;;;;x
+PROV1714;Eastern Mediterranean;;;;;;;;;;;;;x
+PROV1715;Western Aegean Sea;;;;;;;;;;;;;x
+PROV1716;Näsijärvi;;;;;;;;;;;;;x
+PROV1717;Aral Sea;;;;;;;;;;;;;x
+PROV1718;Levantine Sea;;;;;;;;;;;;;x
+PROV1719;Cilician Sea;;;;;;;;;;;;;x
+PROV1720;Sea of Marmara;;;;;;;;;;;;;x
+PROV1721;Gulf of Varna;;;;;;;;;;;;;x
+PROV1722;Coast of Crimea;;;;;;;;;;;;;x
+PROV1723;Coast of Paphlagonia;;;;;;;;;;;;;x
+PROV1724;Coast of Colchis;;;;;;;;;;;;;x
+PROV1725;Caspian Sea;;;;;;;;;;;;;x
+PROV1726;Coast of Morocco;;;;;;;;;;;;;x
+PROV1727;Strait of Gibraltar;;;;;;;;;;;;;x
+PROV1728;Saimaa;;;;;;;;;;;;;x
+PROV1729;Lake Balaton;;;;;;;;;;;;;x
+PROV1730;Oulujärvi;;;;;;;;;;;;;x
+PROV1731;Lake Ladoga;;;;;;;;;;;;;x
+PROV1732;Mälaren;;;;;;;;;;;;;x
+PROV1733;Faroe Islands;;;;;;;;;;;;;x
+PROV1734;Hjälmaren;;;;;;;;;;;;;x
+PROV1735;Vättern;;;;;;;;;;;;;x
+PROV1736;Vänern;;;;;;;;;;;;;x
+PROV1737;White Sea;;;;;;;;;;;;;x
+PROV1738;Strait of Dover;;;;;;;;;;;;;x
+PROV1739;Solent;;;;;;;;;;;;;x
+PROV1740;Land’s End;;;;;;;;;;;;;x
+PROV1741;St. George’s Channel;;;;;;;;;;;;;x
+PROV1742;Sea of Azov;;;;;;;;;;;;;x
+PROV1743;Cape Finisterre;;;;;;;;;;;;;x
+PROV1744;Lake Constance;;;;;;;;;;;;;x
+PROV1745;Garabogazköl;;;;;;;;;;;;;x
+PROV1746;North Sea;;;;;;;;;;;;;x
+PROV1747;Bay of Biscay;;;;;;;;;;;;;x
+PROV1748;Donegal Bay;;;;;;;;;;;;;x
+PROV1749;Sea of the Canary Islands;;;;;;;;;;;;;x
+PROV1750;Breton Coast;;;;;;;;;;;;;x
+PROV1751;Mjøsa;;;;;;;;;;;;;x
+PROV1752;Sea of Galilee;;;;;;;;;;;;;x
+PROV1753;Portuguese Coast;;;;;;;;;;;;;x
+PROV1754;Gulf of Cádiz;;;;;;;;;;;;;x
+PROV1755;Tyrifjorden;;;;;;;;;;;;;x
+PROV1756;Dead Sea;;;;;;;;;;;;;x
+PROV1757;Gulf of Riga;;;;;;;;;;;;;x
+PROV1758;North Atlantic;;;;;;;;;;;;;x
+PROV1759;Southern Coast of Norway;;;;;;;;;;;;;x
+PROV1760;North Sea;;;;;;;;;;;;;x
+PROV1761;North Sea;;;;;;;;;;;;;x
+PROV1762;North Sea;;;;;;;;;;;;;x
+PROV1763;Sea of Shetland;;;;;;;;;;;;;x
+PROV1764;Bantry Bay;;;;;;;;;;;;;x
+PROV1765;The Minch;;;;;;;;;;;;;x
+PROV1766;Moray Firth;;;;;;;;;;;;;x
+PROV1767;Firth of Forth;;;;;;;;;;;;;x
+PROV1768;Dogger Bank;;;;;;;;;;;;;x
+PROV1769;The Wash;;;;;;;;;;;;;x
+PROV1770;Lake Onega;;;;;;;;;;;;;x
+PROV1771;North Sea;;;;;;;;;;;;;x
+PROV1772;The Sound;;;;;;;;;;;;;x
+PROV1773;Heligoland Bight;;;;;;;;;;;;;x
+PROV1774;Kattegat;;;;;;;;;;;;;x
+PROV1775;Colberger Heide;;;;;;;;;;;;;x
+PROV1776;Hanöbukten;;;;;;;;;;;;;x
+PROV1777;Gdansk Bay;;;;;;;;;;;;;x
+PROV1778;Sea of Åland;;;;;;;;;;;;;x
+PROV1779;Gulf of Finland;;;;;;;;;;;;;x
+PROV1780;Gulf of Bothnia;;;;;;;;;;;;;x
+PROV1781;Gulf of Bothnia;;;;;;;;;;;;;x
+PROV1782;Adriatic Sea;;;;;;;;;;;;;x
+PROV1783;Channel Islands;;;;;;;;;;;;;x
+PROV1784;Mauretanian Coast;;;;;;;;;;;;;x
+PROV1785;Lake Peipus;;;;;;;;;;;;;x
+PROV1786;Lake Yalpuh;;;;;;;;;;;;;x
+PROV1787;Coast of Asturias;;;;;;;;;;;;;x
+PROV1788;Northern Bay of Biscay;;;;;;;;;;;;;x
+PROV1789;Celtic Sea;;;;;;;;;;;;;x
+PROV1790;Lake Inari;;;;;;;;;;;;;x
+PROV1791;Coast of Iceland;;;;;;;;;;;;;x
+PROV1792;Western Cyclades;;;;;;;;;;;;;x
+PROV1793;Lake Skadar;;;;;;;;;;;;;x
+PROV1794;Lake Ohrid;;;;;;;;;;;;;x
+PROV1795;Lake Prespa;;;;;;;;;;;;;x
+PROV1796;Lake Päijänne;;;;;;;;;;;;;x
+PROV1797;Irish Sea;;;;;;;;;;;;;x
+PROV1798;Western Mediterranean;;;;;;;;;;;;;x
+PROV1799;Gulf of Valencia;;;;;;;;;;;;;x
+PROV1800;Balearic Islands;;;;;;;;;;;;;x
+PROV1801;Ponant;;;;;;;;;;;;;x
+PROV1802;Mediterranean Sea;;;;;;;;;;;;;x
+PROV1803;Gulf of Lion;;;;;;;;;;;;;x
+PROV1804;Lake Geneva;;;;;;;;;;;;;x
+PROV1805;French Riviera;;;;;;;;;;;;;x
+PROV1806;Ligurian Sea;;;;;;;;;;;;;x
+PROV1807;Tyrrhenian Sea;;;;;;;;;;;;;x
+PROV1808;Coast of Sardinia;;;;;;;;;;;;;x
+PROV1809;Gulf of Naples;;;;;;;;;;;;;x
+PROV1810;Strait of Messina;;;;;;;;;;;;;x
+PROV1811;Lake Sevan;;;;;;;;;;;;;x
+PROV1812;Lake Van;;;;;;;;;;;;;x
+PROV1813;Lake Urmia;;;;;;;;;;;;;x
+PROV1814;Lake Neusiedl;;;;;;;;;;;;;x
+PROV1815;Limfjord;;;;;;;;;;;;;x
+PROV1816;Skagerrak;;;;;;;;;;;;;x
+PROV1817;Jammerbugt;;;;;;;;;;;;;x
+PROV1818;Great Belt;;;;;;;;;;;;;x
+PROV1819;North Sea;;;;;;;;;;;;;x
+PROV1820;Smålandsfarvandet;;;;;;;;;;;;;x
+PROV1821;Lake Ilmen;;;;;;;;;;;;;x
+PROV1822;Vortsjärv;;;;;;;;;;;;;x
+PROV1823;Plyussa;;;;;;;;;;;;;x
+PROV1824;Volkhov;;;;;;;;;;;;;x
+PROV1825;Mediterranean Sea;;;;;;;;;;;;;x
+PROV1826;Vastenjaure;;;;;;;;;;;;;x
+PROV1827;Göta älv;;;;;;;;;;;;;x
+PROV1828;Salsvatnet;;;;;;;;;;;;;x
+PROV1829;Lake Beloye;;;;;;;;;;;;;x
+PROV1830;Kama;;;;;;;;;;;;;x
+PROV1831;Kokshaga;;;;;;;;;;;;;x
+PROV1832;Pechora;;;;;;;;;;;;;x
+PROV1833;Sarygamysh Lake;;;;;;;;;;;;;x
+PROV1834;Manych;;;;;;;;;;;;;x
+PROV1835;Chott el Djerid;;;;;;;;;;;;;x
+PROV1836;Chott el Gharsa;;;;;;;;;;;;;x
+PROV1837;Chott Melrhir;;;;;;;;;;;;;x
+PROV1838;Lake Chad;;;;;;;;;;;;;x
+PROV1839;Loch Lomond;;;;;;;;;;;;;x
+PROV1840;Lough Neagh;;;;;;;;;;;;;x
+PROV1841;Erne;;;;;;;;;;;;;x
+PROV1842;Persian Gulf;;;;;;;;;;;;;x
+PROV1843;Persian Gulf;;;;;;;;;;;;;x
+PROV1844;Arabian Sea;;;;;;;;;;;;;x
+PROV1845;Gulf of Khambhat;;;;;;;;;;;;;x
+PROV1846;Gulf of Kutch;;;;;;;;;;;;;x
+PROV1847;Malabar Coast;;;;;;;;;;;;;x
+PROV1848;Indus River Delta;;;;;;;;;;;;;x
+PROV1849;Svir;;;;;;;;;;;;;x
+PROV1850;Andoma;;;;;;;;;;;;;x
+PROV1851;Soyda;;;;;;;;;;;;;x
+PROV1852;Kema;;;;;;;;;;;;;x
+PROV1853;Sheksna;;;;;;;;;;;;;x
+PROV1854;Sheksna;;;;;;;;;;;;;x
+PROV1855;Suda;;;;;;;;;;;;;x
+PROV1856;Mologa;;;;;;;;;;;;;x
+PROV1857;Mologa;;;;;;;;;;;;;x
+PROV1858;Chagodoshcha;;;;;;;;;;;;;x
+PROV1859;Volga;;;;;;;;;;;;;x
+PROV1860;Volga;;;;;;;;;;;;;x
+PROV1861;Volga;;;;;;;;;;;;;x
+PROV1862;Volga;;;;;;;;;;;;;x
+PROV1863;Volga;;;;;;;;;;;;;x
+PROV1864;Volga;;;;;;;;;;;;;x
+PROV1865;Volga;;;;;;;;;;;;;x
+PROV1866;Volga;;;;;;;;;;;;;x
+PROV1867;Volga;;;;;;;;;;;;;x
+PROV1868;Volga;;;;;;;;;;;;;x
+PROV1869;Volga;;;;;;;;;;;;;x
+PROV1870;Volga;;;;;;;;;;;;;x
+PROV1871;Oka;;;;;;;;;;;;;x
+PROV1872;Oka;;;;;;;;;;;;;x
+PROV1873;Oka;;;;;;;;;;;;;x
+PROV1874;Oka;;;;;;;;;;;;;x
+PROV1875;Oka;;;;;;;;;;;;;x
+PROV1876;Moskva;;;;;;;;;;;;;x
+PROV1877;Moskva;;;;;;;;;;;;;x
+PROV1878;Klyazma;;;;;;;;;;;;;x
+PROV1879;Klyazma;;;;;;;;;;;;;x
+PROV1880;Pronya;;;;;;;;;;;;;x
+PROV1881;Don;;;;;;;;;;;;;x
+PROV1882;Don;;;;;;;;;;;;;x
+PROV1883;Don;;;;;;;;;;;;;x
+PROV1884;Don;;;;;;;;;;;;;x
+PROV1885;Smolnya;;;;;;;;;;;;;x
+PROV1886;Smolnya;;;;;;;;;;;;;x
+PROV1887;Smolnya;;;;;;;;;;;;;x
+PROV1888;Pripyat;;;;;;;;;;;;;x
+PROV1889;Dnieper;;;;;;;;;;;;;x
+PROV1890;Dnieper;;;;;;;;;;;;;x
+PROV1891;Dnieper;;;;;;;;;;;;;x
+PROV1892;Dnieper;;;;;;;;;;;;;x
+PROV1893;Daugava;;;;;;;;;;;;;x
+PROV1894;Daugava;;;;;;;;;;;;;x
+PROV1895;Daugava;;;;;;;;;;;;;x
+PROV1896;Lovat;;;;;;;;;;;;;x
+PROV1897;Desna;;;;;;;;;;;;;x
+PROV1898;Desna;;;;;;;;;;;;;x
+PROV1899;Seym;;;;;;;;;;;;;x
+PROV1900;Seym;;;;;;;;;;;;;x
+PROV1901;Thames;;;;;;;;;;;;;x
+PROV1902;Thames;;;;;;;;;;;;;x
+PROV1903;Vilaine;;;;;;;;;;;;;x
+PROV1904;Somme;;;;;;;;;;;;;x
+PROV1905;Main;;;;;;;;;;;;;x
+PROV1906;Seine;;;;;;;;;;;;;x
+PROV1907;Seine;;;;;;;;;;;;;x
+PROV1908;Seine;;;;;;;;;;;;;x
+PROV1909;Yonne;;;;;;;;;;;;;x
+PROV1910;Marne;;;;;;;;;;;;;x
+PROV1911;Marne;;;;;;;;;;;;;x
+PROV1912;Oise;;;;;;;;;;;;;x
+PROV1913;Oise;;;;;;;;;;;;;x
+PROV1914;Aisne;;;;;;;;;;;;;x
+PROV1915;Loire;;;;;;;;;;;;;x
+PROV1916;Loire;;;;;;;;;;;;;x
+PROV1917;Loire;;;;;;;;;;;;;x
+PROV1918;Vienne;;;;;;;;;;;;;x
+PROV1919;Moselle;;;;;;;;;;;;;x
+PROV1920;Charente;;;;;;;;;;;;;x
+PROV1921;Moselle;;;;;;;;;;;;;x
+PROV1922;Dordogne;;;;;;;;;;;;;x
+PROV1923;Garonne;;;;;;;;;;;;;x
+PROV1924;Garonne;;;;;;;;;;;;;x
+PROV1925;Garonne;;;;;;;;;;;;;x
+PROV1926;Adour;;;;;;;;;;;;;x
+PROV1927;Rhône;;;;;;;;;;;;;x
+PROV1928;Guadalquivir;;;;;;;;;;;;;x
+PROV1929;Rhine;;;;;;;;;;;;;x
+PROV1930;Rhine;;;;;;;;;;;;;x
+PROV1931;Rhine;;;;;;;;;;;;;x
+PROV1932;Meuse;;;;;;;;;;;;;x
+PROV1933;Meuse;;;;;;;;;;;;;x
+PROV1934;Meuse;;;;;;;;;;;;;x
+PROV1935;Rann of Kutch;;;;;;;;;;;;;x
+PROV1936;Indus;;;;;;;;;;;;;x
+PROV1937;Indus;;;;;;;;;;;;;x
+PROV1938;Red Sea;;;;;;;;;;;;;x
+PROV1939;Red Sea;;;;;;;;;;;;;x
+PROV1940;Red Sea;;;;;;;;;;;;;x
+PROV1941;Gulf of Aden;;;;;;;;;;;;;x
+PROV1942;Coast of Somalia;;;;;;;;;;;;;x
+PROV1943;Coast of Yemen;;;;;;;;;;;;;x
+PROV1944;Coast of Oman;;;;;;;;;;;;;x
+PROV1945;Gulf of Oman;;;;;;;;;;;;;x
+PROV1946;Coast of Catalonia;;;;;;;;;;;;;x
+PROV1947;Central Black Sea;;;;;;;;;;;;;x
+PROV1948;Lake Bracciano;;;;;;;;;;;;;x
+PROV1949;Lake Bolsena;;;;;;;;;;;;;x
+PROV1950;Lake Trasimeno;;;;;;;;;;;;;x
+PROV1951;Fucine Lake;;;;;;;;;;;;;x
+PROV1952;Ténéré;;;;;;;;;;;;;x
+PROV806;Libyan Desert;;;;;;;;;;;;;x
+PROV1953;Hamun Lake;;;;;;;;;;;;;x

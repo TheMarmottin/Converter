@@ -1,0 +1,2361 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+baron_greek;Drungary;;;;;;;;;;;;;x
+baron_female_greek;Countess;;;;;;;;;;;;;x
+count_greek;Tourmarches;;;;;;;;;;;;;x
+count_female_greek;Tourmarchissa;;;;;;;;;;;;;x
+duke_greek;Dux;;;;;;;;;;;;;x
+duke_female_greek;Doukissa;;;;;;;;;;;;;x
+king_greek;Despot;;;;;;;;;;;;;x
+king_female_greek;Despotess;;;;;;;;;;;;;x
+emperor_greek;Basileus;;;;;;;;;;;;;x
+emperor_female_greek;Basilissa;;;;;;;;;;;;;x
+title_prince_greek;Caesar;;;;;;;;;;;;;x
+title_prince_female_greek;Caesarissa;;;;;;;;;;;;;x
+barony_of_greek;Kastron of;;;;;;;;;;;;;x
+county_of_greek;Turma of;;;;;;;;;;;;;x
+duchy_of_greek;Theme of;;;;;;;;;;;;;x
+kingdom_of_greek;Despotate of;;;;;;;;;;;;;x
+city_baron_greek;Kephale;;;;;;;;;;;;;x
+city_count_greek;Archon;;;;;;;;;;;;;x
+city_duke_greek;Protarchon;;;;;;;;;;;;;x
+city_king_greek;Protodoux;;;;;;;;;;;;;x
+city_emperor_greek;Grand Sire;;;;;;;;;;;;;x
+city_barony_of_greek;Katepanikion of;;;;;;;;;;;;;x
+city_county_of_greek;Polis of;;;;;;;;;;;;;x
+city_duchy_of_greek;Politeia of;;;;;;;;;;;;;x
+city_kingdom_of_greek;Archipoliteia of;;;;;;;;;;;;;x
+city_empire_of_greek;Dynasty of;;;;;;;;;;;;;x
+temple_count_greek;Bishop;;;;;;;;;;;;;x
+temple_duke_greek;Archbishop;;;;;;;;;;;;;x
+vice_royalty_count_greek;Strategos;;;;;;;;;;;;;x
+vice_royalty_duke_greek;Strategos;;;;;;;;;;;;;x
+vice_royalty_king_greek;Exarch;;;;;;;;;;;;;x
+vice_royalty_duchy_of_byzantine;Theme of;;;;;;;;;;;;;x
+baron_danish;Herra;;;;;;;;;;;;;x
+baron_gothic;Herra;;;;;;;;;;;;;x
+baron_icelandic;Herra;;;;;;;;;;;;;x
+baron_swedish;Herra;;;;;;;;;;;;;x
+baron_norwegian;Herra;;;;;;;;;;;;;x
+baron_female_danish;Mistress;;;;;;;;;;;;;x
+baron_female_gothic;Mistress;;;;;;;;;;;;;x
+baron_female_icelandic;Mistress;;;;;;;;;;;;;x
+baron_female_swedish;Mistress;;;;;;;;;;;;;x
+baron_female_norwegian;Mistress;;;;;;;;;;;;;x
+count_norse;Thegn;;;;;;;;;;;;;x
+count_danish;Herra;;;;;;;;;;;;;x
+count_icelandic;Landnámaður;;;;;;;;;;;;;x
+count_gothic;Herra;;;;;;;;;;;;;x
+count_swedish;Herra;;;;;;;;;;;;;x
+count_norwegian;Lendmann;;;;;;;;;;;;;x
+count_female_icelandic;Mistress;;;;;;;;;;;;;x
+count_female_gothic;Mistress;;;;;;;;;;;;;x
+count_female_danish;Mistress;;;;;;;;;;;;;x
+count_female_swedish;Mistress;;;;;;;;;;;;;x
+count_female_norwegian;Mistress;;;;;;;;;;;;;x
+duke_danish;Jarl;;;;;;;;;;;;;x
+duke_icelandic;Jarl;;;;;;;;;;;;;x
+duke_gothic;Jarl;;;;;;;;;;;;;x
+duke_swedish;Jarl;;;;;;;;;;;;;x
+duke_norwegian;Jarl;;;;;;;;;;;;;x
+duke_female_danish;Mistress;;;;;;;;;;;;;x
+duke_female_gothic;Mistress;;;;;;;;;;;;;x
+duke_female_icelandic;Mistress;;;;;;;;;;;;;x
+duke_female_swedish;Mistress;;;;;;;;;;;;;x
+duke_female_norwegian;Mistress;;;;;;;;;;;;;x
+king_danish;King;;;;;;;;;;;;;x
+king_gothic;King;;;;;;;;;;;;;x
+king_icelandic;King;;;;;;;;;;;;;x
+king_norse;King;;;;;;;;;;;;;x
+king_swedish;King;;;;;;;;;;;;;x
+king_norwegian;King;;;;;;;;;;;;;x
+king_female_norse;Queen;;;;;;;;;;;;;x
+king_female_icelandic;Queen;;;;;;;;;;;;;x
+king_female_gothic;Queen;;;;;;;;;;;;;x
+king_female_danish;Queen;;;;;;;;;;;;;x
+king_female_swedish;Queen;;;;;;;;;;;;;x
+king_female_norwegian;Queen;;;;;;;;;;;;;x
+emperor_icelandic;Emperor;;;;;;;;;;;;;x
+emperor_gothic;Emperor;;;;;;;;;;;;;x
+emperor_norse;Emperor;;;;;;;;;;;;;x
+emperor_danish;Emperor;;;;;;;;;;;;;x
+emperor_swedish;Emperor;;;;;;;;;;;;;x
+emperor_norwegian;Emperor;;;;;;;;;;;;;x
+emperor_female_gothic;Empress;;;;;;;;;;;;;x
+emperor_female_icelandic;Empress;;;;;;;;;;;;;x
+emperor_female_norse;Empress;;;;;;;;;;;;;x
+emperor_female_danish;Empress;;;;;;;;;;;;;x
+emperor_female_swedish;Empress;;;;;;;;;;;;;x
+emperor_female_norwegian;Empress;;;;;;;;;;;;;x
+count_title_ruler_consort_gothic;Herra;;;;;;;;;;;;;x
+count_title_ruler_consort_danish;Herra;;;;;;;;;;;;;x
+count_title_ruler_consort_swedish;Herra;;;;;;;;;;;;;x
+duke_title_ruler_consort_gothic;Herra;;;;;;;;;;;;;x
+duke_title_ruler_consort_icelandic;Herra;;;;;;;;;;;;;x
+duke_title_ruler_consort_danish;Herra;;;;;;;;;;;;;x
+duke_title_ruler_consort_swedish;Herra;;;;;;;;;;;;;x
+duke_title_ruler_consort_norwegian;Herra;;;;;;;;;;;;;x
+duke_title_ruler_consort_female_norse;Mistress;;;;;;;;;;;;;x
+title_ruler_consort_norse;King;;;;;;;;;;;;;x
+title_ruler_consort_female_norse;Queen;;;;;;;;;;;;;x
+title_prince_swedish;Prince;;;;;;;;;;;;;x
+title_prince_female_swedish;Princess;;;;;;;;;;;;;x
+title_prince_danish;Prince;;;;;;;;;;;;;x
+title_prince_female_danish;Princess;;;;;;;;;;;;;x
+title_prince_norwegian;Prince;;;;;;;;;;;;;x
+title_prince_female_norwegian;Princess;;;;;;;;;;;;;x
+duchy_of_icelandic;Jarldom of;;;;;;;;;;;;;x
+duchy_of_gothic;Jarldom of;;;;;;;;;;;;;x
+duchy_of_swedish;Jarldom of;;;;;;;;;;;;;x
+duchy_of_danish;Jarldom of;;;;;;;;;;;;;x
+duchy_of_norwegian;Jarldom of;;;;;;;;;;;;;x
+county_of_norwegian;County of;;;;;;;;;;;;;x
+kingdom_of_icelandic;Kingdom of;;;;;;;;;;;;;x
+kingdom_of_gothic;Kingdom of;;;;;;;;;;;;;x
+kingdom_of_swedish;Kingdom of;;;;;;;;;;;;;x
+kingdom_of_danish;Kingdom of;;;;;;;;;;;;;x
+kingdom_of_norwegian;Kingdom of;;;;;;;;;;;;;x
+kingdom_of_norse;Kingdom of;;;;;;;;;;;;;x
+kingdom_icelandic;Kingdom;;;;;;;;;;;;;x
+kingdom_gothic;Kingdom;;;;;;;;;;;;;x
+kingdom_swedish;Kingdom;;;;;;;;;;;;;x
+kingdom_danish;Kingdom;;;;;;;;;;;;;x
+kingdom_norwegian;Kingdom;;;;;;;;;;;;;x
+kingdom_norse;Kingdom;;;;;;;;;;;;;x
+duchy_icelandic;Jarldom;;;;;;;;;;;;;x
+duchy_gothic;Jarldom;;;;;;;;;;;;;x
+duchy_swedish;Jarldom;;;;;;;;;;;;;x
+duchy_danish;Jarldom;;;;;;;;;;;;;x
+duchy_norwegian;Jarldom;;;;;;;;;;;;;x
+county_norwegian;County;;;;;;;;;;;;;x
+tribal_baron_danish;Herra;;;;;;;;;;;;;x
+tribal_baron_gothic;Herra;;;;;;;;;;;;;x
+tribal_baron_icelandic;Herra;;;;;;;;;;;;;x
+tribal_baron_swedish;Herra;;;;;;;;;;;;;x
+tribal_baron_norwegian;Herra;;;;;;;;;;;;;x
+tribal_baron_female_danish;Mistress;;;;;;;;;;;;;x
+tribal_baron_female_gothic;Mistress;;;;;;;;;;;;;x
+tribal_baron_female_icelandic;Mistress;;;;;;;;;;;;;x
+tribal_baron_female_swedish;Mistress;;;;;;;;;;;;;x
+tribal_baron_female_norwegian;Mistress;;;;;;;;;;;;;x
+tribal_count_norse;Thegn;;;;;;;;;;;;;x
+tribal_count_danish;Herra;;;;;;;;;;;;;x
+tribal_count_icelandic;Landnámaður;;;;;;;;;;;;;x
+tribal_count_gothic;Herra;;;;;;;;;;;;;x
+tribal_count_swedish;Herra;;;;;;;;;;;;;x
+tribal_count_norwegian;Lendmann;;;;;;;;;;;;;x
+tribal_count_female_icelandic;Mistress;;;;;;;;;;;;;x
+tribal_count_female_gothic;Mistress;;;;;;;;;;;;;x
+tribal_count_female_danish;Mistress;;;;;;;;;;;;;x
+tribal_count_female_swedish;Mistress;;;;;;;;;;;;;x
+tribal_count_female_norwegian;Mistress;;;;;;;;;;;;;x
+tribal_duke_danish;Jarl;;;;;;;;;;;;;x
+tribal_duke_icelandic;Jarl;;;;;;;;;;;;;x
+tribal_duke_gothic;Jarl;;;;;;;;;;;;;x
+tribal_duke_swedish;Jarl;;;;;;;;;;;;;x
+tribal_duke_norwegian;Jarl;;;;;;;;;;;;;x
+tribal_duke_female_danish;Mistress;;;;;;;;;;;;;x
+tribal_duke_female_gothic;Mistress;;;;;;;;;;;;;x
+tribal_duke_female_icelandic;Mistress;;;;;;;;;;;;;x
+tribal_duke_female_swedish;Mistress;;;;;;;;;;;;;x
+tribal_duke_female_norwegian;Mistress;;;;;;;;;;;;;x
+tribal_king_danish;King;;;;;;;;;;;;;x
+tribal_king_gothic;King;;;;;;;;;;;;;x
+tribal_king_icelandic;King;;;;;;;;;;;;;x
+tribal_king_norse;King;;;;;;;;;;;;;x
+tribal_king_swedish;King;;;;;;;;;;;;;x
+tribal_king_norwegian;King;;;;;;;;;;;;;x
+tribal_king_female_norse;Queen;;;;;;;;;;;;;x
+tribal_king_female_icelandic;Queen;;;;;;;;;;;;;x
+tribal_king_female_gothic;Queen;;;;;;;;;;;;;x
+tribal_king_female_danish;Queen;;;;;;;;;;;;;x
+tribal_king_female_swedish;Queen;;;;;;;;;;;;;x
+tribal_king_female_norwegian;Queen;;;;;;;;;;;;;x
+tribal_emperor_icelandic;Emperor;;;;;;;;;;;;;x
+tribal_emperor_gothic;Emperor;;;;;;;;;;;;;x
+tribal_emperor_norse;Emperor;;;;;;;;;;;;;x
+tribal_emperor_danish;Emperor;;;;;;;;;;;;;x
+tribal_emperor_swedish;Emperor;;;;;;;;;;;;;x
+tribal_emperor_norwegian;Emperor;;;;;;;;;;;;;x
+tribal_emperor_female_gothic;Empress;;;;;;;;;;;;;x
+tribal_emperor_female_icelandic;Empress;;;;;;;;;;;;;x
+tribal_emperor_female_norse;Empress;;;;;;;;;;;;;x
+tribal_emperor_female_danish;Empress;;;;;;;;;;;;;x
+tribal_emperor_female_swedish;Empress;;;;;;;;;;;;;x
+tribal_emperor_female_norwegian;Empress;;;;;;;;;;;;;x
+tribal_count_title_ruler_consort_gothic;Herra;;;;;;;;;;;;;x
+tribal_count_title_ruler_consort_danish;Herra;;;;;;;;;;;;;x
+tribal_count_title_ruler_consort_swedish;Herra;;;;;;;;;;;;;x
+tribal_duke_title_ruler_consort_gothic;Herra;;;;;;;;;;;;;x
+tribal_duke_title_ruler_consort_icelandic;Herra;;;;;;;;;;;;;x
+tribal_duke_title_ruler_consort_danish;Herra;;;;;;;;;;;;;x
+tribal_duke_title_ruler_consort_swedish;Herra;;;;;;;;;;;;;x
+tribal_duke_title_ruler_consort_norwegian;Herra;;;;;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_norse;Mistress;;;;;;;;;;;;;x
+tribal_title_ruler_consort_norse;King;;;;;;;;;;;;;x
+tribal_title_ruler_consort_female_norse;Queen;;;;;;;;;;;;;x
+tribal_duchy_of_icelandic;Jarldom of;;;;;;;;;;;;;x
+tribal_duchy_of_gothic;Jarldom of;;;;;;;;;;;;;x
+tribal_duchy_of_swedish;Jarldom of;;;;;;;;;;;;;x
+tribal_duchy_of_danish;Jarldom of;;;;;;;;;;;;;x
+tribal_duchy_of_norwegian;Jarldom of;;;;;;;;;;;;;x
+tribal_county_of_norwegian;County of;;;;;;;;;;;;;x
+tribal_kingdom_of_icelandic;Kingdom of;;;;;;;;;;;;;x
+tribal_kingdom_of_gothic;Kingdom of;;;;;;;;;;;;;x
+tribal_kingdom_of_swedish;Kingdom of;;;;;;;;;;;;;x
+tribal_kingdom_of_danish;Kingdom of;;;;;;;;;;;;;x
+tribal_kingdom_of_norwegian;Kingdom of;;;;;;;;;;;;;x
+tribal_kingdom_of_norse;Kingdom of;;;;;;;;;;;;;x
+tribal_kingdom_icelandic;Kingdom;;;;;;;;;;;;;x
+tribal_kingdom_gothic;Kingdom;;;;;;;;;;;;;x
+tribal_kingdom_swedish;Kingdom;;;;;;;;;;;;;x
+tribal_kingdom_danish;Kingdom;;;;;;;;;;;;;x
+tribal_kingdom_norwegian;Kingdom;;;;;;;;;;;;;x
+tribal_kingdom_norse;Kingdom;;;;;;;;;;;;;x
+tribal_duchy_icelandic;Jarldom;;;;;;;;;;;;;x
+tribal_duchy_gothic;Jarldom;;;;;;;;;;;;;x
+tribal_duchy_swedish;Jarldom;;;;;;;;;;;;;x
+tribal_duchy_danish;Jarldom;;;;;;;;;;;;;x
+tribal_duchy_norwegian;Jarldom;;;;;;;;;;;;;x
+tribal_county_norwegian;County;;;;;;;;;;;;;x
+baron_russian;Boyar;;;;;;;;;;;;;x
+baron_female_russian;Boyarynia;;;;;;;;;;;;;x
+count_russian;Prince;;;;;;;;;;;;;x
+count_female_russian;Princess;;;;;;;;;;;;;x
+duke_russian;Prince;;;;;;;;;;;;;x
+duke_female_russian;Princess;;;;;;;;;;;;;x
+king_russian;Grand Duke;;;;;;;;;;;;;x
+king_female_russian;Grand Duchess;;;;;;;;;;;;;x
+title_ruler_consort_russian;Grand Duke;;;;;;;;;;;;;x
+title_ruler_consort_female_russian;Princess;;;;;;;;;;;;;x
+emperor_russian;Tsar;;;;;;;;;;;;;x
+emperor_female_russian;Tsarina;;;;;;;;;;;;;x
+emperor_title_ruler_consort_russian;Grand Duke;;;;;;;;;;;;;x
+emperor_title_ruler_consort_female_russian;Tsarina;;;;;;;;;;;;;x
+title_prince_russian;Knyazhich;;;;;;;;;;;;;x
+title_prince_female_russian;Knyazhna;;;;;;;;;;;;;x
+barony_of_russian;Volost of;;;;;;;;;;;;;x
+county_of_russian;Udel of;;;;;;;;;;;;;x
+duchy_of_russian;Duchy of;;;;;;;;;;;;;x
+kingdom_of_russian;Grand Duchy of;;;;;;;;;;;;;x
+empire_of_russian;Tsardom of;;;;;;;;;;;;;x
+city_baron_russian;Posadnik;;;;;;;;;;;;;x
+city_count_russian;Viceroy;;;;;;;;;;;;;x
+temple_baron_russian;Bishop;;;;;;;;;;;;;x
+baron_scottish;Chieftain;;;;;;;;;;;;;x
+baron_female_scottish;Chieftess;;;;;;;;;;;;;x
+count_scottish;Earl;;;;;;;;;;;;;x
+duke_scottish;Earl;;;;;;;;;;;;;x
+duke_title_ruler_consort_scottish;Earl;;;;;;;;;;;;;x
+county_of_scottish;Earldom of;;;;;;;;;;;;;x
+duchy_of_scottish;Mormaerdom of;;;;;;;;;;;;;x
+city_baron_scottish;Baillie;;;;;;;;;;;;;x
+city_count_scottish;Provost;;;;;;;;;;;;;x
+city_barony_of_scottish;Burgh of;;;;;;;;;;;;;x
+city_county_of_scottish;Burgh of;;;;;;;;;;;;;x
+baron_irish;Tigerna;;;;;;;;;;;;;x
+baron_female_irish;Lady;;;;;;;;;;;;;x
+count_irish;Ri Buiden;;;;;;;;;;;;;x
+count_female_irish;Lady;;;;;;;;;;;;;x
+duke_irish;Rí Ruirech;;;;;;;;;;;;;x
+duke_female_irish;Lady;;;;;;;;;;;;;x
+king_irish;High King;;;;;;;;;;;;;x
+king_female_irish;Queen;;;;;;;;;;;;;x
+emperor_irish;Ollamh Érenn;;;;;;;;;;;;;x
+emperor_female_irish;Ollamh Érenn;;;;;;;;;;;;;x
+title_prince_irish;Flaith;;;;;;;;;;;;;x
+title_prince_female_irish;Banfhlaith;;;;;;;;;;;;;x
+barony_of_irish;People of;;;;;;;;;;;;;x
+county_of_irish;Province of;;;;;;;;;;;;;x
+duchy_of_irish;Kingdom of;;;;;;;;;;;;;x
+kingdom_of_irish;Kingdom of;;;;;;;;;;;;;x
+empire_of_irish;Kingdom of;;;;;;;;;;;;;x
+baron_welsh;Tigerna;;;;;;;;;;;;;x
+baron_female_welsh;Lady;;;;;;;;;;;;;x
+count_welsh;Tywysog;;;;;;;;;;;;;x
+count_title_ruler_consort_welsh;Tywysoges;;;;;;;;;;;;;x
+duke_welsh;Tywysog;;;;;;;;;;;;;x
+duke_female_welsh;Tywysoges;;;;;;;;;;;;;x
+king_welsh;King;;;;;;;;;;;;;x
+king_female_welsh;Queen;;;;;;;;;;;;;x
+emperor_welsh;King;;;;;;;;;;;;;x
+emperor_female_welsh;Queen;;;;;;;;;;;;;x
+title_prince_welsh;Heir;;;;;;;;;;;;;x
+barony_of_welsh;Commote of;;;;;;;;;;;;;x
+county_of_welsh;Cantref of;;;;;;;;;;;;;x
+duchy_of_welsh;Principality of;;;;;;;;;;;;;x
+kingdom_of_welsh;Kingdom of;;;;;;;;;;;;;x
+empire_of_welsh;Kingdom of;;;;;;;;;;;;;x
+baron_cumbric;Tigerna;;;;;;;;;;;;;x
+baron_female_cumbric;Lady;;;;;;;;;;;;;x
+count_cumbric;Tywysog;;;;;;;;;;;;;x
+count_title_ruler_consort_cumbric;Tywysoges;;;;;;;;;;;;;x
+duke_cumbric;Tywysog;;;;;;;;;;;;;x
+duke_female_cumbric;Tywysoges;;;;;;;;;;;;;x
+king_cumbric;King;;;;;;;;;;;;;x
+king_female_cumbric;Queen;;;;;;;;;;;;;x
+emperor_cumbric;King;;;;;;;;;;;;;x
+emperor_female_cumbric;Queen;;;;;;;;;;;;;x
+title_prince_cumbric;Heir;;;;;;;;;;;;;x
+barony_of_cumbric;Commote of;;;;;;;;;;;;;x
+county_of_cumbric;Cantref of;;;;;;;;;;;;;x
+duchy_of_cumbric;Principality of;;;;;;;;;;;;;x
+kingdom_of_cumbric;Kingdom of;;;;;;;;;;;;;x
+empire_of_cumbric;Kingdom of;;;;;;;;;;;;;x
+baron_cornish;Tigerna;;;;;;;;;;;;;x
+baron_female_cornish;Lady;;;;;;;;;;;;;x
+count_cornish;Tywysog;;;;;;;;;;;;;x
+count_title_ruler_consort_cornish;Tywysoges;;;;;;;;;;;;;x
+duke_cornish;Tywysog;;;;;;;;;;;;;x
+duke_female_cornish;Tywysoges;;;;;;;;;;;;;x
+duke_title_ruler_consort_cornish;Tywysog;;;;;;;;;;;;;x
+duke_title_ruler_consort_female_cornish;Tywysoges;;;;;;;;;;;;;x
+king_cornish;King;;;;;;;;;;;;;x
+king_female_cornish;Queen;;;;;;;;;;;;;x
+emperor_cornish;King;;;;;;;;;;;;;x
+emperor_female_cornish;Queen;;;;;;;;;;;;;x
+title_prince_cornish;Heir;;;;;;;;;;;;;x
+barony_of_cornish;Commote of;;;;;;;;;;;;;x
+county_of_cornish;Cantref of;;;;;;;;;;;;;x
+duchy_of_cornish;Principality of;;;;;;;;;;;;;x
+kingdom_of_cornish;Kingdom of;;;;;;;;;;;;;x
+empire_of_cornish;Kingdom of;;;;;;;;;;;;;x
+tribal_baron_scottish;Chieftain;;;;;;;;;;;;;x
+tribal_baron_female_scottish;Chieftess;;;;;;;;;;;;;x
+tribal_count_scottish;Earl;;;;;;;;;;;;;x
+tribal_duke_scottish;Earl;;;;;;;;;;;;;x
+tribal_duke_title_ruler_consort_scottish;Earl;;;;;;;;;;;;;x
+tribal_county_of_scottish;Earldom of;;;;;;;;;;;;;x
+tribal_duchy_of_scottish;Mormaerdom of;;;;;;;;;;;;;x
+tribal_baron_irish;Tigerna;;;;;;;;;;;;;x
+tribal_baron_female_irish;Lady;;;;;;;;;;;;;x
+tribal_count_irish;Ri Buiden;;;;;;;;;;;;;x
+tribal_count_female_irish;Lady;;;;;;;;;;;;;x
+tribal_duke_irish;Rí Ruirech;;;;;;;;;;;;;x
+tribal_duke_female_irish;Lady;;;;;;;;;;;;;x
+tribal_king_irish;High King;;;;;;;;;;;;;x
+tribal_king_female_irish;Queen;;;;;;;;;;;;;x
+tribal_emperor_irish;Ollamh Érenn;;;;;;;;;;;;;x
+tribal_emperor_female_irish;Ollamh Érenn;;;;;;;;;;;;;x
+tribal_title_prince_irish;Flaith;;;;;;;;;;;;;x
+tribal_title_prince_female_irish;Banfhlaith;;;;;;;;;;;;;x
+tribal_barony_of_irish;People of;;;;;;;;;;;;;x
+tribal_county_of_irish;Province of;;;;;;;;;;;;;x
+tribal_duchy_of_irish;Kingdom of;;;;;;;;;;;;;x
+tribal_kingdom_of_irish;Kingdom of;;;;;;;;;;;;;x
+tribal_empire_of_irish;Kingdom of;;;;;;;;;;;;;x
+tribal_baron_welsh;Tigerna;;;;;;;;;;;;;x
+tribal_baron_female_welsh;Lady;;;;;;;;;;;;;x
+tribal_count_welsh;Tywysog;;;;;;;;;;;;;x
+tribal_count_title_ruler_consort_welsh;Tywysoges;;;;;;;;;;;;;x
+tribal_duke_welsh;Tywysog;;;;;;;;;;;;;x
+tribal_duke_female_welsh;Tywysoges;;;;;;;;;;;;;x
+tribal_king_welsh;King;;;;;;;;;;;;;x
+tribal_king_female_welsh;Queen;;;;;;;;;;;;;x
+tribal_emperor_welsh;King;;;;;;;;;;;;;x
+tribal_emperor_female_welsh;Queen;;;;;;;;;;;;;x
+tribal_title_prince_welsh;Heir;;;;;;;;;;;;;x
+tribal_barony_of_welsh;Commote of;;;;;;;;;;;;;x
+tribal_county_of_welsh;Cantref of;;;;;;;;;;;;;x
+tribal_duchy_of_welsh;Principality of;;;;;;;;;;;;;x
+tribal_kingdom_of_welsh;Kingdom of;;;;;;;;;;;;;x
+tribal_empire_of_welsh;Kingdom of;;;;;;;;;;;;;x
+tribal_baron_cumbric;Tigerna;;;;;;;;;;;;;x
+tribal_baron_female_cumbric;Lady;;;;;;;;;;;;;x
+tribal_count_cumbric;Tywysog;;;;;;;;;;;;;x
+tribal_count_title_ruler_consort_cumbric;Tywysoges;;;;;;;;;;;;;x
+tribal_duke_cumbric;Tywysog;;;;;;;;;;;;;x
+tribal_duke_female_cumbric;Tywysoges;;;;;;;;;;;;;x
+tribal_king_cumbric;King;;;;;;;;;;;;;x
+tribal_king_female_cumbric;Queen;;;;;;;;;;;;;x
+tribal_emperor_cumbric;King;;;;;;;;;;;;;x
+tribal_emperor_female_cumbric;Queen;;;;;;;;;;;;;x
+tribal_title_prince_cumbric;Heir;;;;;;;;;;;;;x
+tribal_barony_of_cumbric;Commote of;;;;;;;;;;;;;x
+tribal_county_of_cumbric;Cantref of;;;;;;;;;;;;;x
+tribal_duchy_of_cumbric;Principality of;;;;;;;;;;;;;x
+tribal_kingdom_of_cumbric;Kingdom of;;;;;;;;;;;;;x
+tribal_empire_of_cumbric;Kingdom of;;;;;;;;;;;;;x
+tribal_baron_cornish;Tigerna;;;;;;;;;;;;;x
+tribal_baron_female_cornish;Lady;;;;;;;;;;;;;x
+tribal_count_cornish;Tywysog;;;;;;;;;;;;;x
+tribal_count_title_ruler_consort_cornish;Tywysoges;;;;;;;;;;;;;x
+tribal_duke_cornish;Tywysog;;;;;;;;;;;;;x
+tribal_duke_female_cornish;Tywysoges;;;;;;;;;;;;;x
+tribal_duke_title_ruler_consort_cornish;Tywysog;;;;;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_cornish;Tywysoges;;;;;;;;;;;;;x
+tribal_king_cornish;King;;;;;;;;;;;;;x
+tribal_king_female_cornish;Queen;;;;;;;;;;;;;x
+tribal_emperor_cornish;King;;;;;;;;;;;;;x
+tribal_emperor_female_cornish;Queen;;;;;;;;;;;;;x
+tribal_title_prince_cornish;Heir;;;;;;;;;;;;;x
+tribal_barony_of_cornish;Commote of;;;;;;;;;;;;;x
+tribal_county_of_cornish;Cantref of;;;;;;;;;;;;;x
+tribal_duchy_of_cornish;Principality of;;;;;;;;;;;;;x
+tribal_kingdom_of_cornish;Kingdom of;;;;;;;;;;;;;x
+tribal_empire_of_cornish;Kingdom of;;;;;;;;;;;;;x
+duke_lithuanian;Duke;;;;;;;;;;;;;x
+duke_female_lithuanian;Duchess;;;;;;;;;;;;;x
+king_lithuanian;Grand Duke;;;;;;;;;;;;;x
+king_female_lithuanian;Grand Duchess;;;;;;;;;;;;;x
+king_title_ruler_consort_lithuanian;Duke;;;;;;;;;;;;;x
+king_title_ruler_consort_female_lithuanian;Duchess;;;;;;;;;;;;;x
+emperor_female_lithuanian;Grand Duchess;;;;;;;;;;;;;x
+emperor_title_ruler_consort_lithuanian;Duke;;;;;;;;;;;;;x
+emperor_title_ruler_consort_female_lithuanian;Grand Duchess;;;;;;;;;;;;;x
+kingdom_of_lithuanian;Grand Duchy of;;;;;;;;;;;;;x
+count_lithuanian;Voivode;;;;;;;;;;;;;x
+baron_lithuanian;Bajoras;;;;;;;;;;;;;x
+count_english;Earl;;;;;;;;;;;;;x
+county_of_english;Earldom of;;;;;;;;;;;;;x
+city_baron_english;Sheriff;;;;;;;;;;;;;x
+city_count_english;High Sheriff;;;;;;;;;;;;;x
+baron_saxon;Thegn;;;;;;;;;;;;;x
+count_saxon;Ealdorman;;;;;;;;;;;;;x
+count_female_saxon;Lady;;;;;;;;;;;;;x
+duke_saxon;Earl;;;;;;;;;;;;;x
+duke_female_saxon;Lady;;;;;;;;;;;;;x
+duchy_of_saxon;Earldom of;;;;;;;;;;;;;x
+city_baron_saxon;Tithingman;;;;;;;;;;;;;x
+city_count_saxon;Burhealdor;;;;;;;;;;;;;x
+city_barony_of_saxon;Tithing of;;;;;;;;;;;;;x
+city_county_of_saxon;Burgh of;;;;;;;;;;;;;x
+county_of_saxon;Shire of;;;;;;;;;;;;;x
+king_saxon;King;;;;;;;;;;;;;x
+king_female_saxon;Queen;;;;;;;;;;;;;x
+title_prince_saxon;Ætheling;;;;;;;;;;;;;x
+kingdom_of_saxon;Kingdom of;;;;;;;;;;;;;x
+kingdom_saxon;Kingdom;;;;;;;;;;;;;x
+emperor_saxon;Emperor;;;;;;;;;;;;;x
+emperor_female_saxon;Queen;;;;;;;;;;;;;x
+empire_saxon;Empire;;;;;;;;;;;;;x
+empire_of_saxon;Empire of;;;;;;;;;;;;;x
+county_saxon;Shire;;;;;;;;;;;;;x
+baron_frankish;Baron;;;;;;;;;;;;;x
+baron_female_frankish;Baroness;;;;;;;;;;;;;x
+count_frankish;Count;;;;;;;;;;;;;x
+count_female_frankish;Countess;;;;;;;;;;;;;x
+duke_frankish;Duke;;;;;;;;;;;;;x
+duke_female_frankish;Duchess;;;;;;;;;;;;;x
+king_frankish;King;;;;;;;;;;;;;x
+king_female_frankish;Queen;;;;;;;;;;;;;x
+emperor_frankish;Emperor;;;;;;;;;;;;;x
+emperor_female_frankish;Empress;;;;;;;;;;;;;x
+title_prince_frankish;Prince;;;;;;;;;;;;;x
+title_prince_female_frankish;Princess;;;;;;;;;;;;;x
+barony_of_frankish;Barony of;;;;;;;;;;;;;x
+county_of_frankish;County of;;;;;;;;;;;;;x
+duchy_of_frankish;Duchy of;;;;;;;;;;;;;x
+kingdom_of_frankish;Kingdom of;;;;;;;;;;;;;x
+barony_frankish;Barony;;;;;;;;;;;;;x
+county_frankish;County;;;;;;;;;;;;;x
+duchy_frankish;Duchy;;;;;;;;;;;;;x
+kingdom_frankish;Kingdom;;;;;;;;;;;;;x
+baron_occitan;Baron;;;;;;;;;;;;;x
+baron_female_occitan;Baroness;;;;;;;;;;;;;x
+count_occitan;Count;;;;;;;;;;;;;x
+count_female_occitan;Countess;;;;;;;;;;;;;x
+duke_occitan;Duke;;;;;;;;;;;;;x
+duke_female_occitan;Duchess;;;;;;;;;;;;;x
+king_occitan;King;;;;;;;;;;;;;x
+king_female_occitan;Queen;;;;;;;;;;;;;x
+emperor_occitan;Emperor;;;;;;;;;;;;;x
+emperor_female_occitan;Empress;;;;;;;;;;;;;x
+title_prince_occitan;Prince;;;;;;;;;;;;;x
+title_prince_female_occitan;Princess;;;;;;;;;;;;;x
+barony_of_occitan;Barony of;;;;;;;;;;;;;x
+county_of_occitan;County of;;;;;;;;;;;;;x
+duchy_of_occitan;Duchy of;;;;;;;;;;;;;x
+kingdom_of_occitan;Kingdom of;;;;;;;;;;;;;x
+barony_occitan;Barony;;;;;;;;;;;;;x
+county_occitan;County;;;;;;;;;;;;;x
+duchy_occitan;Duchy;;;;;;;;;;;;;x
+kingdom_occitan;Kingdom;;;;;;;;;;;;;x
+baron_portuguese;Baron;;;;;;;;;;;;;x
+baron_female_portuguese;Baroness;;;;;;;;;;;;;x
+count_portuguese;Count;;;;;;;;;;;;;x
+count_female_portuguese;Countess;;;;;;;;;;;;;x
+duke_portuguese;Duke;;;;;;;;;;;;;x
+duke_female_portuguese;Duchess;;;;;;;;;;;;;x
+king_portuguese;King;;;;;;;;;;;;;x
+king_female_portuguese;Queen;;;;;;;;;;;;;x
+emperor_portuguese;Emperor;;;;;;;;;;;;;x
+emperor_female_portuguese;Empress;;;;;;;;;;;;;x
+title_prince_portuguese;Infante;;;;;;;;;;;;;x
+title_prince_female_portuguese;Infanta;;;;;;;;;;;;;x
+baron_galician;Baron;;;;;;;;;;;;;x
+baron_female_galician;Baroness;;;;;;;;;;;;;x
+count_galician;Count;;;;;;;;;;;;;x
+count_female_galician;Countess;;;;;;;;;;;;;x
+duke_galician;Duke;;;;;;;;;;;;;x
+duke_female_galician;Duchess;;;;;;;;;;;;;x
+king_galician;King;;;;;;;;;;;;;x
+king_female_galician;Queen;;;;;;;;;;;;;x
+emperor_galician;Emperor;;;;;;;;;;;;;x
+emperor_female_galician;Empress;;;;;;;;;;;;;x
+title_prince_galician;Infante;;;;;;;;;;;;;x
+title_prince_female_galician;Infanta;;;;;;;;;;;;;x
+baron_norman;Châtelain;;;;;;;;;;;;;x
+baron_female_norman;Châtelaine;;;;;;;;;;;;;x
+count_norman;Count;;;;;;;;;;;;;x
+count_female_norman;Countess;;;;;;;;;;;;;x
+duke_norman;Duke;;;;;;;;;;;;;x
+duke_female_norman;Duchess;;;;;;;;;;;;;x
+king_norman;King;;;;;;;;;;;;;x
+king_norman_female;Queen;;;;;;;;;;;;;x
+emperor_norman;Emperor;;;;;;;;;;;;;x
+emperor_female_norman;Empress;;;;;;;;;;;;;x
+title_prince_norman;Prince;;;;;;;;;;;;;x
+title_prince_female_norman;Princess;;;;;;;;;;;;;x
+barony_of_norman;Castellany of;;;;;;;;;;;;;x
+city_baron_norman;Bailiff;;;;;;;;;;;;;x
+city_barony_of_norman;Bailiwick of;;;;;;;;;;;;;x
+county_norman;County;;;;;;;;;;;;;x
+county_of_norman;County of;;;;;;;;;;;;;x
+duchy_norman;Duchy;;;;;;;;;;;;;x
+duchy_of_norman;Duchy of;;;;;;;;;;;;;x
+kingdom_norman;Kingdom;;;;;;;;;;;;;x
+kingdom_of_norman;Kingdom of;;;;;;;;;;;;;x
+empire_norman;Empire;;;;;;;;;;;;;x
+empire_of_norman;Empire of;;;;;;;;;;;;;x
+baron_polish;Castellan;;;;;;;;;;;;;x
+baron_female_polish;Castellan;;;;;;;;;;;;;x
+count_polish;Starosta;;;;;;;;;;;;;x
+count_female_polish;Staroscina;;;;;;;;;;;;;x
+duke_polish;Duke;;;;;;;;;;;;;x
+duke_female_polish;Duchess;;;;;;;;;;;;;x
+king_polish;King;;;;;;;;;;;;;x
+king_female_polish;Queen;;;;;;;;;;;;;x
+emperor_polish;Emperor;;;;;;;;;;;;;x
+emperor_female_polish;Empress;;;;;;;;;;;;;x
+barony_of_polish;Castellany of;;;;;;;;;;;;;x
+county_of_polish;Starostwo of;;;;;;;;;;;;;x
+duchy_of_polish;Duchy of;;;;;;;;;;;;;x
+city_baron_polish;Mayor;;;;;;;;;;;;;x
+city_count_polish;Vogt;;;;;;;;;;;;;x
+temple_count_polish;Bishop;;;;;;;;;;;;;x
+temple_county_of_polish;Diocese of;;;;;;;;;;;;;x
+count_pommeranian;Duke;;;;;;;;;;;;;x
+duke_pommeranian;Prince;;;;;;;;;;;;;x
+count_croatian;Župan;;;;;;;;;;;;;x
+duke_croatian;Ban;;;;;;;;;;;;;x
+county_of_croatian;County of;;;;;;;;;;;;;x
+duchy_of_croatian;Banate of;;;;;;;;;;;;;x
+count_serbian;Župan;;;;;;;;;;;;;x
+duke_serbian;Grand Prince;;;;;;;;;;;;;x
+king_serbian;Kralj;;;;;;;;;;;;;x
+emperor_serbian;Tsar;;;;;;;;;;;;;x
+king_bulgarian;Tsar;;;;;;;;;;;;;x
+temple_duke_norse_pagan;Hofgoði;;;;;;;;;;;;;x
+temple_duke_female_norse_pagan;Hofgyðja;;;;;;;;;;;;;x
+count_norse_pagan;Thegn;;;;;;;;;;;;;x
+count_female_norse_pagan;Thegn;;;;;;;;;;;;;x
+baron_norse_pagan;Hersir;;;;;;;;;;;;;x
+baron_female_norse_pagan;Hersir;;;;;;;;;;;;;x
+temple_king_norse_pagan;Allsherjargoði;;;;;;;;;;;;;x
+temple_baron_norse_pagan;Gothi;;;;;;;;;;;;;x
+city_baron_norse_pagan;Alderman;;;;;;;;;;;;;x
+city_count_norse_pagan;Lawspeaker;;;;;;;;;;;;;x
+job_spiritual_jewish_group;Chief Rabbi;;;;;;;;;;;;;x
+temple_baron_jewish_group;Rabbi;;;;;;;;;;;;;x
+temple_count_jewish_group;Great Rabbi;;;;;;;;;;;;;x
+temple_duke_jewish_group;Malik;;;;;;;;;;;;;x
+temple_king_jewish_group;King of Kings;;;;;;;;;;;;;x
+temple_kingdom_of_jewish_group;Great Sanhedrin of;;;;;;;;;;;;;x
+temple_duchy_of_jewish_group;Lesser Sanhedrin of;;;;;;;;;;;;;x
+temple_county_of_jewish_group;Beth Din of;;;;;;;;;;;;;x
+temple_barony_of_jewish_group;Synagogue of;;;;;;;;;;;;;x
+baron_hungarian;Várispán;;;;;;;;;;;;;x
+baron_female_hungarian;Várispán;;;;;;;;;;;;;x
+baron_title_ruler_consort_female_hungarian;Várispánné;;;;;;;;;;;;;x
+count_hungarian;Lord-Lieutenant;;;;;;;;;;;;;x
+count_female_hungarian;Lord-Lieutenant;;;;;;;;;;;;;x
+count_title_ruler_consort_female_hungarian;Föispánné;;;;;;;;;;;;;x
+duke_hungarian;Duke;;;;;;;;;;;;;x
+duke_female_hungarian;Princess;;;;;;;;;;;;;x
+king_hungarian;King;;;;;;;;;;;;;x
+king_female_hungarian;Queen;;;;;;;;;;;;;x
+title_prince_hungarian;Prince;;;;;;;;;;;;;x
+title_prince_female_hungarian;Princess;;;;;;;;;;;;;x
+city_baron_hungarian;Judge;;;;;;;;;;;;;x
+city_count_hungarian;Judge;;;;;;;;;;;;;x
+city_duke_hungarian;Judge;;;;;;;;;;;;;x
+city_king_hungarian;Judge;;;;;;;;;;;;;x
+temple_baron_hungarian;Bishop;;;;;;;;;;;;;x
+temple_count_hungarian;Bishop;;;;;;;;;;;;;x
+temple_duke_hungarian;Bishop;;;;;;;;;;;;;x
+temple_king_hungarian;Bishop;;;;;;;;;;;;;x
+temple_emperor_hungarian;Bishop;;;;;;;;;;;;;x
+barony_of_hungarian;Estate of;;;;;;;;;;;;;x
+county_of_hungarian;County of;;;;;;;;;;;;;x
+duchy_of_hungarian;Duchy of;;;;;;;;;;;;;x
+kingdom_of_hungarian;Kingdom of;;;;;;;;;;;;;x
+baron_italian;Baron;;;;;;;;;;;;;x
+baron_female_italian;Baroness;;;;;;;;;;;;;x
+count_italian;Count;;;;;;;;;;;;;x
+count_female_italian;Countess;;;;;;;;;;;;;x
+duke_italian;Duke;;;;;;;;;;;;;x
+duke_female_italian;Duchess;;;;;;;;;;;;;x
+king_italian;King;;;;;;;;;;;;;x
+king_female_italian;Queen;;;;;;;;;;;;;x
+emperor_italian;Emperor;;;;;;;;;;;;;x
+emperor_female_italian;Empress;;;;;;;;;;;;;x
+title_prince_italian;Prince;;;;;;;;;;;;;x
+title_prince_female_italian;Princess;;;;;;;;;;;;;x
+city_baron_italian;Mayor;;;;;;;;;;;;;x
+city_count_italian;Podestà;;;;;;;;;;;;;x
+city_duke_italian;Doge;;;;;;;;;;;;;x
+city_king_italian;Doge;;;;;;;;;;;;;x
+city_emperor_italian;Doge;;;;;;;;;;;;;x
+city_barony_of_italian;Comune of;;;;;;;;;;;;;x
+city_county_of_italian;Comune of;;;;;;;;;;;;;x
+city_duchy_of_italian;Republic of;;;;;;;;;;;;;x
+city_kingdom_of_italian;Republic of;;;;;;;;;;;;;x
+city_empire_of_italian;Republic of;;;;;;;;;;;;;x
+temple_baron_italian;Bishop of;;;;;;;;;;;;;x
+temple_count_italian;Bishop of;;;;;;;;;;;;;x
+temple_barony_of_italian;Diocese of;;;;;;;;;;;;;x
+temple_county_of_italian;Diocese of;;;;;;;;;;;;;x
+county_of_italian;County of;;;;;;;;;;;;;x
+duchy_of_italian;Duchy of;;;;;;;;;;;;;x
+kingdom_of_italian;Kingdom of;;;;;;;;;;;;;x
+baron_tuscan;Baron;;;;;;;;;;;;;x
+baron_female_tuscan;Baroness;;;;;;;;;;;;;x
+count_tuscan;Count;;;;;;;;;;;;;x
+count_female_tuscan;Countess;;;;;;;;;;;;;x
+duke_tuscan;Duke;;;;;;;;;;;;;x
+duke_female_tuscan;Duchess;;;;;;;;;;;;;x
+king_tuscan;King;;;;;;;;;;;;;x
+king_female_tuscan;Queen;;;;;;;;;;;;;x
+emperor_tuscan;Emperor;;;;;;;;;;;;;x
+emperor_female_tuscan;Empress;;;;;;;;;;;;;x
+title_prince_tuscan;Prince;;;;;;;;;;;;;x
+title_prince_female_tuscan;Princess;;;;;;;;;;;;;x
+city_baron_tuscan;Mayor;;;;;;;;;;;;;x
+city_count_tuscan;Podestà;;;;;;;;;;;;;x
+city_duke_tuscan;Doge;;;;;;;;;;;;;x
+city_king_tuscan;Doge;;;;;;;;;;;;;x
+city_emperor_tuscan;Doge;;;;;;;;;;;;;x
+city_barony_of_tuscan;Comune of;;;;;;;;;;;;;x
+city_county_of_tuscan;Comune of;;;;;;;;;;;;;x
+city_duchy_of_tuscan;Republic of;;;;;;;;;;;;;x
+city_kingdom_of_tuscan;Republic of;;;;;;;;;;;;;x
+city_empire_of_tuscan;Republic of;;;;;;;;;;;;;x
+temple_baron_tuscan;Bishop of;;;;;;;;;;;;;x
+temple_count_tuscan;Bishop of;;;;;;;;;;;;;x
+temple_barony_of_tuscan;Diocese of;;;;;;;;;;;;;x
+temple_county_of_tuscan;Diocese of;;;;;;;;;;;;;x
+county_of_tuscan;County of;;;;;;;;;;;;;x
+duchy_of_tuscan;Duchy of;;;;;;;;;;;;;x
+kingdom_of_tuscan;Kingdom of;;;;;;;;;;;;;x
+baron_venetian;Baron;;;;;;;;;;;;;x
+baron_female_venetian;Baroness;;;;;;;;;;;;;x
+count_venetian;Count;;;;;;;;;;;;;x
+count_female_venetian;Countess;;;;;;;;;;;;;x
+duke_venetian;Duke;;;;;;;;;;;;;x
+duke_female_venetian;Duchess;;;;;;;;;;;;;x
+king_venetian;King;;;;;;;;;;;;;x
+king_female_venetian;Queen;;;;;;;;;;;;;x
+emperor_venetian;Emperor;;;;;;;;;;;;;x
+emperor_female_venetian;Empress;;;;;;;;;;;;;x
+title_prince_venetian;Prince;;;;;;;;;;;;;x
+title_prince_female_venetian;Princess;;;;;;;;;;;;;x
+city_baron_venetian;Mayor;;;;;;;;;;;;;x
+city_count_venetian;Podestà;;;;;;;;;;;;;x
+city_duke_venetian;Doge;;;;;;;;;;;;;x
+city_king_venetian;Doge;;;;;;;;;;;;;x
+city_emperor_venetian;Doge;;;;;;;;;;;;;x
+city_barony_of_venetian;Comune of;;;;;;;;;;;;;x
+city_county_of_venetian;Comune of;;;;;;;;;;;;;x
+city_duchy_of_venetian;Republic of;;;;;;;;;;;;;x
+city_kingdom_of_venetian;Republic of;;;;;;;;;;;;;x
+city_empire_of_venetian;Republic of;;;;;;;;;;;;;x
+temple_baron_venetian;Bishop of;;;;;;;;;;;;;x
+temple_count_venetian;Bishop of;;;;;;;;;;;;;x
+temple_barony_of_venetian;Diocese of;;;;;;;;;;;;;x
+temple_county_of_venetian;Diocese of;;;;;;;;;;;;;x
+county_of_venetian;County of;;;;;;;;;;;;;x
+duchy_of_venetian;Duchy of;;;;;;;;;;;;;x
+kingdom_of_venetian;Kingdom of;;;;;;;;;;;;;x
+baron_dalmatian;Baron;;;;;;;;;;;;;x
+count_dalmatian;Count;;;;;;;;;;;;;x
+duke_dalmatian;Duke;;;;;;;;;;;;;x
+king_dalmatian;King;;;;;;;;;;;;;x
+emperor_dalmatian;Emperor;;;;;;;;;;;;;x
+city_baron_dalmatian;Mayor;;;;;;;;;;;;;x
+city_count_dalmatian;Podestà;;;;;;;;;;;;;x
+city_duke_dalmatian;Rector;;;;;;;;;;;;;x
+city_king_dalmatian;Rector;;;;;;;;;;;;;x
+city_emperor_dalmatian;Rector;;;;;;;;;;;;;x
+city_barony_of_dalmatian;Comune of;;;;;;;;;;;;;x
+city_county_of_dalmatian;Comune of;;;;;;;;;;;;;x
+city_duchy_of_dalmatian;Republic of;;;;;;;;;;;;;x
+city_kingdom_of_dalmatian;Republic of;;;;;;;;;;;;;x
+city_empire_of_dalmatian;Republic of;;;;;;;;;;;;;x
+kingdom_of_dalmatian;Kingdom of;;;;;;;;;;;;;x
+baron_ligurian;Baron;;;;;;;;;;;;;x
+baron_female_ligurian;Baroness;;;;;;;;;;;;;x
+count_ligurian;Count;;;;;;;;;;;;;x
+count_female_ligurian;Countess;;;;;;;;;;;;;x
+duke_ligurian;Duke;;;;;;;;;;;;;x
+duke_female_ligurian;Duchess;;;;;;;;;;;;;x
+king_ligurian;King;;;;;;;;;;;;;x
+king_female_ligurian;Queen;;;;;;;;;;;;;x
+emperor_ligurian;Emperor;;;;;;;;;;;;;x
+emperor_female_ligurian;Empress;;;;;;;;;;;;;x
+title_prince_ligurian;Prince;;;;;;;;;;;;;x
+title_prince_female_ligurian;Princess;;;;;;;;;;;;;x
+city_baron_ligurian;Mayor;;;;;;;;;;;;;x
+city_count_ligurian;Podestà;;;;;;;;;;;;;x
+city_duke_ligurian;Doge;;;;;;;;;;;;;x
+city_king_ligurian;Doge;;;;;;;;;;;;;x
+city_emperor_ligurian;Doge;;;;;;;;;;;;;x
+city_barony_of_ligurian;Comune of;;;;;;;;;;;;;x
+city_county_of_ligurian;Comune of;;;;;;;;;;;;;x
+city_duchy_of_ligurian;Republic of;;;;;;;;;;;;;x
+city_kingdom_of_ligurian;Republic of;;;;;;;;;;;;;x
+city_empire_of_ligurian;Republic of;;;;;;;;;;;;;x
+temple_baron_ligurian;Bishop of;;;;;;;;;;;;;x
+temple_count_ligurian;Bishop of;;;;;;;;;;;;;x
+temple_barony_of_ligurian;Diocese of;;;;;;;;;;;;;x
+temple_county_of_ligurian;Diocese of;;;;;;;;;;;;;x
+county_of_ligurian;County of;;;;;;;;;;;;;x
+duchy_of_ligurian;Duchy of;;;;;;;;;;;;;x
+kingdom_of_ligurian;Kingdom of;;;;;;;;;;;;;x
+baron_sardinian;Lord;;;;;;;;;;;;;x
+baron_female_sardinian;Lady;;;;;;;;;;;;;x
+count_sardinian;Curator;;;;;;;;;;;;;x
+count_female_sardinian;Curatrix;;;;;;;;;;;;;x
+duke_sardinian;Judge;;;;;;;;;;;;;x
+duke_female_sardinian;Judge;;;;;;;;;;;;;x
+king_sardinian;King;;;;;;;;;;;;;x
+king_female_sardinian;Queen;;;;;;;;;;;;;x
+emperor_sardinian;Emperor;;;;;;;;;;;;;x
+emperor_female_sardinian;Empress;;;;;;;;;;;;;x
+title_prince_sardinian;Prince;;;;;;;;;;;;;x
+title_prince_female_sardinian;Princess;;;;;;;;;;;;;x
+city_baron_sardinian;Mayor;;;;;;;;;;;;;x
+city_count_sardinian;Podestà;;;;;;;;;;;;;x
+city_duke_sardinian;Doge;;;;;;;;;;;;;x
+city_king_sardinian;Doge;;;;;;;;;;;;;x
+city_emperor_sardinian;Doge;;;;;;;;;;;;;x
+city_barony_of_sardinian;Comune of;;;;;;;;;;;;;x
+city_county_of_sardinian;Podesteria of;;;;;;;;;;;;;x
+city_duchy_of_sardinian;Republic of;;;;;;;;;;;;;x
+city_kingdom_of_sardinian;Republic of;;;;;;;;;;;;;x
+city_empire_of_sardinian;Republic of;;;;;;;;;;;;;x
+temple_baron_sardinian;Bishop of;;;;;;;;;;;;;x
+temple_count_sardinian;Bishop of;;;;;;;;;;;;;x
+temple_barony_of_sardinian;Diocese of;;;;;;;;;;;;;x
+temple_county_of_sardinian;Diocese of;;;;;;;;;;;;;x
+county_of_sardinian;Curadoria of;;;;;;;;;;;;;x
+duchy_of_sardinian;Duchy of;;;;;;;;;;;;;x
+kingdom_of_sardinian;Kingdom of;;;;;;;;;;;;;x
+family_palace_baron_sardinian;Patrician;;;;;;;;;;;;;x
+baron_umbrian;Baron;;;;;;;;;;;;;x
+baron_female_umbrian;Baroness;;;;;;;;;;;;;x
+count_umbrian;Count;;;;;;;;;;;;;x
+count_female_umbrian;Countess;;;;;;;;;;;;;x
+duke_umbrian;Duke;;;;;;;;;;;;;x
+duke_female_umbrian;Duchess;;;;;;;;;;;;;x
+king_umbrian;King;;;;;;;;;;;;;x
+king_female_umbrian;Queen;;;;;;;;;;;;;x
+emperor_umbrian;Emperor;;;;;;;;;;;;;x
+emperor_female_umbrian;Empress;;;;;;;;;;;;;x
+title_prince_umbrian;Prince;;;;;;;;;;;;;x
+title_prince_female_umbrian;Princess;;;;;;;;;;;;;x
+city_baron_umbrian;Mayor;;;;;;;;;;;;;x
+city_count_umbrian;Podestà;;;;;;;;;;;;;x
+city_duke_umbrian;Doge;;;;;;;;;;;;;x
+city_king_umbrian;Doge;;;;;;;;;;;;;x
+city_emperor_umbrian;Doge;;;;;;;;;;;;;x
+city_barony_of_umbrian;Comune of;;;;;;;;;;;;;x
+city_county_of_umbrian;Comune of;;;;;;;;;;;;;x
+city_duchy_of_umbrian;Republic of;;;;;;;;;;;;;x
+city_kingdom_of_umbrian;Republic of;;;;;;;;;;;;;x
+city_empire_of_umbrian;Republic of;;;;;;;;;;;;;x
+temple_baron_umbrian;Bishop of;;;;;;;;;;;;;x
+temple_count_umbrian;Bishop of;;;;;;;;;;;;;x
+temple_barony_of_umbrian;Diocese of;;;;;;;;;;;;;x
+temple_county_of_umbrian;Diocese of;;;;;;;;;;;;;x
+county_of_umbrian;County of;;;;;;;;;;;;;x
+duchy_of_umbrian;Duchy of;;;;;;;;;;;;;x
+kingdom_of_umbrian;Kingdom of;;;;;;;;;;;;;x
+baron_southern_italian;Baron;;;;;;;;;;;;;x
+baron_female_southern_italian;Baroness;;;;;;;;;;;;;x
+count_southern_italian;Count;;;;;;;;;;;;;x
+count_female_southern_italian;Countess;;;;;;;;;;;;;x
+duke_southern_italian;Duke;;;;;;;;;;;;;x
+duke_female_southern_italian;Duchess;;;;;;;;;;;;;x
+king_southern_italian;King;;;;;;;;;;;;;x
+king_female_southern_italian;Queen;;;;;;;;;;;;;x
+emperor_southern_italian;Emperor;;;;;;;;;;;;;x
+emperor_female_southern_italian;Empress;;;;;;;;;;;;;x
+title_prince_southern_italian;Prince;;;;;;;;;;;;;x
+title_prince_female_southern_italian;Princess;;;;;;;;;;;;;x
+city_baron_southern_italian;Mayor;;;;;;;;;;;;;x
+city_count_southern_italian;Podestà;;;;;;;;;;;;;x
+city_duke_southern_italian;Doge;;;;;;;;;;;;;x
+city_king_southern_italian;Doge;;;;;;;;;;;;;x
+city_emperor_southern_italian;Doge;;;;;;;;;;;;;x
+city_barony_of_southern_italian;Comune of;;;;;;;;;;;;;x
+city_county_of_southern_italian;Comune of;;;;;;;;;;;;;x
+city_duchy_of_southern_italian;Republic of;;;;;;;;;;;;;x
+city_kingdom_of_southern_italian;Republic of;;;;;;;;;;;;;x
+city_empire_of_southern_italian;Republic of;;;;;;;;;;;;;x
+temple_baron_southern_italian;Bishop of;;;;;;;;;;;;;x
+temple_count_southern_italian;Bishop of;;;;;;;;;;;;;x
+temple_barony_of_southern_italian;Diocese of;;;;;;;;;;;;;x
+temple_county_of_southern_italian;Diocese of;;;;;;;;;;;;;x
+county_of_southern_italian;County of;;;;;;;;;;;;;x
+duchy_of_southern_italian;Duchy of;;;;;;;;;;;;;x
+kingdom_of_southern_italian;Kingdom of;;;;;;;;;;;;;x
+baron_laziale;Baron;;;;;;;;;;;;;x
+baron_female_laziale;Baroness;;;;;;;;;;;;;x
+count_laziale;Count;;;;;;;;;;;;;x
+count_female_laziale;Countess;;;;;;;;;;;;;x
+duke_laziale;Duke;;;;;;;;;;;;;x
+duke_female_laziale;Duchess;;;;;;;;;;;;;x
+king_laziale;King;;;;;;;;;;;;;x
+king_female_laziale;Queen;;;;;;;;;;;;;x
+emperor_laziale;Emperor;;;;;;;;;;;;;x
+emperor_female_laziale;Empress;;;;;;;;;;;;;x
+title_prince_laziale;Prince;;;;;;;;;;;;;x
+title_prince_female_laziale;Princess;;;;;;;;;;;;;x
+city_baron_laziale;Mayor;;;;;;;;;;;;;x
+city_count_laziale;Podestà;;;;;;;;;;;;;x
+city_duke_laziale;Doge;;;;;;;;;;;;;x
+city_king_laziale;Doge;;;;;;;;;;;;;x
+city_emperor_laziale;Doge;;;;;;;;;;;;;x
+city_barony_of_laziale;Comune of;;;;;;;;;;;;;x
+city_county_of_laziale;Comune of;;;;;;;;;;;;;x
+city_duchy_of_laziale;Republic of;;;;;;;;;;;;;x
+city_kingdom_of_laziale;Republic of;;;;;;;;;;;;;x
+city_empire_of_laziale;Republic of;;;;;;;;;;;;;x
+temple_baron_laziale;Bishop of;;;;;;;;;;;;;x
+temple_count_laziale;Bishop of;;;;;;;;;;;;;x
+temple_barony_of_laziale;Diocese of;;;;;;;;;;;;;x
+temple_county_of_laziale;Diocese of;;;;;;;;;;;;;x
+county_of_laziale;County of;;;;;;;;;;;;;x
+duchy_of_laziale;Duchy of;;;;;;;;;;;;;x
+kingdom_of_laziale;Kingdom of;;;;;;;;;;;;;x
+baron_sicilian;Baron;;;;;;;;;;;;;x
+baron_female_sicilian;Baroness;;;;;;;;;;;;;x
+count_sicilian;Count;;;;;;;;;;;;;x
+count_female_sicilian;Countess;;;;;;;;;;;;;x
+duke_sicilian;Duke;;;;;;;;;;;;;x
+duke_female_sicilian;Duchess;;;;;;;;;;;;;x
+king_sicilian;King;;;;;;;;;;;;;x
+king_female_sicilian;Queen;;;;;;;;;;;;;x
+emperor_sicilian;Emperor;;;;;;;;;;;;;x
+emperor_female_sicilian;Empress;;;;;;;;;;;;;x
+title_prince_sicilian;Prince;;;;;;;;;;;;;x
+title_prince_female_sicilian;Princess;;;;;;;;;;;;;x
+city_baron_sicilian;Mayor;;;;;;;;;;;;;x
+city_count_sicilian;Podestà;;;;;;;;;;;;;x
+city_duke_sicilian;Doge;;;;;;;;;;;;;x
+city_king_sicilian;Doge;;;;;;;;;;;;;x
+city_emperor_sicilian;Doge;;;;;;;;;;;;;x
+city_barony_of_sicilian;Comune of;;;;;;;;;;;;;x
+city_county_of_sicilian;Comune of;;;;;;;;;;;;;x
+city_duchy_of_sicilian;Republic of;;;;;;;;;;;;;x
+city_kingdom_of_sicilian;Republic of;;;;;;;;;;;;;x
+city_empire_of_sicilian;Republic of;;;;;;;;;;;;;x
+temple_baron_sicilian;Bishop of;;;;;;;;;;;;;x
+temple_count_sicilian;Bishop of;;;;;;;;;;;;;x
+temple_barony_of_sicilian;Diocese of;;;;;;;;;;;;;x
+temple_county_of_sicilian;Diocese of;;;;;;;;;;;;;x
+county_of_sicilian;County of;;;;;;;;;;;;;x
+duchy_of_sicilian;Duchy of;;;;;;;;;;;;;x
+kingdom_of_sicilian;Kingdom of;;;;;;;;;;;;;x
+baron_neapolitan;Baron;;;;;;;;;;;;;x
+baron_female_neapolitan;Baroness;;;;;;;;;;;;;x
+count_neapolitan;Count;;;;;;;;;;;;;x
+count_female_neapolitan;Countess;;;;;;;;;;;;;x
+duke_neapolitan;Duke;;;;;;;;;;;;;x
+duke_female_neapolitan;Duchess;;;;;;;;;;;;;x
+king_neapolitan;King;;;;;;;;;;;;;x
+king_female_neapolitan;Queen;;;;;;;;;;;;;x
+emperor_neapolitan;Emperor;;;;;;;;;;;;;x
+emperor_female_neapolitan;Empress;;;;;;;;;;;;;x
+title_prince_neapolitan;Prince;;;;;;;;;;;;;x
+title_prince_female_neapolitan;Princess;;;;;;;;;;;;;x
+city_baron_neapolitan;Mayor;;;;;;;;;;;;;x
+city_count_neapolitan;Podestà;;;;;;;;;;;;;x
+city_duke_neapolitan;Doge;;;;;;;;;;;;;x
+city_king_neapolitan;Doge;;;;;;;;;;;;;x
+city_emperor_neapolitan;Doge;;;;;;;;;;;;;x
+city_barony_of_neapolitan;Comune of;;;;;;;;;;;;;x
+city_county_of_neapolitan;Comune of;;;;;;;;;;;;;x
+city_duchy_of_neapolitan;Republic of;;;;;;;;;;;;;x
+city_kingdom_of_neapolitan;Republic of;;;;;;;;;;;;;x
+city_empire_of_neapolitan;Republic of;;;;;;;;;;;;;x
+temple_baron_neapolitan;Bishop of;;;;;;;;;;;;;x
+temple_count_neapolitan;Bishop of;;;;;;;;;;;;;x
+temple_barony_of_neapolitan;Diocese of;;;;;;;;;;;;;x
+temple_county_of_neapolitan;Diocese of;;;;;;;;;;;;;x
+county_of_neapolitan;County of;;;;;;;;;;;;;x
+duchy_of_neapolitan;Duchy of;;;;;;;;;;;;;x
+kingdom_of_neapolitan;Kingdom of;;;;;;;;;;;;;x
+baron_arpitan;Baron;;;;;;;;;;;;;x
+baron_female_arpitan;Baroness;;;;;;;;;;;;;x
+count_arpitan;Count;;;;;;;;;;;;;x
+count_female_arpitan;Countess;;;;;;;;;;;;;x
+duke_arpitan;Duke;;;;;;;;;;;;;x
+duke_female_arpitan;Duchess;;;;;;;;;;;;;x
+king_arpitan;King;;;;;;;;;;;;;x
+king_female_arpitan;Queen;;;;;;;;;;;;;x
+emperor_arpitan;Emperor;;;;;;;;;;;;;x
+emperor_female_arpitan;Empress;;;;;;;;;;;;;x
+title_prince_arpitan;Prince;;;;;;;;;;;;;x
+title_prince_female_arpitan;Princess;;;;;;;;;;;;;x
+city_baron_arpitan;Mayor;;;;;;;;;;;;;x
+city_count_arpitan;Podestà;;;;;;;;;;;;;x
+city_emperor_arpitan;Doge;;;;;;;;;;;;;x
+city_barony_of_arpitan;Comune of;;;;;;;;;;;;;x
+city_county_of_arpitan;Comune of;;;;;;;;;;;;;x
+city_duchy_of_arpitan;Republic of;;;;;;;;;;;;;x
+city_kingdom_of_arpitan;Republic of;;;;;;;;;;;;;x
+city_empire_of_arpitan;Republic of;;;;;;;;;;;;;x
+temple_baron_arpitan;Bishop of;;;;;;;;;;;;;x
+temple_count_arpitan;Bishop of;;;;;;;;;;;;;x
+temple_barony_of_arpitan;Diocese of;;;;;;;;;;;;;x
+temple_county_of_arpitan;Diocese of;;;;;;;;;;;;;x
+county_of_arpitan;County of;;;;;;;;;;;;;x
+duchy_of_arpitan;Duchy of;;;;;;;;;;;;;x
+kingdom_of_arpitan;Kingdom of;;;;;;;;;;;;;x
+baron_langobardisch;Baron;;;;;;;;;;;;;x
+baron_female_langobardisch;Baroness;;;;;;;;;;;;;x
+count_langobardisch;Count;;;;;;;;;;;;;x
+count_female_langobardisch;Countess;;;;;;;;;;;;;x
+duke_langobardisch;Duke;;;;;;;;;;;;;x
+duke_female_langobardisch;Duchess;;;;;;;;;;;;;x
+king_langobardisch;King;;;;;;;;;;;;;x
+king_female_langobardisch;Queen;;;;;;;;;;;;;x
+emperor_langobardisch;Emperor;;;;;;;;;;;;;x
+emperor_female_langobardisch;Empress;;;;;;;;;;;;;x
+title_prince_langobardisch;Prince;;;;;;;;;;;;;x
+title_prince_female_langobardisch;Princess;;;;;;;;;;;;;x
+city_baron_langobardisch;Mayor;;;;;;;;;;;;;x
+city_count_langobardisch;Podestà;;;;;;;;;;;;;x
+city_duke_langobardisch;Doge;;;;;;;;;;;;;x
+city_king_langobardisch;Doge;;;;;;;;;;;;;x
+city_emperor_langobardisch;Doge;;;;;;;;;;;;;x
+city_barony_of_langobardisch;Comune of;;;;;;;;;;;;;x
+city_county_of_langobardisch;Comune of;;;;;;;;;;;;;x
+city_duchy_of_langobardisch;Republic of;;;;;;;;;;;;;x
+city_kingdom_of_langobardisch;Republic of;;;;;;;;;;;;;x
+city_empire_of_langobardisch;Republic of;;;;;;;;;;;;;x
+temple_baron_langobardisch;Bishop of;;;;;;;;;;;;;x
+temple_count_langobardisch;Bishop of;;;;;;;;;;;;;x
+temple_barony_of_langobardisch;Diocese of;;;;;;;;;;;;;x
+temple_county_of_langobardisch;Diocese of;;;;;;;;;;;;;x
+county_of_langobardisch;County of;;;;;;;;;;;;;x
+duchy_of_langobardisch;Duchy of;;;;;;;;;;;;;x
+kingdom_of_langobardisch;Kingdom of;;;;;;;;;;;;;x
+baron_andalusian_arabic;Wáli;;;;;;;;;;;;;x
+barony_of_andalusian_arabic;Wilayah of;;;;;;;;;;;;;x
+count_andalusian_arabic;Sheikh;;;;;;;;;;;;;x
+county_of_andalusian_arabic;Sheikhdom of;;;;;;;;;;;;;x
+count_female_andalusian_arabic;Shaykhah;;;;;;;;;;;;;x
+duke_andalusian_arabic;Emir;;;;;;;;;;;;;x
+duke_female_andalusian_arabic;Emira;;;;;;;;;;;;;x
+duchy_of_andalusian_arabic;Emirate of;;;;;;;;;;;;;x
+king_andalusian_arabic;Malik;;;;;;;;;;;;;x
+king_female_andalusian_arabic;Malikah;;;;;;;;;;;;;x
+kingdom_of_andalusian_arabic;Malikate of;;;;;;;;;;;;;x
+emperor_andalusian_arabic;Caliph;;;;;;;;;;;;;x
+duchy_andalusian_arabic;Emirate;;;;;;;;;;;;;x
+kingdom_andalusian_arabic;Sultanate;;;;;;;;;;;;;x
+empire_andalusian_arabic;Caliphate;;;;;;;;;;;;;x
+county_andalusian_arabic;Wilayah;;;;;;;;;;;;;x
+city_baron_georgian;Tsikhistavi;;;;;;;;;;;;;x
+baron_georgian;Tsikhistavi;;;;;;;;;;;;;x
+count_georgian;Count;;;;;;;;;;;;;x
+duke_georgian;Duke;;;;;;;;;;;;;x
+king_georgian;King;;;;;;;;;;;;;x
+king_female_georgian;Queen;;;;;;;;;;;;;x
+baron_armenian;Azat;;;;;;;;;;;;;x
+count_armenian;Nakharar;;;;;;;;;;;;;x
+duke_armenian;Prince;;;;;;;;;;;;;x
+king_armenian;King;;;;;;;;;;;;;x
+emperor_armenian;Emperor;;;;;;;;;;;;;x
+emperor_female_armenian;Empress;;;;;;;;;;;;;x
+baron_norsegaelic;Lord;;;;;;;;;;;;;x
+baron_female_norsegaelic;Lady;;;;;;;;;;;;;x
+count_norsegaelic;Earl;;;;;;;;;;;;;x
+count_female_norsegaelic;Lady;;;;;;;;;;;;;x
+duke_norsegaelic;Lord;;;;;;;;;;;;;x
+duke_female_norsegaelic;Queen;;;;;;;;;;;;;x
+king_norsegaelic;Lord;;;;;;;;;;;;;x
+king_female_norsegaelic;Queen;;;;;;;;;;;;;x
+emperor_norsegaelic;High King;;;;;;;;;;;;;x
+emperor_female_norsegaelic;High Queen;;;;;;;;;;;;;x
+emperor_title_ruler_consort_female_norsegaelic;High King;;;;;;;;;;;;;x
+title_prince_norsegaelic;Flaith;;;;;;;;;;;;;x
+title_prince_female_norsegaelic;Banfhlaith;;;;;;;;;;;;;x
+barony_of_norsegaelic;Lordship of;;;;;;;;;;;;;x
+county_of_norsegaelic;Earldom of;;;;;;;;;;;;;x
+duchy_of_norsegaelic;Kingdom of;;;;;;;;;;;;;x
+kingdom_of_norsegaelic;Kingdom of;;;;;;;;;;;;;x
+empire_of_norsegaelic;High Kingdom of;;;;;;;;;;;;;x
+tribal_baron_norsegaelic;Lord;;;;;;;;;;;;;x
+tribal_baron_female_norsegaelic;Lady;;;;;;;;;;;;;x
+tribal_count_norsegaelic;Earl;;;;;;;;;;;;;x
+tribal_count_female_norsegaelic;Lady;;;;;;;;;;;;;x
+tribal_duke_norsegaelic;Lord;;;;;;;;;;;;;x
+tribal_duke_female_norsegaelic;Queen;;;;;;;;;;;;;x
+tribal_king_norsegaelic;Lord;;;;;;;;;;;;;x
+tribal_king_female_norsegaelic;Queen;;;;;;;;;;;;;x
+tribal_emperor_norsegaelic;High King;;;;;;;;;;;;;x
+tribal_emperor_female_norsegaelic;High Queen;;;;;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female_norsegaelic;High King;;;;;;;;;;;;;x
+tribal_title_prince_norsegaelic;Flaith;;;;;;;;;;;;;x
+tribal_title_prince_female_norsegaelic;Banfhlaith;;;;;;;;;;;;;x
+tribal_barony_of_norsegaelic;Lordship of;;;;;;;;;;;;;x
+tribal_county_of_norsegaelic;Earldom of;;;;;;;;;;;;;x
+tribal_duchy_of_norsegaelic;Kingdom of;;;;;;;;;;;;;x
+tribal_kingdom_of_norsegaelic;Kingdom of;;;;;;;;;;;;;x
+tribal_empire_of_norsegaelic;High Kingdom of;;;;;;;;;;;;;x
+baron_roman;Baron;;;;;;;;;;;;;x
+baron_female_roman;Baroness;;;;;;;;;;;;;x
+count_roman;Count;;;;;;;;;;;;;x
+count_female_roman;Countess;;;;;;;;;;;;;x
+duke_roman;Duke;;;;;;;;;;;;;x
+duke_female_roman;Duchess;;;;;;;;;;;;;x
+king_roman;King;;;;;;;;;;;;;x
+king_female_roman;Queen;;;;;;;;;;;;;x
+emperor_roman;Emperor;;;;;;;;;;;;;x
+emperor_female_roman;Empress;;;;;;;;;;;;;x
+title_prince_roman;Prince;;;;;;;;;;;;;x
+title_prince_female_roman;Princess;;;;;;;;;;;;;x
+barony_of_roman;Barony of;;;;;;;;;;;;;x
+county_of_roman;County of;;;;;;;;;;;;;x
+duchy_of_roman;Duchy of;;;;;;;;;;;;;x
+kingdom_of_roman;Kingdom of;;;;;;;;;;;;;x
+empire_of_roman;Empire of;;;;;;;;;;;;;x
+city_emperor_catalan;Grand Prince;;;;;;;;;;;;;x
+title_prince_catalan;Infante;;;;;;;;;;;;;x
+title_prince_female_catalan;Infanta;;;;;;;;;;;;;x
+city_king_catalan;Syndic;;;;;;;;;;;;;x
+city_duke_catalan;Minister;;;;;;;;;;;;;x
+count_catalan;Count;;;;;;;;;;;;;x
+duke_catalan;Duke;;;;;;;;;;;;;x
+king_catalan;King;;;;;;;;;;;;;x
+emperor_catalan;Emperor;;;;;;;;;;;;;x
+city_count_catalan;Mayor;;;;;;;;;;;;;x
+baron_catalan;Viscount;;;;;;;;;;;;;x
+baron_female_catalan;Viscountess;;;;;;;;;;;;;x
+barony_of_catalan;Viscounty of;;;;;;;;;;;;;x
+city_baron_catalan;Consul;;;;;;;;;;;;;x
+temple_emperor_catalan;King-Priest;;;;;;;;;;;;;x
+temple_king_catalan;Apostolic King;;;;;;;;;;;;;x
+temple_duke_catalan;Prince-Archbishop;;;;;;;;;;;;;x
+temple_count_catalan;Prince-Bishop;;;;;;;;;;;;;x
+city_empire_of_catalan;Principality of;;;;;;;;;;;;;x
+city_kingdom_of_catalan;Generalitat of;;;;;;;;;;;;;x
+city_duchy_of_catalan;Council of;;;;;;;;;;;;;x
+city_county_of_catalan;City Council of;;;;;;;;;;;;;x
+city_barony_of_catalan;Commune of;;;;;;;;;;;;;x
+count_female_catalan;Countess;;;;;;;;;;;;;x
+duke_female_catalan;Duchess;;;;;;;;;;;;;x
+king_female_catalan;Queen;;;;;;;;;;;;;x
+emperor_female_catalan;Empress;;;;;;;;;;;;;x
+county_of_catalan;County of;;;;;;;;;;;;;x
+duchy_of_catalan;Duchy of;;;;;;;;;;;;;x
+kingdom_of_catalan;Kingdom of;;;;;;;;;;;;;x
+empire_of_catalan;Empire of;;;;;;;;;;;;;x
+barony_catalan;Viscounty;;;;;;;;;;;;;x
+county_catalan;County;;;;;;;;;;;;;x
+duchy_catalan;Duchy;;;;;;;;;;;;;x
+kingdom_catalan;Kingdom;;;;;;;;;;;;;x
+empire_catalan;Empire;;;;;;;;;;;;;x
+baron_castillan;Don;;;;;;;;;;;;;x
+baron_female_castillan;Doña;;;;;;;;;;;;;x
+count_castillan;Count;;;;;;;;;;;;;x
+count_female_castillan;Countess;;;;;;;;;;;;;x
+duke_castillan;Duke;;;;;;;;;;;;;x
+duke_female_castillan;Duchess;;;;;;;;;;;;;x
+king_castillan;King;;;;;;;;;;;;;x
+king_female_castillan;Queen;;;;;;;;;;;;;x
+emperor_castillan;Emperor;;;;;;;;;;;;;x
+emperor_female_castillan;Empress;;;;;;;;;;;;;x
+title_prince_castillan;Infante;;;;;;;;;;;;;x
+title_prince_female_castillan;Infanta;;;;;;;;;;;;;x
+barony_of_castillan;Lordship of;;;;;;;;;;;;;x
+county_of_castillan;County of;;;;;;;;;;;;;x
+duchy_of_castillan;Duchy of;;;;;;;;;;;;;x
+kingdom_of_castillan;Kingdom of;;;;;;;;;;;;;x
+empire_of_castillan;Empire of;;;;;;;;;;;;;x
+barony_castillan;Lordship;;;;;;;;;;;;;x
+county_castillan;County;;;;;;;;;;;;;x
+duchy_castillan;Duchy;;;;;;;;;;;;;x
+kingdom_castillan;Kingdom;;;;;;;;;;;;;x
+empire_castillan;Empire;;;;;;;;;;;;;x
+baron_basque;Lord;;;;;;;;;;;;;x
+baron_female_basque;Lady;;;;;;;;;;;;;x
+count_basque;Count;;;;;;;;;;;;;x
+count_female_basque;Countess;;;;;;;;;;;;;x
+duke_basque;Duke;;;;;;;;;;;;;x
+duke_female_basque;Duchess;;;;;;;;;;;;;x
+king_basque;King;;;;;;;;;;;;;x
+king_female_basque;Queen;;;;;;;;;;;;;x
+emperor_basque;Emperor;;;;;;;;;;;;;x
+emperor_female_basque;Empress;;;;;;;;;;;;;x
+title_prince_basque;Infante;;;;;;;;;;;;;x
+title_prince_female_basque;Infanta;;;;;;;;;;;;;x
+county_of_basque;County of;;;;;;;;;;;;;x
+barony_of_basque;Lordship of;;;;;;;;;;;;;x
+duchy_of_basque;Duchy of;;;;;;;;;;;;;x
+kingdom_of_basque;Kingdom of;;;;;;;;;;;;;x
+empire_of_basque;Empire of;;;;;;;;;;;;;x
+county_basque;County;;;;;;;;;;;;;x
+barony_basque;Lordship;;;;;;;;;;;;;x
+duchy_basque;Duchy;;;;;;;;;;;;;x
+kingdom_basque;Kingdom;;;;;;;;;;;;;x
+empire_basque;Empire;;;;;;;;;;;;;x
+baron_aragonese;Lord;;;;;;;;;;;;;x
+baron_female_aragonese;Lady;;;;;;;;;;;;;x
+count_aragonese;Count;;;;;;;;;;;;;x
+count_female_aragonese;Countess;;;;;;;;;;;;;x
+duke_aragonese;Duke;;;;;;;;;;;;;x
+duke_female_aragonese;Duchess;;;;;;;;;;;;;x
+king_aragonese;King;;;;;;;;;;;;;x
+king_female_aragonese;Queen;;;;;;;;;;;;;x
+emperor_aragonese;Emperor;;;;;;;;;;;;;x
+emperor_female_aragonese;Empress;;;;;;;;;;;;;x
+title_prince_aragonese;Infante;;;;;;;;;;;;;x
+title_prince_female_aragonese;Infanta;;;;;;;;;;;;;x
+barony_of_aragonese;Lordship of;;;;;;;;;;;;;x
+county_of_aragonese;County of;;;;;;;;;;;;;x
+duchy_of_aragonese;Duchy of;;;;;;;;;;;;;x
+kingdom_of_aragonese;Kingdom of;;;;;;;;;;;;;x
+empire_of_aragonese;Empire of;;;;;;;;;;;;;x
+barony_aragonese;Lordship;;;;;;;;;;;;;x
+county_aragonese;County;;;;;;;;;;;;;x
+duchy_aragonese;Duchy;;;;;;;;;;;;;x
+kingdom_aragonese;Kingdom;;;;;;;;;;;;;x
+empire_aragonese;Empire;;;;;;;;;;;;;x
+baron_leonese;Don;;;;;;;;;;;;;x
+baron_female_leonese;Doña;;;;;;;;;;;;;x
+count_leonese;Count;;;;;;;;;;;;;x
+count_female_leonese;Countess;;;;;;;;;;;;;x
+duke_leonese;Duke;;;;;;;;;;;;;x
+duke_female_leonese;Duchess;;;;;;;;;;;;;x
+king_leonese;King;;;;;;;;;;;;;x
+king_female_leonese;Queen;;;;;;;;;;;;;x
+emperor_leonese;Emperor;;;;;;;;;;;;;x
+emperor_female_leonese;Empress;;;;;;;;;;;;;x
+title_prince_leonese;Infante;;;;;;;;;;;;;x
+title_prince_female_leonese;Infanta;;;;;;;;;;;;;x
+barony_of_leonese;Lordship of;;;;;;;;;;;;;x
+county_of_leonese;County of;;;;;;;;;;;;;x
+duchy_of_leonese;Duchy of;;;;;;;;;;;;;x
+kingdom_of_leonese;Kingdom of;;;;;;;;;;;;;x
+empire_of_leonese;Empire of;;;;;;;;;;;;;x
+barony_leonese;Lordship;;;;;;;;;;;;;x
+county_leonese;County;;;;;;;;;;;;;x
+duchy_leonese;Duchy;;;;;;;;;;;;;x
+kingdom_leonese;Kingdom;;;;;;;;;;;;;x
+empire_leonese;Empire;;;;;;;;;;;;;x
+baron_romanian;Boyar;;;;;;;;;;;;;x
+barony_of_romanian;Boierie of;;;;;;;;;;;;;x
+count_romanian;Ban;;;;;;;;;;;;;x
+count_female_romanian;Ban;;;;;;;;;;;;;x
+county_of_romanian;Country of;;;;;;;;;;;;;x
+duke_romanian;Great Ban;;;;;;;;;;;;;x
+duke_female_romanian;Great Ban;;;;;;;;;;;;;x
+king_romanian;Domnitor;;;;;;;;;;;;;x
+emperor_romanian;Emperor;;;;;;;;;;;;;x
+duke_west_african_pagan;Maghan;;;;;;;;;;;;;x
+duke_female_west_african_pagan;Maghan;;;;;;;;;;;;;x
+count_west_african_pagan;Farin;;;;;;;;;;;;;x
+count_female_west_african_pagan;Farina;;;;;;;;;;;;;x
+baron_west_african_pagan;Kafi;;;;;;;;;;;;;x
+baron_female_west_african_pagan;Kafuna;;;;;;;;;;;;;x
+baron_soninke;Kafi;;;;;;;;;;;;;x
+baron_female_soninke;Kafuna;;;;;;;;;;;;;x
+duke_soninke;Maghan;;;;;;;;;;;;;x
+duke_female_soninke;Maghan;;;;;;;;;;;;;x
+king_soninke;King;;;;;;;;;;;;;x
+king_female_soninke;Queen;;;;;;;;;;;;;x
+emperor_soninke;Mansa;;;;;;;;;;;;;x
+emperor_female_soninke;Mansa;;;;;;;;;;;;;x
+title_prince_soninke;Maghan;;;;;;;;;;;;;x
+title_prince_female_soninke;Maghan;;;;;;;;;;;;;x
+barony_of_soninke;Kafu of;;;;;;;;;;;;;x
+county_of_soninke;Farinate of;;;;;;;;;;;;;x
+duchy_of_soninke;Maghanate of;;;;;;;;;;;;;x
+kingdom_of_soninke;Kingdom of;;;;;;;;;;;;;x
+empire_of_soninke;Empire of;;;;;;;;;;;;;x
+tribal_king_soninke;Tunka;;;;;;;;;;;;;x
+baron_sanhaja;Wáli;;;;;;;;;;;;;x
+count_sanhaja;Sheikh;;;;;;;;;;;;;x
+count_female_sanhaja;Shaykhah;;;;;;;;;;;;;x
+barony_of_sanhaja;Wilayah of;;;;;;;;;;;;;x
+county_of_sanhaja;Sheikhdom of;;;;;;;;;;;;;x
+duchy_of_sanhaja;Emirate of;;;;;;;;;;;;;x
+kingdom_of_sanhaja;Sultanate of;;;;;;;;;;;;;x
+duke_sanhaja;Emir;;;;;;;;;;;;;x
+duke_female_sanhaja;Emira;;;;;;;;;;;;;x
+king_sanhaja;Sultan;;;;;;;;;;;;;x
+king_female_sanhaja;Sultana;;;;;;;;;;;;;x
+duchy_sanhaja;Emirate;;;;;;;;;;;;;x
+kingdom_sanhaja;Sultanate;;;;;;;;;;;;;x
+empire_sanhaja;Caliphate;;;;;;;;;;;;;x
+county_sanhaja;Sheikhdom;;;;;;;;;;;;;x
+baron_masmuda;Wáli;;;;;;;;;;;;;x
+count_masmuda;Sheikh;;;;;;;;;;;;;x
+count_female_masmuda;Shaykhah;;;;;;;;;;;;;x
+barony_of_masmuda;Wilayah of;;;;;;;;;;;;;x
+county_of_masmuda;Sheikhdom of;;;;;;;;;;;;;x
+duchy_of_masmuda;Emirate of;;;;;;;;;;;;;x
+kingdom_of_masmuda;Sultanate of;;;;;;;;;;;;;x
+duke_masmuda;Emir;;;;;;;;;;;;;x
+duke_female_masmuda;Emira;;;;;;;;;;;;;x
+king_masmuda;Sultan;;;;;;;;;;;;;x
+king_female_masmuda;Sultana;;;;;;;;;;;;;x
+duchy_masmuda;Emirate;;;;;;;;;;;;;x
+kingdom_masmuda;Sultanate;;;;;;;;;;;;;x
+empire_masmuda;Caliphate;;;;;;;;;;;;;x
+county_masmuda;Sheikhdom;;;;;;;;;;;;;x
+baron_zanata;Wáli;;;;;;;;;;;;;x
+count_zanata;Sheikh;;;;;;;;;;;;;x
+count_female_zanata;Shaykhah;;;;;;;;;;;;;x
+barony_of_zanata;Wilayah of;;;;;;;;;;;;;x
+county_of_zanata;Sheikhdom of;;;;;;;;;;;;;x
+duchy_of_zanata;Emirate of;;;;;;;;;;;;;x
+kingdom_of_zanata;Sultanate of;;;;;;;;;;;;;x
+duke_zanata;Emir;;;;;;;;;;;;;x
+duke_female_zanata;Emira;;;;;;;;;;;;;x
+king_zanata;Sultan;;;;;;;;;;;;;x
+king_female_zanata;Sultana;;;;;;;;;;;;;x
+duchy_zanata;Emirate;;;;;;;;;;;;;x
+kingdom_zanata;Sultanate;;;;;;;;;;;;;x
+empire_zanata;Caliphate;;;;;;;;;;;;;x
+county_zanata;Sheikhdom;;;;;;;;;;;;;x
+baron_tuareg;Wáli;;;;;;;;;;;;;x
+count_tuareg;Sheikh;;;;;;;;;;;;;x
+count_female_tuareg;Shaykhah;;;;;;;;;;;;;x
+barony_of_tuareg;Wilayah of;;;;;;;;;;;;;x
+county_of_tuareg;Sheikhdom of;;;;;;;;;;;;;x
+duchy_of_tuareg;Emirate of;;;;;;;;;;;;;x
+kingdom_of_tuareg;Sultanate of;;;;;;;;;;;;;x
+duke_tuareg;Emir;;;;;;;;;;;;;x
+duke_female_tuareg;Emira;;;;;;;;;;;;;x
+king_tuareg;Sultan;;;;;;;;;;;;;x
+king_female_tuareg;Sultana;;;;;;;;;;;;;x
+duchy_tuareg;Emirate;;;;;;;;;;;;;x
+kingdom_tuareg;Sultanate;;;;;;;;;;;;;x
+empire_tuareg;Caliphate;;;;;;;;;;;;;x
+county_tuareg;Sheikhdom;;;;;;;;;;;;;x
+baron_tagelmust;Wáli;;;;;;;;;;;;;x
+count_tagelmust;Sheikh;;;;;;;;;;;;;x
+count_female_tagelmust;Shaykhah;;;;;;;;;;;;;x
+barony_of_tagelmust;Wilayah of;;;;;;;;;;;;;x
+county_of_tagelmust;Sheikhdom of;;;;;;;;;;;;;x
+duchy_of_tagelmust;Emirate of;;;;;;;;;;;;;x
+kingdom_of_tagelmust;Sultanate of;;;;;;;;;;;;;x
+duke_tagelmust;Emir;;;;;;;;;;;;;x
+duke_female_tagelmust;Emira;;;;;;;;;;;;;x
+king_tagelmust;Sultan;;;;;;;;;;;;;x
+king_female_tagelmust;Sultana;;;;;;;;;;;;;x
+duchy_tagelmust;Emirate;;;;;;;;;;;;;x
+kingdom_tagelmust;Sultanate;;;;;;;;;;;;;x
+empire_tagelmust;Caliphate;;;;;;;;;;;;;x
+county_tagelmust;Sheikhdom;;;;;;;;;;;;;x
+count_bohemian;Lord;;;;;;;;;;;;;x
+count_female_bohemian;Lady;;;;;;;;;;;;;x
+duke_bohemian;Duke;;;;;;;;;;;;;x
+duke_female_bohemian;Duchess;;;;;;;;;;;;;x
+king_bohemian;King;;;;;;;;;;;;;x
+king_female_bohemian;Queen;;;;;;;;;;;;;x
+emperor_bohemian;Emperor;;;;;;;;;;;;;x
+emperor_female_bohemian;Empress;;;;;;;;;;;;;x
+title_prince_bohemian;Prince;;;;;;;;;;;;;x
+title_prince_female_bohemian;Princess;;;;;;;;;;;;;x
+city_baron_bohemian;Burgrave;;;;;;;;;;;;;x
+city_count_bohemian;Burgomaster;;;;;;;;;;;;;x
+city_barony_of_bohemian;City of;;;;;;;;;;;;;x
+city_county_of_bohemian;Free City of;;;;;;;;;;;;;x
+temple_baron_bohemian;Abbot;;;;;;;;;;;;;x
+temple_count_bohemian;Bishop;;;;;;;;;;;;;x
+temple_duke_bohemian;Archbishop;;;;;;;;;;;;;x
+temple_barony_of_bohemian;Abbey of;;;;;;;;;;;;;x
+temple_county_of_bohemian;Bishopric of;;;;;;;;;;;;;x
+temple_duchy_of_bohemian;Archbishopric of;;;;;;;;;;;;;x
+barony_of_bohemian;Castellany of;;;;;;;;;;;;;x
+county_of_bohemian;Lordship of;;;;;;;;;;;;;x
+duchy_of_bohemian;Duchy of;;;;;;;;;;;;;x
+baron_beja;Wáli;;;;;;;;;;;;;x
+count_beja;Sheikh;;;;;;;;;;;;;x
+count_female_beja;Shaykhah;;;;;;;;;;;;;x
+barony_of_beja;Wilayah of;;;;;;;;;;;;;x
+county_of_beja;Sheikhdom of;;;;;;;;;;;;;x
+duchy_of_beja;Emirate of;;;;;;;;;;;;;x
+kingdom_of_beja;Sultanate of;;;;;;;;;;;;;x
+duke_beja;Emir;;;;;;;;;;;;;x
+duke_female_beja;Emira;;;;;;;;;;;;;x
+king_beja;Sultan;;;;;;;;;;;;;x
+king_female_beja;Sultana;;;;;;;;;;;;;x
+duchy_beja;Emirate;;;;;;;;;;;;;x
+kingdom_beja;Sultanate;;;;;;;;;;;;;x
+empire_beja;Caliphate;;;;;;;;;;;;;x
+county_beja;Sheikhdom;;;;;;;;;;;;;x
+tribal_count_beja;Sheikh;;;;;;;;;;;;;x
+tribal_county_of_beja;Sheikhdom of;;;;;;;;;;;;;x
+tribal_county_beja;Sheikhdom;;;;;;;;;;;;;x
+tribal_duke_beja;Rais;;;;;;;;;;;;;x
+tribal_king_beja;Sultan;;;;;;;;;;;;;x
+tribal_duchy_beja;Tribe;;;;;;;;;;;;;x
+tribal_duchy_of_beja;Tribe of;;;;;;;;;;;;;x
+tribal_kingdom_of_beja;Sultanate of;;;;;;;;;;;;;x
+tribal_kingdom_beja;Sultanate;;;;;;;;;;;;;x
+baron_kanuri;‘Asakir;;;;;;;;;;;;;x
+count_kanuri;Kayghama;;;;;;;;;;;;;x
+count_female_kanuri;Kayghamma;;;;;;;;;;;;;x
+duke_kanuri;Yerima;;;;;;;;;;;;;x
+duke_female_kanuri;Yerimina;;;;;;;;;;;;;x
+king_kanuri;Mai;;;;;;;;;;;;;x
+king_female_kanuri;Gumsu;;;;;;;;;;;;;x
+title_prince_kanuri;Shiroma;;;;;;;;;;;;;x
+baron_hausa;‘Asakir;;;;;;;;;;;;;x
+count_hausa;Kayghama;;;;;;;;;;;;;x
+count_female_hausa;Kayghamma;;;;;;;;;;;;;x
+duke_hausa;Yerima;;;;;;;;;;;;;x
+duke_female_hausa;Yerimina;;;;;;;;;;;;;x
+king_hausa;Mai;;;;;;;;;;;;;x
+king_female_hausa;Gumsu;;;;;;;;;;;;;x
+title_prince_hausa;Shiroma;;;;;;;;;;;;;x
+temple_count_ethiopian;Abune;;;;;;;;;;;;;x
+temple_duke_ethiopian;Abune;;;;;;;;;;;;;x
+count_ethiopian;Dejazmach;;;;;;;;;;;;;x
+count_female_ethiopian;Woyzero;;;;;;;;;;;;;x
+count_title_ruler_consort_ethiopian;Governor;;;;;;;;;;;;;x
+duke_ethiopian;Ras;;;;;;;;;;;;;x
+duke_female_ethiopian;Embelet;;;;;;;;;;;;;x
+king_ethiopian;Negus;;;;;;;;;;;;;x
+king_female_ethiopian;Nigist;;;;;;;;;;;;;x
+king_title_ruler_consort_female_ethiopian;Itege;;;;;;;;;;;;;x
+emperor_ethiopian;Emperor;;;;;;;;;;;;;x
+emperor_female_ethiopian;Empress;;;;;;;;;;;;;x
+title_prince_ethiopian;Le‘ul;;;;;;;;;;;;;x
+title_prince_female_ethiopian;Le‘elt;;;;;;;;;;;;;x
+baron_ethiopian;Fit’awrari;;;;;;;;;;;;;x
+count_nubian;Chief;;;;;;;;;;;;;x
+duke_nubian;Eparch;;;;;;;;;;;;;x
+king_nubian;King;;;;;;;;;;;;;x
+emperor_nubian;Chief of Kings;;;;;;;;;;;;;x
+count_afar;Ugaas;;;;;;;;;;;;;x
+count_female_afar;Ugaasad;;;;;;;;;;;;;x
+duke_afar;Gerad;;;;;;;;;;;;;x
+duke_female_afar;Amiraad;;;;;;;;;;;;;x
+king_afar;Suldaan;;;;;;;;;;;;;x
+king_female_afar;Suldaanad;;;;;;;;;;;;;x
+emperor_afar;Boqor;;;;;;;;;;;;;x
+emperor_female_afar;Boqorad;;;;;;;;;;;;;x
+baron_afar;Akil;;;;;;;;;;;;;x
+count_somali;Ugaas;;;;;;;;;;;;;x
+count_female_somali;Ugaasad;;;;;;;;;;;;;x
+duke_somali;Gerad;;;;;;;;;;;;;x
+duke_female_somali;Amiraad;;;;;;;;;;;;;x
+king_somali;Suldaan;;;;;;;;;;;;;x
+king_female_somali;Suldaanad;;;;;;;;;;;;;x
+emperor_somali;Boqor;;;;;;;;;;;;;x
+emperor_female_somali;Boqorad;;;;;;;;;;;;;x
+baron_somali;Akil;;;;;;;;;;;;;x
+count_sogdian;Jamug;;;;;;;;;;;;;x
+count_female_sogdian;Jamuga;;;;;;;;;;;;;x
+duke_sogdian;Afshin;;;;;;;;;;;;;x
+duke_female_sogdian;Afshina;;;;;;;;;;;;;x
+king_sogdian;King;;;;;;;;;;;;;x
+king_female_sogdian;Queen;;;;;;;;;;;;;x
+emperor_sogdian;King;;;;;;;;;;;;;x
+emperor_female_sogdian;Queen;;;;;;;;;;;;;x
+title_prince_sogdian;Ighvatáv;;;;;;;;;;;;;x
+title_prince_female_sogdian;Ighvatáva;;;;;;;;;;;;;x
+count_oghuz;Bey;;;;;;;;;;;;;x
+count_female_oghuz;Begum;;;;;;;;;;;;;x
+duke_oghuz;Ilek;;;;;;;;;;;;;x
+duke_female_oghuz;Ilkan;;;;;;;;;;;;;x
+king_oghuz;Yabgu;;;;;;;;;;;;;x
+king_female_oghuz;Yabga;;;;;;;;;;;;;x
+emperor_female_oghuz;Khagan;;;;;;;;;;;;;x
+title_prince_oghuz;Inal;;;;;;;;;;;;;x
+title_prince_female_oghuz;Terken;;;;;;;;;;;;;x
+barony_of_oghuz;Tutuqlik of;;;;;;;;;;;;;x
+county_of_oghuz;Beylik of;;;;;;;;;;;;;x
+duchy_of_oghuz;Yabgunlik of;;;;;;;;;;;;;x
+baron_oghuz;Tutuq;;;;;;;;;;;;;x
+county_oghuz;Beylik;;;;;;;;;;;;;x
+duchy_oghuz;Il;;;;;;;;;;;;;x
+count_kirghiz;Bey;;;;;;;;;;;;;x
+count_female_kirghiz;Begum;;;;;;;;;;;;;x
+duke_kirghiz;Emir;;;;;;;;;;;;;x
+duke_female_kirghiz;Emira;;;;;;;;;;;;;x
+king_kirghiz;Sultan;;;;;;;;;;;;;x
+king_female_kirghiz;Sultana;;;;;;;;;;;;;x
+emperor_kirghiz;Sultan;;;;;;;;;;;;;x
+emperor_female_kirghiz;Sultana;;;;;;;;;;;;;x
+title_prince_kirghiz;Malik;;;;;;;;;;;;;x
+title_prince_female_kirghiz;Malika;;;;;;;;;;;;;x
+county_of_kirghiz;Beylik of;;;;;;;;;;;;;x
+duchy_of_kirghiz;Beylerbeylik of;;;;;;;;;;;;;x
+kingdom_of_kirghiz;Sultanate of;;;;;;;;;;;;;x
+city_baron_kirghiz;Wâli;;;;;;;;;;;;;x
+county_kirghiz;Beylik;;;;;;;;;;;;;x
+duchy_kirghiz;Beylerbeylik;;;;;;;;;;;;;x
+kingdom_kirghiz;Sultanate;;;;;;;;;;;;;x
+count_uyghur;Tutuq;;;;;;;;;;;;;x
+count_female_uyghur;Tutuqa;;;;;;;;;;;;;x
+duke_uyghur;Idiqut;;;;;;;;;;;;;x
+duke_female_uyghur;Idiquta;;;;;;;;;;;;;x
+king_female_uyghur;Khana;;;;;;;;;;;;;x
+emperor_female_uyghur;Khagan;;;;;;;;;;;;;x
+title_prince_uyghur;Tegin;;;;;;;;;;;;;x
+title_prince_female_uyghur;Terken;;;;;;;;;;;;;x
+county_of_uyghur;Tutuqluk of;;;;;;;;;;;;;x
+duchy_of_uyghur;Idiqutluk of;;;;;;;;;;;;;x
+city_baron_uyghur;Wâli;;;;;;;;;;;;;x
+county_uyghur;Tutuqluk;;;;;;;;;;;;;x
+duchy_uyghur;Idiqutluk;;;;;;;;;;;;;x
+count_karluk;Tutuq;;;;;;;;;;;;;x
+count_female_karluk;Tutuqa;;;;;;;;;;;;;x
+duke_karluk;Ilek;;;;;;;;;;;;;x
+duke_female_karluk;Iliga;;;;;;;;;;;;;x
+king_female_karluk;Khana;;;;;;;;;;;;;x
+emperor_female_karluk;Khagan;;;;;;;;;;;;;x
+title_prince_karluk;Tegin;;;;;;;;;;;;;x
+title_prince_female_karluk;Terken;;;;;;;;;;;;;x
+county_of_karluk;Tutuqluk of;;;;;;;;;;;;;x
+duchy_of_karluk;Iligluk of;;;;;;;;;;;;;x
+city_baron_karluk;Wâli;;;;;;;;;;;;;x
+county_karluk;Tutuqluk;;;;;;;;;;;;;x
+duchy_karluk;Iligluk;;;;;;;;;;;;;x
+baron_turkmen;Muqta;;;;;;;;;;;;;x
+count_turkmen;Bey;;;;;;;;;;;;;x
+count_female_turkmen;Begum;;;;;;;;;;;;;x
+duke_turkmen;Atabeg;;;;;;;;;;;;;x
+duke_female_turkmen;Emira;;;;;;;;;;;;;x
+king_turkmen;Sultan;;;;;;;;;;;;;x
+king_female_turkmen;Sultana;;;;;;;;;;;;;x
+emperor_turkmen;Sultan al-Muazzam;;;;;;;;;;;;;x
+emperor_female_turkmen;Sultana;;;;;;;;;;;;;x
+title_prince_turkmen;Malik;;;;;;;;;;;;;x
+title_prince_female_turkmen;Malika;;;;;;;;;;;;;x
+barony_of_turkmen;Iqta‘ of;;;;;;;;;;;;;x
+county_of_turkmen;Beylik of;;;;;;;;;;;;;x
+duchy_of_turkmen;Atabeglik of;;;;;;;;;;;;;x
+kingdom_of_turkmen;Sultanate of;;;;;;;;;;;;;x
+empire_of_turkmen;Sultanate of;;;;;;;;;;;;;x
+city_baron_turkmen;Rais;;;;;;;;;;;;;x
+city_count_turkmen;Overseer;;;;;;;;;;;;;x
+barony_turkmen;Iqta‘;;;;;;;;;;;;;x
+county_turkmen;Beylik;;;;;;;;;;;;;x
+duchy_turkmen;Atabeglik;;;;;;;;;;;;;x
+kingdom_turkmen;Sultanate;;;;;;;;;;;;;x
+empire_turkmen;Sultanate;;;;;;;;;;;;;x
+vice_royalty_baron_turkmen;Overseer;;;;;;;;;;;;;x
+vice_royalty_count_turkmen;Wâli;;;;;;;;;;;;;x
+vice_royalty_duke_turkmen;Emir;;;;;;;;;;;;;x
+vice_royalty_king_turkmen;Emir;;;;;;;;;;;;;x
+vice_royalty_barony_of_turkmen;Muqta of;;;;;;;;;;;;;x
+vice_royalty_county_of_turkmen;Emirate of;;;;;;;;;;;;;x
+vice_royalty_duchy_of_turkmen;Emirate of;;;;;;;;;;;;;x
+vice_royalty_kingdom_of_turkmen;Emirate of;;;;;;;;;;;;;x
+baron_caucasian_avar;Marzban;;;;;;;;;;;;;x
+count_caucasian_avar;Salifan;;;;;;;;;;;;;x
+baron_german;Lord;;;;;;;;;;;;;x
+baron_female_german;Lady;;;;;;;;;;;;;x
+count_german;Count;;;;;;;;;;;;;x
+count_female_german;Countess;;;;;;;;;;;;;x
+duke_german;Duke;;;;;;;;;;;;;x
+duke_female_german;Duchess;;;;;;;;;;;;;x
+king_german;King;;;;;;;;;;;;;x
+king_female_german;Queen;;;;;;;;;;;;;x
+emperor_german;Emperor;;;;;;;;;;;;;x
+emperor_female_german;Empress;;;;;;;;;;;;;x
+title_prince_german;Prince;;;;;;;;;;;;;x
+title_prince_female_german;Princess;;;;;;;;;;;;;x
+city_baron_german;Amtmann;;;;;;;;;;;;;x
+city_count_german;Burgomaster;;;;;;;;;;;;;x
+city_duke_german;Landvogt;;;;;;;;;;;;;x
+city_king_german;Leader;;;;;;;;;;;;;x
+city_emperor_german;Chancellor;;;;;;;;;;;;;x
+city_barony_of_german;Amt of;;;;;;;;;;;;;x
+city_county_of_german;Imperial City of;;;;;;;;;;;;;x
+city_duchy_of_german;Landvogtei of;;;;;;;;;;;;;x
+city_kingdom_of_german;Land of;;;;;;;;;;;;;x
+city_empire_of_german;Realm of;;;;;;;;;;;;;x
+temple_baron_german;Abbot;;;;;;;;;;;;;x
+temple_count_german;Bishop;;;;;;;;;;;;;x
+temple_duke_german;Archbishop;;;;;;;;;;;;;x
+temple_king_german;Primate;;;;;;;;;;;;;x
+temple_barony_of_german;Abbey of;;;;;;;;;;;;;x
+temple_county_of_german;Diocese of;;;;;;;;;;;;;x
+temple_duchy_of_german;Archdiocese of;;;;;;;;;;;;;x
+barony_of_german;Lordship of;;;;;;;;;;;;;x
+county_of_german;County of;;;;;;;;;;;;;x
+duchy_of_german;Duchy of;;;;;;;;;;;;;x
+kingdom_of_german;Kingdom of;;;;;;;;;;;;;x
+empire_of_german;Empire of;;;;;;;;;;;;;x
+vice_royalty_duke_german;Stadtholder;;;;;;;;;;;;;x
+vice_royalty_king_german;Imperial Vicar;;;;;;;;;;;;;x
+baron_low_german;Lord;;;;;;;;;;;;;x
+baron_female_low_german;Lady;;;;;;;;;;;;;x
+count_low_german;Count;;;;;;;;;;;;;x
+count_female_low_german;Countess;;;;;;;;;;;;;x
+duke_low_german;Duke;;;;;;;;;;;;;x
+duke_female_low_german;Duchess;;;;;;;;;;;;;x
+king_low_german;King;;;;;;;;;;;;;x
+king_female_low_german;Queen;;;;;;;;;;;;;x
+emperor_low_german;Emperor;;;;;;;;;;;;;x
+emperor_female_low_german;Empress;;;;;;;;;;;;;x
+title_prince_low_german;Prince;;;;;;;;;;;;;x
+title_prince_female_low_german;Princess;;;;;;;;;;;;;x
+city_baron_low_german;Amtmann;;;;;;;;;;;;;x
+city_count_low_german;Burgomaster;;;;;;;;;;;;;x
+city_duke_low_german;Landvogt;;;;;;;;;;;;;x
+city_king_low_german;Leader;;;;;;;;;;;;;x
+city_emperor_low_german;Chancellor;;;;;;;;;;;;;x
+city_barony_of_low_german;Amt of;;;;;;;;;;;;;x
+city_county_of_low_german;Imperial City of;;;;;;;;;;;;;x
+city_duchy_of_low_german;Landvogtei of;;;;;;;;;;;;;x
+city_kingdom_of_low_german;Land of;;;;;;;;;;;;;x
+city_empire_of_low_german;Realm of;;;;;;;;;;;;;x
+temple_baron_low_german;Abbot;;;;;;;;;;;;;x
+temple_count_low_german;Bishop;;;;;;;;;;;;;x
+temple_duke_low_german;Archbishop;;;;;;;;;;;;;x
+temple_king_low_german;Primate;;;;;;;;;;;;;x
+temple_barony_of_low_german;Abbey of;;;;;;;;;;;;;x
+temple_county_of_low_german;Diocese of;;;;;;;;;;;;;x
+temple_duchy_of_low_german;Archdiocese of;;;;;;;;;;;;;x
+barony_of_low_german;Lordship of;;;;;;;;;;;;;x
+county_of_low_german;County of;;;;;;;;;;;;;x
+duchy_of_low_german;Duchy of;;;;;;;;;;;;;x
+kingdom_of_low_german;Kingdom of;;;;;;;;;;;;;x
+empire_of_low_german;Empire of;;;;;;;;;;;;;x
+vice_royalty_duke_low_german;Stadtholder;;;;;;;;;;;;;x
+vice_royalty_king_low_german;Imperial Vicar;;;;;;;;;;;;;x
+baron_dutch;Lord;;;;;;;;;;;;;x
+baron_female_dutch;Lady;;;;;;;;;;;;;x
+count_dutch;Count;;;;;;;;;;;;;x
+count_female_dutch;Countess;;;;;;;;;;;;;x
+duke_dutch;Duke;;;;;;;;;;;;;x
+duke_female_dutch;Duchess;;;;;;;;;;;;;x
+king_dutch;King;;;;;;;;;;;;;x
+king_female_dutch;Queen;;;;;;;;;;;;;x
+emperor_dutch;Emperor;;;;;;;;;;;;;x
+emperor_female_dutch;Empress;;;;;;;;;;;;;x
+title_prince_dutch;Prince;;;;;;;;;;;;;x
+title_prince_female_dutch;Princess;;;;;;;;;;;;;x
+city_baron_dutch;Schout;;;;;;;;;;;;;x
+city_count_dutch;Burgomaster;;;;;;;;;;;;;x
+city_duke_dutch;Bailiff;;;;;;;;;;;;;x
+city_king_dutch;Rewart;;;;;;;;;;;;;x
+city_emperor_dutch;Chancellor;;;;;;;;;;;;;x
+city_barony_of_dutch;Schoutambt of;;;;;;;;;;;;;x
+city_county_of_dutch;Imperial City of;;;;;;;;;;;;;x
+city_duchy_of_dutch;Bailiwick of;;;;;;;;;;;;;x
+city_kingdom_of_dutch;Land of;;;;;;;;;;;;;x
+city_empire_of_dutch;Realm of;;;;;;;;;;;;;x
+temple_baron_dutch;Abbot;;;;;;;;;;;;;x
+temple_count_dutch;Bishop;;;;;;;;;;;;;x
+temple_duke_dutch;Archbishop;;;;;;;;;;;;;x
+temple_king_dutch;Primate;;;;;;;;;;;;;x
+temple_barony_of_dutch;Abbey of;;;;;;;;;;;;;x
+temple_county_of_dutch;Diocese of;;;;;;;;;;;;;x
+temple_duchy_of_dutch;Archdiocese of;;;;;;;;;;;;;x
+barony_of_dutch;Lordship of;;;;;;;;;;;;;x
+county_of_dutch;County of;;;;;;;;;;;;;x
+duchy_of_dutch;Duchy of;;;;;;;;;;;;;x
+kingdom_of_dutch;Kingdom of;;;;;;;;;;;;;x
+empire_of_dutch;Empire of;;;;;;;;;;;;;x
+vice_royalty_duke_dutch;Stadtholder;;;;;;;;;;;;;x
+vice_royalty_king_dutch;Imperial Vicar;;;;;;;;;;;;;x
+baron_franconian;Lord;;;;;;;;;;;;;x
+baron_female_franconian;Lady;;;;;;;;;;;;;x
+count_franconian;Count;;;;;;;;;;;;;x
+count_female_franconian;Countess;;;;;;;;;;;;;x
+duke_franconian;Duke;;;;;;;;;;;;;x
+duke_female_franconian;Duchess;;;;;;;;;;;;;x
+king_franconian;King;;;;;;;;;;;;;x
+king_female_franconian;Queen;;;;;;;;;;;;;x
+emperor_franconian;Emperor;;;;;;;;;;;;;x
+emperor_female_franconian;Empress;;;;;;;;;;;;;x
+title_prince_franconian;Prince;;;;;;;;;;;;;x
+title_prince_female_franconian;Princess;;;;;;;;;;;;;x
+city_baron_franconian;Amtmann;;;;;;;;;;;;;x
+city_count_franconian;Burgrave;;;;;;;;;;;;;x
+city_duke_franconian;Vogt;;;;;;;;;;;;;x
+city_king_franconian;Leader;;;;;;;;;;;;;x
+city_emperor_franconian;Consul;;;;;;;;;;;;;x
+city_barony_of_franconian;Amt of;;;;;;;;;;;;;x
+city_county_of_franconian;City of;;;;;;;;;;;;;x
+city_duchy_of_franconian;Gau of;;;;;;;;;;;;;x
+city_kingdom_of_franconian;Land of;;;;;;;;;;;;;x
+city_empire_of_franconian;Realm of;;;;;;;;;;;;;x
+temple_baron_franconian;Abbot;;;;;;;;;;;;;x
+temple_count_franconian;Bishop;;;;;;;;;;;;;x
+temple_duke_franconian;Archbishop;;;;;;;;;;;;;x
+temple_king_franconian;Patriarch;;;;;;;;;;;;;x
+temple_barony_of_franconian;Abbey of;;;;;;;;;;;;;x
+temple_county_of_franconian;Diocese of;;;;;;;;;;;;;x
+temple_duchy_of_franconian;Archdiocese of;;;;;;;;;;;;;x
+barony_of_franconian;Lordship of;;;;;;;;;;;;;x
+county_of_franconian;County of;;;;;;;;;;;;;x
+duchy_of_franconian;Duchy of;;;;;;;;;;;;;x
+kingdom_of_franconian;Kingdom of;;;;;;;;;;;;;x
+empire_of_franconian;Empire of;;;;;;;;;;;;;x
+vice_royalty_duke_franconian;Lord;;;;;;;;;;;;;x
+vice_royalty_duke_female_franconian;Lady;;;;;;;;;;;;;x
+vice_royalty_king_franconian;Vicar;;;;;;;;;;;;;x
+baron_bavarian;Lord;;;;;;;;;;;;;x
+baron_female_bavarian;Lady;;;;;;;;;;;;;x
+count_bavarian;Count;;;;;;;;;;;;;x
+count_female_bavarian;Countess;;;;;;;;;;;;;x
+duke_bavarian;Duke;;;;;;;;;;;;;x
+duke_female_bavarian;Duchess;;;;;;;;;;;;;x
+king_bavarian;King;;;;;;;;;;;;;x
+king_female_bavarian;Queen;;;;;;;;;;;;;x
+emperor_bavarian;Emperor;;;;;;;;;;;;;x
+emperor_female_bavarian;Empress;;;;;;;;;;;;;x
+title_prince_bavarian;Prince;;;;;;;;;;;;;x
+title_prince_female_bavarian;Princess;;;;;;;;;;;;;x
+city_baron_bavarian;Amtmann;;;;;;;;;;;;;x
+city_count_bavarian;Burgrave;;;;;;;;;;;;;x
+city_duke_bavarian;Vogt;;;;;;;;;;;;;x
+city_king_bavarian;Leader;;;;;;;;;;;;;x
+city_emperor_bavarian;Consul;;;;;;;;;;;;;x
+city_barony_of_bavarian;Amt of;;;;;;;;;;;;;x
+city_county_of_bavarian;City of;;;;;;;;;;;;;x
+city_duchy_of_bavarian;Gau of;;;;;;;;;;;;;x
+city_kingdom_of_bavarian;Land of;;;;;;;;;;;;;x
+city_empire_of_bavarian;Realm of;;;;;;;;;;;;;x
+temple_baron_bavarian;Abbot;;;;;;;;;;;;;x
+temple_count_bavarian;Bishop;;;;;;;;;;;;;x
+temple_duke_bavarian;Archbishop;;;;;;;;;;;;;x
+temple_king_bavarian;Patriarch;;;;;;;;;;;;;x
+temple_barony_of_catholic_bavarian;Abbey of;;;;;;;;;;;;;x
+temple_county_of_catholic_bavarian;Diocese of;;;;;;;;;;;;;x
+temple_duchy_of_catholic_bavarian;Archdiocese of;;;;;;;;;;;;;x
+barony_of_bavarian;Lordship of;;;;;;;;;;;;;x
+county_of_bavarian;County of;;;;;;;;;;;;;x
+duchy_of_bavarian;Duchy of;;;;;;;;;;;;;x
+kingdom_of_bavarian;Kingdom of;;;;;;;;;;;;;x
+empire_of_bavarian;Empire of;;;;;;;;;;;;;x
+vice_royalty_duke_bavarian;Lord;;;;;;;;;;;;;x
+vice_royalty_duke_female_bavarian;Lady;;;;;;;;;;;;;x
+vice_royalty_king_bavarian;Vicar;;;;;;;;;;;;;x
+baron_swabian;Lord;;;;;;;;;;;;;x
+baron_female_swabian;Lady;;;;;;;;;;;;;x
+count_swabian;Count;;;;;;;;;;;;;x
+count_female_swabian;Countess;;;;;;;;;;;;;x
+duke_swabian;Duke;;;;;;;;;;;;;x
+duke_female_swabian;Duchess;;;;;;;;;;;;;x
+king_swabian;King;;;;;;;;;;;;;x
+king_female_swabian;Queen;;;;;;;;;;;;;x
+emperor_swabian;Emperor;;;;;;;;;;;;;x
+emperor_female_swabian;Empress;;;;;;;;;;;;;x
+title_prince_swabian;Prince;;;;;;;;;;;;;x
+title_prince_female_swabian;Princess;;;;;;;;;;;;;x
+city_baron_swabian;Amtmann;;;;;;;;;;;;;x
+city_count_swabian;Burgrave;;;;;;;;;;;;;x
+city_duke_swabian;Vogt;;;;;;;;;;;;;x
+city_king_swabian;Leader;;;;;;;;;;;;;x
+city_emperor_swabian;Consul;;;;;;;;;;;;;x
+city_barony_of_swabian;Amt of;;;;;;;;;;;;;x
+city_county_of_swabian;City of;;;;;;;;;;;;;x
+city_duchy_of_swabian;Gau of;;;;;;;;;;;;;x
+city_kingdom_of_swabian;Land of;;;;;;;;;;;;;x
+city_empire_of_swabian;Realm of;;;;;;;;;;;;;x
+temple_baron_swabian;Abbot;;;;;;;;;;;;;x
+temple_count_swabian;Bishop;;;;;;;;;;;;;x
+temple_duke_swabian;Archbishop;;;;;;;;;;;;;x
+temple_king_swabian;Patriarch;;;;;;;;;;;;;x
+temple_barony_of_swabian;Abbey of;;;;;;;;;;;;;x
+temple_county_swabian;Diocese of;;;;;;;;;;;;;x
+temple_duchy_of_swabian;Archdiocese of;;;;;;;;;;;;;x
+barony_of_swabian;Lordship of;;;;;;;;;;;;;x
+county_of_swabian;County of;;;;;;;;;;;;;x
+duchy_of_swabian;Duchy of;;;;;;;;;;;;;x
+kingdom_of_swabian;Kingdom of;;;;;;;;;;;;;x
+empire_of_swabian;Empire of;;;;;;;;;;;;;x
+vice_royalty_duke_swabian;Lord;;;;;;;;;;;;;x
+vice_royalty_duke_female_swabian;Lady;;;;;;;;;;;;;x
+vice_royalty_king_swabian;Vicar;;;;;;;;;;;;;x
+baron_thuringian;Lord;;;;;;;;;;;;;x
+baron_female_thuringian;Lady;;;;;;;;;;;;;x
+count_thuringian;Count;;;;;;;;;;;;;x
+count_female_thuringian;Countess;;;;;;;;;;;;;x
+duke_thuringian;Duke;;;;;;;;;;;;;x
+duke_female_thuringian;Duchess;;;;;;;;;;;;;x
+king_thuringian;King;;;;;;;;;;;;;x
+king_female_thuringian;Queen;;;;;;;;;;;;;x
+emperor_thuringian;Emperor;;;;;;;;;;;;;x
+emperor_female_thuringian;Empress;;;;;;;;;;;;;x
+title_prince_thuringian;Prince;;;;;;;;;;;;;x
+title_prince_female_thuringian;Princess;;;;;;;;;;;;;x
+city_baron_thuringian;Amtmann;;;;;;;;;;;;;x
+city_count_thuringian;Burgrave;;;;;;;;;;;;;x
+city_duke_thuringian;Vogt;;;;;;;;;;;;;x
+city_king_thuringian;Leader;;;;;;;;;;;;;x
+city_emperor_thuringian;Consul;;;;;;;;;;;;;x
+city_barony_of_thuringian;Amt of;;;;;;;;;;;;;x
+city_county_of_thuringian;City of;;;;;;;;;;;;;x
+city_duchy_of_thuringian;Gau of;;;;;;;;;;;;;x
+city_kingdom_of_thuringian;Land of;;;;;;;;;;;;;x
+city_empire_of_thuringian;Realm of;;;;;;;;;;;;;x
+temple_baron_thuringian;Abbot;;;;;;;;;;;;;x
+temple_count_thuringian;Bishop;;;;;;;;;;;;;x
+temple_duke_thuringian;Archbishop;;;;;;;;;;;;;x
+temple_king_thuringian;Patriarch;;;;;;;;;;;;;x
+temple_barony_of_thuringian;Abbey of;;;;;;;;;;;;;x
+temple_county_of_thuringian;Diocese of;;;;;;;;;;;;;x
+temple_duchy_of_thuringian;Archdiocese of;;;;;;;;;;;;;x
+barony_of_thuringian;Lordship of;;;;;;;;;;;;;x
+county_of_thuringian;County of;;;;;;;;;;;;;x
+duchy_of_thuringian;Duchy of;;;;;;;;;;;;;x
+kingdom_of_thuringian;Kingdom of;;;;;;;;;;;;;x
+empire_of_thuringian;Empire of;;;;;;;;;;;;;x
+vice_royalty_duke_thuringian;Lord;;;;;;;;;;;;;x
+vice_royalty_duke_female_thuringian;Lady;;;;;;;;;;;;;x
+vice_royalty_king_thuringian;Vicar;;;;;;;;;;;;;x
+baron_low_saxon;Lord;;;;;;;;;;;;;x
+baron_female_low_saxon;Lady;;;;;;;;;;;;;x
+count_low_saxon;Count;;;;;;;;;;;;;x
+count_female_low_saxon;Countess;;;;;;;;;;;;;x
+duke_low_saxon;Duke;;;;;;;;;;;;;x
+duke_female_low_saxon;Duchess;;;;;;;;;;;;;x
+king_low_saxon;King;;;;;;;;;;;;;x
+king_female_low_saxon;Queen;;;;;;;;;;;;;x
+emperor_low_saxon;Emperor;;;;;;;;;;;;;x
+emperor_female_low_saxon;Empress;;;;;;;;;;;;;x
+title_prince_low_saxon;Prince;;;;;;;;;;;;;x
+title_prince_female_low_saxon;Princess;;;;;;;;;;;;;x
+city_baron_low_saxon;Amtmann;;;;;;;;;;;;;x
+city_count_low_saxon;Castellan;;;;;;;;;;;;;x
+city_duke_low_saxon;Vogt;;;;;;;;;;;;;x
+city_king_low_saxon;Leader;;;;;;;;;;;;;x
+city_emperor_low_saxon;Consul;;;;;;;;;;;;;x
+city_barony_of_low_saxon;Amt of;;;;;;;;;;;;;x
+city_county_of_low_saxon;City of;;;;;;;;;;;;;x
+city_duchy_of_low_saxon;Gau of;;;;;;;;;;;;;x
+city_kingdom_of_low_saxon;Land of;;;;;;;;;;;;;x
+city_empire_of_low_saxon;Realm of;;;;;;;;;;;;;x
+temple_baron_low_saxon;Abbot;;;;;;;;;;;;;x
+temple_count_low_saxon;Bishop;;;;;;;;;;;;;x
+temple_duke_low_saxon;Archbishop;;;;;;;;;;;;;x
+temple_king_low_saxon;Patriarch;;;;;;;;;;;;;x
+temple_barony_of_low_saxon;Abbey of;;;;;;;;;;;;;x
+temple_county_of_low_saxon;Diocese of;;;;;;;;;;;;;x
+temple_duchy_of_low_saxon;Archdiocese of;;;;;;;;;;;;;x
+barony_of_low_saxon;Lordship of;;;;;;;;;;;;;x
+county_of_low_saxon;County of;;;;;;;;;;;;;x
+duchy_of_low_saxon;Duchy of;;;;;;;;;;;;;x
+kingdom_of_low_saxon;Kingdom of;;;;;;;;;;;;;x
+empire_of_low_saxon;Empire of;;;;;;;;;;;;;x
+vice_royalty_duke_low_saxon;Lord;;;;;;;;;;;;;x
+vice_royalty_duke_female_low_saxon;Lady;;;;;;;;;;;;;x
+vice_royalty_king_low_saxon;Vicar;;;;;;;;;;;;;x
+baron_low_frankish;Lord;;;;;;;;;;;;;x
+baron_female_low_frankish;Lady;;;;;;;;;;;;;x
+count_low_frankish;Count;;;;;;;;;;;;;x
+count_female_low_frankish;Countess;;;;;;;;;;;;;x
+duke_low_frankish;Duke;;;;;;;;;;;;;x
+duke_female_low_frankish;Duchess;;;;;;;;;;;;;x
+king_low_frankish;King;;;;;;;;;;;;;x
+king_female_low_frankish;Queen;;;;;;;;;;;;;x
+emperor_low_frankish;Emperor;;;;;;;;;;;;;x
+emperor_female_low_frankish;Empress;;;;;;;;;;;;;x
+title_prince_low_frankish;Prince;;;;;;;;;;;;;x
+title_prince_female_low_frankish;Princess;;;;;;;;;;;;;x
+city_baron_low_frankish;Amtmann;;;;;;;;;;;;;x
+city_count_low_frankish;Burgrave;;;;;;;;;;;;;x
+city_duke_low_frankish;Vogt;;;;;;;;;;;;;x
+city_king_low_frankish;Leader;;;;;;;;;;;;;x
+city_emperor_low_frankish;Consul;;;;;;;;;;;;;x
+city_barony_of_low_frankish;Amt of;;;;;;;;;;;;;x
+city_county_of_low_frankish;City of;;;;;;;;;;;;;x
+city_duchy_of_low_frankish;Gau of;;;;;;;;;;;;;x
+city_kingdom_of_low_frankish;Land of;;;;;;;;;;;;;x
+city_empire_of_low_frankish;Realm of;;;;;;;;;;;;;x
+temple_baron_low_frankish;Abbot;;;;;;;;;;;;;x
+temple_count_low_frankish;Bishop;;;;;;;;;;;;;x
+temple_duke_low_frankish;Archbishop;;;;;;;;;;;;;x
+temple_king_low_frankish;Patriarch;;;;;;;;;;;;;x
+temple_barony_of_low_frankish;Abbey of;;;;;;;;;;;;;x
+temple_county_of_low_frankish;Diocese of;;;;;;;;;;;;;x
+temple_duchy_of_low_frankish;Archdiocese of;;;;;;;;;;;;;x
+barony_of_low_frankish;Lordship of;;;;;;;;;;;;;x
+county_of_low_frankish;County of;;;;;;;;;;;;;x
+duchy_of_low_frankish;Duchy of;;;;;;;;;;;;;x
+kingdom_of_low_frankish;Kingdom of;;;;;;;;;;;;;x
+empire_of_low_frankish;Empire of;;;;;;;;;;;;;x
+vice_royalty_duke_low_frankish;Lord;;;;;;;;;;;;;x
+vice_royalty_duke_female_low_frankish;Lady;;;;;;;;;;;;;x
+vice_royalty_king_low_frankish;Vicar;;;;;;;;;;;;;x
+baron_frisian;Lord;;;;;;;;;;;;;x
+baron_female_frisian;Lady;;;;;;;;;;;;;x
+count_frisian;Count;;;;;;;;;;;;;x
+count_female_frisian;Countess;;;;;;;;;;;;;x
+duke_frisian;Duke;;;;;;;;;;;;;x
+duke_female_frisian;Duchess;;;;;;;;;;;;;x
+king_frisian;King;;;;;;;;;;;;;x
+king_female_frisian;Queen;;;;;;;;;;;;;x
+emperor_frisian;Emperor;;;;;;;;;;;;;x
+emperor_female_frisian;Empress;;;;;;;;;;;;;x
+title_prince_frisian;Prince;;;;;;;;;;;;;x
+title_prince_female_frisian;Princess;;;;;;;;;;;;;x
+city_baron_frisian;Grietman;;;;;;;;;;;;;x
+city_count_frisian;Burgomaster;;;;;;;;;;;;;x
+city_duke_frisian;Leader;;;;;;;;;;;;;x
+city_king_frisian;Chieftain;;;;;;;;;;;;;x
+city_emperor_frisian;Consul;;;;;;;;;;;;;x
+city_barony_of_frisian;Grietenij of;;;;;;;;;;;;;x
+city_county_of_frisian;City of;;;;;;;;;;;;;x
+city_duchy_of_frisian;Gau of;;;;;;;;;;;;;x
+city_kingdom_of_frisian;Land of;;;;;;;;;;;;;x
+city_empire_of_frisian;Realm of;;;;;;;;;;;;;x
+temple_baron_frisian;Abbot;;;;;;;;;;;;;x
+temple_count_frisian;Bishop;;;;;;;;;;;;;x
+temple_duke_frisian;Archbishop;;;;;;;;;;;;;x
+temple_king_frisian;Patriarch;;;;;;;;;;;;;x
+temple_barony_of_frisian;Abbey of;;;;;;;;;;;;;x
+temple_county_of_frisian;Diocese of;;;;;;;;;;;;;x
+temple_duchy_of_frisian;Archdiocese of;;;;;;;;;;;;;x
+barony_of_frisian;Lordship of;;;;;;;;;;;;;x
+county_of_frisian;County of;;;;;;;;;;;;;x
+duchy_of_frisian;Duchy of;;;;;;;;;;;;;x
+kingdom_of_frisian;Kingdom of;;;;;;;;;;;;;x
+empire_of_frisian;Empire of;;;;;;;;;;;;;x
+vice_royalty_duke_frisian;Lord;;;;;;;;;;;;;x
+vice_royalty_duke_female_frisian;Lady;;;;;;;;;;;;;x
+vice_royalty_king_frisian;Fogid;;;;;;;;;;;;;x
+baron_old_frankish;Lord;;;;;;;;;;;;;x
+baron_female_old_frankish;Lady;;;;;;;;;;;;;x
+count_old_frankish;Count;;;;;;;;;;;;;x
+count_female_old_frankish;Countess;;;;;;;;;;;;;x
+duke_old_frankish;Duke;;;;;;;;;;;;;x
+duke_female_old_frankish;Duchess;;;;;;;;;;;;;x
+king_old_frankish;King;;;;;;;;;;;;;x
+king_female_old_frankish;Queen;;;;;;;;;;;;;x
+emperor_old_frankish;Emperor;;;;;;;;;;;;;x
+emperor_female_old_frankish;Empress;;;;;;;;;;;;;x
+title_prince_old_frankish;Prince;;;;;;;;;;;;;x
+title_prince_female_old_frankish;Princess;;;;;;;;;;;;;x
+city_baron_old_frankish;Amtmann;;;;;;;;;;;;;x
+city_count_old_frankish;Burgrave;;;;;;;;;;;;;x
+city_duke_old_frankish;Vogt;;;;;;;;;;;;;x
+city_king_old_frankish;Leader;;;;;;;;;;;;;x
+city_emperor_old_frankish;Consul;;;;;;;;;;;;;x
+city_barony_of_old_frankish;Amt of;;;;;;;;;;;;;x
+city_county_of_old_frankish;City of;;;;;;;;;;;;;x
+city_duchy_of_old_frankish;Gau of;;;;;;;;;;;;;x
+city_kingdom_of_old_frankish;Land of;;;;;;;;;;;;;x
+city_empire_of_old_frankish;Realm of;;;;;;;;;;;;;x
+temple_baron_old_frankish;Abbot;;;;;;;;;;;;;x
+temple_count_old_frankish;Bishop;;;;;;;;;;;;;x
+temple_duke_old_frankish;Archbishop;;;;;;;;;;;;;x
+temple_king_old_frankish;Patriarch;;;;;;;;;;;;;x
+temple_barony_of_old_frankish;Abbey of;;;;;;;;;;;;;x
+temple_county_of_old_frankish;Diocese of;;;;;;;;;;;;;x
+temple_duchy_of_old_frankish;Archdiocese of;;;;;;;;;;;;;x
+barony_of_old_frankish;Lordship of;;;;;;;;;;;;;x
+county_of_old_frankish;County of;;;;;;;;;;;;;x
+duchy_of_old_frankish;Duchy of;;;;;;;;;;;;;x
+kingdom_of_old_frankish;Kingdom of;;;;;;;;;;;;;x
+empire_of_old_frankish;Empire of;;;;;;;;;;;;;x
+vice_royalty_duke_old_frankish;Lord;;;;;;;;;;;;;x
+vice_royalty_duke_female_old_frankish;Lady;;;;;;;;;;;;;x
+vice_royalty_king_old_frankish;Vicar;;;;;;;;;;;;;x
+baron_kurdish;Muqta;;;;;;;;;;;;;x
+city_baron_kurdish;Dehqan;;;;;;;;;;;;;x
+city_count_kurdish;Overseer;;;;;;;;;;;;;x
+count_kurdish;Ustandar;;;;;;;;;;;;;x
+count_female_kurdish;Ustandar;;;;;;;;;;;;;x
+duke_kurdish;Emir;;;;;;;;;;;;;x
+king_kurdish;Shah;;;;;;;;;;;;;x
+emperor_kurdish;Shahanshah;;;;;;;;;;;;;x
+county_kurdish;Province;;;;;;;;;;;;;x
+county_of_kurdish;Province of;;;;;;;;;;;;;x
+duchy_kurdish;Emirate;;;;;;;;;;;;;x
+duchy_of_kurdish;Emirate of;;;;;;;;;;;;;x
+tribal_count_kurdish;Ustandar;;;;;;;;;;;;;x
+tribal_count_female_kurdish;Ustandar;;;;;;;;;;;;;x
+tribal_duke_kurdish;Emir;;;;;;;;;;;;;x
+tribal_king_kurdish;Shah;;;;;;;;;;;;;x
+tribal_emperor_kurdish;Shahanshah;;;;;;;;;;;;;x
+tribal_county_kurdish;Province;;;;;;;;;;;;;x
+tribal_county_of_kurdish;Province of;;;;;;;;;;;;;x
+tribal_duchy_kurdish;Emirate;;;;;;;;;;;;;x
+tribal_duchy_of_kurdish;Emirate of;;;;;;;;;;;;;x
+baron_daylamite;Muqta;;;;;;;;;;;;;x
+city_baron_daylamite;Dehqan;;;;;;;;;;;;;x
+city_count_daylamite;Overseer;;;;;;;;;;;;;x
+count_daylamite;Istandar;;;;;;;;;;;;;x
+count_female_daylamite;Istandar;;;;;;;;;;;;;x
+duke_daylamite;Spahbed;;;;;;;;;;;;;x
+duke_female_daylamite;Spahbed;;;;;;;;;;;;;x
+county_daylamite;Province;;;;;;;;;;;;;x
+county_of_daylamite;Province of;;;;;;;;;;;;;x
+duchy_daylamite;Spah;;;;;;;;;;;;;x
+duchy_of_daylamite;Spah of;;;;;;;;;;;;;x
+king_daylamite;Shah;;;;;;;;;;;;;x
+emperor_daylamite;Shahanshah;;;;;;;;;;;;;x
+baron_adhari;Muqta;;;;;;;;;;;;;x
+city_baron_adhari;Dehqan;;;;;;;;;;;;;x
+city_count_adhari;Overseer;;;;;;;;;;;;;x
+count_adhari;Istandar;;;;;;;;;;;;;x
+count_female_adhari;Istandar;;;;;;;;;;;;;x
+duke_adhari;Spahbed;;;;;;;;;;;;;x
+duke_female_adhari;Spahbed;;;;;;;;;;;;;x
+county_adhari;Province;;;;;;;;;;;;;x
+county_of_adhari;Province of;;;;;;;;;;;;;x
+duchy_adhari;Spah;;;;;;;;;;;;;x
+duchy_of_adhari;Spah of;;;;;;;;;;;;;x
+king_adhari;Shah;;;;;;;;;;;;;x
+emperor_adhari;Shahanshah;;;;;;;;;;;;;x
+title_prince_pahlavi;Mirza;;;;;;;;;;;;;x
+baron_pahlavi;Paygospan;;;;;;;;;;;;;x
+baron_female_pahlavi;Paygospan;;;;;;;;;;;;;x
+city_baron_pahlavi;Dehqan;;;;;;;;;;;;;x
+city_count_pahlavi;Overseer;;;;;;;;;;;;;x
+count_pahlavi;Istandar;;;;;;;;;;;;;x
+count_female_pahlavi;Istandar;;;;;;;;;;;;;x
+duke_pahlavi;Spahbed;;;;;;;;;;;;;x
+duke_female_pahlavi;Spahbed;;;;;;;;;;;;;x
+king_pahlavi;Shah;;;;;;;;;;;;;x
+emperor_pahlavi;Shahanshah;;;;;;;;;;;;;x
+vice_royalty_duke_pahlavi;Satrap;;;;;;;;;;;;;x
+county_of_pahlavi;Province of;;;;;;;;;;;;;x
+county_pahlavi;Province;;;;;;;;;;;;;x
+duchy_of_pahlavi;Spah of;;;;;;;;;;;;;x
+duchy_pahlavi;Spah;;;;;;;;;;;;;x
+vice_royalty_duchy_of_pahlavi;Satrapy of;;;;;;;;;;;;;x
+baron_persian;Rais;;;;;;;;;;;;;x
+baron_female_persian;Rais;;;;;;;;;;;;;x
+city_baron_persian;Dehqan;;;;;;;;;;;;;x
+city_count_persian;Overseer;;;;;;;;;;;;;x
+count_persian;Wâli;;;;;;;;;;;;;x
+count_female_persian;Wâli;;;;;;;;;;;;;x
+duke_persian;Emir;;;;;;;;;;;;;x
+duke_female_persian;Emira;;;;;;;;;;;;;x
+king_persian;Shah;;;;;;;;;;;;;x
+emperor_persian;Shahanshah;;;;;;;;;;;;;x
+vice_royalty_count_persian;Wâli;;;;;;;;;;;;;x
+vice_royalty_duke_persian;Emir;;;;;;;;;;;;;x
+vice_royalty_king_persian;Emir;;;;;;;;;;;;;x
+county_of_persian;Province of;;;;;;;;;;;;;x
+county_persian;Province;;;;;;;;;;;;;x
+duchy_of_persian;Emirate of;;;;;;;;;;;;;x
+duchy_persian;Emirate;;;;;;;;;;;;;x
+vice_royalty_county_of_persian;Province of;;;;;;;;;;;;;x
+vice_royalty_duchy_of_persian;Emirate of;;;;;;;;;;;;;x
+vice_royalty_kingdom_of_persian;Emirate of;;;;;;;;;;;;;x
+baron_khorasani;Rais;;;;;;;;;;;;;x
+baron_female_khorasani;Rais;;;;;;;;;;;;;x
+city_baron_khorasani;Dehqan;;;;;;;;;;;;;x
+city_count_khorasani;Overseer;;;;;;;;;;;;;x
+count_khorasani;Azad;;;;;;;;;;;;;x
+count_female_khorasani;Azad;;;;;;;;;;;;;x
+duke_khorasani;Emir;;;;;;;;;;;;;x
+duke_female_khorasani;Emira;;;;;;;;;;;;;x
+king_khorasani;Shah;;;;;;;;;;;;;x
+emperor_khorasani;Shahanshah;;;;;;;;;;;;;x
+tribal_count_khorasani;Azad;;;;;;;;;;;;;x
+tribal_count_female_khorasani;Azad;;;;;;;;;;;;;x
+tribal_duke_khorasani;Emir;;;;;;;;;;;;;x
+tribal_duke_female_khorasani;Emira;;;;;;;;;;;;;x
+tribal_king_khorasani;Shah;;;;;;;;;;;;;x
+tribal_emperor_khorasani;Shahanshah;;;;;;;;;;;;;x
+vice_royalty_count_khorasani;Wâli;;;;;;;;;;;;;x
+vice_royalty_duke_khorasani;Emir;;;;;;;;;;;;;x
+vice_royalty_king_khorasani;Emir;;;;;;;;;;;;;x
+county_of_khorasani;Province of;;;;;;;;;;;;;x
+county_khorasani;Province;;;;;;;;;;;;;x
+duchy_of_khorasani;Emirate of;;;;;;;;;;;;;x
+duchy_khorasani;Emirate;;;;;;;;;;;;;x
+tribal_county_of_khorasani;Province of;;;;;;;;;;;;;x
+tribal_county_khorasani;Province;;;;;;;;;;;;;x
+tribal_duchy_of_khorasani;Emirate of;;;;;;;;;;;;;x
+tribal_duchy_khorasani;Emirate;;;;;;;;;;;;;x
+vice_royalty_county_of_khorasani;Province of;;;;;;;;;;;;;x
+vice_royalty_duchy_of_khorasani;Emirate of;;;;;;;;;;;;;x
+vice_royalty_kingdom_of_khorasani;Emirate of;;;;;;;;;;;;;x
+baron_tajik;Lord;;;;;;;;;;;;;x
+baron_female_tajik;Lady;;;;;;;;;;;;;x
+city_baron_tajik;Dehqan;;;;;;;;;;;;;x
+city_count_tajik;Overseer;;;;;;;;;;;;;x
+count_tajik;Wâli;;;;;;;;;;;;;x
+count_female_tajik;Wâli;;;;;;;;;;;;;x
+duke_tajik;Emir;;;;;;;;;;;;;x
+duke_female_tajik;Emira;;;;;;;;;;;;;x
+king_tajik;Sultan;;;;;;;;;;;;;x
+emperor_tajik;Sultan al-Muazzam;;;;;;;;;;;;;x
+tribal_count_tajik;Wâli;;;;;;;;;;;;;x
+tribal_count_female_tajik;Wâli;;;;;;;;;;;;;x
+tribal_duke_tajik;Emir;;;;;;;;;;;;;x
+tribal_duke_female_tajik;Emira;;;;;;;;;;;;;x
+tribal_king_tajik;Sultan;;;;;;;;;;;;;x
+tribal_emperor_tajik;Sultan al-Muazzam;;;;;;;;;;;;;x
+vice_royalty_count_tajik;Wâli;;;;;;;;;;;;;x
+vice_royalty_duke_tajik;Emir;;;;;;;;;;;;;x
+vice_royalty_king_tajik;Emir;;;;;;;;;;;;;x
+county_of_tajik;Province of;;;;;;;;;;;;;x
+county_tajik;Province;;;;;;;;;;;;;x
+duchy_of_tajik;Emirate of;;;;;;;;;;;;;x
+duchy_tajik;Emirate;;;;;;;;;;;;;x
+tribal_county_of_tajik;Province of;;;;;;;;;;;;;x
+tribal_county_tajik;Province;;;;;;;;;;;;;x
+tribal_duchy_of_tajik;Emirate of;;;;;;;;;;;;;x
+tribal_duchy_tajik;Emirate;;;;;;;;;;;;;x
+vice_royalty_county_of_tajik;Province of;;;;;;;;;;;;;x
+vice_royalty_duchy_of_tajik;Emirate of;;;;;;;;;;;;;x
+vice_royalty_kingdom_of_tajik;Emirate of;;;;;;;;;;;;;x
+baron_afghan;Rais;;;;;;;;;;;;;x
+baron_female_afghan;Rais;;;;;;;;;;;;;x
+city_baron_afghan;Dehqan;;;;;;;;;;;;;x
+city_count_afghan;Overseer;;;;;;;;;;;;;x
+count_afghan;Azad;;;;;;;;;;;;;x
+count_female_afghan;Azad;;;;;;;;;;;;;x
+duke_afghan;Emir;;;;;;;;;;;;;x
+duke_female_afghan;Emira;;;;;;;;;;;;;x
+king_afghan;Shah;;;;;;;;;;;;;x
+emperor_afghan;Shahanshah;;;;;;;;;;;;;x
+vice_royalty_count_afghan;Wâli;;;;;;;;;;;;;x
+vice_royalty_duke_afghan;Emir;;;;;;;;;;;;;x
+vice_royalty_king_afghan;Emir;;;;;;;;;;;;;x
+county_of_afghan;Province of;;;;;;;;;;;;;x
+county_afghan;Province;;;;;;;;;;;;;x
+duchy_of_afghan;Emirate of;;;;;;;;;;;;;x
+duchy_afghan;Emirate;;;;;;;;;;;;;x
+vice_royalty_county_of_afghan;Province of;;;;;;;;;;;;;x
+vice_royalty_duchy_of_afghan;Emirate of;;;;;;;;;;;;;x
+vice_royalty_kingdom_of_afghan;Emirate of;;;;;;;;;;;;;x
+baron_khwarezmi;Lord;;;;;;;;;;;;;x
+baron_female_khwarezmi;Lady;;;;;;;;;;;;;x
+city_baron_khwarezmi;Dehqan;;;;;;;;;;;;;x
+city_count_khwarezmi;Overseer;;;;;;;;;;;;;x
+count_khwarezmi;Istandar;;;;;;;;;;;;;x
+count_female_khwarezmi;Istandar;;;;;;;;;;;;;x
+duke_khwarezmi;Emir;;;;;;;;;;;;;x
+duke_female_khwarezmi;Emira;;;;;;;;;;;;;x
+king_khwarezmi;Shah;;;;;;;;;;;;;x
+emperor_khwarezmi;Shahanshah;;;;;;;;;;;;;x
+county_of_khwarezmi;Province of;;;;;;;;;;;;;x
+county_khwarezmi;Province;;;;;;;;;;;;;x
+duchy_of_khwarezmi;Emirate of;;;;;;;;;;;;;x
+duchy_khwarezmi;Emirate;;;;;;;;;;;;;x
+baron_sogdian;Lord;;;;;;;;;;;;;x
+baron_female_sogdian;Lady;;;;;;;;;;;;;x
+city_baron_sogdian;Dehqan;;;;;;;;;;;;;x
+baron_khalaj;Lord;;;;;;;;;;;;;x
+baron_female_khalaj;Lady;;;;;;;;;;;;;x
+city_baron_khalaj;Dehqan;;;;;;;;;;;;;x
+city_count_khalaj;Overseer;;;;;;;;;;;;;x
+count_khalaj;Istandar;;;;;;;;;;;;;x
+count_female_khalaj;Istandar;;;;;;;;;;;;;x
+duke_khalaj;Rutbil;;;;;;;;;;;;;x
+duke_female_khalaj;Rutbil;;;;;;;;;;;;;x
+king_khalaj;Shah;;;;;;;;;;;;;x
+emperor_khalaj;Shahanshah;;;;;;;;;;;;;x
+county_of_khalaj;Province of;;;;;;;;;;;;;x
+county_khalaj;Province;;;;;;;;;;;;;x
+duchy_of_khalaj;Spah of;;;;;;;;;;;;;x
+duchy_khalaj;Spah;;;;;;;;;;;;;x
+baron_qufs;Rais;;;;;;;;;;;;;x
+baron_female_qufs;Rais;;;;;;;;;;;;;x
+city_baron_qufs;Dehqan;;;;;;;;;;;;;x
+city_count_qufs;Overseer;;;;;;;;;;;;;x
+count_qufs;Istandar;;;;;;;;;;;;;x
+count_female_qufs;Istandar;;;;;;;;;;;;;x
+duke_qufs;Spahbed;;;;;;;;;;;;;x
+duke_female_qufs;Spahbed;;;;;;;;;;;;;x
+king_qufs;Shah;;;;;;;;;;;;;x
+emperor_qufs;Shahanshah;;;;;;;;;;;;;x
+county_of_qufs;Province of;;;;;;;;;;;;;x
+county_qufs;Province;;;;;;;;;;;;;x
+duchy_of_qufs;Spah of;;;;;;;;;;;;;x
+duchy_qufs;Spah;;;;;;;;;;;;;x
+baron_baloch;Rais;;;;;;;;;;;;;x
+baron_female_baloch;Rais;;;;;;;;;;;;;x
+city_baron_baloch;Dehqan;;;;;;;;;;;;;x
+city_count_baloch;Overseer;;;;;;;;;;;;;x
+count_baloch;Istandar;;;;;;;;;;;;;x
+count_female_baloch;Istandar;;;;;;;;;;;;;x
+duke_baloch;Spahbed;;;;;;;;;;;;;x
+duke_female_baloch;Spahbed;;;;;;;;;;;;;x
+king_baloch;Shah;;;;;;;;;;;;;x
+emperor_baloch;Shahanshah;;;;;;;;;;;;;x
+county_of_baloch;Province of;;;;;;;;;;;;;x
+county_baloch;Province;;;;;;;;;;;;;x
+duchy_of_baloch;Spah of;;;;;;;;;;;;;x
+duchy_baloch;Spah;;;;;;;;;;;;;x
+tribal_duke_baloch;Ustandar;;;;;;;;;;;;;x
+tribal_duchy_baloch;Province;;;;;;;;;;;;;x
+tribal_duchy_of_baloch;Province of;;;;;;;;;;;;;x
+baron_khotanese;Baron;;;;;;;;;;;;;x
+baron_female_khotanese;Baron;;;;;;;;;;;;;x
+city_baron_khotanese;Spata;;;;;;;;;;;;;x
+city_count_khotanese;Amacha;;;;;;;;;;;;;x
+count_khotanese;Amacha;;;;;;;;;;;;;x
+count_female_khotanese;Amacha;;;;;;;;;;;;;x
+duke_khotanese;Commander;;;;;;;;;;;;;x
+duke_female_khotanese;Queen;;;;;;;;;;;;;x
+county_of_khotanese;Commandery of;;;;;;;;;;;;;x
+county_khotanese;Commandery;;;;;;;;;;;;;x
+duchy_of_khotanese;Kingdom of;;;;;;;;;;;;;x
+duchy_khotanese;Kingdom;;;;;;;;;;;;;x
+tribal_duke_tengri_pagan;Ilek;;;;;;;;;;;;;x
+tribal_duke_female_tengri_pagan;Ilkan;;;;;;;;;;;;;x
+tribal_king_tengri_pagan;Khan;;;;;;;;;;;;;x
+tribal_king_female_tengri_pagan;Khatun;;;;;;;;;;;;;x
+tribal_emperor_tengri_pagan;Khagan;;;;;;;;;;;;;x
+tribal_emperor_female_tengri_pagan;Khagan;;;;;;;;;;;;;x
+duke_bolghar;Elteber;;;;;;;;;;;;;x
+duke_khazar;Elteber;;;;;;;;;;;;;x
+duke_avar;Elteber;;;;;;;;;;;;;x
+duke_pecheneg;Elteber;;;;;;;;;;;;;x
+baron_bashkir;Aqhaqal;;;;;;;;;;;;;x
+barony_bashkir;Ara;;;;;;;;;;;;;x
+barony_of_bashkir;Ara of;;;;;;;;;;;;;x
+count_bashkir;Aqhaqal;;;;;;;;;;;;;x
+county_bashkir;Ara;;;;;;;;;;;;;x
+county_of_bashkir;Ara of;;;;;;;;;;;;;x
+duke_bashkir;Bey;;;;;;;;;;;;;x
+duchy_bashkir;Yryw;;;;;;;;;;;;;x
+duchy_of_bashkir;Yryw of;;;;;;;;;;;;;x
+title_prince_bashkir;Murza;;;;;;;;;;;;;x
+city_duke_bashkir;Ruler;;;;;;;;;;;;;x
+city_king_bashkir;Ruler;;;;;;;;;;;;;x
+city_emperor_bashkir;Ruler;;;;;;;;;;;;;x
+city_duchy_of_bashkir;Khakimäte of;;;;;;;;;;;;;x
+city_duchy_bashkir;Khakimäte;;;;;;;;;;;;;x
+city_kingdom_of_bashkir;Khakimäte of;;;;;;;;;;;;;x
+city_kingdom_bashkir;Khakimäte;;;;;;;;;;;;;x
+city_empire_of_bashkir;Khakimäte of;;;;;;;;;;;;;x
+city_empire_bashkir;Khakimäte;;;;;;;;;;;;;x
+duke_khanty;Kanas;;;;;;;;;;;;;x
+duke_mari;Kugyzha;;;;;;;;;;;;;x
+duchy_mari;Kugyzhanysh;;;;;;;;;;;;;x
+duchy_of_mari;Kugyzhanysh of;;;;;;;;;;;;;x
+king_mari;Kugu Kugyzha;;;;;;;;;;;;;x
+kingdom_mari;Kugu Kugyzhanysh;;;;;;;;;;;;;x
+kingdom_of_mari;Kugu Kugyzhanysh of;;;;;;;;;;;;;x
+duke_komi;Öksyuv;;;;;;;;;;;;;x
+duchy_komi;Öksy;;;;;;;;;;;;;x
+duchy_of_komi;Öksy of;;;;;;;;;;;;;x
+king_komi;Ydzhyd Öksyuv;;;;;;;;;;;;;x
+kingdom_komi;Ydzhyd Öksy;;;;;;;;;;;;;x
+kingdom_of_komi;Ydzhyd Öksy of;;;;;;;;;;;;;x
+nomadic_king_beja;Rais;;;;;;;;;;;;;x
+nomadic_emperor_beja;Sultan;;;;;;;;;;;;;x
+nomadic_kingdom_beja;Tribe;;;;;;;;;;;;;x
+nomadic_kingdom_of_beja;Tribe of;;;;;;;;;;;;;x
+nomadic_empire_of_beja;Sultanate of;;;;;;;;;;;;;x
+nomadic_empire_beja;Sultanate;;;;;;;;;;;;;x
+nomadic_king_afar;Rais;;;;;;;;;;;;;x
+nomadic_emperor_afar;Suldaan;;;;;;;;;;;;;x
+nomadic_kingdom_afar;Tribe;;;;;;;;;;;;;x
+nomadic_kingdom_of_afar;Tribe of;;;;;;;;;;;;;x
+nomadic_empire_afar;Suldaanad;;;;;;;;;;;;;x
+nomadic_empire_of_afar;Suldaanad of;;;;;;;;;;;;;x
+nomadic_king_somali;Rais;;;;;;;;;;;;;x
+nomadic_emperor_somali;Suldaan;;;;;;;;;;;;;x
+nomadic_kingdom_somali;Tribe;;;;;;;;;;;;;x
+nomadic_kingdom_of_somali;Tribe of;;;;;;;;;;;;;x
+nomadic_empire_somali;Suldaanad;;;;;;;;;;;;;x
+nomadic_empire_of_somali;Suldaanad of;;;;;;;;;;;;;x
+nomadic_king_zaghawa;Rais;;;;;;;;;;;;;x
+nomadic_emperor_zaghawa;Kamil;;;;;;;;;;;;;x
+nomadic_kingdom_zaghawa;Tribe;;;;;;;;;;;;;x
+nomadic_kingdom_of_zaghawa;Tribe of;;;;;;;;;;;;;x
+nomadic_empire_zaghawa;Kamilate;;;;;;;;;;;;;x
+nomadic_empire_of_zaghawa;Kamilate of;;;;;;;;;;;;;x
+nomadic_king_nubian;Rais;;;;;;;;;;;;;x
+nomadic_emperor_nubian;Kamil;;;;;;;;;;;;;x
+nomadic_kingdom_nubian;Tribe;;;;;;;;;;;;;x
+nomadic_kingdom_of_nubian;Tribe of;;;;;;;;;;;;;x
+nomadic_empire_nubian;Kamilate;;;;;;;;;;;;;x
+nomadic_empire_of_nubian;Kamilate of;;;;;;;;;;;;;x
+nomadic_king_west_african;Maghan;;;;;;;;;;;;;x
+nomadic_emperor_west_african;King;;;;;;;;;;;;;x
+nomadic_kingdom_west_african;Maghanate;;;;;;;;;;;;;x
+nomadic_kingdom_of_west_african;Maghanate of;;;;;;;;;;;;;x
+nomadic_empire_west_african;Kingdom;;;;;;;;;;;;;x
+nomadic_empire_of_west_african;Kingdom of;;;;;;;;;;;;;x
+nomadic_king_north_african;Rais;;;;;;;;;;;;;x
+nomadic_emperor_north_african;Sultan;;;;;;;;;;;;;x
+nomadic_kingdom_north_african;Tribe;;;;;;;;;;;;;x
+nomadic_kingdom_of_north_african;Tribe of;;;;;;;;;;;;;x
+nomadic_empire_north_african;Sultanate;;;;;;;;;;;;;x
+nomadic_empire_of_north_african;Sultanate of;;;;;;;;;;;;;x
+nomadic_king_arabic;Sheikh;;;;;;;;;;;;;x
+nomadic_emperor_arabic;Emir;;;;;;;;;;;;;x
+nomadic_kingdom_arabic;Tribe;;;;;;;;;;;;;x
+nomadic_kingdom_of_arabic;Tribe of;;;;;;;;;;;;;x
+nomadic_empire_arabic;Emirate;;;;;;;;;;;;;x
+nomadic_empire_of_arabic;Emirate of;;;;;;;;;;;;;x
+tribal_count_arabic;Sheikh;;;;;;;;;;;;;x
+tribal_duke_arabic;Emir;;;;;;;;;;;;;x
+tribal_sultan_arabic;Sultan;;;;;;;;;;;;;x
+tribal_county_arabic;Sheikhdom;;;;;;;;;;;;;x
+tribal_county_of_arabic;Sheikhdom of;;;;;;;;;;;;;x
+tribal_duchy_arabic;Emirate;;;;;;;;;;;;;x
+tribal_duchy_of_arabic;Emirate of;;;;;;;;;;;;;x
+tribal_kingdom_arabic;Sultanate;;;;;;;;;;;;;x
+tribal_kingdom_of_arabic;Sultanate of;;;;;;;;;;;;;x
+duchy_arabic;Emirate;;;;;;;;;;;;;x
+duchy_of_arabic;Emirate of;;;;;;;;;;;;;x
+nomadic_king_oghuz;Bey;;;;;;;;;;;;;x
+nomadic_emperor_oghuz;Yabgu;;;;;;;;;;;;;x
+nomadic_kingdom_oghuz;Beylik;;;;;;;;;;;;;x
+nomadic_kingdom_of_oghuz;Beylik of;;;;;;;;;;;;;x
+nomadic_empire_oghuz;Yabguluq;;;;;;;;;;;;;x
+nomadic_empire_of_oghuz;Yabguluq of;;;;;;;;;;;;;x
+nomadic_king_turkmen;Bey;;;;;;;;;;;;;x
+nomadic_emperor_turkmen;Khan;;;;;;;;;;;;;x
+nomadic_kingdom_turkmen;Beylik;;;;;;;;;;;;;x
+nomadic_kingdom_of_turkmen;Beylik of;;;;;;;;;;;;;x
+nomadic_king_pecheneg;Elteber;;;;;;;;;;;;;x
+nomadic_emperor_pecheneg;Khan;;;;;;;;;;;;;x
+nomadic_kingdom_pecheneg;Teberlik;;;;;;;;;;;;;x
+nomadic_kingdom_of_pecheneg;Teberlik of;;;;;;;;;;;;;x
+nomadic_king_cuman;Bey;;;;;;;;;;;;;x
+nomadic_emperor_cuman;Khan;;;;;;;;;;;;;x
+nomadic_kingdom_cuman;Beylik;;;;;;;;;;;;;x
+nomadic_kingdom_of_cuman;Beylik of;;;;;;;;;;;;;x
+nomadic_king_khazar;Elteber;;;;;;;;;;;;;x
+nomadic_emperor_khazar;Khan;;;;;;;;;;;;;x
+nomadic_kingdom_khazar;Tawarlik;;;;;;;;;;;;;x
+nomadic_kingdom_of_khazar;Tawarlik of;;;;;;;;;;;;;x
+nomadic_king_bolghar;Elteber;;;;;;;;;;;;;x
+nomadic_emperor_bolghar;Khan;;;;;;;;;;;;;x
+nomadic_kingdom_bolghar;Tawarlik;;;;;;;;;;;;;x
+nomadic_kingdom_of_bolghar;Tawarlik of;;;;;;;;;;;;;x
+nomadic_king_karluk;Tutuq;;;;;;;;;;;;;x
+nomadic_emperor_karluk;Khan;;;;;;;;;;;;;x
+nomadic_kingdom_karluk;Tutuqluk;;;;;;;;;;;;;x
+nomadic_kingdom_of_karluk;Tutuqluk of;;;;;;;;;;;;;x
+nomadic_king_kirghiz;Bey;;;;;;;;;;;;;x
+nomadic_emperor_kirghiz;Khan;;;;;;;;;;;;;x
+nomadic_kingdom_kirghiz;Beylik;;;;;;;;;;;;;x
+nomadic_kingdom_of_kirghiz;Beylik of;;;;;;;;;;;;;x
+nomadic_king_uyghur;Idiqut;;;;;;;;;;;;;x
+nomadic_emperor_uyghur;Khagan;;;;;;;;;;;;;x
+nomadic_kingdom_uyghur;Idiqutluk;;;;;;;;;;;;;x
+nomadic_kingdom_of_uyghur;Idiqutluk of;;;;;;;;;;;;;x
+nomadic_king_bashkir;Bey;;;;;;;;;;;;;x
+nomadic_emperor_bashkir;Khan;;;;;;;;;;;;;x
+nomadic_kingdom_bashkir;Yryw;;;;;;;;;;;;;x
+nomadic_kingdom_of_bashkir;Yryw of;;;;;;;;;;;;;x
+nomadic_king_kurdish;Ustandar;;;;;;;;;;;;;x
+nomadic_emperor_kurdish;Khan;;;;;;;;;;;;;x
+nomadic_kingdom_kurdish;Province;;;;;;;;;;;;;x
+nomadic_kingdom_of_kurdish;Province of;;;;;;;;;;;;;x
+nomadic_king_baloch;Ustandar;;;;;;;;;;;;;x
+nomadic_emperor_baloch;Khan;;;;;;;;;;;;;x
+nomadic_kingdom_baloch;Province;;;;;;;;;;;;;x
+nomadic_kingdom_of_baloch;Province of;;;;;;;;;;;;;x
+emperor_khitan;Emperor;;;;;;;;;;;;;x
+emperor_female_khitan;Empress;;;;;;;;;;;;;x
+nomadic_emperor_khitan;Emperor;;;;;;;;;;;;;x
+nomadic_emperor_female_khitan;Empress;;;;;;;;;;;;;x
+king_khitan;King;;;;;;;;;;;;;x
+king_female_khitan;Queen;;;;;;;;;;;;;x
+nomadic_king_khitan;High Chief;;;;;;;;;;;;;x
+nomadic_king_female_khitan;High Chieftess;;;;;;;;;;;;;x
+tribal_emperor_khitan;Emperor;;;;;;;;;;;;;x
+tribal_emperor_female_khitan;Empress;;;;;;;;;;;;;x
+tribal_king_khitan;High Chief;;;;;;;;;;;;;x
+tribal_king_female_khitan;High Chieftess;;;;;;;;;;;;;x
+duke_khitan;Commissioner;;;;;;;;;;;;;x
+duke_female_khitan;Lady;;;;;;;;;;;;;x
+duchy_of_khitan;Province of;;;;;;;;;;;;;x
+count_khitan;Magistrate;;;;;;;;;;;;;x
+count_female_khitan;Lady;;;;;;;;;;;;;x
+county_of_khitan;Commandery of;;;;;;;;;;;;;x
+baron_khitan;Prefect;;;;;;;;;;;;;x
+baron_female_khitan;Lady;;;;;;;;;;;;;x
+barony_of_khitan;County of;;;;;;;;;;;;;x
+title_prince_khitan;Prince;;;;;;;;;;;;;x
+title_prince_female_khitan;Princess;;;;;;;;;;;;;x
+king_breton;King;;;;;;;;;;;;;x
+king_female_breton;Queen;;;;;;;;;;;;;x
+kingdom_breton;Kingdom;;;;;;;;;;;;;x
+kingdom_of_breton;Kingdom of;;;;;;;;;;;;;x
+duchy_breton;Duchy;;;;;;;;;;;;;x
+duke_breton;Duke;;;;;;;;;;;;;x
+duke_female_breton;Duchess;;;;;;;;;;;;;x
+count_breton;Count;;;;;;;;;;;;;x
+count_female_breton;Countess;;;;;;;;;;;;;x
+duchy_of_breton;Duchy of;;;;;;;;;;;;;x
+county_breton;County;;;;;;;;;;;;;x
+county_of_breton;County of;;;;;;;;;;;;;x
+baron_breton;Lord;;;;;;;;;;;;;x
+baron_female_breton;Lady;;;;;;;;;;;;;x
+barony_of_breton;Lordship of;;;;;;;;;;;;;x
+barony_breton;Lordship;;;;;;;;;;;;;x
+empire_prussian;Realm;;;;;;;;;;;;;x
+empire_of_prussian;Realm of;;;;;;;;;;;;;x
+emperor_prussian;Lord;;;;;;;;;;;;;x
+king_prussian;King;;;;;;;;;;;;;x
+duke_prussian;King;;;;;;;;;;;;;x
+count_prussian;Knight;;;;;;;;;;;;;x
+baron_prussian;Chief;;;;;;;;;;;;;x
+baron_female_prussian;Lady;;;;;;;;;;;;;x
+nomadic_emperor_mongol;Khan;;;;;;;;;;;;;x
+nomadic_empire_of_mongol;Khanate of;;;;;;;;;;;;;x
+nomadic_empire_mongol;Khanate;;;;;;;;;;;;;x
+nomadic_king_mongol;Chief;;;;;;;;;;;;;x
+nomadic_kingdom_of;Tribe of;;;;;;;;;;;;;x
+nomadic_kingdom;Tribe;;;;;;;;;;;;;x
+duke_mongol;Noyan;;;;;;;;;;;;;x
+baron_mongol;Darugha;;;;;;;;;;;;;x
+barony_mongol;Darugha;;;;;;;;;;;;;x
+barony_of_mongol;Darugha of;;;;;;;;;;;;;x
+tribal_baron_mongol;Darugha;;;;;;;;;;;;;x
+tribal_barony_of_mongol;Darugha of;;;;;;;;;;;;;x
+city_baron_mongol;Urtaq;;;;;;;;;;;;;x
+baron_pagan_group;;;;;;;;;;;;;;x
+baron_coptic;Lord;;;;;;;;;;;;;x
+count_coptic;Pagarch;;;;;;;;;;;;;x
+count_female_coptic;Pagarch;;;;;;;;;;;;;x
+duke_coptic;Duke;;;;;;;;;;;;;x
+duke_female_coptic;Duchess;;;;;;;;;;;;;x
+king_coptic;King;;;;;;;;;;;;;x
+king_female_coptic;Queen;;;;;;;;;;;;;x
+temple_baron_assyrian;Abuna;;;;;;;;;;;;;x
+temple_count_assyrian;Abuna;;;;;;;;;;;;;x
+duke_temple_assyrian;Metropolitan;;;;;;;;;;;;;x
+city_baron_assyrian;Arkuna;;;;;;;;;;;;;x
+baron_assyrian;Lord;;;;;;;;;;;;;x
+count_assyrian;Count;;;;;;;;;;;;;x
+duke_assyrian;Duke;;;;;;;;;;;;;x
+king_assyrian;Malik;;;;;;;;;;;;;x
+king_female_assyrian;Malikah;;;;;;;;;;;;;x
+kingdom_assyrian;Kingdom;;;;;;;;;;;;;x
+kingdom_of_assyrian;Kingdom of;;;;;;;;;;;;;x
+emperor_assyrian;Emperor;;;;;;;;;;;;;x
+emperor_female_assyrian;Empress;;;;;;;;;;;;;x
+baron_anglonorse;Thegn;;;;;;;;;;;;;x
+count_anglonorse;Ealdorman;;;;;;;;;;;;;x
+count_female_anglonorse;Lady;;;;;;;;;;;;;x
+duke_anglonorse;Earl;;;;;;;;;;;;;x
+duke_female_anglonorse;Lady;;;;;;;;;;;;;x
+duchy_of_anglonorse;Earldom of;;;;;;;;;;;;;x
+city_baron_anglonorse;Tithingman;;;;;;;;;;;;;x
+city_count_anglonorse;Burhealdor;;;;;;;;;;;;;x
+city_barony_of_anglonorse;Tithing of;;;;;;;;;;;;;x
+city_county_of_anglonorse;Burgh of;;;;;;;;;;;;;x
+county_of_anglonorse;Shire of;;;;;;;;;;;;;x
+king_anglonorse;King;;;;;;;;;;;;;x
+king_female_anglonorse;Queen;;;;;;;;;;;;;x
+title_prince_anglonorse;Ætheling;;;;;;;;;;;;;x
+kingdom_of_anglonorse;Kingdom of;;;;;;;;;;;;;x
+kingdom_anglonorse;Kingdom;;;;;;;;;;;;;x
+emperor_anglonorse;Emperor;;;;;;;;;;;;;x
+emperor_female_anglonorse;Queen;;;;;;;;;;;;;x
+empire_anglonorse;Empire;;;;;;;;;;;;;x
+empire_of_anglonorse;Empire of;;;;;;;;;;;;;x
+county_anglonorse;Shire;;;;;;;;;;;;;x
