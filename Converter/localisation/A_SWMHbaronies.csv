@@ -1013,15 +1013,19 @@ b_este;Este;;;;;;;;;;;;;x
 b_monselice;Monselice;;;;;;;;;;;;;x
 b_adria_ferrara;Ferrara;;;;;;;;;;;;;x
 b_pomposa;Pomposa;;;;;;;;;;;;;x
+b_baone;Baone;;;;;;;;;;;;;x
 b_verona;Verona;;;;;;;;;;;;;x
 b_san_bonifacio;San Bonifacio;;;;;;;;;;;;;x
 b_bevilacuqa;Bevilacuqa;;;;;;;;;;;;;x
 b_cerea;Cerea;;;;;;;;;;;;;x
 b_sirmione;Sirmione;;;;;;;;;;;;;x
+b_isola;isola;;;;;;;;;;;;;x
+b_garda;Garda;;;;;;;;;;;;;x
 b_viacenza;Viacenza;;;;;;;;;;;;;x
 b_bassano;Bassano;;;;;;;;;;;;;x
 b_romano;Romano;;;;;;;;;;;;;x
 b_angarano;Angarano;;;;;;;;;;;;;x
+b_montebello_vizcentino;Montebello;;;;;;;;;;;;;x
 b_treviso;Treviso;;;;;;;;;;;;;x
 b_belluno;Belluno;;;;;;;;;;;;;x
 b_collalto;Collalto;;;;;;;;;;;;;x
@@ -1031,6 +1035,8 @@ b_padua;Padua;;;;;;;;;;;;;x
 b_carrara_carraraesi;Carrara;;;;;;;;;;;;;x
 b_camposampiero;Camposampiero;;;;;;;;;;;;;x
 b_cittadella;Cittadella;;;;;;;;;;;;;x
+b_montemerlo;Montemerlo;;;;;;;;;;;;;x
+b_sacco;Sacco;;;;;;;;;;;;;x
 b_onara;Onara;;;;;;;;;;;;;x
 b_marcaria;Marcaria;;;;;;;;;;;;;x
 b_sabbioneta;Sabbioneta;;;;;;;;;;;;;x

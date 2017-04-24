@@ -538,10 +538,19 @@ d_basmils = {
 	title_prefix = Yabghuluq_OF
 	allow = { always = no }
 }
+d_tukhsi = {
+	color = { 147 21 39 }
+	culture = karluk
+	capital = 1572
+	title = Yabghu
+	foa = Yabghu_FOA
+	title_prefix = Yabghuluq_OF
+	allow = { always = no }
+}
 d_qipchaq = {
 	color = { 137 41 59 }
 	culture = cuman
-	capital = 1576
+	capital = 1579
 	title = Opa
 	foa = Opa_FOA
 	title_prefix = Kuren_OF
