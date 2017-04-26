@@ -7,5 +7,5 @@ If you use a HIP installation name other than the default, make sure to edit the
 
 Play HIP normally without enabling either Converter mod. Then, when you are ready to convert, reload the game with the Converter mod enabled.
 Also enable the Converter+Mini mod if and only if you installed MiniSWMH!
-Load your save and export game from the Esc menu.
-Then move the mod from your `HIP/eu4_export/mod/` folder to your EU4 installation like normal.
+Load your save, and take the decision "Prepare for EU4."
+Then export game from the Esc menu, and move the mod from your `HIP/eu4_export/mod/` folder to your EU4 installation like normal.

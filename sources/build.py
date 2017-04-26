@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 import shutil
-from ck2parser import (rootpath, SimpleParser, get_cultures, is_codename, Pair,
-                       csv_rows, vanilladir)
+from ck2parser import (rootpath, SimpleParser, is_codename, Pair, csv_rows,
+                       vanilladir)
 from print_time import print_time
 
 def ensure_empty(path):
@@ -10,10 +10,29 @@ def ensure_empty(path):
         shutil.rmtree(str(path))
     path.mkdir(parents=True)
 
-def build_landed_titles(parser, outdir, tagged_titles):
+def build_cultures(parser, outdir):
+    outdir /= 'common/cultures'
+    ensure_empty(outdir)
+    cultures = set()
+    for path, tree in parser.parse_files('common/cultures/*'):
+        if vanilladir in path.parents:
+            continue
+        diff = False
+        for n, v in tree:
+            for n2, v2 in v:
+                if n2.val != 'graphical_cultures':
+                    cultures.add(n2.val)
+                    for p3 in reversed(v2.contents):
+                        if p3.key.val == 'dynasty_title_names':
+                            v2.contents.remove(p3)
+                            diff = True
+        if diff:
+            parser.write(tree, outdir / path.name)
+    return cultures
+
+def build_landed_titles(parser, outdir, cultures, tagged_titles):
     outdir /= 'common/landed_titles'
     ensure_empty(outdir)
-    cultures = set(get_cultures(parser, groups=False))
     for path, tree in parser.parse_files('common/landed_titles/*'):
         if vanilladir in path.parents or 'override' in path.name:
             continue
@@ -62,9 +81,11 @@ def main():
             tagged_titles.add(title)
 
     parser.moddirs = [swmh, emf, emf_swmh]
-    build_landed_titles(parser, converter, tagged_titles)
+
+    cultures = build_cultures(parser, converter)
+    build_landed_titles(parser, converter, cultures, tagged_titles)
     parser.moddirs = [mini]
-    build_landed_titles(parser, converter_mini, tagged_titles)
+    build_landed_titles(parser, converter_mini, cultures, tagged_titles)
 
     copy_localisation([sed, sed_emf], converter)
 
