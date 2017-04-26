@@ -1,0 +1,40 @@
+# -*- ck2.events -*-
+
+namespace = hip_converter
+
+# Convert French HRE to German HRE
+character_event = {
+    id = hip_converter.1
+    
+    is_triggered_only = yes
+    hide_window = yes
+    
+    trigger = {
+        e_hre_french = { has_holder = yes }
+        e_hre = { has_holder = no }
+    }
+    
+    immediate = {
+        e_hre_french = { owner = { save_event_target_as = frenchie } } # event targets are just more clear
+        e_hre = {            
+            # in case the title isn't titular somehow, take care of that
+            any_direct_de_jure_vassal_title = {
+                de_jure_liege = e_null
+            }
+            # create regular HRE for the frenchie
+            grant_title = event_target:frenchie
+        }
+        # transfer de jure vassals under "real" HRE
+        e_hre_french = {
+            any_direct_de_jure_vassal_title = {
+                de_jure_liege = e_hre
+            }
+        }
+        # force e_hre to become primary title of owner
+        e_hre = { make_primary_title = yes }
+        # why is this comment even here?
+        e_hre_french = {        
+            destroy_landed_title = THIS
+        }
+    }
+}

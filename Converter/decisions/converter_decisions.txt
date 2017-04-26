@@ -18,23 +18,14 @@ decisions = {
 			hidden_tooltip = {
 				set_global_flag = converter_ready
 				# attempt to reset title names
+				culture = THIS
+				any_playable_ruler = { culture = THIS }
 				any_landed_title = {
 					limit = { has_holder = yes }
 					set_name = ""
 				}
-				##convert pagans to Fetishism, for convenience
-				#any_province = { 
-				#	limit = { religion = pagan }
-				#	religion = west_african_pagan
-				#}
-				#e_hip = {
-				#	holder_scope = {
-				#		any_character = {
-				#			limit = { religion = pagan }
-				#			religion = west_african_pagan
-				#		}
-				#	}
-				#}
+				# convert French HRE to German HRE
+				e_hip = { owner = { character_event = { id = hip_converter.1 } } }
 			}
 		}
 		revoke_allowed = {
@@ -45,4 +36,3 @@ decisions = {
 		}
 	}
 }
-
