@@ -1556,17 +1556,9 @@ c_szvuine;2994;2994 - Greifswald;Swine - Greifswald
 
 ### Bohemia
 
-d_moravia;265;265 - Moravia;Duchy Morawske - Moravia
-c_brno;265;265 - Moravia;Boruy - Moravia
-c_brno;265;265 - Moravia;Duplicate to increase weight
-c_brno;265;265 - Moravia;Duplicate to increase weight
-c_olomouc;265;265 - Moravia;Olomouc - Moravia
-c_olomouc;265;265 - Moravia;Duplicate to increase weight
-c_olomouc;265;265 - Moravia;Duplicate to increase weight
-c_znojmo;265;265 - Moravia;Znojmo - Moravia
-c_znojmo;265;265 - Moravia;Duplicate to increase weight
-c_opava;265;265 - Moravia;Opava - Moravia
-c_trencin;265;265 - Moravia;Trencsén - Moravia
+c_brno;265;265 - Brno;Boruy - Brno
+c_brno;265;265 - Brno;Duplicate to increase weight
+c_znojmo;265;265 - Brno;Znojmo - Brno
 
 c_praha;266;266 - Prague;Praha - Prague
 c_praha;266;266 - Prague;Duplicate to increase weight
@@ -1576,9 +1568,13 @@ c_domazlice;2968;2968 - Budejovice;Doudleby - Budejovice
 
 c_hradec;2970;2970 - Hradecko;Hradec - Hradecko
 c_hradec;2970;2970 - Hradecko;Duplicate to increase weight
-c_hradec;2970;2970 - Hradecko;Duplicate to increase weight
-c_boleslav;2970;2970 - Hradecko;Kladsko - Hradecko
 c_litomerice;2970;2970 - Hradecko;Litomerice - Hradecko
+
+c_olomouc;4237;4237 - Olomouc;Olomouc - Olomouc
+c_olomouc;4237;4237 - Olomouc;Duplicate to increase weight
+c_olomouc;4237;4237 - Olomouc;Duplicate to increase weight
+c_opava;4237;4237 - Olomouc;Opava - Olomouc
+c_trencin;4237;4237 - Olomouc;Trencsén - Olomouc
 
 ### Hinterpommern
 
@@ -2123,14 +2119,16 @@ c_cieszyn;263;263 - Ratibor;Duplicate to increase weight
 c_opava;263;263 - Ratibor;Opava - Ratibor
 
 c_upper_silesia;264;264 - Breslau;Wroclaw - Breslau
-c_upper_silesia;264;264 - Breslau;Duplicate to increase weight
-c_upper_silesia;264;264 - Breslau;Duplicate to increase weight
-c_upper_silesia;264;264 - Breslau;Duplicate to increase weight
-c_legnica;264;264 - Breslau;Legnica - Breslau
-c_legnica;264;264 - Breslau;Duplicate to increase weight
-c_lower_silesia;264;264 - Breslau;Glogów - Breslau
 
-c_lower_silesia;2966;2966 - Leignitz;Glogów - Glogau
+c_lower_silesia;2966;2966 - Glogau;Glogów - Glogau
+
+c_legnica;4238;4238 - Leignitz;Legnica - Liegnitz
+c_legnica;4238;4238 - Leignitz;Duplicate to increase weight
+c_legnica;4238;4238 - Leignitz;Duplicate to increase weight
+c_legnica;4238;4238 - Leignitz;Duplicate to increase weight
+c_upper_silesia;4238;4238 - Leignitz;Wroclaw - Liegnitz
+c_boleslav;4238;4238 - Leignitz;Kladsko - Liegnitz
+c_lower_silesia;4238;4238 - Leignitz;Glogów - Liegnitz
 
 ## Baltic
 ### Vilna
@@ -2633,12 +2631,8 @@ c_kozelsk;4116;4116 - Upper Oka;Kozel'sk - Oka
 ## Carpathia
 ### Transdanubia
 
-d_gyor;135;135 - Sopron;Duchy Gyõr - Sopron
 c_sopron;135;135 - Sopron;Sopron - Sopron
 c_vas;135;135 - Sopron;Kolon - Sopron
-c_vas;135;135 - Sopron;Duplicate to increase weight
-c_pest;135;135 - Sopron;Veszprém - Sopron
-c_gemer;135;135 - Sopron;Gyõr - Sopron
 
 d_esztergom;153;153 - Pest;Duchy Visegrád - Pest
 c_esztergom;153;153 - Pest;Visegrád - Pest
@@ -2652,14 +2646,17 @@ c_komarom;153;153 - Pest;Komarom - Pest
 c_hont;153;153 - Pest;Hont - Pest
 
 c_pecs;1864;1864 - Somogy;Tolna - Somogy
-c_pecs;1864;1864 - Somogy;Duplicate to increase weight
-c_pecs;1864;1864 - Somogy;Duplicate to increase weight
 c_bereg;1864;1864 - Somogy;Somogy - Somogy
-c_bereg;1864;1864 - Somogy;Duplicate to increase weight
-c_pest;1864;1864 - Somogy;Veszprém - Somogy
-c_fejer;1864;1864 - Somogy;Fejér - Somogy
 
 c_bacs;4126;4126 - Bacs;Bodrog - Bacs
+
+c_pest;4240;4240 - Fejer;Veszprém - Fejér
+c_pest;4240;4240 - Fejer;Duplicate to increase weight
+c_fejer;4240;4240 - Fejer;Fejér - Fejér
+c_fejer;4240;4240 - Fejer;Duplicate to increase weight
+c_gemer;4240;4240 - Fejer;Gyõr - Fejér
+c_gemer;4240;4240 - Fejer;Duplicate to increase weight
+c_komarom;4240;4240 - Fejer;Komarom - Fejér
 
 ### Alföld
 
@@ -2671,9 +2668,9 @@ c_bihar;1953;1953 - Szabolcs;Bihar - Szabolcs
 c_bihar;1953;1953 - Szabolcs;Duplicate to increase weight
 c_marmaros;1953;1953 - Szabolcs;Szatmár - Szabolcs
 
-c_temes;1954;1954 - Torontal;Temes - Torontal
+c_temes;1954;1954 - Torontal;Temes - Torontál
 c_temes;1954;1954 - Torontal;Duplicate to increase weight
-c_krasso;1954;1954 - Torontal;Krassó - Torontal
+c_krasso;1954;1954 - Torontal;Krassó - Torontál
 
 c_heves;4125;4125 - Szolnok;Heves - Szolnok
 c_heves;4125;4125 - Szolnok;Duplicate to increase weight
@@ -2683,14 +2680,11 @@ c_saris;4125;4125 - Szolnok;Borsod - Szolnok
 
 ### Slovakia
 
-c_komarom;154;154 - Ersekujvar;Komarom - Érsekújvár
-c_trencin;154;154 - Ersekujvar;Trencsén - Érsekújvár
-c_trencin;154;154 - Ersekujvar;Duplicate to increase weight
-c_bars;154;154 - Ersekujvar;Bars - Érsekújvár
-c_bars;154;154 - Ersekujvar;Duplicate to increase weight
-c_hont;154;154 - Ersekujvar;Hont - Érsekújvár
-c_nitra;154;154 - Ersekujvar;Nyitra - Érsekújvár
-c_cieszyn;154;154 - Ersekujvar;Cieszyn - Érsekújvár
+c_hont;154;154 - Hont;Hont - Hont
+c_bars;154;154 - Hont;Bars - Hont
+c_bars;154;154 - Hont;Duplicate to increase weight
+c_bars;154;154 - Hont;Duplicate to increase weight
+c_nitra;154;154 - Hont;Nyitra - Hont
 
 c_zemplen;162;162 - Zemplen;Zemplén - Zemplen
 c_zemplen;162;162 - Zemplen;Duplicate to increase weight
@@ -2700,7 +2694,6 @@ c_saris;162;162 - Zemplen;Borsod - Zemplen
 
 c_szepes;1318;1318 - Spis;Szepes - Spiš
 c_hont;1318;1318 - Spis;Hont - Spiš
-c_orava;1318;1318 - Spis;Árva - Spiš
 c_bars;1318;1318 - Spis;Bars - Spiš
 c_saris;1318;1318 - Spis;Borsod - Spiš
 c_sacz;1318;1318 - Spis;Sacz - Spiš
@@ -2709,7 +2702,13 @@ c_pressburg;1772;1772 - Pozsony;Pozsony - Pozsony
 c_pressburg;1772;1772 - Pozsony;Duplicate to increase weight
 c_nitra;1772;1772 - Pozsony;Nyitra - Pozsony
 c_nitra;1772;1772 - Pozsony;Duplicate to increase weight
-c_trencin;1772;1772 - Pozsony;Trencsén - Pozsony
+c_komarom;1772;1772 - Pozsony;Komarom - Pozsony
+
+c_trencin;4236;4236 - Trencin;Trencsén - Trencin
+c_trencin;4236;4236 - Trencin;Duplicate to increase weight
+c_trencin;4236;4236 - Trencin;Duplicate to increase weight
+c_orava;4236;4236 - Trencin;Árva - Trencin
+c_sacz;4236;4236 - Trencin;Sacz - Trencin
 
 ### Northern Transylvania
 
@@ -2790,10 +2789,10 @@ c_pozega;152;152 - Belovar;Požega - Varasd
 c_krizevci;1767;1767 - Veroce;Vukova - Slavonia
 c_pozega;1767;1767 - Veroce;Požega - Slavonia
 
-c_donjikraji;1828;1828 - Soli;Donji Kraji - Donji Kraji
-c_vrbas;1828;1828 - Soli;Vrbas - Donji Kraji
-c_rama;1828;1828 - Soli;Rama - Donji Kraji
-c_zavrsje;1828;1828 - Soli;Zavrsje - Donji Kraji
+c_donjikraji;1828;1828 - Donji Krajii;Donji Kraji - Donji Kraji
+c_vrbas;1828;1828 - Donji Krajii;Vrbas - Donji Kraji
+c_rama;1828;1828 - Donji Krajii;Rama - Donji Kraji
+c_zavrsje;1828;1828 - Donji Krajii;Zavrsje - Donji Kraji
 
 c_syrmia;4173;4173 - Syrmia;Szerém - Syrmia
 c_syrmia;4173;4173 - Syrmia;Duplicate to increase weight
@@ -2853,6 +2852,9 @@ c_naissus;3000;3000 - Nis;Duplicate to increase weight
 c_velbazhd;3000;3000 - Nis;Velbazhd - Nis
 
 c_branicevo;4176;4176 - Branicevo;Branicevo - Branicevo
+
+c_belgrade;4239;4239 - Belgrade;Belgrad - Belgrade
+c_macva;4239;4239 - Belgrade;Macva - Belgrade
 
 ### Rascia
 
