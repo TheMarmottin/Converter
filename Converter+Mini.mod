@@ -1,5 +1,6 @@
 name = "Converter"
-path = "mod/Converter"
+path = "mod/Converter+Mini"
 dependencies = {
 "HIP - Historical Immersion Project"
+"Converter"
 }

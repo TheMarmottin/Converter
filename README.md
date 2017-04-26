@@ -1,5 +1,11 @@
 # Converter
 
-If you want to test it, [download the latest ZIP](https://github.com/TheMarmottin/Converter/archive/master.zip) and extract it into your `mod/` folder.
+To install, [download the latest ZIP](https://github.com/TheMarmottin/Converter/archive/master.zip) and extract it into your `mod/` folder.
+The `sources/` folder and this readme can be skipped.
 
-Please tell me if there is any culture/religion/province in ck2 think should be linked to another one. I am far from an expert on the field ^^
+If you use a HIP installation name other than the default, make sure to edit the `.mod` files to change the dependency name!
+
+Play HIP normally without enabling either Converter mod. Then, when you are ready to convert, reload the game with the Converter mod enabled.
+Also enable the Converter+Mini mod if and only if you installed MiniSWMH!
+Load your save and export game from the Esc menu.
+Then move the mod from your `HIP/eu4_export/mod/` folder to your EU4 installation like normal.

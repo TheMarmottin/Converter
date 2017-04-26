@@ -18,6 +18,7 @@ def main():
     parser.moddirs = []
 
     eu4root = localpaths.eu4dir
+    converter = ck2parser.rootpath / 'Converter/Converter/eu4_converter'
     localize = {}
     for path in (eu4root / 'localisation').glob('*_l_english.yml'):
         with path.open(encoding='utf-8-sig') as f:
@@ -64,7 +65,7 @@ def main():
     errors = set()
     unmapped_counties = set(title_key)
     try:
-        with open('province_table.csv', encoding='cp1252') as f:
+        with (converter / 'province_table.csv').open(encoding='cp1252') as f:
             for line in f:
                 match = re.match(r'([^#;]*);([^#;]*)', line)
                 if match:
@@ -140,8 +141,8 @@ def main():
                     write_line('####;{};{};{}'.format(province,
                                history[province], '/'.join(names[province])))
 
-    with open('province_table.csv', 'w', encoding='cp1252',
-              newline='\r\n') as f:
+    with (converter / 'province_table.csv').open('w', encoding='cp1252',
+                                                 newline='\r\n') as f:
         print('# CK2TITLE;EU4ID;Filename;Comment', file=f)
         for region_name in orphan_regions:
             write_region(region_name)

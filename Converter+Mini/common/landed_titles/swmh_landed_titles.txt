@@ -3047,12 +3047,12 @@ e_hre = {
 				culture = venetian
 				east_gothic = Akouileia
 				b_aquileia = { east_gothic = Akouileia }
+				b_portoguaro = {}
 				b_udine = {}
 				b_motta = {}
 				b_ciridale = {}
 				b_tarcento = {}
 				b_pieve = {}
-				b_portoguaro = {}
 			}
 			allow = {
 				religion_group = christian
@@ -4264,6 +4264,7 @@ e_hre = {
 					low_frankish = Pernstein
 				}
 			}
+			dynasty_title_names = no
 		}
 		allow = {
 			has_landed_title = d_bohemia
@@ -22322,16 +22323,19 @@ e_italy = {
 				b_vicenza = {}
 				b_romano = {}
 				b_arzignano = {}
+				b_montebello_vicentino = {}
 				b_angarano = {}
 			}
 			c_verona = {
 				color = { 25 230 30 }
 				color2 = { 255 255 255 }
 				b_verona = {}
+				b_isola = {}
+				b_san_bonifacio = {}
 				b_sirmione = {}
 				b_cerea = {}
 				b_bevilacuqa = {}
-				b_san_bonifacio = {}
+				b_garda = {}
 			}
 			c_padova = {
 				color = { 255 234 234 }
@@ -22340,6 +22344,8 @@ e_italy = {
 				b_carrara_carraraesi = {}
 				b_camposampiero = {}
 				b_cittadella = {}
+				b_montemerlo = {}
+				b_sacco = {}
 				b_onara = {}
 			}
 		}
@@ -23179,6 +23185,7 @@ e_italy = {
 				b_este = {}
 				b_monselice = {}
 				b_pomposa = {}
+				b_baone = {}
 				b_adria_ferrara = {}
 			}
 			dynasty_title_names = no
@@ -23312,7 +23319,7 @@ e_italy = {
 					sardinian = "Santa Igia"
 				}
 				b_tortoli = { sardinian = Tòrtuelie }
-				b_dolunova = {}
+				b_dolinova = {}
 				b_villasor = { sardinian = "Bidda Sorris" }
 				b_carbonara = {}
 				b_sulci = {}
@@ -23742,12 +23749,15 @@ e_italy = {
 		culture = venetian
 		dignity = 200
 		christian = 375
+		venetian = Venexia
 		d_venice = {
+			venetian = Venexia
 			color = { 34 137 126 }
 			capital = 356
 			c_venezia = {
 				color = { 40 143 132 }
 				color2 = { 255 255 255 }
+				venetian = Venexia
 				b_venezia = {}
 				b_rialto = {}
 				b_pallestrina = {}

@@ -12,6 +12,7 @@ import print_time
 @print_time.print_time
 def main():
     eu4root = localpaths.eu4dir
+    converter = ck2parser.rootpath / 'Converter/Converter/eu4_converter'
     swmh = ck2parser.rootpath / 'SWMH-BETA/SWMH'
     parser = ck2parser.SimpleParser(swmh)
 
@@ -68,7 +69,7 @@ def main():
                 if n2.val not in not_cultures:
                     cultures.append(n2.val)
                     group_of_culture[n2.val] = n.val
-    for folder in [ck2parser.rootpath / 'eu4_converter', pathlib.Path()]:
+    for folder in [ck2parser.rootpath / 'eu4_converter', converter]:
         for path in (folder / 'common/cultures').iterdir():
             for n, v in parser.parse_file(path):
                 if n.val not in culture_groups:
@@ -82,7 +83,7 @@ def main():
     ck2localize = ck2parser.get_localisation([swmh])
 
     eu4localize = {}
-    for folder in [eu4root, pathlib.Path('copy')]:
+    for folder in [eu4root, converter / 'copy']:
         for path in (folder / 'localisation').glob('*_l_english.yml'):
             with path.open(encoding='utf-8-sig') as f:
                 for line in f:
@@ -93,7 +94,7 @@ def main():
 
     culture_table = []
     unmapped_cultures = list(ck2cultures)
-    with open('culture_table.csv', encoding='cp1252') as f:
+    with (converter / 'culture_table.csv').open(encoding='cp1252') as f:
         for line in f:
             match = re.fullmatch(r'([^#;]*);([^#;]*);([^#;]*);([^;]*)\n',
                                  line)
@@ -114,7 +115,7 @@ def main():
         cultures.index(x[1]),
         ck2cultures.index(x[0])))
 
-    with open('culture_table.csv', 'w', encoding='cp1252') as f:
+    with (converter / 'culture_table.csv').open('w', encoding='cp1252') as f:
         print('# CK2CULTURE;EU4CULTURE;Custom Defined;Comment', file=f)
         prev_group = None
         for row in culture_table:
