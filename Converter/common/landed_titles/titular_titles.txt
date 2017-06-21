@@ -681,6 +681,12 @@ d_airgialla = {
 	color2 = { 251 140 17 }
 	capital = 7
 }
+d_khawarij = {
+	color = { 70 130 10 }
+	color2 = { 255 255 255 }
+	allow = { religion = kharijite }
+	capital = 697
+}
 d_asturias = {
 	color = { 19 83 180 }
 	color2 = { 0 0 0 }

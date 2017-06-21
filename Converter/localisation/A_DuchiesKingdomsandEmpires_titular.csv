@@ -745,6 +745,10 @@ k_lombard_league;Lombard League;;;;;;;;;;;;;x
 k_lombard_league_adj;Lombard League;;;;;;;;;;;;;x
 k_tuscan_league;Tuscan League;;;;;;;;;;;;;x
 k_tuscan_league_adj;Tuscan League;;;;;;;;;;;;;x
+d_khawarij;Kharijites;;;;;;;;;;;;;x
+d_khawarij_adj;Kharijite;;;;;;;;;;;;;x
+d_kufichi;Qufs;;;;;;;;;;;;;x
+d_kufichi_adj;Qufs;;;;;;;;;;;;;x
 d_hashshashin;Hashshashin;;;;;;;;;;;;;x
 d_hashshashin_adj;Hashshashin;;;;;;;;;;;;;x
 d_amiralarab;Arabs;;;;;;;;;;;;;x

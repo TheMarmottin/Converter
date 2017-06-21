@@ -1255,7 +1255,7 @@ e_hre = {
 		color2 = { 255 255 255 }
 		capital = 262
 		dignity = 200
-		allow = { always = no }
+		allow = { title_king_basic_allow = yes }
 	}
 	k_frisia = {
 		color = { 255 120 0 }
@@ -5983,6 +5983,7 @@ e_russia = {
 				b_lyubim = {}
 				b_danilov = {}
 			}
+			dynasty_title_names = no
 		}
 		d_moskva = {
 			color = { 199 123 56 }
@@ -6608,6 +6609,7 @@ e_russia = {
 				b_spasopreobrazenskij = {}
 				b_veksenga = {}
 			}
+			dynasty_title_names = no
 		}
 		allow = { title_king_basic_allow = yes }
 		dynasty_title_names = no
@@ -8584,10 +8586,11 @@ e_arabia = {
 			c_cairo = {
 				color = { 24 236 119 }
 				color2 = { 255 255 255 }
+				sicilian_arabic_arabic = Qáhira
 				holy_site = east_african_pagan
 				holy_site = east_african_pagan_reformed
 				holy_site = druze
-				b_cairo = {}
+				b_cairo = { sicilian_arabic_arabic = Qáhira }
 				b_fustat = {}
 				b_qaylub = {}
 				b_alazhar = {}

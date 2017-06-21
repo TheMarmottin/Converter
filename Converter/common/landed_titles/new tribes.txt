@@ -107,25 +107,25 @@ k_oborites = {
 	color = { 41 85 98 }
 	capital = 260
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_king_basic_allow = yes }
 }
 k_pommeranians = {
 	color = { 11 5 129 }
 	capital = 1313
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_king_basic_allow = yes }
 }
 k_lutici = {
 	color = { 22 57 233 }
 	capital = 365
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_king_basic_allow = yes }
 }
 k_sorbs = {
 	color = { 209 147 2 }
 	capital = 364
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_king_basic_allow = yes }
 }
 d_hevelli = {
 	color = { 66 35 86 }
@@ -938,13 +938,17 @@ d_baloch = {
 	allow = { always = no }
 	dynasty_title_names = no
 }
+d_kufichi = {
+	color = { 190 165 65 }
+	color2 = { 255 255 255 }
+	culture = qufs
+	capital = 899
+	allow = { always = no }
+}
 k_hilal = {
 	color = { 173 150 43 }
 	color2 = { 0 128 128 }
 	capital = 1352
 	culture = bedouin_arabic
-	allow = {
-		always = no
-		title_king_basic_allow = yes
-	}
+	allow = { title_king_basic_allow = yes }
 }
