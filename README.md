@@ -1,5 +1,7 @@
 # Converter
 
+For HIP version Cacao and EU4 version 1.22.
+
 To install, [download the latest ZIP](https://github.com/TheMarmottin/Converter/archive/master.zip) and extract it into your `mod/` folder.
 The `sources/` folder and this readme can be skipped.
 
