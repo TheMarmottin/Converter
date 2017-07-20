@@ -21,7 +21,10 @@ decisions = {
 				culture = THIS
 				any_playable_ruler = { culture = THIS }
 				any_landed_title = {
-					limit = { has_holder = yes }
+					limit = {
+						has_holder = yes
+						is_nomadic = no
+					}
 					set_name = ""
 				}
 				# convert French HRE to German HRE
