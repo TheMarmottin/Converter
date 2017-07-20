@@ -1,0 +1,8 @@
+# -*- ck2.on_actions -*-
+
+#character
+on_startup = {
+	events = {
+		hip_converter.0 # Prompt to prepare for converter (reset names, move HRE)
+	}
+}

@@ -2,9 +2,68 @@
 
 namespace = hip_converter
 
-# Convert French HRE to German HRE
+# Welcome event
+narrative_event = {
+    id    = hip_converter.0
+    desc  = hip_converter.0.desc
+    title = hip_converter.0.title
+
+    picture = GFX_evt_rider_adventure
+    border  = GFX_event_narrative_frame_diplomacy
+
+    is_triggered_only = yes
+    major = yes
+    
+    major_trigger = { ai = no }
+
+    # Prepare for conversion
+    option = {
+        name = hip_converter.0.opt.a
+        e_hip = { owner = { character_event = { id = hip_converter.1 } } }
+    }
+
+    # Do nothing
+    option = {
+        name = hip_converter.0.opt.b
+    }
+}
+
+# Prepare for conversion: reset title names so as many tags convert as
+# possible, and change French HRE into German HRE so there is an HRE in EU4.
 character_event = {
     id = hip_converter.1
+
+    is_triggered_only = yes
+    hide_window = yes
+
+    religion = hip_religion
+
+    trigger = {
+        has_landed_title = e_hip
+    }
+
+    immediate = {
+        # attempt to reset title names
+        # touching culture causes reloading localization
+        culture = THIS
+        any_playable_ruler = { culture = THIS }
+        # resetting dynamic nomad titles replaces localization names
+        # with dynastic names, so skip those
+        any_landed_title = {
+            limit = {
+                has_holder = yes
+                is_nomadic = no
+            }
+            set_name = ""
+        }
+        # convert French HRE to German HRE
+        character_event = { id = hip_converter.2 }
+    }
+}
+
+# Convert French HRE to German HRE
+character_event = {
+    id = hip_converter.2
     
     is_triggered_only = yes
     hide_window = yes

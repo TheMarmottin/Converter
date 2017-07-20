@@ -1,7 +1,0 @@
-spriteTypes = {
-	# EU4 Conversion
-	spriteType = {
-		name = "GFX_prepare_for_converter"
-		texturefile = "gfx/interface/decision_icon_prepare_for_converter.tga"
-	}
-}
