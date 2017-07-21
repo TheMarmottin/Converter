@@ -183,8 +183,8 @@ c_vicenza_adj;Vicentine;;;;;;;;;;;;;x
 c_verona_adj;Veronese;;;;;;;;;;;;;x
 c_padua_adj;Paduan;;;;;;;;;;;;;x
 c_piacenza_adj;Piacentine;;;;;;;;;;;;;x
-c_grisons_adj;Aostan;;;;;;;;;;;;;x
-c_monferrato_adj;Astigiani;;;;;;;;;;;;;x
+c_aosta_adj;Aostan;;;;;;;;;;;;;x
+c_asti_adj;Astigiani;;;;;;;;;;;;;x
 c_genoa_adj;Genoese;;;;;;;;;;;;;x
 c_finale_adj;Finale;;;;;;;;;;;;;x
 c_ventimiglia_adj;Ventimiglian;;;;;;;;;;;;;x
@@ -643,13 +643,13 @@ c_vitebsk_adj;Vitebsk;;;;;;;;;;;;;x
 c_minsk_adj;Minsk;;;;;;;;;;;;;x
 c_kiev_adj;Kievan;;;;;;;;;;;;;x
 c_korsun_adj;Ros;;;;;;;;;;;;;x
-c_pereyaslavl_adj;Pereiaslav-Khmelnytskyi;;;;;;;;;;;;;x
+c_pereyaslavl_adj;Pereyaslav;;;;;;;;;;;;;x
 c_smolensk_adj;Smolensk;;;;;;;;;;;;;x
 c_mstislavl_adj;Mstislavl;;;;;;;;;;;;;x
 c_orsha_adj;Orša;;;;;;;;;;;;;x
 c_toropets_adj;Toropets;;;;;;;;;;;;;x
 c_vyazma_adj;Vyazma;;;;;;;;;;;;;x
-c_turov_adj;Turau;;;;;;;;;;;;;x
+c_turov_adj;Turovian;;;;;;;;;;;;;x
 c_pinsk_adj;Pinsk;;;;;;;;;;;;;x
 c_jacwiez_adj;Vawkavysk;;;;;;;;;;;;;x
 c_novgorod_seversky_adj;Novhorod-Siverskyi;;;;;;;;;;;;;x
@@ -707,7 +707,7 @@ c_qus_adj_greek;Theban;;;;;;;;;;;;;x
 c_asyut_adj;Asyut;;;;;;;;;;;;;x
 c_aswan_adj;Aswan;;;;;;;;;;;;;x
 c_senoussi_adj;Awjila;;;;;;;;;;;;;x
-c_benghazi_adj;Barce;;;;;;;;;;;;;x
+c_benghazi_adj;Barca;;;;;;;;;;;;;x
 c_benghazi_adj_greek;Cyrenian;;;;;;;;;;;;;x
 c_tobruk_adj;Tobruk;;;;;;;;;;;;;x
 c_zarma_adj;Kukiya;;;;;;;;;;;;;x

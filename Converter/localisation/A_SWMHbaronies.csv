@@ -1261,15 +1261,22 @@ b_lido;Lido;;;;;;;;;;;;;x
 b_chioggia;Cióxa;;;;;;;;;;;;;x
 b_jesolo;Gèxolo;;;;;;;;;;;;;x
 b_murano;Muran;;;;;;;;;;;;;x
-b_tarcento;Tarcint;;;;;;;;;;;;;x
+b_venezia;Rialto;;;;;;;;;;;;;x
+b_chioggia;Chioggia;;;;;;;;;;;;;x
+b_murano;Murano;;;;;;;;;;;;;x
+b_caorle;Caorle;;;;;;;;;;;;;x
 b_portoguaro;Portoguaro;;;;;;;;;;;;;x
-b_pieve;Pièe;;;;;;;;;;;;;x
-b_aquileia;Olee;;;;;;;;;;;;;x
-b_udine;Udin;;;;;;;;;;;;;x
-b_motta;Mota de Livensa;;;;;;;;;;;;;x
 b_concordia;Concordia;;;;;;;;;;;;;x
-b_ciridale;Cividât;;;;;;;;;;;;;x
-b_sacile;Sacîl;;;;;;;;;;;;;x
+b_torcello;Torcello;;;;;;;;;;;;;x
+b_san_marco;San Marco;;;;;;;;;;;;;x
+b_aquileia;Aquileia;;;;;;;;;;;;;x
+b_udine;Udirne;;;;;;;;;;;;;x
+b_ciridale;Cividale;;;;;;;;;;;;;x
+b_grado;Grado;;;;;;;;;;;;;x
+b_porcia;Porcia;;;;;;;;;;;;;x
+b_spilimbergo;Spilimbergo;;;;;;;;;;;;;x
+b_pordenone;Pordenone;;;;;;;;;;;;;x
+b_polcenigo;Polcinego;;;;;;;;;;;;;x
 b_wielun;Wielun;;;;;;;;;;;;;x
 b_ostrzeszow;Ostrzeszów;;;;;;;;;;;;;x
 b_opoczno;Opoczno;;;;;;;;;;;;;x
@@ -3332,7 +3339,7 @@ b_bezhetsk;Bezhichi;;;;;;;;;;;;;x
 b_ustyuzhna;Ustyug-Zhelezny;;;;;;;;;;;;;x
 b_babayevo;Babayevo;;;;;;;;;;;;;x
 b_moshenskoye;Nikolsky;;;;;;;;;;;;;x
-b_gorodecnovgorod;Gorodec;;;;;;;;;;;;;x
+b_gorodecnovgorod;Gorodets;;;;;;;;;;;;;x
 b_staryaladoga;Ladoga;;;;;;;;;;;;;x
 b_kirishi;Kirishi;;;;;;;;;;;;;x
 b_tikhvin;Prechistensky;;;;;;;;;;;;;x
@@ -3389,9 +3396,9 @@ b_vesyegonsk;Vesyegonsk;;;;;;;;;;;;;x
 b_fedosyevo;Fedosyevo;;;;;;;;;;;;;x
 b_belozersk;Belozersk;;;;;;;;;;;;;x
 b_kirillobelozersky;Kirillo-Belozersky;;;;;;;;;;;;;x
-b_volok_slovinskij;Volok Slovinskij;;;;;;;;;;;;;x
+b_volok_slovinskij;Volok Slovinskiy;;;;;;;;;;;;;x
 b_vologda;Vologda;;;;;;;;;;;;;x
-b_spasopreobrazenskij;Spaso Preobrazenskij;;;;;;;;;;;;;x
+b_spasopreobrazenskij;Spaso Preobrazhenskiy;;;;;;;;;;;;;x
 b_veksenga;Veksen'ga;;;;;;;;;;;;;x
 b_totma;Tot'ma;;;;;;;;;;;;;x
 b_tvergorodok;Gorodok;;;;;;;;;;;;;x
@@ -3400,7 +3407,7 @@ b_tver;Tver;;;;;;;;;;;;;x
 b_starica;Starica;;;;;;;;;;;;;x
 b_vertjazin;Vertjazin;;;;;;;;;;;;;x
 b_dubna;Dubna;;;;;;;;;;;;;x
-b_volokolamsk;Volok Lamskij;;;;;;;;;;;;;x
+b_volokolamsk;Volok Lamskiy;;;;;;;;;;;;;x
 b_zubtsov;Zubcov;;;;;;;;;;;;;x
 b_dorogobuz;Dorogobuz;;;;;;;;;;;;;x
 b_horvactver;Horvac;;;;;;;;;;;;;x
@@ -3420,15 +3427,15 @@ b_danilov;Danilov;;;;;;;;;;;;;x
 b_pertoma;Perotma;;;;;;;;;;;;;x
 b_sarskoyegorodishche;Sarskoye Gorodishche;;;;;;;;;;;;;x
 b_rostov;Rostov;;;;;;;;;;;;;x
-b_spasoyakovlevsky;Svjatoslvle Pole;;;;;;;;;;;;;x
+b_spasoyakovlevsky;Svyatoslavle Pole;;;;;;;;;;;;;x
 b_petrovskoye;Petrovsk;;;;;;;;;;;;;x
-b_nerekhta;Neretha;;;;;;;;;;;;;x
-b_nekrasovskoye;Sol'Velikaja;;;;;;;;;;;;;x
+b_nerekhta;Nerekhta;;;;;;;;;;;;;x
+b_nekrasovskoye;Sol' Velikaya;;;;;;;;;;;;;x
 b_gavrilovyam;Gavrilov-Yam;;;;;;;;;;;;;x
 b_kostroma;Kostroma;;;;;;;;;;;;;x
-b_soligalich;Sol'-Galickaja;;;;;;;;;;;;;x
+b_soligalich;Sol'-Galitsky;;;;;;;;;;;;;x
 b_sudislavl;Sudislav;;;;;;;;;;;;;x
-b_pereyaslavlzalessky;Perejaslvl'-Zalesskij;;;;;;;;;;;;;x
+b_pereyaslavlzalessky;Pereyaslvl'-Zalesskiy;;;;;;;;;;;;;x
 b_dmitrov;Dmitrov;;;;;;;;;;;;;x
 b_klinsuzdal;Klin;;;;;;;;;;;;;x
 b_solnechnaya;Solnechnaya;;;;;;;;;;;;;x
@@ -3440,7 +3447,7 @@ b_strunino;Strunino;;;;;;;;;;;;;x
 b_radonezh;Radonez;;;;;;;;;;;;;x
 b_pokrov;Pokrov;;;;;;;;;;;;;x
 b_bogolyubovo;Bogoljubovo;;;;;;;;;;;;;x
-b_yurevpolskiy;Jur'ev-Pol'skij;;;;;;;;;;;;;x
+b_yurevpolskiy;Yur'ev-Pol'skiy;;;;;;;;;;;;;x
 b_shartura;Satura;;;;;;;;;;;;;x
 b_suzivanovo;Ivanovo;;;;;;;;;;;;;x
 b_gavrilovposad;Gavrilovskoye;;;;;;;;;;;;;x
@@ -3450,11 +3457,11 @@ b_kovrov;Kovrov;;;;;;;;;;;;;x
 b_gorokhovets;Gorohovec;;;;;;;;;;;;;x
 b_shuya;Suja;;;;;;;;;;;;;x
 b_suzstarodub;Starodub;;;;;;;;;;;;;x
-b_jaropoleczalesskij;Jaropolec-Zalesskij;;;;;;;;;;;;;x
+b_jaropoleczalesskij;Yaropolets-Zalesskiy;;;;;;;;;;;;;x
 b_puchishche;Puchishche;;;;;;;;;;;;;x
 b_chalovsk;Vasilyeva;;;;;;;;;;;;;x
-b_yurevets;Nizhny Jur'ev-Pol'skij;;;;;;;;;;;;;x
-b_gorodez;Gorodec-Radilov;;;;;;;;;;;;;x
+b_yurevets;Nizhny Yur'ev-Pol'skiy;;;;;;;;;;;;;x
+b_gorodez;Gorodets-Radilov;;;;;;;;;;;;;x
 b_kovemino;Korenëvo;;;;;;;;;;;;;x
 b_bogorodsk;Bogorodichnoye;;;;;;;;;;;;;x
 b_kstovo;Kstovo;;;;;;;;;;;;;x
@@ -3463,7 +3470,7 @@ b_rastyapino;Rastyapino;;;;;;;;;;;;;x
 b_balakhna;Sol-na-Gorodtse;;;;;;;;;;;;;x
 b_nizhnynovgorod;Nizhny Novgorod;;;;;;;;;;;;;x
 b_gorbatovo;Mesecersk;;;;;;;;;;;;;x
-b_velikyustug;Ustjug;;;;;;;;;;;;;x
+b_velikyustug;Ustyug;;;;;;;;;;;;;x
 b_troitsegledenskymonastery;Troitse-Gledensky;;;;;;;;;;;;;x
 b_gledenustyg;Gleden;;;;;;;;;;;;;x
 b_dymkovskaya;Dymkovskaya;;;;;;;;;;;;;x
@@ -3475,52 +3482,52 @@ b_temnikov;Temnikov;;;;;;;;;;;;;x
 b_sarov;Sarov;;;;;;;;;;;;;x
 b_murom;Murom;;;;;;;;;;;;;x
 b_melenki;Melenki;;;;;;;;;;;;;x
-b_borisobgleskij;Borisobgleskij;;;;;;;;;;;;;x
-b_starodubvockij;Starodub-Vockij;;;;;;;;;;;;;x
+b_borisobgleskij;Borisobgleskiy;;;;;;;;;;;;;x
+b_starodubvockij;Starodub-Vodskiy;;;;;;;;;;;;;x
 b_pavlovomorom;Pavlovo;;;;;;;;;;;;;x
 b_kolomna;Kolomna;;;;;;;;;;;;;x
 b_tula;Tula;;;;;;;;;;;;;x
 b_ozery;Nizhy Rostislavl;;;;;;;;;;;;;x
-b_zaratysk;Krasnyje;;;;;;;;;;;;;x
+b_zaratysk;Krasnyye;;;;;;;;;;;;;x
 b_venev;Venëv;;;;;;;;;;;;;x
 b_dedilovo;Dedoslavl;;;;;;;;;;;;;x
 b_pronsk;Pronsk;;;;;;;;;;;;;x
-b_ryazhsk;Rjazsk;;;;;;;;;;;;;x
+b_ryazhsk;Ryazhsk;;;;;;;;;;;;;x
 b_skopin;Lilharevo;;;;;;;;;;;;;x
-b_elets;Elec;;;;;;;;;;;;;x
+b_elets;Yelets;;;;;;;;;;;;;x
 b_dankov;Dubok;;;;;;;;;;;;;x
-b_ryazan;Rjazan;;;;;;;;;;;;;x
-b_murmino;Belgorod-Rjazanskij;;;;;;;;;;;;;x
-b_perejaslavl_rjazanskij;Perejaslavl-Rjazanskij;;;;;;;;;;;;;x
+b_ryazan;Ryazan;;;;;;;;;;;;;x
+b_murmino;Belgorod-Ryazanskiy;;;;;;;;;;;;;x
+b_perejaslavl_rjazanskij;Pereyaslavl-Ryazanskiy;;;;;;;;;;;;;x
 b_shilovo;Silov;;;;;;;;;;;;;x
-b_olgov;Novyj Gorodok Ol'gov;;;;;;;;;;;;;x
-b_grodets;Gorodec-Meseërskij;;;;;;;;;;;;;x
+b_olgov;Novy Gorodok Ol'gov;;;;;;;;;;;;;x
+b_grodets;Gorodets-Meseërskiy;;;;;;;;;;;;;x
 b_borisgolebov;Borisgolebov;;;;;;;;;;;;;x
 b_izeslavl;Izeslavl;;;;;;;;;;;;;x
 b_spassk;Vaskina;;;;;;;;;;;;;x
 b_rybnino;Rybnino;;;;;;;;;;;;;x
-b_mikhaylov;Mihajlov;;;;;;;;;;;;;x
+b_mikhaylov;Mikhaylov;;;;;;;;;;;;;x
 b_moskva;Moskva;;;;;;;;;;;;;x
-b_peremyslmoskv;Peremysl-Moskvaskij;;;;;;;;;;;;;x
-b_lopasnja;Lopasnja;;;;;;;;;;;;;x
+b_peremyslmoskv;Peremysl'-Moskovskiy;;;;;;;;;;;;;x
+b_lopasnja;Lopasnya;;;;;;;;;;;;;x
 b_kasira;Kasira;;;;;;;;;;;;;x
 b_danilovmonestary;Svyato-Danilov;;;;;;;;;;;;;x
-b_zvenigorodmozaskiy;Zvenigorod-Mozhajskij;;;;;;;;;;;;;x
-b_volgamozhaysk;Mozhajsk;;;;;;;;;;;;;x
+b_zvenigorodmozaskiy;Zvenigorod-Mozhayskiy;;;;;;;;;;;;;x
+b_volgamozhaysk;Mozhaysk;;;;;;;;;;;;;x
 b_ruza;Ruza;;;;;;;;;;;;;x
-b_vetca;Vetca;;;;;;;;;;;;;x
-b_vereya;Vereja;;;;;;;;;;;;;x
-b_watchinghillmonastaryofstsavva;Storozhi Holm;;;;;;;;;;;;;x
+b_vetca;Vettsa;;;;;;;;;;;;;x
+b_vereya;Vereya;;;;;;;;;;;;;x
+b_watchinghillmonastaryofstsavva;Storozhi;;;;;;;;;;;;;x
 b_obolensk;Obolensk;;;;;;;;;;;;;x
 b_borovsk;Borovsk;;;;;;;;;;;;;x
 b_medyn;Medyn;;;;;;;;;;;;;x
-b_kondrovo;Kremenec;;;;;;;;;;;;;x
+b_kondrovo;Kremenets;;;;;;;;;;;;;x
 b_stpaphnutiusmonestary;St. Paphnutius;;;;;;;;;;;;;x
 b_tarusa;Tarusa;;;;;;;;;;;;;x
 b_serpukhov;Serpukhov;;;;;;;;;;;;;x
 b_kaluga;Kaluga;;;;;;;;;;;;;x
 b_aleksin;Aleksin;;;;;;;;;;;;;x
-b_kremyonki;Ljubutusk;;;;;;;;;;;;;x
+b_kremyonki;Lyubutsk;;;;;;;;;;;;;x
 b_kozelzk;Kozel'sk;;;;;;;;;;;;;x
 b_belyov;Belëv;;;;;;;;;;;;;x
 b_volokna;Volokna;;;;;;;;;;;;;x
@@ -3533,17 +3540,17 @@ b_mtsensk;Mchensk;;;;;;;;;;;;;x
 b_korsev;Korsev;;;;;;;;;;;;;x
 b_livny;Ust-Livny;;;;;;;;;;;;;x
 b_kolpny;Kolpny;;;;;;;;;;;;;x
-b_orel;Zvenigorod-Okaskij;;;;;;;;;;;;;x
-b_karachev;Karacev;;;;;;;;;;;;;x
+b_orel;Zvenigorod-na-Oke;;;;;;;;;;;;;x
+b_karachev;Karachev;;;;;;;;;;;;;x
 b_kromy;Krom;;;;;;;;;;;;;x
 b_vorotynsk;Vorotynsk;;;;;;;;;;;;;x
-b_serpeysk;Serpejsk;;;;;;;;;;;;;x
+b_serpeysk;Serpeysk;;;;;;;;;;;;;x
 b_mosalsk;Mosl'sk;;;;;;;;;;;;;x
-b_meshchovsk;Mescovsk;;;;;;;;;;;;;x
-b_toropets;Toropec;;;;;;;;;;;;;x
+b_meshchovsk;Meshchovsk;;;;;;;;;;;;;x
+b_toropets;Toropets;;;;;;;;;;;;;x
 b_volok;Dubrovka;;;;;;;;;;;;;x
 b_kynya;Kin;;;;;;;;;;;;;x
-b_zhizhtsa;Zizec;;;;;;;;;;;;;x
+b_zhizhtsa;Zhizhets;;;;;;;;;;;;;x
 b_molodytud;Tud;;;;;;;;;;;;;x
 b_selizharovo;Hotsin;;;;;;;;;;;;;x
 b_oscen;Oscen';;;;;;;;;;;;;x
@@ -3553,26 +3560,26 @@ b_stolobny;Nilov;;;;;;;;;;;;;x
 b_ostashkov;Ostashkov;;;;;;;;;;;;;x
 b_rzhev;Rzeva;;;;;;;;;;;;;x
 b_verigino;Formin;;;;;;;;;;;;;x
-b_vyazma;Vjaz'ma;;;;;;;;;;;;;x
+b_vyazma;Vyaz'ma;;;;;;;;;;;;;x
 b_sychyovka;Sychyovka;;;;;;;;;;;;;x
 b_smolensk;Smolensk;;;;;;;;;;;;;x
-b_belyy;Belaja;;;;;;;;;;;;;x
+b_belyy;Belaya;;;;;;;;;;;;;x
 b_lucin;Lucin;;;;;;;;;;;;;x
 b_kasplya;Kasplja;;;;;;;;;;;;;x
 b_demidov;Porec'e;;;;;;;;;;;;;x
 b_zhichitsy;Zidcici;;;;;;;;;;;;;x
 b_gnezdovo;Sviecesko;;;;;;;;;;;;;x
 b_verzavsk;Verzavsk;;;;;;;;;;;;;x
-b_dukhovshchina;Svjatoj Duh;;;;;;;;;;;;;x
+b_dukhovshchina;Svyatoy Dukh;;;;;;;;;;;;;x
 b_dorogobuzh;Dorogobuz;;;;;;;;;;;;;x
 b_roslavl;Rostislavl;;;;;;;;;;;;;x
 b_mitishkino;Mstislavec;;;;;;;;;;;;;x
-b_elnya;El'nja;;;;;;;;;;;;;x
+b_elnya;El'nya;;;;;;;;;;;;;x
 b_pacynrostislvl;Pacyn';;;;;;;;;;;;;x
-b_iziaslvl;Iziaslavl;;;;;;;;;;;;;x
+b_iziaslvl;Izyaslavl;;;;;;;;;;;;;x
 b_spass_demensk;Demensk;;;;;;;;;;;;;x
 b_mstitslavl;Mstislavl';;;;;;;;;;;;;x
-b_chocimsk;Zaroj;;;;;;;;;;;;;x
+b_chocimsk;Zaroy;;;;;;;;;;;;;x
 b_slauharad;Propoisk;;;;;;;;;;;;;x
 b_bychaw;Byhov;;;;;;;;;;;;;x
 b_mogliev;Mogliëv;;;;;;;;;;;;;x
@@ -3591,24 +3598,24 @@ b_menachernigov;Mena;;;;;;;;;;;;;x
 b_syvolozh;Vsevoloz;;;;;;;;;;;;;x
 b_borzna;Borzna;;;;;;;;;;;;;x
 b_kozelets;Kozlohrad;;;;;;;;;;;;;x
-b_lyubech;Ljubec;;;;;;;;;;;;;x
+b_lyubech;Lyubech;;;;;;;;;;;;;x
 b_horodnya;Horobor;;;;;;;;;;;;;x
-b_brahin;Brjagin;;;;;;;;;;;;;x
+b_brahin;Bragin;;;;;;;;;;;;;x
 b_ripky;Ripky;;;;;;;;;;;;;x
 b_sedniv;Sedniv;;;;;;;;;;;;;x
-b_gomel;Gomij;;;;;;;;;;;;;x
+b_gomel;Gomiy;;;;;;;;;;;;;x
 b_novyydrokov;Drokov;;;;;;;;;;;;;x
 b_cacersk;Cecersk;;;;;;;;;;;;;x
 b_gorvol;Gorvol;;;;;;;;;;;;;x
 b_recyca;Recica;;;;;;;;;;;;;x
-b_bryansk;Brjansk;;;;;;;;;;;;;x
-b_trubchevsk;Trubeck;;;;;;;;;;;;;x
+b_bryansk;Bryansk;;;;;;;;;;;;;x
+b_trubchevsk;Trubetsk;;;;;;;;;;;;;x
 b_vshchizh;Vsciz;;;;;;;;;;;;;x
 b_mglin;Mglin;;;;;;;;;;;;;x
 b_starodub_chernigov;Starodub;;;;;;;;;;;;;x
 b_sosnytsia;Sosnica;;;;;;;;;;;;;x
 b_glukhov;Gluhov;;;;;;;;;;;;;x
-b_novgorodseversky;Novgorod-Severkij;;;;;;;;;;;;;x
+b_novgorodseversky;Novgorod-Severskiy;;;;;;;;;;;;;x
 b_putyvl;Putivl;;;;;;;;;;;;;x
 b_sevsk;Sevsk;;;;;;;;;;;;;x
 b_rylsk;Ryl'sk;;;;;;;;;;;;;x
@@ -3617,8 +3624,8 @@ b_lgov;Olgov;;;;;;;;;;;;;x
 b_oboyan;Vejahan';;;;;;;;;;;;;x
 b_kursk;Kursk;;;;;;;;;;;;;x
 b_zolotonosha;Zolotonosha;;;;;;;;;;;;;x
-b_nosivka;Nosov-Roudiskij;;;;;;;;;;;;;x
-b_pereyaslavl;Perejaslavl;;;;;;;;;;;;;x
+b_nosivka;Nosov-Roudiskiy;;;;;;;;;;;;;x
+b_pereyaslavl;Pereyaslavl;;;;;;;;;;;;;x
 b_baryshivska;Baruc;;;;;;;;;;;;;x
 b_yaroslavka;Jaroslavka;;;;;;;;;;;;;x
 b_pyryatyn;Pirjatin;;;;;;;;;;;;;x
@@ -3633,36 +3640,36 @@ b_lubny;Lubno;;;;;;;;;;;;;x
 b_snityn;Soknjatin;;;;;;;;;;;;;x
 b_kiev;Kiev;;;;;;;;;;;;;x
 b_churchofthetithes;Desyatinnaya Tserkov';;;;;;;;;;;;;x
-b_gorodeckievskij;Gorodec-Kievskij;;;;;;;;;;;;;x
+b_gorodeckievskij;Gorodets-Kievskiy;;;;;;;;;;;;;x
 b_vyshhorod;Vysgorod;;;;;;;;;;;;;x
-b_bilohorodka;Belgorod-Kievskij;;;;;;;;;;;;;x
+b_bilohorodka;Belgorod-Kievskiy;;;;;;;;;;;;;x
 b_berestovocchurchquarter;Berestovo;;;;;;;;;;;;;x
 b_vasylkiv;Vasil'ev;;;;;;;;;;;;;x
-b_svjatopolc;Svjatopolc;;;;;;;;;;;;;x
+b_svjatopolc;Svyatopolk;;;;;;;;;;;;;x
 b_trypillya;Trepol';;;;;;;;;;;;;x
 b_kanevkievskij;Kanev;;;;;;;;;;;;;x
 b_zarub;Zarub;;;;;;;;;;;;;x
-b_zhitomir;Zitomir;;;;;;;;;;;;;x
-b_vinnytsia;Vinnica;;;;;;;;;;;;;x
-b_jaropolk;Jaropolc;;;;;;;;;;;;;x
-b_yuriev;Jurev;;;;;;;;;;;;;x
-b_kotelnya;Kotel'nica;;;;;;;;;;;;;x
-b_berdychiv;Boskij;;;;;;;;;;;;;x
+b_zhitomir;Zhitomir;;;;;;;;;;;;;x
+b_vinnytsia;Vinnitsa;;;;;;;;;;;;;x
+b_jaropolk;Yaropolk;;;;;;;;;;;;;x
+b_yuriev;Yurev;;;;;;;;;;;;;x
+b_kotelnya;Kotel'nitsa;;;;;;;;;;;;;x
+b_berdychiv;Boskiy;;;;;;;;;;;;;x
 b_volodymyrivka;Volodarev;;;;;;;;;;;;;x
 b_dunaivtsi;Dubici;;;;;;;;;;;;;x
-b_lyubar;Bolohovo-Zitomirskij;;;;;;;;;;;;;x
-b_kolodyazhne;Kolodjan;;;;;;;;;;;;;x
+b_lyubar;Bolokhovo;;;;;;;;;;;;;x
+b_kolodyazhne;Kolodyan;;;;;;;;;;;;;x
 b_iskorosten;Ikorosten;;;;;;;;;;;;;x
-b_ovruch;Vrucij;;;;;;;;;;;;;x
-b_chernobel;Cernobyl';;;;;;;;;;;;;x
+b_ovruch;Vruchiy;;;;;;;;;;;;;x
+b_chernobel;Chernobyl';;;;;;;;;;;;;x
 b_mezhyrica;Micesk;;;;;;;;;;;;;x
 b_korsun;Korsun;;;;;;;;;;;;;x
-b_cherkassy;Cerkassy;;;;;;;;;;;;;x
-b_zvenyhorodka;Zvenigorod-Kievskij;;;;;;;;;;;;;x
-b_tarashcha;Torcesk;;;;;;;;;;;;;x
+b_cherkassy;Cherkassy;;;;;;;;;;;;;x
+b_zvenyhorodka;Zvenigorod-Kievskiy;;;;;;;;;;;;;x
+b_tarashcha;Torchesk;;;;;;;;;;;;;x
 b_bohuslav;Boguslav;;;;;;;;;;;;;x
-b_rahachow;Rogacev;;;;;;;;;;;;;x
-b_zlobin;Hlepen;;;;;;;;;;;;;x
+b_rahachow;Rogachev;;;;;;;;;;;;;x
+b_zlobin;Khlepen';;;;;;;;;;;;;x
 b_stresin;Stresin;;;;;;;;;;;;;x
 b_lukski;Lucin;;;;;;;;;;;;;x
 b_turov;Turov;;;;;;;;;;;;;x
@@ -3673,13 +3680,13 @@ b_lelchytsy;Lel'cicy;;;;;;;;;;;;;x
 b_zhytkavichy;Zikovici;;;;;;;;;;;;;x
 b_pinsk;Pinsk;;;;;;;;;;;;;x
 b_kapyl;Kopyl';;;;;;;;;;;;;x
-b_slutsk;Sluck;;;;;;;;;;;;;x
-b_kletsk;Kleck;;;;;;;;;;;;;x
-b_nesvizh;Nesviz;;;;;;;;;;;;;x
+b_slutsk;Slutsk;;;;;;;;;;;;;x
+b_kletsk;Kletsk;;;;;;;;;;;;;x
+b_nesvizh;Nesvizh;;;;;;;;;;;;;x
 b_motal;Prohov;;;;;;;;;;;;;x
-b_luninets;Malyj Lunin;;;;;;;;;;;;;x
-b_lyubeshiv;Ljubjaz;;;;;;;;;;;;;x
-b_dubrovytsya;Dubrovica;;;;;;;;;;;;;x
+b_luninets;Maly Lunin;;;;;;;;;;;;;x
+b_lyubeshiv;Lyubyaz';;;;;;;;;;;;;x
+b_dubrovytsya;Dubrovitsa;;;;;;;;;;;;;x
 b_navahrudka;Novgorodok;;;;;;;;;;;;;x
 b_slonim;Slonim;;;;;;;;;;;;;x
 b_volkovysk;Volkovysk;;;;;;;;;;;;;x
@@ -3693,8 +3700,8 @@ b_beresty;Berestye;;;;;;;;;;;;;x
 b_kobryn;Kobrin;;;;;;;;;;;;;x
 b_dzivin;Divin;;;;;;;;;;;;;x
 b_bialapodlaska;Biala;;;;;;;;;;;;;x
-b_lutsk;Luck;;;;;;;;;;;;;x
-b_vladimirvolynsky;Vladimir-Volynskij;;;;;;;;;;;;;x
+b_lutsk;Lutsk;;;;;;;;;;;;;x
+b_vladimirvolynsky;Vladimir-Volynskiy;;;;;;;;;;;;;x
 b_kaminkashyrskyi;Kamen;;;;;;;;;;;;;x
 b_staryichortoryisk;Cartorijsk;;;;;;;;;;;;;x
 b_cherven;Cetvertnja;;;;;;;;;;;;;x
@@ -3708,7 +3715,7 @@ b_rovno;Rovno;;;;;;;;;;;;;x
 b_ostroh;Ostrog;;;;;;;;;;;;;x
 b_peresopnytsya;Peresopnica;;;;;;;;;;;;;x
 b_shumsk;Sumsk;;;;;;;;;;;;;x
-b_izyaslav;Izjalsvl-Volynskij;;;;;;;;;;;;;x
+b_izyaslav;Izjalsvl-Volynskiy;;;;;;;;;;;;;x
 b_kholm;Holm;;;;;;;;;;;;;x
 b_uhrusk;Ugorvsk;;;;;;;;;;;;;x
 b_wlodawa;Volodava;;;;;;;;;;;;;x
@@ -3722,7 +3729,7 @@ b_belz;Belz;;;;;;;;;;;;;x
 b_cock;Cocsk;;;;;;;;;;;;;x
 b_goraj;Goray;;;;;;;;;;;;;x
 b_skalapodilska;Skala;;;;;;;;;;;;;x
-b_kamyanetspodilsky;Kamenec-Podilskij;;;;;;;;;;;;;x
+b_kamyanetspodilsky;Kamenets-Podol'skiy;;;;;;;;;;;;;x
 b_sokilets;Sokolec;;;;;;;;;;;;;x
 b_kolodiivka;Bakota;;;;;;;;;;;;;x
 b_tykhomel;Tihomel';;;;;;;;;;;;;x
@@ -3737,38 +3744,38 @@ b_busk;Buzsk;;;;;;;;;;;;;x
 b_zvenyhorod;Zvenigorod;;;;;;;;;;;;;x
 b_pidhirtsi;Plesnesk;;;;;;;;;;;;;x
 b_brody;Borody;;;;;;;;;;;;;x
-b_kremenets;Kremenec;;;;;;;;;;;;;x
-b_jaroslav;Jarolsavl';;;;;;;;;;;;;x
+b_kremenets;Kremenets;;;;;;;;;;;;;x
+b_jaroslav;Tarolsavl';;;;;;;;;;;;;x
 b_peremyshl;Peremysl';;;;;;;;;;;;;x
 b_sanok;Sanok;;;;;;;;;;;;;x
 b_sambir;Sambor;;;;;;;;;;;;;x
 b_drohobych;Drugobec;;;;;;;;;;;;;x
 b_sudovavyshnia;Visnja;;;;;;;;;;;;;x
 b_rzeszow;Rzezow;;;;;;;;;;;;;x
-b_stryj;Stryj;;;;;;;;;;;;;x
-b_halych;Galic;;;;;;;;;;;;;x
+b_stryj;Stryy;;;;;;;;;;;;;x
+b_halych;Galich;;;;;;;;;;;;;x
 b_dolyna;Dolina;;;;;;;;;;;;;x
 b_tysmenytsya;Tysmenica;;;;;;;;;;;;;x
 b_kolomyya;Kolomyja;;;;;;;;;;;;;x
-b_horod;Gorodok-Galicskij;;;;;;;;;;;;;x
+b_horod;Gorodok-Galitskiy;;;;;;;;;;;;;x
 b_vashkivtsi;Vaskovci;;;;;;;;;;;;;x
 b_cernauti;Cern;;;;;;;;;;;;;x
 b_khotynchernivstskij;Hoten;;;;;;;;;;;;;x
 b_velizh;Veliz;;;;;;;;;;;;;x
 b_rudnya;Rodnya;;;;;;;;;;;;;x
-b_haradok;Gorodoc-Polockskij;;;;;;;;;;;;;x
+b_haradok;Gorodok-Polotskiy;;;;;;;;;;;;;x
 b_vitebsk;Vitebesk;;;;;;;;;;;;;x
-b_polotsk;Polock;;;;;;;;;;;;;x
+b_polotsk;Polotsk;;;;;;;;;;;;;x
 b_obol;Obol';;;;;;;;;;;;;x
-b_selco;Sel'co;;;;;;;;;;;;;x
-b_nekoloc;Nekoloc';;;;;;;;;;;;;x
-b_stryzhava;Strezev;;;;;;;;;;;;;x
+b_selco;Sel'tso;;;;;;;;;;;;;x
+b_nekoloc;Nekolots';;;;;;;;;;;;;x
+b_stryzhava;Strezhev;;;;;;;;;;;;;x
 b_liepiel;Lepel';;;;;;;;;;;;;x
 b_dzisna;Dizna;;;;;;;;;;;;;x
 b_novalukoml;Lukoml';;;;;;;;;;;;;x
 b_braslaw;Braslav;;;;;;;;;;;;;x
 b_drissa;Drissa;;;;;;;;;;;;;x
-b_druya;Druja;;;;;;;;;;;;;x
+b_druya;Druya;;;;;;;;;;;;;x
 b_kraslava;Kraslava;;;;;;;;;;;;;x
 b_vileyka;Vileyka;;;;;;;;;;;;;x
 b_minsk;Minsk;;;;;;;;;;;;;x
@@ -3777,12 +3784,12 @@ b_dzierzynsk;Kojdanava;;;;;;;;;;;;;x
 b_mir;Mir;;;;;;;;;;;;;x
 b_zaslawye;Izjaslavl';;;;;;;;;;;;;x
 b_bobruisk;Bobrujsk;;;;;;;;;;;;;x
-b_halsany;Gorodec-Minskij;;;;;;;;;;;;;x
+b_halsany;Gorodets-Minskiy;;;;;;;;;;;;;x
 b_asmiany;Losk;;;;;;;;;;;;;x
 b_lahoysk;Logozsk;;;;;;;;;;;;;x
 b_miadziel;Mjadel';;;;;;;;;;;;;x
 b_budslau;Budslav;;;;;;;;;;;;;x
-b_druck;Druck;;;;;;;;;;;;;x
+b_druck;Drutsk;;;;;;;;;;;;;x
 b_berezino;Berezino;;;;;;;;;;;;;x
 b_borisow;Borisov;;;;;;;;;;;;;x
 b_teterin;Teterin;;;;;;;;;;;;;x
@@ -4806,7 +4813,7 @@ b_hammershus;Hamar;;;;;;;;;;;;;x
 b_ronne;Rothnæ;;;;;;;;;;;;;x
 b_agadez;Agadez;;;;;;;;;;;;;x
 b_rybinsk;Rybansk;;;;;;;;;;;;;x
-b_nikitskij;Nikitskij Monastery;;;;;;;;;;;;;x
+b_nikitskij;Nikitskiy Monastery;;;;;;;;;;;;;x
 b_montmirail_vendome;Montmirail;;;;;;;;;;;;;x
 b_montmirail_brie;Montmirail;;;;;;;;;;;;;x
 b_teplice_hre;Teplice;;;;;;;;;;;;;x
@@ -5266,11 +5273,11 @@ b_weichselberg;Weichselberg;;;;;;;;;;;;;x
 b_reifnitz;Reifnitz;;;;;;;;;;;;;x
 b_kostel;Kostel;;;;;;;;;;;;;x
 b_gorz;Görz;;;;;;;;;;;;;x
-b_grado;Grado;;;;;;;;;;;;;x
-b_vrtojba;Vrtojba;;;;;;;;;;;;;x
-b_cervignano;Cervignano;;;;;;;;;;;;;x
-b_monfalcone;Monfalcone;;;;;;;;;;;;;x
-b_cormons;Cormòns;;;;;;;;;;;;;x
+b_kanal;Kanalburg;;;;;;;;;;;;;x
+b_vrtojba;Gremaun;;;;;;;;;;;;;x
+b_farra;Farra;;;;;;;;;;;;;x
+b_monfalcone;Falkenberg;;;;;;;;;;;;;x
+b_cormons;Gremaun;;;;;;;;;;;;;x
 b_gradisca;Gradisca;;;;;;;;;;;;;x
 b_eppenstein;Eppenstein;;;;;;;;;;;;;x
 b_graz;Graz;;;;;;;;;;;;;x
@@ -7427,7 +7434,7 @@ b_nizhnechusovskie_gorodki;Nizhnechusovskie Gorodki;;;;;;;;;;;;;x
 b_kirov;Vice;;;;;;;;;;;;;x
 b_kaigorod;Kaykar;;;;;;;;;;;;;x
 b_bolvansky;Kukarka;;;;;;;;;;;;;x
-b_kotelnich;K?kš?r;;;;;;;;;;;;;x
+b_kotelnich;Kokšarova;;;;;;;;;;;;;x
 b_vetluga;Yur;;;;;;;;;;;;;x
 b_kazhirovo;Kazhirovo;;;;;;;;;;;;;x
 b_staro_shangskoye;Shangskoye;;;;;;;;;;;;;x
@@ -7457,18 +7464,18 @@ b_archangelsk;Arkhangelsk Micheal;;;;;;;;;;;;;x
 b_kholmogory;Kalmomäki;;;;;;;;;;;;;x
 b_novokholmogory;Uusi Kalmomäki;;;;;;;;;;;;;x
 b_ust-onega;Änine;;;;;;;;;;;;;x
-b_nikolokorelskij;Korel'Skij;;;;;;;;;;;;;x
+b_nikolokorelskij;Korel'skiy;;;;;;;;;;;;;x
 b_solovetsky;Solovetsky;;;;;;;;;;;;;x
 b_belomorsk;Soroka;;;;;;;;;;;;;x
-b_spasskij;Spasskij;;;;;;;;;;;;;x
+b_spasskij;Spasskiy;;;;;;;;;;;;;x
 b_pudozh;Pudoga;;;;;;;;;;;;;x
-b_volozerskij;Volozerskij;;;;;;;;;;;;;x
+b_volozerskij;Volozerskiy;;;;;;;;;;;;;x
 b_kargopol;Kargopol;;;;;;;;;;;;;x
 b_orlets;Orlec;;;;;;;;;;;;;x
 b_ust_pinega;Pinega;;;;;;;;;;;;;x
 b_velsk;Vel'sk;;;;;;;;;;;;;x
 b_shenkursk;Šenkursk;;;;;;;;;;;;;x
-b_ust_vaga;Važskij;;;;;;;;;;;;;x
+b_ust_vaga;Važskiy;;;;;;;;;;;;;x
 b_ust_emetsk;Emetsk;;;;;;;;;;;;;x
 b_rudbar;Rúdbár;;;;;;;;;;;;;x
 b_sibi_india;Sibi;;;;;;;;;;;;;x

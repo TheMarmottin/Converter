@@ -1,47 +1,55 @@
 d_oxford = {
 	color = { 99 68 5 }
 	capital = 22
+	allow = { title_duke_basic_allow = yes }
 }
 d_chester = {
 	color = { 121 29 29 }
 	capital = 59
+	allow = { title_duke_basic_allow = yes }
 }
 d_gloucester = {
 	color = { 57 21 209 }
 	capital = 21
+	allow = { title_duke_basic_allow = yes }
 }
 b_zussow = {}
 b_kolbatz = {}
 d_yaroslavl = {
 	color = { 178 192 134 }
 	capital = 572
+	allow = { title_duke_basic_allow = yes }
 	dynasty_title_names = no
 }
 d_vitebsk = {
 	color = { 196 33 55 }
 	capital = 417
+	allow = { title_duke_basic_allow = yes }
 }
 d_cheremisa = {
 	color = { 188 115 43 }
 	color2 = { 255 255 255 }
 	capital = 590
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_pronsk = {
 	color = { 23 132 81 }
 	capital = 577
+	allow = { title_duke_basic_allow = yes }
 }
 d_socotra = {
 	color = { 142 255 85 }
 	color2 = { 255 255 255 }
 	capital = 1552
 	dignity = 10
+	allow = { title_duke_basic_allow = yes }
 }
 d_aosta = {
 	color = { 120 170 220 }
 	color2 = { 255 255 255 }
 	capital = 246
 	culture = arpitan
+	allow = { title_duke_basic_allow = yes }
 }
 e_ulm = {
 	color = { 110 110 110 }
@@ -103,6 +111,14 @@ k_cuman = {
 	culture = cuman
 	allow = { title_king_basic_allow = yes }
 }
+k_qangli = {
+	color = { 25 130 65 }
+	color2 = { 255 255 255 }
+	capital = 893
+	dynasty_title_names = no
+	culture = cuman
+	allow = { title_king_basic_allow = yes }
+}
 k_pechenegs = {
 	color = { 79 116 79 }
 	color2 = { 255 255 255 }
@@ -138,6 +154,7 @@ d_black_caps = {
 			culture = oghuz
 			culture = pecheneg
 		}
+		title_duke_basic_allow = yes
 	}
 }
 e_kaleva = {
@@ -210,6 +227,7 @@ d_lauenburg = {
 	allow = {
 		c_lauenburg = { owner_under_ROOT = yes }
 		NOT = { tier = emperor }
+		title_duke_basic_allow = yes
 	}
 	dynasty_title_names = no
 }
@@ -222,6 +240,7 @@ d_sangermano = {
 		religion_group = christian
 		is_theocracy = yes
 		piety = 500
+		title_duke_basic_allow = yes
 	}
 }
 k_salerno = {
@@ -254,6 +273,7 @@ d_krain = {
 		religion_group = christian
 		has_landed_title = c_celje
 		has_landed_title = c_krain
+		title_duke_basic_allow = yes
 	}
 }
 d_austrialombardic = {
@@ -265,6 +285,7 @@ d_austrialombardic = {
 		religion_group = christian
 		has_landed_title = d_verona
 		has_landed_title = d_aquileia
+		title_duke_basic_allow = yes
 	}
 }
 d_neustria = {
@@ -279,6 +300,7 @@ d_neustria = {
 		has_landed_title = d_modena
 		has_landed_title = d_ivrea
 		has_landed_title = d_monferrato
+		title_duke_basic_allow = yes
 	}
 }
 d_tuscia = {
@@ -290,6 +312,7 @@ d_tuscia = {
 		religion_group = christian
 		has_landed_title = d_lucca
 		has_landed_title = d_toscana
+		title_duke_basic_allow = yes
 	}
 }
 k_duklja = {
@@ -332,6 +355,7 @@ d_smaland = {
 			has_landed_title = c_finnveden
 		}
 		lower_tier_than = king
+		title_duke_basic_allow = yes
 	}
 }
 e_occitania = {
@@ -372,7 +396,7 @@ d_narbonne = {
 	color2 = { 255 255 255 }
 	capital = 214
 	culture = occitan
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_paulicians = {
 	color = { 78 33 125 }
@@ -383,6 +407,7 @@ d_paulicians = {
 			culture = armenian
 		}
 		religion = paulician
+		title_duke_basic_allow = yes
 	}
 }
 k_armenia_minor = {
@@ -409,6 +434,7 @@ d_pagania = {
 			culture = croatian
 		}
 		religion = slavic_pagan
+		title_duke_basic_allow = yes
 	}
 }
 d_rhodos = {
@@ -424,6 +450,7 @@ d_rhodos = {
 		}
 		religion_group = christian
 		has_landed_title = c_rhodos
+		title_duke_basic_allow = yes
 	}
 }
 d_amiralarab = {
@@ -433,6 +460,7 @@ d_amiralarab = {
 	allow = {
 		culture = bedouin_arabic
 		religion_group = muslim
+		title_duke_basic_allow = yes
 	}
 }
 d_norman_apulia = {
@@ -442,6 +470,7 @@ d_norman_apulia = {
 	allow = {
 		culture = frankish
 		religion_group = christian
+		title_duke_basic_allow = yes
 	}
 }
 e_chagatai = {
@@ -456,7 +485,10 @@ e_chagatai = {
 d_tiflis = {
 	color = { 104 20 12 }
 	capital = 1357
-	allow = { religion_group = muslim }
+	allow = {
+		religion_group = muslim
+		title_duke_basic_allow = yes
+	}
 }
 k_vaspurakan = {
 	color = { 175 5 102 }
@@ -475,6 +507,7 @@ d_vanand = {
 	allow = {
 		culture = armenian
 		religion_group = christian
+		title_duke_basic_allow = yes
 	}
 }
 d_mingrelia = {
@@ -484,13 +517,17 @@ d_mingrelia = {
 	allow = {
 		culture = georgian
 		religion_group = christian
+		title_duke_basic_allow = yes
 	}
 }
 d_theodoro = {
 	color = { 82 199 44 }
 	culture = east_gothic
 	capital = 1699
-	allow = { culture = east_gothic }
+	allow = {
+		culture = east_gothic
+		title_duke_basic_allow = yes
+	}
 }
 d_meshketi = {
 	color = { 99 152 44 }
@@ -499,6 +536,7 @@ d_meshketi = {
 	allow = {
 		culture = georgian
 		religion_group = christian
+		title_duke_basic_allow = yes
 	}
 }
 k_abkhazia = {
@@ -561,7 +599,7 @@ k_iberia = {
 d_dahlak = {
 	color = { 255 164 17 }
 	capital = 1509
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_sadah = {
 	color = { 155 114 99 }
@@ -577,6 +615,7 @@ d_sadah = {
 			culture = somali
 		}
 		religion_group = muslim
+		title_duke_basic_allow = yes
 	}
 }
 d_sharif_medina = {
@@ -593,6 +632,7 @@ d_sharif_medina = {
 			culture = somali
 		}
 		religion_group = muslim
+		title_duke_basic_allow = yes
 	}
 }
 d_sharif_mecca = {
@@ -609,6 +649,7 @@ d_sharif_mecca = {
 			culture = somali
 		}
 		religion_group = muslim
+		title_duke_basic_allow = yes
 	}
 }
 d_siraf = {
@@ -621,6 +662,7 @@ d_siraf = {
 			culture = bedouin_arabic
 		}
 		is_republic = yes
+		title_duke_basic_allow = yes
 	}
 }
 e_wendish_empire = {
@@ -629,7 +671,7 @@ e_wendish_empire = {
 	short_name = yes
 	allow = {
 		OR = {
-			religion = catholic
+			religion_group = christian
 			religion = slavic_pagan
 			religion = slavic_pagan_reformed
 		}
@@ -658,37 +700,46 @@ d_breifne = {
 	color = { 54 135 39 }
 	color2 = { 136 0 21 }
 	capital = 8
+	allow = { title_duke_basic_allow = yes }
 }
 d_thomond = {
 	color = { 30 100 80 }
 	color2 = { 255 255 255 }
 	capital = 13
+	allow = { title_duke_basic_allow = yes }
 	dynasty_title_names = no
 }
 d_ossory = {
 	color = { 60 200 10 }
 	color2 = { 255 255 255 }
 	capital = 12
+	allow = { title_duke_basic_allow = yes }
 }
 d_oneill = {
 	color = { 70 106 21 }
 	color2 = { 255 255 255 }
 	capital = 4
+	allow = { title_duke_basic_allow = yes }
 	dynasty_title_names = no
 }
 d_airgialla = {
 	color = { 30 180 20 }
 	color2 = { 251 140 17 }
 	capital = 7
+	allow = { title_duke_basic_allow = yes }
 }
 d_khawarij = {
 	color = { 70 130 10 }
 	color2 = { 255 255 255 }
-	allow = { religion = kharijite }
 	capital = 697
+	allow = {
+		religion = kharijite
+		title_duke_basic_allow = yes
+	}
 }
 d_asturias = {
 	color = { 19 83 180 }
 	color2 = { 0 0 0 }
 	capital = 155
+	allow = { title_duke_basic_allow = yes }
 }

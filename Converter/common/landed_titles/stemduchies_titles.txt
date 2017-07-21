@@ -3,21 +3,21 @@ d_swabia = {
 	color2 = { 220 220 20 }
 	capital = 249
 	dignity = 100
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_lower_lorraine = {
 	color = { 37 114 179 }
 	color2 = { 220 220 20 }
 	capital = 117
 	dignity = 5
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_bavaria = {
 	color = { 56 67 158 }
 	color2 = { 220 220 20 }
 	capital = 360
 	dignity = 100
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 	dynasty_title_names = no
 }
 d_saxony = {
@@ -25,7 +25,7 @@ d_saxony = {
 	color2 = { 220 220 20 }
 	dignity = 100
 	capital = 258
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 	dynasty_title_names = no
 }
 d_franconia = {
@@ -33,5 +33,5 @@ d_franconia = {
 	color2 = { 220 220 20 }
 	capital = 123
 	dignity = 100
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
