@@ -1,5 +1,5 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-hip_converter.0.title;HIP Converter;;;;;;;;;;;;;x
-hip_converter.0.desc;The HIP Converter sub-mod fundamentally alters aspects of the map and playable characters, and should be enabled only when preparing to convert to EU4. If you are not yet ready to convert, quit without saving and disable the Converter sub-mod.\n\nIf you are ready to convert, choose "Prepare for conversion." and then "Export Game" in the in-game menu.;;;;;;;;;;;;;x
-hip_converter.0.opt.a;Prepare for conversion.;;;;;;;;;;;;;x
-hip_converter.0.opt.b;I'll quit and disable the Converter.;;;;;;;;;;;;;x
+hip_converter.1.title;HIP Converter;;;;;;;;;;;;;x
+hip_converter.1.desc;The HIP Converter sub-mod fundamentally alters aspects of the map and playable characters, and should be enabled only when preparing to convert to EU4. If you are not yet ready to convert, quit without saving and disable the Converter sub-mod.\n\nIf you are ready to convert, choose "Prepare for conversion." and then "Export Game" in the in-game menu.;;;;;;;;;;;;;x
+hip_converter.1.opt.a;Prepare for conversion.;;;;;;;;;;;;;x
+hip_converter.1.opt.b;I'll quit and disable the Converter.;;;;;;;;;;;;;x

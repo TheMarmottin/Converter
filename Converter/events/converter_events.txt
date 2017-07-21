@@ -2,11 +2,29 @@
 
 namespace = hip_converter
 
-# Welcome event
+# startup event
+character_event = {
+    id = hip_converter.0
+
+    is_triggered_only = yes
+    hide_window = yes
+
+    religion = hip_religion
+
+    trigger = {
+        has_landed_title = e_hip
+    }
+
+    immediate = {
+        narrative_event = { id = hip_converter.1 }
+    }
+}
+
+# Welcome narrative event.
 narrative_event = {
-    id    = hip_converter.0
-    desc  = hip_converter.0.desc
-    title = hip_converter.0.title
+    id    = hip_converter.1
+    desc  = hip_converter.1.desc
+    title = hip_converter.1.title
 
     picture = GFX_evt_rider_adventure
     border  = GFX_event_narrative_frame_diplomacy
@@ -18,30 +36,24 @@ narrative_event = {
 
     # Prepare for conversion
     option = {
-        name = hip_converter.0.opt.a
-        e_hip = { owner = { character_event = { id = hip_converter.1 } } }
+        name = hip_converter.1.opt.a
+        e_hip = { owner = { character_event = { id = hip_converter.2 } } }
     }
 
     # Do nothing
     option = {
-        name = hip_converter.0.opt.b
+        name = hip_converter.1.opt.b
     }
 }
 
 # Prepare for conversion: reset title names so as many tags convert as
 # possible, and change French HRE into German HRE so there is an HRE in EU4.
 character_event = {
-    id = hip_converter.1
-
+    id = hip_converter.2
+    
     is_triggered_only = yes
     hide_window = yes
-
-    religion = hip_religion
-
-    trigger = {
-        has_landed_title = e_hip
-    }
-
+    
     immediate = {
         # attempt to reset title names
         # touching culture causes reloading localization
@@ -63,7 +75,7 @@ character_event = {
 
 # Convert French HRE to German HRE
 character_event = {
-    id = hip_converter.2
+    id = hip_converter.3
     
     is_triggered_only = yes
     hide_window = yes
