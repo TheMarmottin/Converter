@@ -16,7 +16,7 @@ character_event = {
 	}
 
 	immediate = {
-		narrative_event = { id = hip_converter.1 }
+		random_player = { narrative_event = { id = hip_converter.1 } }
 	}
 }
 
@@ -30,9 +30,6 @@ narrative_event = {
 	border  = GFX_event_narrative_frame_diplomacy
 
 	is_triggered_only = yes
-	major = yes
-	
-	major_trigger = { ai = no }
 
 	# Prepare for conversion
 	option = {
@@ -69,7 +66,7 @@ character_event = {
 			set_name = ""
 		}
 		# convert French HRE to German HRE
-		character_event = { id = hip_converter.2 }
+		character_event = { id = hip_converter.3 }
 	}
 }
 
