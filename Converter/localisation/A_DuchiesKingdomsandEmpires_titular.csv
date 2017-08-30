@@ -220,6 +220,8 @@ d_kryvians;Krivichs;;;;;;;;;;;;;x
 d_kryvians_adj;Krivich;;;;;;;;;;;;;x
 d_severians;Severians;;;;;;;;;;;;;x
 d_severians_adj;Severian;;;;;;;;;;;;;x
+d_polyane;Polans;;;;;;;;;;;;;x
+d_polyane_adj;Polan;;;;;;;;;;;;;x
 d_lendians;Lendians;;;;;;;;;;;;;x
 d_lendians_adj;Lendian;;;;;;;;;;;;;x
 k_geats;Götaland;;;;;;;;;;;;;x
@@ -426,6 +428,8 @@ k_cuman;Cumans;;;;;;;;;;;;;x
 k_cuman_adj;Cuman;;;;;;;;;;;;;x
 k_qipchaq;Kipchak;;;;;;;;;;;;;x
 k_qipchaq_adj;Kipchak;;;;;;;;;;;;;x
+k_qangli;Kankali;;;;;;;;;;;;;x
+k_qangli_adj;Kankali;;;;;;;;;;;;;x
 d_yawdi_ertim;Irtim;;;;;;;;;;;;;x
 d_yawdi_ertim_adj;Irtim;;;;;;;;;;;;;x
 d_kuerchi_chur;Tzour;;;;;;;;;;;;;x
@@ -641,8 +645,8 @@ d_qor;Kor;;;;;;;;;;;;;x
 d_qor_adj;Kor;;;;;;;;;;;;;x
 d_oren;Uran;;;;;;;;;;;;;x
 d_oren_adj;Uran;;;;;;;;;;;;;x
-d_qongurogli;Kangarogli;;;;;;;;;;;;;x
-d_qongurogli_adj;Kangarogli;;;;;;;;;;;;;x
+d_qongurogli;Bekrüti;;;;;;;;;;;;;x
+d_qongurogli_adj;Bekrüti;;;;;;;;;;;;;x
 d_targil;Targil;;;;;;;;;;;;;x
 d_targil_adj;Targil;;;;;;;;;;;;;x
 d_olberlig;Olberli;;;;;;;;;;;;;x
@@ -659,16 +663,32 @@ d_dorut;Durut;;;;;;;;;;;;;x
 d_dorut_adj;Durut;;;;;;;;;;;;;x
 d_ay_opa;Ay-Opa;;;;;;;;;;;;;x
 d_ay_opa_adj;Ay-Opa;;;;;;;;;;;;;x
+d_bayawut;Bayawut;;;;;;;;;;;;;x
+d_bayawut_adj;Bayawut;;;;;;;;;;;;;x
+d_chaghraq;Çaghraq;;;;;;;;;;;;;x
+d_chaghraq_adj;Çaghraq;;;;;;;;;;;;;x
+d_badach;Badaç;;;;;;;;;;;;;x
+d_badach_adj;Badaç;;;;;;;;;;;;;x
 d_tekule;Döger;;;;;;;;;;;;;x
 d_tekule_adj;Döger;;;;;;;;;;;;;x
 d_salgur;Salur;;;;;;;;;;;;;x
 d_salgur_adj;Salur;;;;;;;;;;;;;x
 k_old_north;Hen Ogledd;;;;;;;;;;;;;x
 k_old_north_adj;Hen Ogledd;;;;;;;;;;;;;x
+k_strathclyde;Strathclyde;;;;;;;;;;;;;x
+k_strathclyde_adj;Strathclyde;;;;;;;;;;;;;x
 d_baloch;Balochs;;;;;;;;;;;;;x
 d_baloch_adj;Baloch;;;;;;;;;;;;;x
 k_hilal;Banu Hilal;;;;;;;;;;;;;x
 k_hilal_adj;Banu Hilal;;;;;;;;;;;;;x
+k_wessex;Wessex;;;;;;;;;;;;;x
+k_wessex_adj;Wessex;;;;;;;;;;;;;x
+k_mercia;Mercia;;;;;;;;;;;;;x
+k_mercia_adj;Mercian;;;;;;;;;;;;;x
+k_northumberland;Northumbria;;;;;;;;;;;;;x
+k_northumberland_adj;Northumbrian;;;;;;;;;;;;;x
+k_east_anglia;East Anglia;;;;;;;;;;;;;x
+k_east_anglia_adj;East Anglian;;;;;;;;;;;;;x
 d_chester;Chester;;;;;;;;;;;;;x
 d_chester_adj;Chester;;;;;;;;;;;;;x
 k_ireland_titular;Tara;;;;;;;;;;;;;x

@@ -83,7 +83,7 @@ def main():
     ck2localize = ck2parser.get_localisation([swmh])
 
     eu4localize = {}
-    for folder in [eu4root, converter / 'copy']:
+    for folder in [eu4root, ck2parser.rootpath / 'eu4_converter/copy']:
         for path in (folder / 'localisation').glob('*_l_english.yml'):
             with path.open(encoding='utf-8-sig') as f:
                 for line in f:

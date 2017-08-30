@@ -1424,7 +1424,7 @@ iberian = {
 		male_names = {
 			Alfontso_Alphonse Alvar_Oliver Antso_Sancho Aurelio_Aurelius Aznar_Aznar Belasko_Vasco
 			Beltran_Bertrand Dato_Theodat Diego_Jacob Egidio_Egidius Eneko_Inigo Erramun_Raymond
-			Fernando_Ferdinand Fortun_Fortunatus Galindo_Galindo Gartzia_Garcia Gilen_William Gontzal_Gonzalo
+			Fernando_Ferdinand Fortun_Fortunatus Galindo_Galindo Gartzea_Garcia Gilen_William Gontzal_Gonzalo
 			Henrike_Henry Joanes_John Karlos_Charles Ladron Lope_Ulf Luis_Louis Manrike_Amalric Martín_Martin
 			Mentzio Munio_Munio Nuño_Nuno Ordoño_Ordono Otxoa_Ulf Paskoal_Pascal Pelaio_Pelagius Piarres_Peter
 			Ramiro_Ramiro Rodrigo_Rurik Suero_Suero Tello_Tello Tibalt_Theobald Ximeno_Simon
@@ -1594,7 +1594,7 @@ iberian = {
 			Chimeno_Simon Chorche_George Chuan_John Chuan-Alifonso_John-Alphonse Chuan-Carlos_John-Charles
 			Chulián_Julian Chusé_Joseph Diego_Jacob Dominche_Dominic Eduardo_Edward Esteban_Stephen
 			Facundo_Facundo Fadrique_Frederick Felipe_Philip Ferran_Ferdinand Ferrando_Ferdinand Flaín_Flavio
-			Fruela_Fruela Galindo_Galindo García_Garcia Gil_Egidius Gonzalo_Gonzalo Gundemaro_Gundemaro
+			Fruela_Fruela Galindo_Galindo Garsea_Garcia Gil_Egidius Gonzalo_Gonzalo Gundemaro_Gundemaro
 			Guillén_William Gustio Gutierre_Walter Guzmán_Guzman Henrique_Henry Hermenegildo_Ermenegildo
 			Lorenzo_Laurence Lope_Ulf Loís_Louis Manrique_Amalric Manuel_Manuel Martín_Martin Menendo_Mendo
 			Mendo_Mendo Muño_Munio Nuño_Nuno Osorio Ordoño_Ordono Oveco Pero_Peter Pelayo_Pelagius Piñolo
@@ -3877,7 +3877,7 @@ south_slavic = {
 			Vladislav_Vladislav Vojnomir Zdeslav
 		}
 		female_names = {
-			Aleksandra Aleksandrina Bilyana Bisera Bogdana Bogna Borislava Boyana Dana Desislava Donka
+			Aleksandra Aleksandrina Anastazya Bilyana Bisera Bogdana Bogna Borislava Boyana Dana Desislava Donka
 			Elisaveta_Elisabeth Emiliya_Emily Evdokiya Filipa_Philippa Gergana Hristina Iskra Iva_Iva Ivana_Joan
 			Ivanka Ivet_Iva Lala Lidiya Lilyana_Liliana Lyudmila Maya Nadejda Nevena Nikolina Penka Rada Radka
 			Raina Raya Rayna Rosa_Rosa Rositsa Silva Silviya Snezhana Stoyanka Tereza_Teresa Todorka Tsveta

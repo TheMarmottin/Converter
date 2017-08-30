@@ -2,106 +2,106 @@ d_curonian = {
 	color = { 141 55 29 }
 	capital = 373
 	culture = lettigallish
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_selonians = {
 	color = { 22 96 143 }
 	color2 = { 255 255 255 }
 	culture = lettigallish
 	capital = 985
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_talavians = {
 	color = { 169 41 27 }
 	color2 = { 255 255 255 }
 	culture = lettigallish
 	capital = 375
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_lettigalians = {
 	color = { 126 51 51 }
 	capital = 375
 	culture = lettigallish
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_zemigalians = {
 	color = { 183 21 21 }
 	culture = lettigallish
 	capital = 374
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_deltuvians = {
 	color = { 81 164 104 }
 	color2 = { 255 255 255 }
 	culture = lithuanian
 	capital = 979
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_yatviags = {
 	color = { 149 97 97 }
 	capital = 426
 	culture = lithuanian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_pruthenians = {
 	color = { 159 195 75 }
 	capital = 370
 	culture = prussian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_goliadj = {
 	color = { 42 132 210 }
 	capital = 569
 	culture = prussian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_warmians = {
 	color = { 1 49 93 }
 	capital = 370
 	culture = prussian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_pomesanians = {
 	color = { 200 99 3 }
 	capital = 1297
 	culture = prussian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_sasnians = {
 	color = { 25 70 31 }
 	capital = 427
 	culture = prussian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_pogesanians = {
 	color = { 7 99 129 }
 	capital = 1298
 	culture = prussian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_bartians = {
 	color = { 22 1 7 }
 	capital = 1299
 	culture = prussian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_nadruvians = {
 	color = { 93 9 77 }
 	capital = 1300
 	culture = prussian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_scalovians = {
 	color = { 95 24 55 }
 	capital = 422
 	culture = prussian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_sambians = {
 	color = { 22 24 66 }
 	capital = 371
 	culture = prussian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 k_oborites = {
 	color = { 41 85 98 }
@@ -131,332 +131,339 @@ d_hevelli = {
 	color = { 66 35 86 }
 	capital = 365
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_sprevani = {
 	color = { 111 55 139 }
 	capital = 1064
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_doxani = {
 	color = { 88 55 100 }
 	capital = 1074
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_lunkini = {
 	color = { 14 51 79 }
 	capital = 982
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_circipanes = {
 	color = { 33 72 55 }
 	capital = 308
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_kessians = {
 	color = { 94 125 49 }
 	capital = 306
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_readrians = {
 	color = { 66 88 9 }
 	capital = 307
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_tollensians = {
 	color = { 12 81 22 }
 	capital = 1505
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_rani = {
 	color = { 76 51 33 }
 	capital = 304
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_veleti = {
 	color = { 115 92 133 }
 	color2 = { 255 255 255 }
 	culture = pommeranian
 	capital = 307
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_wolinians = {
 	color = { 115 92 56 }
 	color2 = { 255 255 255 }
 	culture = pommeranian
 	capital = 1267
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_oborites = {
 	color = { 131 66 114 }
 	capital = 260
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_wagrians = {
 	color = { 199 155 11 }
 	capital = 1066
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_drevani = {
 	color = { 141 55 179 }
 	capital = 1053
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_travnjane = {
 	color = { 41 175 201 }
 	capital = 1098
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_warnabi = {
 	color = { 118 65 99 }
 	capital = 951
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_pommeranians = {
 	color = { 87 23 83 }
 	capital = 1313
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_prissani = {
 	color = { 160 202 210 }
 	capital = 366
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_slovinici = {
 	color = { 79 51 28 }
 	capital = 367
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_kashubians = {
 	color = { 11 35 210 }
 	capital = 368
 	culture = pommeranian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_chutizi = {
 	color = { 81 126 201 }
 	color2 = { 255 255 255 }
 	culture = pommeranian
 	capital = 978
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_leubuzzi = {
 	color = { 191 188 175 }
 	color2 = { 255 255 255 }
 	culture = pommeranian
 	capital = 430
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_glomacze = {
 	color = { 215 143 156 }
 	color2 = { 255 255 255 }
 	culture = pommeranian
 	capital = 998
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_lusatians = {
 	color = { 76 45 37 }
 	color2 = { 255 255 255 }
 	culture = pommeranian
 	capital = 1064
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_nizzi = {
 	color = { 45 25 88 }
 	color2 = { 255 255 255 }
 	culture = pommeranian
 	capital = 310
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_milceni = {
 	color = { 56 37 19 }
 	color2 = { 255 255 255 }
 	culture = pommeranian
 	capital = 312
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_nudzici = {
 	color = { 48 180 110 }
 	color2 = { 255 255 255 }
 	culture = pommeranian
 	capital = 1075
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_nisan = {
 	color = { 65 205 30 }
 	color2 = { 255 255 255 }
 	culture = pommeranian
 	capital = 1077
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_coledizi = {
 	color = { 67 88 10 }
 	color2 = { 255 255 255 }
 	culture = pommeranian
 	capital = 954
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_lendians = {
 	color = { 245 163 176 }
 	color2 = { 255 255 255 }
 	culture = polish
 	capital = 527
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_bohemians = {
 	color = { 191 117 13 }
 	color2 = { 255 255 255 }
 	capital = 437
 	culture = bohemian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_drevlyans = {
 	color = { 115 31 56 }
 	color2 = { 255 255 255 }
 	culture = russian
 	capital = 1280
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_ulichs = {
 	color = { 39 77 104 }
 	color2 = { 255 255 255 }
 	culture = russian
 	capital = 541
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_volhynians = {
 	color = { 191 165 46 }
 	color2 = { 255 255 255 }
 	culture = russian
 	capital = 535
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_buzhans = {
 	color = { 82 81 75 }
 	color2 = { 255 255 255 }
 	culture = russian
 	capital = 546
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_tivertsi = {
 	color = { 54 92 124 }
 	color2 = { 255 255 255 }
 	culture = russian
 	capital = 1283
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_meshcheras = {
 	color = { 151 71 41 }
 	capital = 580
 	culture = mordvin
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_kryvians = {
 	color = { 128 133 104 }
 	color2 = { 255 255 255 }
 	culture = russian
 	capital = 419
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_severians = {
 	color = { 120 155 40 }
 	color2 = { 255 255 255 }
 	culture = russian
 	capital = 567
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_vyatichi = {
 	color = { 169 183 125 }
 	color2 = { 255 255 255 }
 	culture = russian
 	capital = 570
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_dregovichi = {
 	color = { 100 100 20 }
 	color2 = { 255 255 255 }
 	culture = russian
 	capital = 548
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_radimichi = {
 	color = { 110 136 68 }
 	color2 = { 255 255 255 }
 	culture = russian
 	capital = 551
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
+}
+d_polyane = {
+	color = { 82 81 75 }
+	color2 = { 255 255 255 }
+	culture = russian
+	capital = 547
+	allow = { title_duke_basic_allow = yes }
 }
 d_yawdi_ertim = {
 	color = { 171 21 162 }
 	color2 = { 255 255 255 }
 	capital = 556
 	culture = pecheneg
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_kuerchi_chur = {
 	color = { 44 53 106 }
 	color2 = { 255 255 255 }
 	capital = 558
 	culture = pecheneg
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_qabuqsin_yula = {
 	color = { 147 152 87 }
 	color2 = { 255 255 255 }
 	capital = 557
 	culture = pecheneg
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_suru_kulbej = {
 	color = { 182 198 176 }
 	color2 = { 255 255 255 }
 	capital = 566
 	culture = pecheneg
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_qara_bay = {
 	color = { 38 41 37 }
 	color2 = { 255 255 255 }
 	capital = 511
 	culture = pecheneg
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_boru_tolmach = {
 	color = { 105 111 102 }
 	color2 = { 255 255 255 }
 	capital = 597
 	culture = pecheneg
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_yazi_qapan = {
 	color = { 145 99 10 }
 	color2 = { 255 255 255 }
 	capital = 1149
 	culture = pecheneg
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_bula_chopan = {
 	color = { 133 102 112 }
 	color2 = { 255 255 255 }
 	capital = 605
 	culture = pecheneg
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_uighurs = {
 	color = { 113 91 255 }
@@ -465,7 +472,7 @@ d_uighurs = {
 	title = Idiqut
 	foa = Idiqut_FOA
 	title_prefix = Yabghuluq_OF
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_qirghiz = {
 	color = { 147 21 39 }
@@ -474,42 +481,42 @@ d_qirghiz = {
 	title = Elteber
 	foa = Elteber_FOA
 	title_prefix = Elteberluq_OF
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_salgur = {
 	color = { 154 92 24 }
 	color2 = { 255 255 255 }
 	culture = oghuz
 	capital = 607
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_tekule = {
 	color = { 40 91 60 }
 	color2 = { 255 255 255 }
 	culture = oghuz
 	capital = 896
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_oghuz = {
 	color = { 31 45 147 }
-	culture = turkish
+	culture = oghuz
 	capital = 900
 	title = Yabghu
 	foa = Yabghu_FOA
 	title_prefix = Yabghuluq_OF
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_iraqiya_oghuz = {
 	color = { 210 45 45 }
 	culture = oghuz
 	capital = 683
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_qarluq = {
 	color = { 65 100 130 }
 	culture = karluk
 	capital = 1577
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_yaghma = {
 	color = { 58 110 170 }
@@ -518,7 +525,7 @@ d_yaghma = {
 	title = Yabghu
 	foa = Yabghu_FOA
 	title_prefix = Yabghuluq_OF
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_chigil = {
 	color = { 65 100 130 }
@@ -527,7 +534,7 @@ d_chigil = {
 	title = Yabghu
 	foa = Yabghu_FOA
 	title_prefix = Yabghuluq_OF
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_basmils = {
 	color = { 147 21 39 }
@@ -536,7 +543,7 @@ d_basmils = {
 	title = Yabghu
 	foa = Yabghu_FOA
 	title_prefix = Yabghuluq_OF
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_tukhsi = {
 	color = { 147 21 39 }
@@ -545,7 +552,7 @@ d_tukhsi = {
 	title = Yabghu
 	foa = Yabghu_FOA
 	title_prefix = Yabghuluq_OF
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_qipchaq = {
 	color = { 137 41 59 }
@@ -554,388 +561,409 @@ d_qipchaq = {
 	title = Opa
 	foa = Opa_FOA
 	title_prefix = Kuren_OF
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_ay_opa = {
 	color = { 33 1 66 }
 	color2 = { 255 255 255 }
 	culture = cuman
-	capital = 898
-	allow = { always = no }
+	capital = 895
+	allow = { title_duke_basic_allow = yes }
 }
 d_dorut = {
 	color = { 130 50 6 }
 	color2 = { 255 255 255 }
 	culture = cuman
-	capital = 895
-	allow = { always = no }
+	capital = 618
+	allow = { title_duke_basic_allow = yes }
 }
 d_terteroba = {
 	color = { 80 83 50 }
 	color2 = { 255 255 255 }
 	culture = cuman
-	capital = 543
-	allow = { always = no }
+	capital = 605
+	allow = { title_duke_basic_allow = yes }
 }
 d_toqsoba = {
 	color = { 28 30 150 }
 	color2 = { 255 255 255 }
 	culture = cuman
 	capital = 565
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_yimek = {
 	color = { 128 30 110 }
 	color2 = { 255 255 255 }
 	culture = cuman
-	capital = 608
-	allow = { always = no }
+	capital = 564
+	allow = { title_duke_basic_allow = yes }
 }
 d_enchogli = {
 	color = { 99 71 16 }
 	color2 = { 255 255 255 }
 	culture = cuman
-	capital = 1149
-	allow = { always = no }
+	capital = 542
+	allow = { title_duke_basic_allow = yes }
 }
 d_olberlig = {
 	color = { 43 60 70 }
 	color2 = { 255 255 255 }
 	culture = cuman
 	capital = 619
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_targil = {
 	color = { 240 60 10 }
 	color2 = { 255 255 255 }
 	culture = cuman
-	capital = 620
-	allow = { always = no }
+	capital = 593
+	allow = { title_duke_basic_allow = yes }
 }
 d_qongurogli = {
 	color = { 20 230 190 }
 	color2 = { 255 255 255 }
 	culture = cuman
-	capital = 557
-	allow = { always = no }
+	capital = 599
+	allow = { title_duke_basic_allow = yes }
 }
 d_oren = {
 	color = { 220 200 190 }
 	color2 = { 255 255 255 }
 	culture = cuman
-	capital = 597
-	allow = { always = no }
+	capital = 893
+	allow = { title_duke_basic_allow = yes }
 }
 d_qor = {
 	color = { 20 20 60 }
 	color2 = { 255 255 255 }
 	culture = cuman
 	capital = 511
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_burchali = {
 	color = { 14 230 78 }
 	color2 = { 255 255 255 }
 	culture = cuman
-	capital = 513
-	allow = { always = no }
+	capital = 556
+	allow = { title_duke_basic_allow = yes }
 }
 d_chortan = {
 	color = { 146 29 18 }
 	color2 = { 255 255 255 }
 	culture = cuman
 	capital = 559
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_ulasgoli = {
 	color = { 89 134 185 }
 	color2 = { 255 255 255 }
 	culture = cuman
-	capital = 512
-	allow = { always = no }
+	capital = 557
+	allow = { title_duke_basic_allow = yes }
 }
 d_urusoba = {
 	color = { 189 10 18 }
 	color2 = { 255 255 255 }
 	culture = cuman
-	capital = 556
-	allow = { always = no }
+	capital = 558
+	allow = { title_duke_basic_allow = yes }
+}
+d_bayawut = {
+	color = { 59 98 77 }
+	color2 = { 255 255 255 }
+	culture = cuman
+	capital = 622
+	allow = { title_duke_basic_allow = yes }
+}
+d_chaghraq = {
+	color = { 41 90 69 }
+	color2 = { 255 255 255 }
+	culture = cuman
+	capital = 897
+	allow = { title_duke_basic_allow = yes }
+}
+d_badach = {
+	color = { 120 40 79 }
+	color2 = { 255 255 255 }
+	culture = cuman
+	capital = 604
+	allow = { title_duke_basic_allow = yes }
 }
 d_kabars = {
 	color = { 18 200 18 }
 	color2 = { 255 255 255 }
 	culture = khazar
 	capital = 520
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_zunbil = {
 	color = { 255 150 81 }
 	culture = afghan
 	capital = 852
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_shabankara = {
 	color = { 244 190 91 }
 	culture = kurdish
 	capital = 1534
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_brodniks = {
 	color = { 181 70 28 }
 	color2 = { 255 255 255 }
 	culture = romanian
 	capital = 515
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_bolohoveni = {
 	color = { 40 170 88 }
 	color2 = { 255 255 255 }
 	culture = romanian
 	capital = 1147
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_zyriane = {
 	color = { 200 170 60 }
 	color2 = { 255 255 255 }
 	culture = komi
 	capital = 400
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_maris = {
 	color = { 150 130 45 }
 	capital = 588
 	culture = mordvin
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_maris_vetluga = {
 	color = { 180 15 63 }
 	color2 = { 255 255 255 }
 	culture = mari
 	capital = 589
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_meryas = {
 	color = { 131 41 41 }
 	capital = 574
 	culture = mordvin
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_mordvins_erza = {
 	color = { 150 47 47 }
 	color2 = { 255 255 255 }
 	culture = mordvin
 	capital = 579
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_mordvins = {
 	color = { 148 165 45 }
 	color2 = { 255 255 255 }
 	capital = 591
 	culture = mordvin
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_burtas = {
 	color = { 120 74 130 }
 	color2 = { 255 255 255 }
 	capital = 592
 	culture = mordvin
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_muromians = {
 	color = { 160 120 75 }
 	capital = 581
 	culture = mordvin
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_lyydians = {
 	color = { 105 138 187 }
 	color2 = { 255 255 255 }
 	culture = vepsian
 	capital = 403
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_chudes = {
 	color = { 113 39 124 }
 	color2 = { 255 255 255 }
 	culture = vepsian
 	capital = 406
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_toimians = {
 	color = { 159 150 150 }
 	color2 = { 255 255 255 }
 	culture = vepsian
 	capital = 396
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_bjarmians = {
 	color = { 37 21 83 }
 	color2 = { 255 255 255 }
 	culture = vepsian
 	capital = 395
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_livgians = {
 	color = { 99 152 70 }
 	color2 = { 255 255 255 }
 	culture = karelian
 	capital = 387
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_karelians = {
 	color = { 193 192 108 }
 	capital = 388
 	culture = karelian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_horse_karelians = {
 	color = { 63 114 74 }
 	capital = 1296
 	culture = karelian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_estonia = {
 	color = { 94 60 22 }
 	capital = 378
 	culture = ugricbaltic
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_ugandians = {
 	color = { 115 143 196 }
 	color2 = { 255 255 255 }
 	culture = ugricbaltic
 	capital = 379
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_oseelians = {
 	color = { 124 124 124 }
 	color2 = { 255 255 255 }
 	culture = ugricbaltic
 	capital = 376
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_rotalians = {
 	color = { 121 39 17 }
 	color2 = { 255 255 255 }
 	culture = ugricbaltic
 	capital = 987
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_vironians = {
 	color = { 30 25 90 }
 	color2 = { 255 255 255 }
 	culture = ugricbaltic
 	capital = 380
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_sakalians = {
 	color = { 21 73 21 }
 	color2 = { 255 255 255 }
 	culture = livonian
 	capital = 377
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_vanemas = {
 	color = { 95 160 73 }
 	color2 = { 255 255 255 }
 	culture = livonian
 	capital = 373
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_sami = {
 	color = { 101 99 35 }
 	capital = 850
 	culture = lappish
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_satakunta = {
 	color = { 117 47 47 }
 	capital = 384
 	culture = finnish
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_tavasts = {
 	color = { 131 21 21 }
 	capital = 383
 	culture = finnish
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_suomi_finns = {
 	color = { 100 11 114 }
 	capital = 382
 	culture = finnish
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_savonians = {
 	color = { 186 125 181 }
 	capital = 390
 	culture = finnish
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_votes = {
 	color = { 1 193 119 }
 	capital = 1268
 	culture = ugricbaltic
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_ingrians = {
 	color = { 193 40 40 }
 	capital = 411
 	culture = karelian
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_kylfings = {
 	color = { 11 114 28 }
 	capital = 280
 	culture = lappish
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_kvens = {
 	color = { 117 47 47 }
 	capital = 385
 	culture = lappish
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_kvens_birkarls = {
 	color = { 7 190 23 }
 	capital = 386
 	culture = lappish
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_samoyeds = {
 	color = { 217 118 50 }
 	color2 = { 255 255 255 }
 	culture = samoyed
 	capital = 397
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_ghor = {
 	color = { 205 205 85 }
 	color2 = { 255 255 255 }
 	culture = khorasani
 	capital = 1540
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_sala = {
 	color = { 68 255 20 }
 	color2 = { 255 255 255 }
 	culture = zanata
 	capital = 1361
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_barghawata = {
 	color = { 35 160 62 }
 	color2 = { 255 255 255 }
 	culture = masmuda
 	capital = 844
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 d_baloch = {
 	color = { 217 118 50 }
 	color2 = { 255 255 255 }
 	culture = baloch
 	capital = 1533
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 	dynasty_title_names = no
 }
 d_kufichi = {
@@ -943,7 +971,7 @@ d_kufichi = {
 	color2 = { 255 255 255 }
 	culture = qufs
 	capital = 899
-	allow = { always = no }
+	allow = { title_duke_basic_allow = yes }
 }
 k_hilal = {
 	color = { 173 150 43 }

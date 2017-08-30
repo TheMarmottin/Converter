@@ -538,13 +538,20 @@ count_pommeranian;Duke;;;;;;;;;;;;;x
 duke_pommeranian;Prince;;;;;;;;;;;;;x
 count_croatian;Župan;;;;;;;;;;;;;x
 duke_croatian;Ban;;;;;;;;;;;;;x
+king_croatian;Kralj;;;;;;;;;;;;;x
 county_of_croatian;County of;;;;;;;;;;;;;x
 duchy_of_croatian;Banate of;;;;;;;;;;;;;x
 count_serbian;Župan;;;;;;;;;;;;;x
 duke_serbian;Grand Prince;;;;;;;;;;;;;x
 king_serbian;Kralj;;;;;;;;;;;;;x
 emperor_serbian;Tsar;;;;;;;;;;;;;x
+emperor_female_serbian;Tsarina;;;;;;;;;;;;;x
+count_bulgarian;Boyar;;;;;;;;;;;;;x
+duke_bulgarian;Voivode;;;;;;;;;;;;;x
 king_bulgarian;Tsar;;;;;;;;;;;;;x
+king_female_bulgarian;Tsarina;;;;;;;;;;;;;x
+emperor_bulgarian;Tsar;;;;;;;;;;;;;x
+emperor_female_bulgarian;Tsarina;;;;;;;;;;;;;x
 temple_duke_norse_pagan;Hofgoði;;;;;;;;;;;;;x
 temple_duke_female_norse_pagan;Hofgyðja;;;;;;;;;;;;;x
 count_norse_pagan;Thegn;;;;;;;;;;;;;x
@@ -576,6 +583,8 @@ king_hungarian;King;;;;;;;;;;;;;x
 king_female_hungarian;Queen;;;;;;;;;;;;;x
 title_prince_hungarian;Prince;;;;;;;;;;;;;x
 title_prince_female_hungarian;Princess;;;;;;;;;;;;;x
+emperor_hungarian;Emperor;;;;;;;;;;;;;x
+emperor_female_hungarian;Empress;;;;;;;;;;;;;x
 city_baron_hungarian;Judge;;;;;;;;;;;;;x
 city_count_hungarian;Judge;;;;;;;;;;;;;x
 city_duke_hungarian;Judge;;;;;;;;;;;;;x
@@ -912,7 +921,7 @@ city_baron_arpitan;Mayor;;;;;;;;;;;;;x
 city_count_arpitan;Podestà;;;;;;;;;;;;;x
 city_emperor_arpitan;Doge;;;;;;;;;;;;;x
 city_barony_of_arpitan;Comune of;;;;;;;;;;;;;x
-city_county_of_arpitan;Comune of;;;;;;;;;;;;;x
+city_county_of_arpitan;Canton of;;;;;;;;;;;;;x
 city_duchy_of_arpitan;Republic of;;;;;;;;;;;;;x
 city_kingdom_of_arpitan;Republic of;;;;;;;;;;;;;x
 city_empire_of_arpitan;Republic of;;;;;;;;;;;;;x
@@ -923,6 +932,7 @@ temple_county_of_arpitan;Diocese of;;;;;;;;;;;;;x
 county_of_arpitan;County of;;;;;;;;;;;;;x
 duchy_of_arpitan;Duchy of;;;;;;;;;;;;;x
 kingdom_of_arpitan;Kingdom of;;;;;;;;;;;;;x
+empire_of_arpitan;Empire of;;;;;;;;;;;;;x
 baron_langobardisch;Baron;;;;;;;;;;;;;x
 baron_female_langobardisch;Baroness;;;;;;;;;;;;;x
 count_langobardisch;Count;;;;;;;;;;;;;x
@@ -1349,8 +1359,8 @@ count_afar;Ugaas;;;;;;;;;;;;;x
 count_female_afar;Ugaasad;;;;;;;;;;;;;x
 duke_afar;Gerad;;;;;;;;;;;;;x
 duke_female_afar;Amiraad;;;;;;;;;;;;;x
-king_afar;Suldaan;;;;;;;;;;;;;x
-king_female_afar;Suldaanad;;;;;;;;;;;;;x
+king_afar;Sultan;;;;;;;;;;;;;x
+king_female_afar;Sultan;;;;;;;;;;;;;x
 emperor_afar;Boqor;;;;;;;;;;;;;x
 emperor_female_afar;Boqorad;;;;;;;;;;;;;x
 baron_afar;Akil;;;;;;;;;;;;;x

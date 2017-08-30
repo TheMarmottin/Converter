@@ -861,7 +861,6 @@ c_busaso_adj;Bosaso;;;;;;;;;;;;;x
 c_berbera_adj;Berbera;;;;;;;;;;;;;x
 c_harer_adj;Harari;;;;;;;;;;;;;x
 c_tadjoura_adj;Tadjoura;;;;;;;;;;;;;x
-d_axum;Aksum;;;;;;;;;;;;;x
 d_axum_adj;Aksumite;;;;;;;;;;;;;x
 c_aksum_adj;Axumite;;;;;;;;;;;;;x
 c_akordat_adj;Agordat;;;;;;;;;;;;;x
@@ -972,8 +971,6 @@ k_kafsid;Hafsids;;;;;;;;;;;;;x
 k_marinid;Marinids;;;;;;;;;;;;;x
 k_naples;Naples;;;;;;;;;;;;;x
 k_naples_adj;Neapolitan;;;;;;;;;;;;;x
-k_nubia;Nubia;;;;;;;;;;;;;x
-k_nubia_adj;Nubian;;;;;;;;;;;;;x
 k_ottoman;Ottomans;;;;;;;;;;;;;x
 k_ottoman_adj;Ottoman;;;;;;;;;;;;;x
 k_trinacria;Sicily;;;;;;;;;;;;;x
