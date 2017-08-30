@@ -704,4 +704,13 @@ d_east_african_pagan_reformed = {
 	religion = east_african_pagan_reformed
 	primary = yes
 	dynasty_title_names = no
+	allow = {
+		religion = east_african_pagan_reformed
+		is_adult = yes
+		is_incapable = no
+		prisoner = no
+		war = no
+		piety = 1000
+		num_of_holy_sites = 3
+	}
 }

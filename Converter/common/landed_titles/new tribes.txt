@@ -348,7 +348,7 @@ d_volhynians = {
 	allow = { title_duke_basic_allow = yes }
 }
 d_buzhans = {
-	color = { 20 75 90 }
+	color = { 82 81 75 }
 	color2 = { 255 255 255 }
 	culture = russian
 	capital = 546

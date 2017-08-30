@@ -2852,10 +2852,12 @@ e_hre = {
 				color2 = { 255 255 255 }
 				culture = karantanci
 				b_gorz = {}
-				b_kanal = {}
-				b_cormons = {}
-				b_farra = {}
+				b_grado = {}
+				b_vrtojba = {}
+				b_cervignano = {}
 				b_monfalcone = {}
+				b_cormons = {}
+				b_gradisca = {}
 			}
 			c_karnten = {
 				color = { 244 247 160 }
@@ -2913,13 +2915,12 @@ e_hre = {
 				color2 = { 255 255 255 }
 				culture = venetian
 				b_aquileia = {}
-				b_porcia = {}
+				b_portoguaro = {}
 				b_udine = {}
-				b_grado = {}
+				b_motta = {}
 				b_ciridale = {}
-				b_polcenigo = {}
-				b_pordenone = {}
-				b_spilimbergo = {}
+				b_tarcento = {}
+				b_pieve = {}
 			}
 			allow = {
 				religion_group = christian
@@ -10334,12 +10335,6 @@ e_britannia = {
 			}
 			allow = { title_duke_basic_allow = yes }
 		}
-		gain_effect = {
-			if = {
-				limit = { FROM = { is_de_jure_title = no } }
-				custom_tooltip = { text = ENGLAND_BECOMES_DE_JURE_TT }
-			}
-		}
 		allow = {
 			independent = yes
 			OR = {
@@ -10356,6 +10351,12 @@ e_britannia = {
 				FROM = { has_holder = yes }
 			}
 			title_king_basic_allow = yes
+		}
+		gain_effect = {
+			if = {
+				limit = { FROM = { is_de_jure_title = no } }
+				custom_tooltip = { text = ENGLAND_BECOMES_DE_JURE_TT }
+			}
 		}
 		dynasty_title_names = no
 	}
@@ -11422,7 +11423,7 @@ e_italy = {
 			color2 = { 255 255 255 }
 			capital = 236
 			culture = italian
-			c_susa = {
+			c_piemonte = {
 				color = { 154 31 88 }
 				color2 = { 255 255 255 }
 				b_torino = {}
@@ -11442,7 +11443,7 @@ e_italy = {
 				b_biandrate = {}
 				b_arona = {}
 			}
-			c_aosta = {
+			c_grisons = {
 				culture = arpitan
 				color = { 107 15 41 }
 				color2 = { 255 255 255 }
@@ -11469,10 +11470,6 @@ e_italy = {
 		d_saluzzo = {
 			color = { 116 69 11 }
 			color2 = { 255 255 255 }
-			title = MARQUISATE
-			title_female = MARCHESA
-			foa = MARQUISATE_FOA
-			title_prefix = MARQUISATE_OF
 			capital = 231
 			culture = italian
 			c_saluzzo = {
@@ -11501,11 +11498,7 @@ e_italy = {
 			color2 = { 255 255 255 }
 			capital = 232
 			culture = italian
-			title = MARQUISATE
-			title_female = MARCHESA
-			foa = MARQUISATE_FOA
-			title_prefix = MARQUISATE_OF
-			c_asti = {
+			c_monferrato = {
 				color = { 250 244 225 }
 				color2 = { 255 255 255 }
 				culture = italian
@@ -12291,7 +12284,7 @@ e_italy = {
 			color2 = { 255 255 255 }
 			capital = 324
 			culture = umbrian
-			c_rogliano = {
+			c_corsica = {
 				color = { 226 248 251 }
 				color2 = { 255 255 255 }
 				b_san_colombano = {}
@@ -12809,13 +12802,12 @@ e_italy = {
 				color = { 40 143 132 }
 				color2 = { 255 255 255 }
 				b_venezia = {}
-				b_san_marco = {}
+				b_rialto = {}
+				b_pallestrina = {}
 				b_chioggia = {}
-				b_portogruaro = {}
-				b_concordia = {}
+				b_jesolo = {}
 				b_murano = {}
 				b_torcello = {}
-				b_caorle = {}
 			}
 			allow = { title_duke_basic_allow = yes }
 			dynasty_title_names = no
@@ -15659,7 +15651,7 @@ e_spain = {
 				color = { 0 0 160 }
 				color2 = { 255 255 255 }
 				b_gandia = {}
-				b_valencia = { yemen = Balansiyya }
+				b_valencia = {}
 				b_jativa = {}
 				b_alacuas = {}
 				b_cuartdepoblet = {}
