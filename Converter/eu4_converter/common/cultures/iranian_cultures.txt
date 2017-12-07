@@ -7,6 +7,10 @@ iranian = {
 		primary = KAS
 		dynasty_names = $tocharian$
 	}
+	saka = {
+		primary = KAS
+		dynasty_names = $saka$
+	}
 	khwarezmi = {
 		primary = PER
 		dynasty_names = $khwarezmi$

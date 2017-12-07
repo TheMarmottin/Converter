@@ -16,6 +16,7 @@ old_frankish;frankish;1;Frankish
 low_frankish;frankish;1;Frankish
 suebi;suebi;1;Suebi
 frisian;frisian;1;Frisian
+lombard;old_lombard;1;Old Lombard
 
 # Nordic
 
@@ -46,7 +47,6 @@ pictish;pictish;1;Pictish
 
 # Latin
 
-lombard;lombard;0;Lombard
 italian;lombard;0;Lombard
 tuscan;tuscan;0;Tuscan
 sardinian;sardinian;0;Sardinian
@@ -140,12 +140,12 @@ udi;dagestani;0;Dagestani
 caucasian_avar;dagestani;0;Dagestani
 armenian;armenian;0;Armenian
 alan;alan;1;Alan
+assyrian;assyrian;1;Assyrian
 
 # Levantine
 
 turkish;turkish;0;Turkish
 egyptian_arabic;al_misr_arabic;0;Egyptian
-assyrian;al_suryah_arabic;0;Syrian
 levantine_arabic;al_suryah_arabic;0;Syrian
 bedouin_arabic;bedouin_arabic;0;Bedouin
 hijazi;bedouin_arabic;0;Bedouin
@@ -171,12 +171,12 @@ khorasani;khorasani;0;Khorasani
 baloch;baluchi;0;Baluchi
 qufs;baluchi;0;Baluchi
 tajik;afghani;0;Afghan
-khotanese;afghani;0;Afghan
 afghan;afghani;0;Afghan
 kurdish;kurdish;0;Kurdish
 daylamite;mazandarani;0;Mazandarani
 sogdian;sogdian;1;sogdian
 tocharian;tocharian;1;Tocharian
+saka;saka;1;Saka
 khwarezmi;khwarezmi;1;Khwarezmian
 
 # Altaic
@@ -192,10 +192,22 @@ khitan;khitan;1;Khitan
 
 nahuatl;aztek;0;Aztec
 
+# Chinese
+
+han;chihan;0;Zhili
+
+# Burman
+
+bodpa;tibetan;0;Tibetan
+tangut;tangut;1;Tangut
+zhangzhung;zhangzhung;1;Zhangzhung
+sumpa;sumpa;1;Sumpa
+
 # Eastern Aryan
 
 assamese;assamese;0;Assamese
 bengali;bengali;0;Bengali
+nepali;nepali;0;Nepali
 oriya;oriya;0;Oriya
 sinhala;sinhala;0;Sinhalese
 
@@ -246,6 +258,10 @@ coptic;nubian;0;Nubian
 nubian;nubian;0;Nubian
 beja;beja;0;Beja
 
+# Evenki
+
+jurchen;manchu;0;Manchu
+
 # Tatar
 
 bashkir;bashkir;0;Bashkir
@@ -268,3 +284,8 @@ bolghar;bolghar;1;Bolghar
 avar;avar;1;Avar
 khazar;khazar;1;Khazar
 karluk;karluk;1;Karluk
+
+# (unmapped)
+
+#cat;;;
+#bear;;;

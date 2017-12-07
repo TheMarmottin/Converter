@@ -55,7 +55,6 @@ c_naxos;NAX;Naxos;Naxos County
 k_ragusa;RAG;Ragusa;Ragusa Kingdom
 d_ragusa;RAG;Ragusa;Ragusa Duchy
 c_ragusa;RAG;Ragusa;Ragusa County
-c_albania;ALB;Albania;Albania County
 d_dyrrachion;ALB;Albania;Albania Duchy
 c_arbanon;ALB;Albania;Albania County
 d_cephalonia;CEP;Corfu;Corfu Duchy
@@ -133,6 +132,7 @@ d_alsace;ALS;Alsace;Alsace Duchy
 c_armagnac;AMG;Armangnac;Armangnac County
 d_auvergne;AUV;Auvergne;Auvergne Duchy
 c_auvergne;AUV;Auvergne;Auvergne County
+d_gascogne;GUY;Gascony;Gascony Duchy
 k_burgundy;BUR;Burgundy;Burgundy Kingdom
 d_burgundy;BUR;Burgundy;Burgundy Duchy
 d_champagne;CHP;Champagne;Champagne Duchy
@@ -158,7 +158,6 @@ c_bourbon;BOU;Bourbonnais;Bourbonnais County
 c_boulogne;PIC;Picardy;Picardy County
 d_alencon;ALE;Alencon;Alencon Duchy
 c_alencon;ALE;Alencon;Alencon County
-d_gascogne;GUY;Gascony;Gascony Duchy
 
 # HRE
 
@@ -400,11 +399,29 @@ d_hormuz;ORM;Ormuz;Hormuz Duchy
 c_hormuz;ORM;Ormuz;Hormuz County
 d_nefoud;NAJ;Najd;Najd Duchy
 c_hajr;NAJ;Najd;Najd County
-k_yemen;ADE;Aden;Aden Kingdom
-d_sanaa;ADE;Aden;Aden Duchy
+k_yemen;YEM;Yemen;Yemen Kingdom
+
+c_mahra;MHR;Mahra;Mahra County
+c_rafha;NJR;Najran;Najran County
+d_hadramaut;HDR;Hadramut;Hadramut Duchy
+c_aden;ADE;Aden;Aden County
+d_sharif_medina;MDA;Medina;Medina Duchy
+c_medina;MDA;Medina;Medina County
+c_luristan;LRI;Luristan;Luristan County
+d_fars;FRS;Fars;Fars Duchy
+d_gilan;KRY;Gilan;Gilan Duchy
+c_gilan;KRY;Gilan;Gilan County
+c_tabriz;TBR;Tabriz;Tabriz County
+d_amman;ALH;Haasa;Haasa Duchy
+c_basra;BSR;Basra;Basra County
+d_shirvan;SRV;Shirvanshah;Shirvanshah Duchy
+k_kerman;KRM;Kerman;Kerman Kingom
+d_kerman;KRM;Kerman;Kerman Duchy
+c_kerman;KRM;Kerman;Kerman County
 
 # Asia Minor
 
+k_rum;RUM;Rum;Rum Kingdom
 k_aydin;AYD;Aydin;Aydin Kingdom
 d_aydin;AYD;Aydin;Aydin Duchy
 k_candar;CND;Candar;Candar Kingdom
@@ -453,23 +470,21 @@ k_fezzan;FZA;Fezzan;Fezzan Kingdom
 d_fezzan;FZA;Fezzan;Fezzan Duchy
 c_tharasset;SOS;Sus;Sus County
 c_sous;TFL;Tafilalt;Tafilalt County
-d_tabarestan;TAB;Tabarestan;Tabarestan Duchy
-d_mazandaran;TAB;Tabarestan;Tabarestan Duchy
-c_tabaristan;TAB;Tabarestan;Tabarestan County
+c_mazandaran;TAB;Mazandaran;Mazandaran County
 k_germiyan;GRM;Germiyan;Germiyan Kingdom
 d_germiyan;GRM;Germiyan;Germiyan Duchy
 
 # Central Asia
 
-k_khiva;KHI;Khiva;Khiva Kingdom
-d_khiva;KHI;Khiva;Khiva Duchy
-c_khiva;KHI;Khiva;Khiva County
-d_sibir;SIB;Sibir;Sibir Duchy
+k_mavarannahr;TRS;Transoxiana;Transoxiana Kingdom
 c_sibir;SIB;Sibir;Sibir County
 c_kazakh;KZH;Khazak Horde;Kazakh County
 c_bukhara;BUK;Bukhara;Bukhara County
 c_qazan;KAZ;Kazan;Qazan County
 e_chagatai;CHG;Chagatai Khanate;Chagatai Khanate
+k_khorasan;KHO;Khorasan;Khorasan Kingdom
+d_khorasan;KHO;Khorasan;Khorasan Duchy
+d_ladakh;LDK;Ladakh;Ladakh Duchy
 
 # Persia
 
@@ -548,9 +563,9 @@ k_gondwana;GDW;Gondwana;Gondwana Kingdom
 d_jangladesh;JAN;Jangaldesh;Jangaldesh Kingdom
 e_india;HIN;Hindustan;Hindustan Empire
 k_afghanistan;AFG;Afghanistan;Afghanistan Kingdom
-k_baluchistan;BAL;Baluchistan;Baluchistan Kingdom
 d_baloch;BAL;Baluchistan;Baluchistan Duchy
-d_baluchistan;BAL;Baluchistan;Baluchistan Duchy
+k_sistan;SIS;Sistan;Sistan Kingdom
+d_sistan;SIS;Sistan;Sistan Duchy
 c_delhi;DLH;Delhi;Delhi County
 k_punjab;PUN;Punjab;Punjab Kingdom
 k_karnata;KRK;Carnatic;Karnata Kingdom
@@ -576,6 +591,14 @@ d_medapata;MER;Mewar;Mewar Duchy
 c_medapata;MER;Mewar;Mewar County
 c_nagauda;NGA;Nagaur;Nagaur County
 
+#Tibet
+e_tibet;TIB;Tibet;Tibet Empire 
+k_guge;GUG;Guge;Guge Kingdom
+k_kashmir;KSH;Kashmir;Kashmir Kingdom
+d_kashmir;KSH;Kashmir;Kashmir Duchy
+c_kangra;KGR;Kangra;Kangra County
+c_garhwal;GHR;Garhwal;Garhwal County
+
 # Additional
 
 d_lubeck;HSA;Hansa;Hanseatic League
@@ -596,6 +619,7 @@ e_roman_empire;ROM;RomanEmpire;Roman Empire Special Case
 k_israel;ISR;Israel;Kingdom of Israel Special Case
 d_knights_templar;TEM;KnightsTemplar;Knights Templar Special Case
 c_yarkand;KAS;Yarkand;Yarkand County
+e_china_west_governor;MNG;Ming;Ming
 
 ;NOG;Nogai;Nogai exists in EU4, not CK2
 ;AST;Astrakhan;Astrakhan exists in EU4, not CK2

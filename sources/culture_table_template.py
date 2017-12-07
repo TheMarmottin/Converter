@@ -128,7 +128,7 @@ def main():
         if unmapped_cultures:
             print('\n# (unmapped)\n', file=f)
             for culture in unmapped_cultures:
-                print('#{};;;;'.format(culture), file=f)
+                print('#{};;;'.format(culture), file=f)
 
 
 if __name__ == '__main__':
